@@ -1,5 +1,5 @@
 ---
-title: Servis Incident u toku
+title: Događaj usluge u toku
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666314"
 ---
-# <a name="service-incident-in-progress"></a>Servis Incident u toku
+# <a name="service-incident-in-progress"></a>Događaj usluge u toku
 
-Ti bi mogla da bude pogođena do incidenta sa servisa ili savetodavnog koja je trenutno pod istragom. Najnoviji status možete proveriti tako što ćete ići na stranicu za [Zdravstvene usluge](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Možda će vas uticati na incident usluge ili savetodavna u kome se trenutno vodi istraga. Najnoviji status možete proveriti tako što ćete otići na stranicu " [zdravstvo usluge](https://admin.microsoft.com/adminportal/home#/servicehealth) ".
   
-Radi ugodnijeg, možete pronaći rezime ovog incidenta ispod:
+Za pogodnost možete pronaći rezime ovog incidenta:
   
-> **Incidenta broj:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Broj incidenta:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Utiče na opis: {ImpactDescription}
+> Opis uticaja: {ImpactDescription}

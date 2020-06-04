@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje DNS zapisa da bi vaša Web lokacija sa svoje trenutne usluga hostinga
+title: Ažurirajte DNS zapise da biste zadržali Web lokaciju sa trenutnim dobavljačem hostinga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,36 +14,36 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665774"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažuriranje DNS zapisa da bi vaša Web lokacija sa svoje trenutne usluga hostinga
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažurirajte DNS zapise da biste zadržali Web lokaciju sa trenutnim dobavljačem hostinga
 
-1. U centru za admin Microsoft 365, idite na **Podešavanje** > [domeni](https://portal.office.com/adminportal/home#/Domains) stranica i domena, izaberite liste domena koji koristite za vašu Web lokaciju.
+1. U Microsoft 365 admin Center idite na stranicu " **Podešavanje**  >  [domena](https://portal.office.com/adminportal/home#/Domains) " i na listi domena izaberite domen koji koristite za svoju Web lokaciju.
 
 2. Izaberite **+ novi prilagođeni zapis** i unesite sledeće:
 
-  - Unesite za **DNS tip** : **(adresa)**
+  - Za **DNS tip** ENTER: **A (adresa)**
 
-  - U **ime domaćina ili pseudonim**, upišite sledeće:**@**
+  - Za **ime domaćina ili pseudonim**upišite sledeće:**@**
 
-  - Za **IP adresu**, upišite statična IP adresa za vašu Web lokaciju gde se trenutno nalazi (na primer, 172.16.140.1).
+  - Za **IP adresu**otkucajte STATIČNU IP adresu za svoju Web lokaciju na kojoj se trenutno hostuje (na primer, 172.16.140.1).
 
-    Ovo mora da je *statična* IP adresa za Web lokacije, ne *dinamičnu* IP adresu. Proverite sa lokacije gde vaša Web lokacija je bila je domaćin da proverite da li možete da dobijete statičnu IP adresu za vaše javne Web lokacije.
+    Ovo mora da bude *statična* IP adresa za Web lokaciju, a ne *Dinamička* IP adresa. Proverite sa lokacijom na kojoj se nalazi vaša Web lokacija da biste se uverili da možete da dobijete statičnu IP adresu za svoju javnu Web lokaciju.
 
-3. Izaberite **Sačuvaj**.
+3. Kliknite na dugme **Sačuvaj**.
 
-Osim toga, možete da kreirate CNAME zapis da bi pomogao korisnicima pronaći vašu Web lokaciju.
+Pored toga, možete da kreirate zapis CNAME da biste pomogli klijentima da pronađu vašu Web lokaciju.
   
 1. Izaberite **+ novi prilagođeni zapis** i unesite sledeće:
 
-  - Unesite za **DNS tip** : **CNAME (Alias)**
+  - Za **DNS tip** unesite: **CNAME (pseudonim)**
 
-  - Za **ime domaćina ili pseudonim**, otkucajte sledeće: **www**
+  - Za **ime domaćina ili pseudonim**upišite sledeće: **www**
 
-  - Za **tačke na adresu**, upišite je potpuno određeno ime domena (FQDN) na svojoj Web lokaciji (na primer, contoso.com).
+  - Da **biste dobili poene za adresu**, otkucajte potpuno kvalifikovano ime domena (FQDN) za vašu Web lokaciju (na primer, contoso.com).
 
-2. Izaberite **Sačuvaj**.
+2. Kliknite na dugme **Sačuvaj**.

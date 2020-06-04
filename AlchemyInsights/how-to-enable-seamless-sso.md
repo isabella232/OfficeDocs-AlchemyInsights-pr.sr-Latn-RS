@@ -1,5 +1,5 @@
 ---
-title: Kako omogućiti Bešavne SSO
+title: Omogućavanje nesmetane SSO
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663888"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Kako omogućiti Bešavne SSO
+# <a name="how-to-enable-seamless-sso"></a>Omogućavanje nesmetane SSO
 
-Omogući Bešavne SSO kroz [azurno AD povezivanje](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Omogući nesmetan SSO [Povezivanje putem AZURE oglasa](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Da li radite sveže montaža Azure AD povezivanja, odaberite [prilagođenu instalaciju putanju](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na stranici **korisnika za prijavljivanje** , odaberite opciju **da omogućite jedinstveno prijavljivanje** .
+Ako se radi o novoj instalaciji Azure oglasa, odaberite [prilagođenu putanju instalacije](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na stranici **za prijavljivanje korisnika** odaberite opciju " **Omogući jedinstveno prijavljivanje** ".
   
-Da biste potvrdili da ste omogućili Bešavne SSO ispravno:
+Da biste proverili da li ste ispravno omogućili rad na usluzi:
   
-1. Prijavite se na [administrativni centar Azure Active Directory](https://aad.portal.azure.com) kao globalne admin.
+1. Prijavite se u [administrativni centar "Azure Active Directory](https://aad.portal.azure.com) " kao globalni admin.
 
-2. U lijevom oknu izaberite **Azure Active Directory** .
+2. U levom oknu izaberite " **Azure" aktivni direktorijum** .
 
-3. Provjerite taj Bešavne jedinstveno prijavljivanje je **omogućeno**.
+3. Proverite da li je **omogućeno**nemoguće jedinstveno prijavljivanje.
 
-Da biste saznali više, pogledajte [Azure Active Directory Bešavne jedinstveno prijavljivanje: brzo pokretanje](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Da biste saznali više, pogledajte temu " [Azure Active Directory" besprekoran za jedinstveno prijavljivanje: brzo pokretanje](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

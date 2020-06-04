@@ -1,5 +1,5 @@
 ---
-title: Podnesu zahteve za podršku PowerApps ili Microsoft Flow
+title: Podnošenje aplikacija za podršku i Microsoft flow zahteva podrške
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559495"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Podnesu zahteve za podršku PowerApps ili Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Podnošenje aplikacija za podršku i Microsoft flow zahteva podrške
 
-Ako si ti neki **PowerApps** ili **Microsoft protok** kupaca molim vas prosledite kartu kroz novu [snagu platforme Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Novi portal nudi direktniji putanju da biste pogledali mogućnosti potpomognute podrške koji je optimizovan za PowerApps i druge proizvode za napajanje platforme.
+Ako ste **aplikacije Powera** ili **Microsoft flow** kupac, pošaljite vašu kartu preko novog [administratorskog centra za napajanje](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Novi portal pruža direktniji put uz podršku koja je optimizovana za aplikacije i druge proizvode platforme za napajanje.
 
-[Prosledite zahtev za podršku Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Prosledi zahtev za podršku za Microsoft flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
