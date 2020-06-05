@@ -1,5 +1,5 @@
 ---
-title: Popravljanje Office aplikacija nije bilo moguće pronaći pridruženu poruku Office licenci
+title: Popravljanje Microsoft 365 aplikacija nije moglo da pronađe pridruženu poruku Office licenci
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505881"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580455"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Popravljanje Office aplikacija "nije moguće pronaći poruku sa povezanim Office licencama"
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Popravljanje aplikacija sistema Microsoft 365 "nije moguće pronaći poruku sa povezanim Office licencama"
 
 Ako dobijete ovu poruku, pokušajte sledeće:
 
-1. Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da ne blokiraju pristup internetu u Office aplikacijama. Pogledajte [Microsoft 365 URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da ne blokiraju pristup internetu u Microsoft 365 aplikacijama. Pogledajte [Microsoft 365 URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Uklonite i [ponovo dodelite Office licencu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) za pogođeni korisnik. 
 3. Otvorite Office aplikaciju i [odjavite](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) se sa svih postojećih korisničkih naloga.
 4. Idite na postavke operativnog sistema Windows > **naloge**  >  **e-pošte & naloge**i uklonite sve naloge na poslu osim na njemu.

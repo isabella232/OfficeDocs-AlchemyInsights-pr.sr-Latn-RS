@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716186"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581889"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje Office aplikacija "ne možemo odmah da se povežemo" poruka
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje Microsoft 365 aplikacija "Trenutno nismo u mogućnosti da se povežemo" poruka
 
 Ako dobijete ovu poruku, pokušajte sledeće:
 
-1. Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da ne blokiraju pristup internetu u Office aplikacijama. Pogledajte [Microsoft URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da ne blokiraju pristup internetu u Microsoft 365 aplikacijama. Pogledajte [Microsoft URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Idite na **početni ekran** > **Run**i otkucajte **usluge. msc**. Uverite se da su sve pokrenute sledeće usluge:
+2. Idite na **početni ekran**  >  **Run**i otkucajte **usluge. msc**. Uverite se da su sve pokrenute sledeće usluge:
     - Automatsko podešavanje uređaja povezanih sa mrežom
     - Usluga liste mreža
     - Svest o mrežnoj lokaciji
