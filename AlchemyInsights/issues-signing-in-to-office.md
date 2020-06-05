@@ -1,5 +1,5 @@
 ---
-title: Problemi prijavljivanja na Office aplikacije
+title: Problemi sa prijavljivanjem u Microsoft 365 aplikacije
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938327"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579915"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Prazan za prijavljivanje ekran u Office aplikacije
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Prazan ekran za prijavljivanje u Microsoft 365 aplikacijama
 
 Da biste rešili ovaj problem, pokušajte sledeće:
 - Instalirajte najnovije ispravke za [Windows](https://support.microsoft.com/help/4027667/windows-10-update) i [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Poništavanje opcije programa Internet Explorer: U **Alatke** > **Internet opcije** > **Više opcija** > **Vraćanje početnih postavki programa Internet Explorer** (Napomena da će izgubiti prilagođene postavke) i zatim pokušajte ponovo potpisivanje kancelariju.
-- Onemogućite garde aplikacije Windows Defender (WDAG) ili bilo koji sličan zaštitni zid ili antivirusni program:
-    1. Na kontrolnoj tabli, idite na **programe**, a zatim odaberite **Windows Uključivanje ili isključivanje funkcija**.
-    2. Ako je omogućen Windows Defender aplikacije garde, pokušajte da ga onemogućite.<br/>
-    **Napomena:** Morate ponovo pokrenuti računalo.
-- Uverite se da se Microsoft.AAD.BrokerPlugin [AAD WAM dodatne komponente](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) ne blokira neke aplikacije ili program zaštitnog zida/anti-virus.
-- [Jasna Office akreditive](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću Windows upravljač akreditivima.<br/>
-    **Napomena:** Putanje registratora za Office 2016 promenili 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Poništi opcije programa Internet Explorer: idi na **Alatke**  >  **Internet opcije**  >  **Napredno**  >  **uspostavljanje početnih vrednosti postavki programa Internet Explorer** (Imajte na umu da ćete izgubiti prilagođene postavke), a zatim ponovo pokušajte da se prijavite u Office.
+- Onemogućite čuvar aplikacija Windows Defender (WDAG) ili neki sličan zaštitni zid ili program za zaštitu od virusa:
+    1. Na kontrolnoj tabli idite na **programe**, a zatim odaberite **Uključivanje ili isključivanje funkcija operativnog sistema Windows**.
+    2. Ako je čuvar aplikacije Windows Defender omogućen, pokušajte da ga onemogućite.<br/>
+    **Napomena:** Možda ćete morati ponovo da pokrenete računar.
+- Uverite se da se Microsoft. AAD. BrokerPlugin [AAD "Plug-in](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) " ne blokira ni jednom aplikacijom ili zaštitnim zidom/antivirusni program.
+- [Obrišite Office akreditive](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) koristeći Windows upravljač akreditivima.<br/>
+    **Napomena:** Putanje registratora za Office 2016 su promenjene u 16,0. (Ex: \Software\microsoft\office\16.0\zajed\identitet\)
 
-Više informacija potražite u odeljku [za povezivanje pitanja u za prijavljivanje nakon ažuriranja za Office 2016 build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Više informacija potražite u članku [problemi prilikom prijavljivanja nakon ažuriranja na Office 2016 Build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

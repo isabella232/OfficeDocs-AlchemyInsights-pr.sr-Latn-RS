@@ -1,5 +1,5 @@
 ---
-title: 'Greška u Office aplikacijama: aplikacija je pokrenula grešku koja sprečava ispravno rad'
+title: 'Greška Microsoft 365 aplikacija: aplikacija je pokrenula grešku koja sprečava ispravno rad'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886581"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576826"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Greška u Office aplikacijama: aplikacija je pokrenula grešku koja sprečava ispravno rad
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Greška Microsoft 365 aplikacija: aplikacija je pokrenula grešku koja sprečava ispravno rad
 
 Da biste otklonili ovu grešku, Isprobajte sledeće opcije:
 
@@ -29,8 +29,8 @@ Da biste otklonili ovu grešku, Isprobajte sledeće opcije:
 
 **Napomena:** Ako se problem javlja sa određenim dokumentima, ti dokumenti mogu biti oštećeni. Pogledajte [Kako otkloniti poteškoće s oštećenim dokumentima](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-Više informacija potražite u članku: 
+Za više informacija pogledajte članak: 
 
-- [Greška prilikom otvaranja Microsoft Office aplikacija](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Greška prilikom otvaranja Microsoft Microsoft 365 aplikacija](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Dobijam grešku "Zaustavi rad" prilikom pokretanja Office aplikacija na RAČUNARU](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Rešavanje problema do kojih dolazi kada pokrenete ili koristite Office aplikacije](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Rešavanje problema do kojih dolazi kada pokrenete ili koristite Microsoft 365 aplikacije](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

@@ -1,5 +1,5 @@
 ---
-title: Problemi prijavljivanja na Office aplikacije
+title: Problemi sa prijavljivanjem u Microsoft 365 aplikacije
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 5f500ecf1f779fb1be4d257fd050a3ad054087dc
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4e7612562d036f1c717817d3c883d6df80f86e2f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938328"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579879"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Popravljanje Office aplikacije „modul pouzdane platforme na računaru ne funkcioniše ispravno” poruka
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Popravka Microsoft 365 aplikacija "modul pouzdane platforme računara ne funkcioniše ispravno" poruka
 
-Da biste otklonili ovu grešku, pokušajte sledeće:
+Da biste ispravili ovu grešku, pokušajte sledeće:
 
 - Instalirajte najnovije ispravke za [Windows](https://support.microsoft.com/help/4027667/windows-10-update) i [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Jasna Office akreditive](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću Windows upravljač akreditivima.<br/>
-    **Napomena:** Putanje registratora za Office 2016 promenili 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Probaj [proces oporavka korisnika](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) da popravimo modul pouzdane platforme (TPM) otkazivanja.
-- Postavljen je EnableADAL = 0, koristite sledeće korake:  
-    1. Kliknite desnim tasterom miša na dugme Start operativnog sistema Windows, odaberite **Pokreni**, upišite **regedit**, a zatim odaberite **u redu**.
-    2. Kliknite na dugme **da** da biste dozvolili Registry Editor da biste promenili vaš uređaj.
-    3. U alatki "Uređivač registratora" dodati DWORD vrijednost od **EnableADAL** sa postavkom **0** pod HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
+- [Obrišite Office akreditive](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) koristeći Windows upravljač akreditivima.<br/>
+    **Napomena:** Putanje registratora za Office 2016 su promenjene u 16,0. (Ex: \Software\microsoft\office\16.0\zajed\identitet\)
+- Pokušajte sa [procesom oporavka korisnika](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) da biste otklonili greške modula pouzdane platforme (TPM).
+- Postavite Vodolovni potencijalnog klijenta = 0 koristeći sledeće korake:  
+    1. Kliknite desnim tasterom miša na dugme "Start" operativnog sistema Windows, izaberite stavku **Pokreni**, otkucajte **Regedit**, a zatim odaberite **"u redu"**.
+    2. Izaberite **da** da dozvolite Registry Editoru da napravi izmjene na vašem uređaju.
+    3. U programu Registry Editor dodajte DWORD vrednost **Enabpotencijalnog klijenta** sa postavkom **0** ispod HKEY_CURRENT_USER \Software\microsoft\office\16.0\pod\identity.
 
-Više informacija potražite u odeljku [za povezivanje pitanja u za prijavljivanje nakon ažuriranja za Office 2016 build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Više informacija potražite u članku [problemi prilikom prijavljivanja nakon ažuriranja na Office 2016 Build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

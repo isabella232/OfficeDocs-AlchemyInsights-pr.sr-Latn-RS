@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: be56dfcdc65cf51fa66ef7c98dab5f0d78bbb21b
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 19db06fea287409e86c67a810ac57ca77004b993
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198894"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580743"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Promena adrese fakturisanja ili obaveštenja o naplati e-pošte
 
@@ -41,4 +41,4 @@ ms.locfileid: "43198894"
 
 4. U okviru **alternativne e-** adrese otkucajte alternativnu e-adresu koju želite da koristite, a zatim kliknite na dugme **Sačuvaj**.
 
-Više informacija o promenama u vezi sa adresom i obaveštenjima potražite u članku [Promena adresa za naplatu za Office 365 za posao](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Više informacija o promenama u vezi sa adresom i obaveštenjima potražite u članku [Promena adresa za naplatu za Microsoft 365 za posao](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).

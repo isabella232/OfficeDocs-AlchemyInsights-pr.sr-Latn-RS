@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784705"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579807"
 ---
 # <a name="mailbox-quota-exceeded"></a>Kvota poštanskog sandučeta Prekoračena
 
@@ -30,4 +30,4 @@ Prekoračili ste kvotu za poštansko sanduče za svoj nalog. Postoji nekoliko ko
 
 4. Sačuvajte priloge u usluzi OneDrive tako da se ne skladište u vašem poštanskom sandučetu. Za više informacija pogledajte [ograničenje prostora za skladištenje u Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
 
-Ako ste korisnik programa Microsoft 365, možda ćete takođe zatražiti povećanje poštanskog sandučeta od IT administratora.
+Ako ste korisnik korporacije Microsoft 365, možda ćete takođe zatražiti povećanje poštanskog sandučeta od IT administratora.
