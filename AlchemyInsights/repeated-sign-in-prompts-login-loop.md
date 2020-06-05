@@ -13,16 +13,16 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722752"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582429"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a>Ponovljeni odzivi za prijavljivanje u Office aplikacijama
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Ponovljeni odzivi za prijavljivanje u Microsoft 365 aplikacijama
 
-Da biste rešili ponovljene odzive za prijavljivanje u Office aplikacijama, pogledajte:
+Da biste rešili ponovljene odzive za prijavljivanje u Microsoft 365 aplikacijama, pogledajte:
 
 - [Rešavanje problema sa aplikacijama koje ne pripadaju pregledaču koje ne mogu da se prijave u Microsoft 365, Azure ili Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
 - ["Pristup odbijen" ili se korisniku više puta traži akreditivi prilikom povezivanja sa Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)

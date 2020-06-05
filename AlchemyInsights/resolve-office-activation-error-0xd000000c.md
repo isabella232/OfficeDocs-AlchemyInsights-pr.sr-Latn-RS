@@ -13,18 +13,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474475"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582573"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Otklanjanje greške pri Office aktivaciji 0xD000000C
 
 - Uverite se da internet radi na Mac računaru na kom pokušavate da izvršite instalaciju. Ovo možete da uradite tako što ćete otvoriti internet pregledač i otići na [Microsoft](https://www.microsoft.com). Ako se stranica učita, internet veza radi.
 
-- Napustite sve Office aplikacije.
+- Napustite sve Microsoft 365 aplikacije.
 
 - Preuzmite i pokrenite [alatku za uklanjanje licence](https://go.microsoft.com/fwlink/?linkid=849815) da biste uklonili sve Office Keychain stavke.
 
