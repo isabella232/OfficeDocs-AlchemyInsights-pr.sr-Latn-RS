@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855840"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618027"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Greška: pravila na ovom kompjuteru se ne podudaraju
 
-Ovo je poznati problem sa Outlook radnom površinom. Outlook tim je implementirao početnu ispravku u verziji 12228,20332 koja je objavljena 12/3/2019. Ta popravka nije obraćala sve izveštaje koje smo primili.
-
 Da biste videli ažurirani status ovog poznatog problema, pogledajte [pravila na ovom računaru ne podudaraju se sa pravilima na Microsoft Exchange serveru](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+
+Outlook tim je implementirao ispravku u izradi 12928,10000. Popravka je već na izdanju Insider i ide na mesečni kanal krajem juna 2020. Kada budete imali fiksnu gradnju, možete dobiti Odzivnik "koja pravila želite da zadržite" poslednji put. Odaberite server kada se to od vas zatraži, a zatim se vratite u Outlook i ponovo omogućite sva pravila koja su onemogućena.
+
+Dok ispravka ne bude dostupna, koristite sledeće rešenje:
+
+**Rešenje**: u poslednjim izveštajima došlo je do problema za one koji su kreirali samo pravila klijenta na radnoj površini programa Outlook. Ako i dalje budete u problemu, razmislite o brisanju pravila, a zatim kreirate i uređujete pravila samo u OWI (Outlook Web App) dok se problem ne razreši.
+
+Ako ne možete ručno da izbrišete pravila, možete da pokrenete Outlook komandu kada pokrenete Outlook pokretanjem programa Outlook. exe/čistoza. Ovo će izbrisati i pravila klijenta i servera. Ona će izbrisati sva pravila za sve naloge u profilu programa Outlook. Ova komanda je detaljnije dokumentovana u članku sa parametrima komandne linije.
