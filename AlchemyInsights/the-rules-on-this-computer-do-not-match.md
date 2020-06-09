@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618027"
+ms.locfileid: "44664260"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Greška: pravila na ovom kompjuteru se ne podudaraju
 
@@ -28,3 +28,4 @@ Dok ispravka ne bude dostupna, koristite sledeće rešenje:
 **Rešenje**: u poslednjim izveštajima došlo je do problema za one koji su kreirali samo pravila klijenta na radnoj površini programa Outlook. Ako i dalje budete u problemu, razmislite o brisanju pravila, a zatim kreirate i uređujete pravila samo u OWI (Outlook Web App) dok se problem ne razreši.
 
 Ako ne možete ručno da izbrišete pravila, možete da pokrenete Outlook komandu kada pokrenete Outlook pokretanjem programa Outlook. exe/čistoza. Ovo će izbrisati i pravila klijenta i servera. Ona će izbrisati sva pravila za sve naloge u profilu programa Outlook. Ova komanda je detaljnije dokumentovana u članku sa parametrima komandne linije.
+
