@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049063"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667862"
 ---
 # <a name="manage-your-onedrive-storage"></a>Upravljanje OneDrive skladištem
 
-OneDrive prostor za skladištenje se ne broji prema ukupnoj kvoti za Tenantu. 
+Možete da upravljate OneDrive za posao da biste videli koliko prostora koristite i oslobodite prostor.  Za više informacija posjetite dole navedene veze.
 
-Saznajte [Kako je prostor za skladištenje u usluzi OneDrive dodeljen po korisniku/planu](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Saznajte [koliko prostora za skladištenje koristite u usluzi OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Saznajte [Kako da nabavite OneDrive kvotu za skladištenje pomoću programa PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-Microsoft će u početku obezbediti 1 TB po korisniku, koji administratori mogu povećati do 5 TB po korisniku. Saznajte kako da [postavite podrazumevani prostor za skladištenje za korisnike usluge OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Saznajte [Kako da promenite OneDrive prostor za skladištenje u određenom korisniku](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Saznajte [Kako Global administratori mogu da podese kvotu za skladištenje u OneDrive za sve korisnike pomoću programa PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [Upravljanje OneDrive za skladištenje poslovnih prostora](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Menjanje OneDrive prostora za skladištenje u određenom korisniku](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Postavljanje podrazumevanog prostora za skladištenje za korisnike usluge OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
