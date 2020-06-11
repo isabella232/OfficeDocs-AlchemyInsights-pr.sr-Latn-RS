@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021512"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702220"
 ---
 # <a name="teams-outlook-add-in"></a>Outlook programski dodatak za timove
 
-Postoji više faktora koji mogu dovesti do toga da se vaši timovi ne pojave, a svi su navedeni [ovde](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Da biste rešili probleme sa Outlook nekim timovima koji nedostaju, prvo se uverite da ste ovde pokrenuli dijagnostiku usluge na portalu za administraciju.  Ako dijagnostika usluge ne ukazuje na probleme, nastavite sa preuzimanjem i [programom Microsoft pomoćnik za podršku i oporavak](https://aka.ms/SaRA-TeamsAddInScenario) **timova programa Outlook programski dodatak** za korisnike na pogođenim korisničkim mašinama da biste ustanovili i ispravili probleme sa klijentom.
 
-**Preporučujemo da prvo proverite da li programski dodatak nije onemogućen:**
-
-- U programu Outlook izaberite stavku **datoteke** , a zatim **Opcije**.
-- Izaberite karticu " **programski** dodaci" u dijalogu " **Opcije programa Outlook** ".
-- Uverite se da je **programski dodatak Microsoft timova za sastanke za Microsoft Office** naveden u listi **programskih dodataka aktivnih aplikacija** .
-- Ako je programski dodatak "sastanak timova" naveden na listi **onemogućenih programskih dodataka aplikacije** , izaberite **COM programske** dodatke u okviru stavke **Upravljanje** , a zatim na dugme **Idi...**
-- Postavite polje za potvrdu pored **programskog dodatka Microsoft timova za sastanke za Microsoft Office**.
-- Kliknite na dugme **u redu** u svim dijalozima i ponovo pokrenite Outlook.
+Da biste ručno rešili problem, redigujte listu potencijalnih faktora koji bi mogli dovesti do toga da vaši timovi ne budu prikazani [ovde](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)navedeni.
