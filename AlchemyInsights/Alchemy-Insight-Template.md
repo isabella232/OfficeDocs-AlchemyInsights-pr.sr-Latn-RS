@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676547"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750984"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Zahtijevan Alhemy zaglavlje H1, H2's ne radi.
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Zahtevano Alhemy zaglavlje H1, H2's ne funkcionišu."
 Najbolja praksa i uputstava za Alhemy kreiranje:
 
 1. **Ne ugnezdite Alhemy opažanja u fasciklama**-ovo će prekinuti strukturu URL adrese. Očekujemo da to ispravimo.
