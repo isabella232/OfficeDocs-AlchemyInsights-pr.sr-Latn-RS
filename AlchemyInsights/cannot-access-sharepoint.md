@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278834"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840919"
 ---
 # <a name="cannot-access-sharepoint"></a>Nije moguće pristupiti sistemu SharePoint
 
-Postoji nekoliko razloga zbog kojih Microsoft SharePoint ili Microsoft OneDrive mogu postati nepristupačni. Ako ne možete da pristupite usluzi SharePoint Online, koristite sledeći vodič da biste rešili ovaj problem.
+Postoji nekoliko razloga zbog kojih SharePoint ili OneDrive mogu postati nepristupačni. Ako ne možete da pristupite SharePoint ili OneDrive, koristite sledeći vodič da biste rešili ovaj problem.
 
-- [Nije moguće pristupiti usluzi SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [Nije moguće pristupiti sistemu SharePoint ili OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
