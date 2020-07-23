@@ -2,7 +2,7 @@
 title: Rešavanje problema sa sinhronizacijom lozinke
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732524"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387891"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Rešavanje problema sa sinhronizacijom lozinke
 
-Da biste rešili probleme na koje nema sinhronizovanih lozinki sa 1.1.614.0 ili novijim verzijama za Connect Azure:
-  
-1. Otvorite novu sesiju Windows PowerShell na serveru za povezivanje Azure oglasa sa opcijom " **Pokreni kao administrator** ".
+Da biste rešili probleme sa sinhronizacijom lozinke, počnite tako što ćete koristiti ovaj zadatak rešavanja problema u vezi sa povezivanjem da biste utvrdili zašto se lozinke ne sinhronizuju. Da biste počeli, idite na [Upravljanje direktnom sinhronizacijom](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-2. Pokretanje **Set-izvršne smernice RemoteSigned** ili **Set-izvršne smernice neograničeno**.
+1. Otvorite novu sesiju Windows PowerShell na serveru za povezivanje sa Azure serverom, a zatim izaberite opciju " **Pokreni kao administrator** ".
+
+2. Pokretanje set-izvršne smernice RemoteSigned ili set-izvršne smernice neograničeno.
 
 3. Pokrenite čarobnjak za povezivanje "Azure AD".
 
-4. Krećite se do stranice sa **dodatnim zadacima** , izaberite **Rešavanje problema**, a zatim kliknite na dugme **dalje**.
+4. Idite na stranicu "dodatni zadaci" > **rešiti problem**  >  **dalje**.
 
-5. Na stranici rešavanje problema kliknite na dugme **Pokreni da biste pokrenuli meni rešavanje problema** u programu PowerShell.
+5. Izaberite " **Pokreni** " da biste otvorili meni "Rešavanje problema sa PowerShell".
 
-6. U glavnom meniju izaberite stavku **Rešavanje problema pri sinhronizaciji lozinke**.
+6. Izaberite **Rešavanje problema sa sinhronizacijom lozinke**.
 
-7. U podmeniju izaberite stavku " **Sinhronizacija lozinke" ne radi uopšte**.
+    Ovo pitanje obično znači da lozinka nije sinhronizovana za određeni korisnički nalog.
 
-**Razumevanje rezultata zadatka "Rešavanje problema"**
-  
-Zadatak rešavanja problema izvršava sledeće čekove:
-  
-- Proverava valjanost funkcije za sinhronizaciju lozinke za vaš Azure oglas.
+    **Notes** Sinhronizacija lozinke nije uspela ako je poslednja uspešna sinhronizacija lozinke bila pre izvesnog vremena.
 
-- Proverava valjanost servera za povezivanje Azure oglasa nije u režimu za postavljanje.
-
-- Za svaku postojeću liniju spajanja aktivnog direktorijuma (koja odgovara postojećoj šumi aktivnog direktorijuma):
-
-- 
-  - Proverava valjanost funkcije za sinhronizaciju lozinke.
-
-  - Pretražuje događaje u sinhronizaciji lozinke u evidencijama događaja Windows aplikacije.
-
-  - Za svaki domen aktivnog direktorijuma u okviru konektora aktivnog direktorijuma na prostoru:
-
-  - Proverava valjanost domena koji se može pristupiti sa servera za povezivanje Azure oglasa.
-
-  - Proverava valjanost naloga za usluge domena aktivnog direktorijuma (AD DS) koje koristi linija spajanja aktivnog direktorijuma na prostoru ima ispravno korisničko ime, lozinku i dozvole potrebne za sinhronizaciju lozinke.
-
-Više pomoći za rešavanje problema sa lozinkom sinhronizacija potražite [u članku rešavanje problema sa sinhronizacijom lozinke pomoću programa AZURE AD Connect Sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
-  
+Da biste dobili dodatnu pomoć za rešavanje problema sa lozinkom sinhronizacija, pogledajte odeljak [Rešavanje problema sa lozinkom lozinka za sinhronizaciju pomoću programa Azure sinhr](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
