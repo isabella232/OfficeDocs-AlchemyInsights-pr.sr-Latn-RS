@@ -12,14 +12,16 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502621"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522821"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Smernice za zadržavanje u programu Exchange admin Center
+
+Ako želite da pokrećemo automatske provere za gore pomenute postavke, kliknite na dugme "nazad" <--na vrhu ove stranice, a zatim unesite e-adresu korisnika koji ima problema sa smernicama za zadržavanje.
 
  **Problem:** Nove ili ažurirane smernice za zadržavanje u Exchange admin Center ne primenjuju se na Poštanske sandučiće ili stavke nisu premeštene u poštansko sanduče arhive ili su izbrisane. 
   

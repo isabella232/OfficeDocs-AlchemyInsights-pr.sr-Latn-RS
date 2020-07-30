@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507040"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522749"
 ---
 # <a name="enable-an-archive-mailbox"></a>Omogućavanje poštanskog sandučeta za arhiviranje
+
+Ako želite da pokrećemo automatizovane čekove da biste osigurali da se poštansko sanduče arhive može konfigurisati, kliknite na dugme "nazad" <--na vrhu ove stranice, a zatim unesite e-adresu poslovnog kontakta.
 
 Arhiviraj Poštanske sandučiće u Microsoft 365 (koji se nazivaju i *online arhiva* ili *arhiva u kojima se nalazi*), pružaju korisnicima dodatni prostor za skladištenje e-pošte. Korisnici mogu da premeštaju ili kopiraju stavke u svoje poštansko sanduče arhive, a administratori mogu da kreiraju smernice arhive koje automatski premeštaju stavke u arhivu poštanskih sandučića.
   

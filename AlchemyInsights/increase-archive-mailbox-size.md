@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508822"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522857"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Povećavanje veličine poštanskog sandučeta arhive
+
+
+Ako želite da pokrećemo automatizovane provere za gore pomenute postavke, kliknite na dugme "nazad" <--na vrhu ove stranice, a zatim unesite e-adresu korisnika kome je potrebno da se poveća veličina poštanskog sandučeta arhive.
 
 Microsoft 365 [ograničava](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) veličinu arhivskih poštanskih sandučića na osnovu licence koja je dodeljena korisničkom računu. Kada poštansko sanduče arhive dostigne 90% od dozvoljene veličine, korisnik će dobiti obaveštenje e-poštom. Kada poštansko sanduče arhive dostigne ograničenje veličine, korisnik ne može da premesti više stavki u poštansko sanduče arhive. Microsoft 365 neće povećati veličinu poštanskog sandučeta arhive kada se dostigne ograničenje veličine. Umesto toga, korisnici mogu da preduzmu sledeće radnje da bi oslobodili prostor u poštanskom sandučetu za arhiviranje:
 
