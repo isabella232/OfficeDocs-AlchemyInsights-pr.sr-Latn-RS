@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655296"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665512"
 ---
 # <a name="data-location"></a>Lokacija podataka
 
-Možete da prikažete lokaciju svog tenanta u okviru administratorskog centra ili tako što ćete se povezati sa Exchange online putem PowerShell.
+Lokaciju svog zakupca možete da prikažete u centru administracije tako što ćete se na [stranici **profil organizacije** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) i izabrati **lokaciju podataka**.
 
-
-**Admin Center:**
-1. Prijavite se u [admin Center](https://admin.microsoft.com/Adminportal/Home).
-2. Izaberite **Postavke** > za**Organizacioni profil**.
-3. U okviru **lokacije sa podacima**izaberite stavku **Prikaži detalje**.
-
-
-**PowerShell**
-1. Povezivanje sa Exchange mrežom pomoću Windows PowerShell.
-2. Izvođenje " [get-Organizacionalne jedinice](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) " cmdme da biste prikazali listu svojih staničnih svojstava. 
-3. Pogledajte svojstvo "OrganizationId".
-
-Kada imate lokaciju podataka za EXO i SPO, možete da utvrdite lokaciju podataka za druge usluge koje možete koristiti sa [mesta na kojima se podaci nalaze](https://products.office.com/where-is-your-data-located).
+Za aplikacije na koje niste pretplaćeni pogledajte [gde se skladište podaci klijenta Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
