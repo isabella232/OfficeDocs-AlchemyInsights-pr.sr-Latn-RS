@@ -1,7 +1,7 @@
 ---
-title: Prestanak deljenja OneDrive ili SharePoint datoteka ili fascikli
-ms.author: v-todmc
-author: todmccoy
+title: Zaustavljanje deljenja OneDrive ili SharePoint datoteka ili fascikli
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: 6c58d81fc817c6c4238ef2fab47107b865c20c4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33633ca4bddd9ef2a0fde774346157f8044ec869
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763915"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787047"
 ---
-# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Prestanak deljenja OneDrive ili SharePoint datoteka ili fascikli
+# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Kako da prestanete da delite OneDrive ili SharePoint datoteke ili fascikle
 
-Možete da prestanete da delite neku stavku, da vidite sa kim je delite ili da promenite dozvole koje drugi imaju, ako ste vlasnik stavke.
+Možete da prestanete da delite stavku, da vidite sa kim se deli ili da promenite dozvole koje drugi imaju, ako ste vlasnik stavke.
 
-[Prestanak deljenja OneDrive ili SharePoint datoteka ili fascikli](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+[Zaustavljanje deljenja OneDrive ili SharePoint datoteka ili fascikli](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)

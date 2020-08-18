@@ -1,7 +1,7 @@
 ---
-title: Dodavanje preliva u SharePoint kalendar
-ms.author: v-todmc
-author: todmccoy
+title: Dodavanje preklapanje u SharePoint kalendar
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 08b3cc8539e36f1babaa9c6949ac9b71fdae0591
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908862"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786831"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodavanje preliva u SharePoint kalendar
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodavanje preklapanje u SharePoint kalendar
 
-SharePoint kalendari su klasični tipovi liste koji su ponekad zbunjeni sa Microsoft 365 grupnim kalendarima.
+SharePoint kalendari su klasični tipovi lista koji se ponekad pomešavaju sa kalendarima Microsoft 365 grupama.
  
-Ako koristite SharePoint kalendar na svojoj lokaciji, možete da prekrijete sopstveni Exchange kalendar na njega da biste kreirali kombinovani prikaz kalendara. Druga mogućnost je da prekrijete drugi SharePoint kalendar sve dok su i SharePoint kalendari u istoj kolekciji lokacija.
+Ako koristite SharePoint kalendar na lokaciji, sopstveni Exchange kalendar možete da prestavite na njega da biste kreirali kombinovani prikaz kalendara. Alternativno, možete da prestavite još jedan SharePoint kalendar dok su oba SharePoint kalendara na istoj kolekciji lokacija.
  
-Da biste dodali prekrivku u klasični SharePoint kalendar, sledite korake u [prekrivenom SharePoint kalendaru sa kalendarom iz Exchange servera ili sistema SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
+Da biste dodali preklopnu u klasični SharePoint kalendar, slijedite korake u odeljku [preklapanje SharePoint kalendara sa kalendarom iz usluge Exchange ili SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
