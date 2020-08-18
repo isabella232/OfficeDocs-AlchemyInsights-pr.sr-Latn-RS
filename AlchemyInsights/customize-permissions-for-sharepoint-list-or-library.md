@@ -1,7 +1,7 @@
 ---
-title: Prilagođavanje dozvola za SharePoint listu ili biblioteku
-ms.author: v-todmc
-author: todmccoy
+title: Kako da prilagodite dozvole za SharePoint listu ili biblioteku
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 8d0e960c8404297a971c3f96c29628f8dd25f1af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 93bade7d549cb179eda7b26dcbea9cd14dbe450a
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705207"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786183"
 ---
-# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="47373-102">Prilagođavanje dozvola za SharePoint listu ili biblioteku</span><span class="sxs-lookup"><span data-stu-id="47373-102">How to customize permissions for a SharePoint list or library</span></span>
+# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="b3d54-102">Kako da prilagodite dozvole za SharePoint listu ili biblioteku</span><span class="sxs-lookup"><span data-stu-id="b3d54-102">How to customize permissions for a SharePoint list or library</span></span>
 
-<span data-ttu-id="47373-103">Kao administrator ili vlasnik biblioteke, liste ili ankete, možete da promenite dozvole tako da jedna grupa osoba pristupi podacima koje su im potrebne dok ograničavaju druge.</span><span class="sxs-lookup"><span data-stu-id="47373-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
+<span data-ttu-id="b3d54-103">Kao administrator ili vlasnik biblioteke, liste ili ankete, možete da promenite dozvole da biste jednoj grupi ljudi dozvolili da pristupi podacima koji su im potrebni dok ograničava druge osobe.</span><span class="sxs-lookup"><span data-stu-id="b3d54-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
 
-[<span data-ttu-id="47373-104">Prilagođavanje dozvola za SharePoint listu ili biblioteku</span><span class="sxs-lookup"><span data-stu-id="47373-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[<span data-ttu-id="b3d54-104">Prilagođavanje dozvola za SharePoint listu ili biblioteku</span><span class="sxs-lookup"><span data-stu-id="b3d54-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
