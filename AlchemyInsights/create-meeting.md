@@ -1,5 +1,5 @@
 ---
-title: Kreiraj sastanak
+title: Zakazivanje sastanka u timovima
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105361"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290069"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Zakažite sastanak u timovima
+# <a name="schedule-a-meeting-in-teams"></a>Zakazivanje sastanka u timovima
 
-**Važno**: Ako imate problema sa kreiranjem sastanka ili ne možete da pronađete opciju za sastanak u timovima, uverite se da [su korisnici koji su na mreži povezani sa Exchange online poštanskim sandučetom i da je poštansko sanduče omogućeno](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+**Važne** Ako imate problema sa kreiranjem sastanka ili ne možete da pronađete opciju sastanka u timovima, uverite se da su utiču na korisnike omogućene Exchange poštansko sanduče na podržanu verziju za Microsoft timove. Dok se Exchange online preporučuje, Poštanske sandučiće se podržavaju na Exchange serveru 2016 CU3 ili novije verzije pomoću programa OAuth uspešno konfigurisano između Interneta i lokalnog sistema. Više informacija potražite u članku [Kreiranje poštanskih sandučića u usluzi Exchange online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) i [zahteve za Poštanske sandučiće koji se nalaze lokalno](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
-Sastanak možete zakazati na dva načina: 
+1. Možete da zakažete sastanak tako što ćete izabrati:
 
-- Izaberite **raspored ikona sastanka** u razgovoru (ovo je ispod polja za pisanje) da biste mogli da rezervišete sastanak sa osobama u ćaskanjima.
-- Izaberite ikonu **kalendara** na levoj strani aplikacije i izaberite **novi sastanak** u gornjem desnom uglu ili izaberite vremenski period u kalendaru da biste otvorili obrazac za planiranje.
+    - **Planirajte ikonu sastanka** na ćaskanju ispod polja za pisanje da biste sastavili sastanak sa osobama u ćaskanju.
 
-Slično zakazivanju sastanka u programu Outlook, dobićete svoj sastanak kao naslov, pozovite osobe i dodajte detalje o sastancima.
+    - Ikona **kalendara** na levoj strani aplikacije. Izaberite stavku **novi sastanak** u gornjem desnom delu ili izaberite opseg vremena u kalendaru da biste otvorili obrazac za planiranje.
 
-Sa desne strane obrasca za planiranje možete da dodate kanal ili pojedinačne osobe ili da ostavite oba prazna da biste planirali privatnu zakazanu obavezu.
+2. Slično zakazivanju sastanka u programu Outlook, date sastanku ćete imati naslov, pozvati osobe i dodati detalje o sastancima.
 
-- Više informacija o kreiranju i zakazivanju sastanaka u Microsoft timovima potražite [u članku planiranje sastanka u timovima](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+3. Na desnoj strani obrasca za planiranje možete da dodate kanal ili pojedinačne osobe ili da ostavite prazno da biste zakazali privatnu zakazanu obavezu.
 
-- Za ograničenja i specifikacije za sastanke pogledajte odeljak [ograničenja i specifikacije za Microsoft timove](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Više informacija o kreiranju i planiranju sastanaka u Microsoft timovima potražite u članku [Planiranje sastanka u timovima](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+Više informacija o ograničenjima i specifikacijama za sastanke potražite u članku [ograničenja i specifikacije za Microsoft timove](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+
+Za pomoć pri rešavanju problema sa timovima i Exchange interakcija, naročito za probleme sa delegiranjem, pogledajte članak rešavanje problema sa [Microsoft timovima i sistemom Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
