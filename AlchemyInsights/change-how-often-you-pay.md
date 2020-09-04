@@ -1,8 +1,8 @@
 ---
-title: Promenite koliko često plaćate
+title: Promena učestalosti plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939669"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364601"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="43f60-102">Promenite koliko često plaćate</span><span class="sxs-lookup"><span data-stu-id="43f60-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="10f23-102">Promena učestalosti plaćanja</span><span class="sxs-lookup"><span data-stu-id="10f23-102">Change how often you pay</span></span>
 
-<span data-ttu-id="43f60-103">Da biste promenili koliko često ste naplaćene i plaćate pretplatu, dovršite sledeće korake u Microsoft 365 admin Center.</span><span class="sxs-lookup"><span data-stu-id="43f60-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
-1. <span data-ttu-id="43f60-104">Idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="43f60-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="43f60-105">Pronađite pretplatu koju želite da promenite.</span><span class="sxs-lookup"><span data-stu-id="43f60-105">Find the subscription you want to change.</span></span> <span data-ttu-id="43f60-106">U odeljku **naplata** , pored toga što je **naplaćeno mesečno** ili **naplaćeno godišnje**, kliknite na dugme **Uredi**.</span><span class="sxs-lookup"><span data-stu-id="43f60-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
-3. <span data-ttu-id="43f60-107">Izaberite opciju za koliko često želite da se naplaćuje faktura, a zatim kliknite na dugme **Promeni**.</span><span class="sxs-lookup"><span data-stu-id="43f60-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+<span data-ttu-id="10f23-103">Da biste promenili koliko često ste plaćeni i plaćali pretplatu, dovršite sledeće korake u Microsoft 365 centru administracije.</span><span class="sxs-lookup"><span data-stu-id="10f23-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="43f60-108">**Napomena**: mesečna i godišnja naplata su jedine opcije.</span><span class="sxs-lookup"><span data-stu-id="43f60-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+1. <span data-ttu-id="10f23-104">Idite na stranicu **Billing**"  >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".</span><span class="sxs-lookup"><span data-stu-id="10f23-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="10f23-105">Na kartici **proizvodi** izaberite pretplatu koju želite da promenite.</span><span class="sxs-lookup"><span data-stu-id="10f23-105">On the **Products** tab, select the subscription that you want to change.</span></span> 
+3. <span data-ttu-id="10f23-106">Na stranici detalji pretplate, u odeljku **Postavke pretplate i plaćanja** izaberite stavku **Uredi učestalost naplate**.</span><span class="sxs-lookup"><span data-stu-id="10f23-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
+4. <span data-ttu-id="10f23-107">U oknu **Uređivanje učestalosti naplate** možete da koristite opciju koliko često želite da se fakturiši, a zatim izaberite stavku **Promeni**.</span><span class="sxs-lookup"><span data-stu-id="10f23-107">In the **Edit billing frequency** pane, shoose the option for how often you want to be billed, then select **Change**.</span></span>
 
-<span data-ttu-id="43f60-109">Više informacija potražite u članku [Promena učestalosti plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="43f60-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
+<span data-ttu-id="10f23-108">**Napomena**: mesečna ili godišnja naplata su jedine opcije.</span><span class="sxs-lookup"><span data-stu-id="10f23-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="10f23-109">Više informacija potražite u članku [Promena učestalosti naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span><span class="sxs-lookup"><span data-stu-id="10f23-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>
