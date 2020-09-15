@@ -1,42 +1,43 @@
 ---
-title: Rešavanje problema sa USB štampačem
+title: Rešavanje problema sa USB uređajima
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 5d961d2f1ad68a22782cefb45d70cd23f6912f0a
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744724"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677509"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>Otklanjanje problema sa vezom sa USB štampačem
+# <a name="fix-usb-printer-connection-issues"></a>Rešavanje problema povezivanja USB uređaja
 
-Isprobajte ove **korake za rešavanje problema** da bi vaš USB štampač ponovo radio:
+Isprobajte ove **korake za rešavanje problema** da biste ponovo dobili USB štampač:
 
-1. Isključite štampač i iskopčajte USB kabl sa računara i štampača.
-2. Proverite kabl da biste se uverili da nema oštećenja.
-3. Priključite kabl nazad u računar i štampač.
+1. Isključite štampač i isključite USB kabl sa računara i štampača.
+2. Pregledajte kabl da biste se uverili da nema oštećenja.
+3. Ponovo priključite kabl na računar i štampač.
 
-Ako to ne funkcioniše, pokušajte da **uklonite i ponovo instalirate USB štampač**:
+Ako to ne uspe, pokušajte da **uklonite i ponovo instalirate USB štampač**:
 
 1. Uklonite štampač u postavkama:
     1. Isključite USB kabl štampača sa računara.
-    2. Izaberite " **Start** > **Settings** > "**uređaje** > za**štampače & skenere**.
-    3. U okviru **štampači & skeneri**izaberite štampač za koji rešavate problem. Izaberite stavku **Ukloni uređaj**. Sledite uputstva da biste u potpunosti uklonili štampač.
-2. Uklonite sve softvere proizvođača štampača drugih proizvođača:
-    1. Izaberite**aplikacije**za**Postavke** >  **početka** > .
-    2. U okviru **aplikacije & funkcije**, pomerajte se da biste pronašli softver koji je instaliran od proizvođača štampača (kao što je HP, Canon ili Epson).
-    3. Izaberite softver i kliknite na dugme " **Deinstaliraj**".
+    2. Izaberite stavku **početni**  >  **Settings**  >  **Uređaji**  >  **Štampači štampači & skeneri**.
+    3. U okviru **štampači & skeneri**izaberite štampač sa kojim rešavate probleme. Izaberite stavku **Ukloni uređaj**. Pratite uputstva da biste u potpunosti uklonili štampač.
+2. Uklonite bilo koji softverski softver proizvođača štampača:
+    1. Izaberite stavku **pokretanje**  >  **postavki**  >  **Apps**.
+    2. U okviru **aplikacije & funkcije**, pomerajte se da biste pronašli softver instaliran od proizvođača štampača (kao što je HP, Canon ili Epson).
+    3. Izaberite softver i izaberite stavku **Deinstaliraj**.
 3. Isključite i ponovo pokrenite štampač.<br>
-    1. Isključite štampač i iskopčajte kabl za napajanje. Sačekajte 30 sekundi. Ponovo priključite štampač.
-    2. Priključite USB kabl za štampač u računar. RAČUNAR bi trebalo da automatski registruje da je uređaj priključen.
-4. Ponovo pokušajte da izvršite štampanje.
+    1. Isključite štampač i isključite njegov kabl napajanja. Sačekajte 30 sekundi. Ponovo priključite štampač.
+    2. Ponovo priključite USB kabl štampača na računar. RAČUNAR bi trebalo da se automatski registruje da je uređaj priključen.
+4. Ponovo pokušajte da štampate.

@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37976067"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677690"
 ---
 # <a name="troubleshoot-your-printer"></a>Rešavanje problema sa štampačem
 
-Ako imate problema sa štampačem, prvo probajte sa izvršavanjem **ciklusa napajanja štampača**. Sledite ove korake:
+Ako imate problema sa štampačem, prvo isprobajte **Power Cycle štampača**. Sledite ove korake:
 
-1. Isključite štampač i iskopčajte kabl za napajanje.
+1. Isključite štampač i isključite njegov kabl napajanja.
 2. Sačekajte 30 sekundi.
-3. Priključite štampač nazad i ponovo uključite štampač.
+3. Ponovo priključite i uključite štampač.
 
-Ako to nije rešilo problem, pokrenite program za rešavanje problema sa štampačem tako što ćete otići na " **Start** > **Settings** > "**&** > **Rešavanje problema sa**bezbednošću. Izaberite **štampač**, a zatim izaberite stavku **Pokreni alatku za rešavanje problema**.
+Ako to nije rešilo problem, pokrenite **alatku za rešavanje**problema sa štampačem tako što ćete otvoriti stavku  >  **Settings**  >  **Ažuriranje postavki & bezbednosti**  >  **Troubleshoot**. Izaberite stavku **štampač**, a zatim izaberite **pokrenite alatku za rešavanje problema**.

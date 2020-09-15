@@ -1,27 +1,28 @@
 ---
-title: Kontaktirajte nas tako što ćete kliknuti na dugme slušalica
+title: Obratite nam se tako što ćete kliknuti na dugme za slušanje
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 49365a139a97ebde1b1c0c3db710b5b03cfb8738
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584739"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680914"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktirajte nas tako što ćete kliknuti na dugme slušalica
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Obratite nam se tako što ćete kliknuti na dugme za slušanje
 
-Ako želite da se obratite Microsoft podršci, kliknite na dugme " **kontaktirajte nas** " u donjem levom uglu ove aplikacije. Unutar prozora "poletanje", bićete vođeni na odgovarajući kanal za podršku nakon što izaberete kategoriju proizvoda i izdaje.
+Ako želite da se obratite Microsoft podršci, kliknite na **kontakt sa nama** u donjem levom uglu ove aplikacije. U prozoru "razleti", bićete vođeno na kanalu za podršku nakon što odaberete kategoriju proizvoda i izdanje.
 
-![Kontaktirajte nas tako što ćete kliknuti na ikonu slušalica.](media/contact-us-headphone-icon.png)
+![Obratite nam se tako što ćete kliknuti na ikonu telefona.](media/contact-us-headphone-icon.png)
 
-Možete da nastavite sa korišćenjem interakcije sa ostatkom aplikacije čak i nakon što ste pokrenuli sesiju američkog kontakta. Tabla "kontakt sad" može biti privremeno umanjen tako što ćete kliknuti na bilo koje mesto unutar aplikacije. Da biste se vratili na istu sesiju, samo kliknite na **nas** ponovo.
+Možete da nastavite da interakciju sa ostatkom aplikacije čak i nakon što ste pokrenuli sesiju kontakata. Tabla kontakt kontakata može privremeno da se umanji tako što ćete kliknuti bilo gde unutar aplikacije. Da biste se vratili na istu sesiju, ponovo kliknite na **kontakt** .

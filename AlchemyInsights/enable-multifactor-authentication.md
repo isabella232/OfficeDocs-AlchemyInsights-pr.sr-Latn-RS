@@ -1,5 +1,5 @@
 ---
-title: Omogući Višeifaktu provjeru autentičnosti
+title: Omogućavanje višestruke potvrde identiteta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703476"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678050"
 ---
-# <a name="enable-multi-factor-authentication"></a>Omogućavanje potvrde verodostojnosti sa više faktora
+# <a name="enable-multi-factor-authentication"></a>Omogućavanje višestruke potvrde identiteta
 
-Da biste omogućili potvrdu identiteta sa više faktora u Microsoft 365 admin Center:
+Da biste omogućili višestruku potvrdu identiteta u Microsoft 365 centru administracije:
 
-1. Idite na stranicu " **Korisnici** \> **aktivnih korisnika** ".
+1. Idite na stranicu **Korisnici** \> **aktivni korisnici** .
     
-2. Na vrhu stranice izaberite neku od **višefaktora potvrde verodostojnosti**. 
+2. Na vrhu stranice izaberite stavku **potvrda identiteta**. 
     
-3. Pronađite korisnike ili korisnike koje želite da omogućite za potvrdu identiteta sa više faktora. Da biste videli sve korisnike, možda ćete morati da promenite filter **statusa potvrde verodostojnosti sa više faktora** na vrhu.
+3. Pronađite korisnika ili korisnike koje želite da omogućite za multifaktor potvrdu identiteta. Da biste videli sve korisnike, možda ćete morati da promenite filteri za **status za više faktora** na vrhu.
     
 4. Potvrdite izbor u polju za potvrdu pored korisnika koje želite da omogućite.
     
-5.  U desnom oknu sa informacijama o korisniku, u okviru " **brzi koraci**" izaberite opciju " **Omogući**". 
+5.  U oknu sa desnim informacijama o korisniku, u okviru **brzi koraci**izaberite stavku **Omogućavanje**. 
     
-6. U dijalogu koji se otvara potvrdite izbor u polju za **potvrdu Omogući više faktora potvrde identiteta**. 
+6. U dijalogu koji se otvara izaberite stavku **Omogućavanje multi-faktor dodatka**. 
     
 
