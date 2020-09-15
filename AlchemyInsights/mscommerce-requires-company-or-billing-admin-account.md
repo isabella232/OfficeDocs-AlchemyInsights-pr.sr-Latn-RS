@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 10ef2e8fa7c564d53177a52136eb48cd709e5c55
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158524"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702629"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce zahteva nalog preduzeća ili administratora naplate
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce zahteva preduzeće ili administratorski nalog za naplatu
 
-MSCommerce modul zahteva nalog koji ima privilegije preduzeća ili administratora naplate. Ako dobijate sledeću grešku, biće potrebno da se ponovo povežete sa drugim nalogom.
+MSCommerce modul zahteva nalog sa privilegijama administratorskih privilegija ili administratora naplate. Ako dobijate sledeću grešku, moraćete ponovo da se povežete sa drugim nalogom.
 
-*Greška-Udaljeni server je prijavio grešku: (403) je zabranjeno. Erordetzatvori-na C:\Program Files\windowspowershell\modules\mskomercijale\1.2\mskomercijale.psm1:216 Char: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ručni Sterror-kontekst greške $ _-prilagodite poruku "nije uspjelo ponovno tri...*<br>
+*Errorporuka – Udaljeni server je vratio grešku: (403). Podaci o greškama-na C:\Program Files\windowspower, Modules\mskomerce\1.2\mskomerce.psm1:216 Char: 5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruleerror-ErrorContext $ _-Customerrorporuka "nije uspelo za retri...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Kategoryinfo: nije navedeno: (:) [Write-greška], pisanje u pisanju*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Fullietidedilid: Microsoft. PowerShell. komande. oglasi za rad u obradi, ručni greška*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Kategoriinformacije: nije navedeno: (:) [Greška pisanja], Writeerrorizuzetak*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Fullikvalifikacija ID-ovi: Microsoft. PowerShell. komande. Erriteerrorerr, HandleError*
 
-Ako vaš nalog nema privilegije preduzeća ili naplate administratora, obratite se IT administratoru.
+Ako vaš nalog nema privilegije administratora za naplatu, obratite se IT administratoru.

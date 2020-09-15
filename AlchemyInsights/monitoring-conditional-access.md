@@ -1,40 +1,41 @@
 ---
-title: Nadgledanje uslovnog pristupa
+title: Monitoring uslovnog pristupa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713732"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702917"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Praćenje uslovnog pristupa za Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Monitoring uslovnog pristupa za Exchange
 
-Korisnici usmereni sa uslovnim pristupom dobiće obaveštenje e-poštom ako ne zadovoljavaju zahteve za pristup vašoj organizaciji. Da biste rešili, preporučujemo neka od sledećih rešenja:
+Korisnici koji su usmereni na uslovno pristup dobiće obaveštenje ako ne ispune zahteve za pristup vaše organizacije. Da biste rešili, preporučujemo neka od sledećih rešenja:
   
-- Ako se pretpostavlja da se uređaj upisuje, posavetuj korisnika da ode u aplikaciju "portal Company" i proverite da li se pojavljuje na portalu kompanije. Ako to ne uradite, korisnik bi trebalo da upiše uređaj.
+- Ako se na uređaj pretpostavlja da je upisan, savetujte korisnika da ode na aplikaciju portala preduzeća i potvrdi da se pojavljuje na portalu preduzeća. Ako nije, korisnik treba da prijavi uređaj.
     
-- Na "Azure" portalu idite **do \> Intune usklađenosti uređaja**. U okviru **nadgledanje** izaberite stavku **usaglašenost uređaja**. Prikažite izveštaj o usaglašenosti uređaja da biste proverili da li je korisnički uređaj označen kao usaglašen. 
+- U Azure portalu idite na ** \> usaglašenost uređaja**. U okviru **prati** izaberite stavku **usaglašenost uređaja**. Prikažite izveštaj usaglašenosti uređaja da biste potvrdili da je uređaj korisnika označen kao usaglašeni. 
     
-- Na "Azure" portalu idite **do \> Intune usklađenosti uređaja**. U odeljku **Upravljanje**kliknite na dugme **smernice**. Na listi smernica za usaglašenost proverite da li je profil dodeljen uređaju vašeg korisnika. Ako nijedan profil nije dodeljen, Intune neće moći da potvrdi status usaglašenosti uređaja. 
+- U Azure portalu idite na ** \> usaglašenost uređaja**. U okviru **Upravljanje**izaberite stavku **smernice**. Na listi smernica usaglašenosti proverite da li je profil dodeljen vašem uređaju. Ako nijedan profil nije dodeljen, Intune neće moći da potvrdi status usaglašenosti uređaja. 
     
-- Uredite dodeljivanje uslovnog pristupa korisnika.
+- Uredite zadatak korisnika uslovnog pristupa.
     
-1. Na Azure portalu idite na **Intune \> smernice za uslovnu \> pristup**
+1. U Azure portalu idite na **Podešavanje \> uslovne \> smernice za pristup**
     
-2. Izaberite smernice sa liste
+2. Izbor smernica sa liste
     
 3. Izaberite stavku **korisnici i grupe**
     
-4. Da biste određenim smernicama ciljali određene smernice, dodajte ih u listu " **Uključi** ". Da biste se uverili da je osoba izostavljena iz smernice, dodajte ih na listu **isključenih** . 
+4. Da biste nekome ciljali određenu politiku, dodajte ih na listu " **ukljuci** ". Da biste se uverili da je osoba **izostavljena** iz smernica, dodajte ih na listu "Isključi". 
     
-Opširnije: [kako nadgledati uređaje za uslovnu pristup](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Pročitajte više: [kako nadgledati uslovno pristup uređajima](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 
