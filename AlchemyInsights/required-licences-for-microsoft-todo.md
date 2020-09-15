@@ -1,11 +1,12 @@
 ---
-title: Zahtevane licence za Microsoft ToDo
+title: Neophodne licence za Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,40 +14,40 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722670"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692309"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Zahtevane licence za Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Neophodne licence za Microsoft ToDo
 
-[Zahtevane licence za Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Neophodne licence za Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
 Korisnik mora da ima jednu od sledećih licenci da bi koristio Microsoft ToDo:
   
 - Business Essentials
 
-- Poslovni Premium
+- Business Premium
 
-- Microsoft 365 Prvline F1
+- Microsoft 365 prvi red F1
 
 - Bilo koji Office 365 Enterprise plan
 
-- Obezbeđivanje produktivnih biznisa
+- Bezbedan posao
 
-- Obezbedno produktivno preduzeće E3
+- Secure produktivni E3
 
-- Obezbedno produktivno preduzeće E5
+- Secure produktivni E5
 
-- Svaki Office 365 plan obrazovanja
+- Bilo koji Office 365 plan obrazovanja
 
 - Microsoft 365 a3
 
 - Microsoft 365 a5
 
-Pored važeće licence za proizvod, jedna od sledećih verzija programa Exchange online je potrebna da bi bilo moguće sinhronizovati korisničke podatke:
+Pored važeće licence proizvoda, potrebna je jedna od sledećih verzija sistema Exchange online za ToDo da bi mogla da sinhronizuje korisničke podatke:
   
 - Exchange online plan 1
 
@@ -58,5 +59,5 @@ Pored važeće licence za proizvod, jedna od sledećih verzija programa Exchange
 
 - Exchange online POP
 
-[Dodeljivanje licenci korisničkim nalozima pomoću Officea 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Dodeljivanje licenci korisničkim nalozima pomoću sistema Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
