@@ -1,11 +1,12 @@
 ---
-title: 1490-rešavanje problema-eDiscovery-neuspesi
+title: 1490-rešavanje problema – otkazivanje
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512568"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658964"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Rešavanje problema sa greškama pri pretraživanju sadržaja
+# <a name="troubleshoot-content-search-errors"></a>Rešavanje problema sa pretraživanjem sadržaja
 
-Da li imate problema sa pretragom sadržaja ili dobijate otkazivanja prilikom izvoza rezultata pretrage?
+Da li nailazite na probleme prilikom pretraživanja sadržaja ili neuspeha kada izvezete rezultate pretrage?
 
-Na primer, da li dobijate sledeće radnje kada pokrećete pretrage?
+Na primer, da li primate sledeće prilikom pokretanja pretraga?
 
 - CS008 ili CS012 greške
 
-- Greške na serveru/Istek vremenskog ograničenja
+- Greške na serveru/vremensko ograničenje
 
-- Došlo je do greške aplikacije
+- Došlo je do greške prilikom aplikacije
 
-Ili prilikom pretraživanja ili izvoza rezultata iz velikog broja poštanskih sandučića (preko 100.000 poštanskih sandučića), da li dobijate greške u izvozu?
+Ili kada pretražujete ili izvozite rezultate iz velikog broja poštanskih sandučića (preko 100.000 poštanskih sandučića), da li dobijate greške izvoza?
 
-Za ove tipove grešaka ponovo pokušajte da pretražite lokacije sadržaja koje nisu uspele. Više informacija potražite u [ovom članku](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+Za ove tipove grešaka ponovo pokušajte da pronađete lokacije sadržaja koje nisu uspele. Više informacija potražite u  [članku ovaj članak](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .

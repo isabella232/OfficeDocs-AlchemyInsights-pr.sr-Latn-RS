@@ -1,11 +1,12 @@
 ---
-title: 620 podešavanje vremenske zone i jezičkih postavki u programu Outlook na Webu
+title: 620 podešavanje vremenske zone i postavke jezika u programu Outlook na vebu
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 9099628059ab11b30b4f44395fd3764331e84732
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709385"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686797"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Podešavanje vremenskih zona i jezičkih postavki u programu Outlook na Webu
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Podešavanje vremenskih zona i postavki jezika u programu Outlook na vebu
 
-Da biste podesili vremensku zonu i jezičke postavke u programu Outlook na Webu, kojoj pristupate pomoću svog radnog ili školskog naloga, pogledajte odeljak [Promena vremenskih zona i jezičkih postavki u programu Outlook na vebu](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
+Da biste prilagodili vremensku zonu i jezičke postavke u programu Outlook na vebu, koji pristupate pomoću poslovnog ili školskog naloga, pogledajte članak [Promena postavki vremenske zone i jezika u programu Outlook na vebu](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
   

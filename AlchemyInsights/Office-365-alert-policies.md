@@ -1,10 +1,11 @@
 ---
-title: 1385-kancelarija-365-obaveštenje-politika
+title: 1385-Office-365-upozorenje-smernice
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502441"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664040"
 ---
-# <a name="alert-policies"></a>Smernice za upozorenje
+# <a name="alert-policies"></a>Smernice za obaveštenja
 
-Microsoft 365 Security & centar za usaglašavanje nudi [podrazumevane smernice za obaveštenja](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) koje aktiviraju obaveštenja za organizacije sa Office 365 Enterprise ili Office 365 vladom E1/G1, E3/G3 ili E5/G5 pretplatom. Zbog toga administratori mogu da prime obaveštenje e-poštom na obaveštenje koje je poslao Office365Alerts@microsoft.com sa temom predmeta kao što je "upozorenje o niskoj ozbiljnosti: *ime smernica za obaveštenja*". Obaveštenja o obaveštenju se šalju kada se budu aktivirane obaveštenja za uobičajene aktivnosti, kao što su korisnici:
+Microsoft 365 Security & centar za usaglašenost pruža [podrazumevane smernice za obaveštenje](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) koje aktiviraju obaveštenja za organizacije sa Office 365 Enterprise ili Office 365 američka vlada E1/G1, E3/G3 ili E5/G5 pretplatu. Stoga, administratori mogu da prime obaveštenje o obaveštenju e-pošte koje šalje Office365Alerts@microsoft.com pomoću reda za temu kao što je "obaveštenje o niskom iznosu: *ime smernica upozorenja*". Obaveštenja se šalju prilikom aktiviranja obaveštenja za uobičajene aktivnosti, na primer kada korisnici:
 
-- Kreirajte pravila prijemnog poštanskog sandučeta koja prosleđuju e-poštu.
-- Dodelite dozvole njihovom poštanskom sandučetu.
+- Kreirajte pravila za prijemno poštansko sanduče koja prosleđuje e-poštu.
+- Dodeljivanje dozvola svom poštanskom sandučetu.
 - Delite ili izbrišite veliki broj datoteka u deljenju SharePoint datoteka.
 - Kreirajte eDiscovery pretrage i izvezite rezultate pretrage.
 
-Da biste pregledali i postupali po obaveštenju:
+Da biste pregledali i radili po obaveštenju:
 
-1. Posetite lokaciju [Security & centar za usaglašavanje](https://protection.office.com) i prijavite se.
-2. Izaberite stavku **obaveštenja**  >  **o obaveštenjima**.
-3. Kliknite na obaveštenje da biste prikazali stranicu sa letnjom sa informacijama o obaveštenju.
+1. Idite na [bezbednosni & centar za usaglašenost](https://protection.office.com) i prijavite se.
+2. Kliknite **na dugme upozori**  >  **Prikaz**upozorenja.
+3. Kliknite na upozorenje da biste otvorili stranicu sa informacijama o obaveštenju.
 
-Možete da preduzmete radnju na obaveštenju, kao što je [Uklanjanje pravila sumnjivog prijemnog poštanskog sandučeta](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Možete jednostavno zatvoriti obaveštenje tako što ćete kliknuti na dugme " **razreši** " na stranici "obaveštenja o obaveštenju".
+Možete da uradite nešto u vezi sa obaveštenjem, kao što [je uklanjanje sumnjivog prijemnog poštanskog sandučeta](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Možete jednostavno da zatvorite obaveštenje tako što ćete kliknuti na dugme **rešenje** na stranici obaveštenje.
 
-Više informacija o konfigurisanju smernica za obaveštenja i upravljanju njima potražite u [ovom članku](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Više informacija o konfigurisanju i upravljanju smernicama obaveštenja potražite u  [članku ovaj članak](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-**Važno**: obaveštenja putem e-pošte od korporacije Microsoft vam nikada neće zatražiti da uradite sledeće:
+**Važno**: obaveštavanje obaveštenja e-poštom od korporacije Microsoft nikada vam neće zatražiti da uradite sledeće:
 
-- Obezbedite lozinku
-- Proverite detalje o bezbednosti naloga
-- Ponovo provjeri autentičnost
+- Obezbeđivanje lozinke
+- Verifikacija bezbednosnih detalja naloga
+- Ponovo potvrdite sebe
 
-Ako primite e-poruku kao što je ova, Microsoft je nije poslao i trebalo bi da se smatra phishing prevara. Ako se to desi, [Prijavite ga korporaciji Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Ako primite e-poruku kao što je ova, Microsoft nije poslao Microsoft i treba da se smatra phishing prevarom. Ako se to desi, [Prijavite ga korporaciji Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
