@@ -1,10 +1,11 @@
 ---
-title: Kako da vratim obrisan eeam ili kanal
+title: Kako da vratim izbrisani eeam ili kanal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: efd2b09a93fb7a44c0dea7933bb9d02524bb1082
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328838"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705025"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>Vraćanje u prethodno stanje izbrisanih timova ili kanala
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Kako da vratite izbrisani tim ili kanal
 
-Više informacija potražite u članku [Vraćanje izbrisanih timova u Microsoft timovima](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Više informacija potražite u članku [Vraćanje u prethodno stanje u programu Microsoft Team](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
-Izbrisani kanali unutar tima mogu se vratiti u prethodno stanje do 21 dana nakon brisanja kanala.
+Izbrisani kanali u okviru tima mogu da se vrate do 21 dana nakon brisanja kanala.
 
-Da biste povratili izbrisani kanal, vlasnik tima može da uradi sledeće:
+Da biste oporavili izbrisani kanal, vlasnik tima može da uradi sledeće:
 
-1. Otvorite postavke tima tako što ćete izabrati tri tačke sa desne strane imena tima.
-2. Potvrdite izbor u polju " **Upravljaj** > **kanalima** > timova za tim", a zatim izaberite stavku " **Vrati** na**desno".**
+1. Otvorite postavke tima tako što ćete izabrati 3 tačke sa desne strane imena tima.
+2. Izaberite stavku **Upravljaj**  >  **kanalima**tima  >  **Deleted**, a zatim izaberite **Vrati** sa desne strane.
 
-Više informacija potražite u članku [Vraćanje izbrisanih timova u Microsoft timovima](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Više informacija potražite u članku [Vraćanje u prethodno stanje u programu Microsoft Team](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
