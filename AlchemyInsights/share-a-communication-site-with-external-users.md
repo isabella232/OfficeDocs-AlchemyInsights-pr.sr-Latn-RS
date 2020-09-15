@@ -1,32 +1,33 @@
 ---
-title: Deljenje lokacije za komunikaciju sa spoljnim korisnicima
+title: Deljenje sajta za komunikaciju sa spoljnim korisnicima
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767515"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653779"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Deljenje lokacije za komunikaciju sa spoljnim korisnicima
+# <a name="share-a-communication-site-with-external-users"></a>Deljenje sajta za komunikaciju sa spoljnim korisnicima
 
-Da biste uključili deljenje spoljnog korisnika za lokacije za komunikaciju, sledite ove korake: 
+Da biste uključili deljenje spoljnog korisnika za lokacije komunikacije, slijedite ove korake: 
   
-1. Otvaranje **modernog administratorskog centra** -ako ste u klasičnom admin centru, videćete **ga sada** ili * * probajte pregled * * sa gornje desne strane. Ovo će vas odvesti do modernog administratorskog centra. 
+1. Otvorite **moderni centar administracije** – ako ste u klasičnom centru administracije, videćete sada da biste **ga pokušali** ili * * isprobajte pregled * * sa gornje desne strane. To će vas odneti u moderni centar administracije. 
   
-2. Izaberite **aktivne lokacije.**
+2. Izaberite stavku **aktivne lokacije.**
   
-3. Izaberite lokaciju koja sadrži **predložak lokacije za komunikaciju**. 
+3. Izaberite sajt sa **predloškom za komunikaciju**. 
   
-4. U gornjem meniju izaberite dugme za **Deljenje** . 
+4. Izaberite dugme **Deljenje** iz gornjeg menija. 
   
- **Napomena:** Ako je izabrano više od jedne lokacije, dugme za **Deljenje** će biti onemogućeno. Izaberite samo jednu lokaciju. 
+ **Napomena:** Ako je izabrano više lokacija, dugme za **Deljenje** će izgledati neomogućeno. Izaberite samo jednu stranicu. 
   
 

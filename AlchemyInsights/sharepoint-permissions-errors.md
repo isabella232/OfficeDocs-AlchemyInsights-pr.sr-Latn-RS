@@ -1,25 +1,26 @@
 ---
-title: Greške SharePoint dozvola
+title: Greške u SharePoint dozvolama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 598c2262da908d8b836662ccc1e4d05e6d2a2a88
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182748"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653410"
 ---
-# <a name="sharepoint-permissions-errors"></a>Greške SharePoint dozvola
+# <a name="sharepoint-permissions-errors"></a>Greške u SharePoint dozvolama
 
-Postoji mnogo scenarija koji mogu da zatraže jednu od ovih poruka. Najčešće su dozvole za korisnika ili administratora nepravilno konfigurisane ili uopšte nisu konfigurisane. 
+Postoji mnogo scenarija koji mogu da odšalju jednu od ovih poruka. Dozvole za korisnika ili administratora najčešće se konfigurišu ili uopšte ne konfigurišu. 
 
-Za više informacija pogledajte odeljak "[pristup je odbijen" "potrebna vam je dozvola za pristup ovoj lokaciji" ili "korisnik nije pronađen u direktorijumu" greške u sistemu SharePoint Online i OneDrive za posao](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Više informacija potražite u članku "[pristup je odbijen", "potrebna vam je dozvola za pristup ovoj lokaciji" ili "korisnik koji nije pronađen u katalogu" u sistemu SharePoint Online i OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
