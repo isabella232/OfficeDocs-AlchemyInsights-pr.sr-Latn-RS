@@ -1,29 +1,30 @@
 ---
-title: Vlasti BI izveštaj Server proizvoda
+title: Product key šifra proizvoda za Power BI izveštaj
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753511"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801963"
 ---
-# <a name="power-bi-report-server-product-key"></a>Vlasti BI izveštaj Server proizvoda
+# <a name="power-bi-report-server-product-key"></a>Product key šifra proizvoda za Power BI izveštaj
 
-Ako ste kupili Premium BI vlast, unutar karticu **Premium postavke** napajanja BI admin portala imate pristup vlasti BI izveštaj Server proizvoda. Ovo je dostupna samo za globalne Admini ili korisnicima dodeljuju ulogom administratora usluge BI vlast.
+Ako ste kupili Power BI Premium, u okviru kartice **Premium postavke** na Power bi administratoru portala imate pristup kartici proizvoda Power bi izveštaja. Ovo je dostupno samo za opšte administratore ili korisnicima dodeljena uloga administratora Power BI usluge.
 
-Izborom **napajanja BI izveštaj Server ključa** prikazuje dijalog koji sadrži šifru proizvoda. Možete ga kopirati i koristite sa instalacijom.
+Izbor **šifre servera Power bi report** prikazuje dijalog koji sadrži šifru proizvoda. Možete da ga kopirate i koristite uz instalaciju.
 
-Imate ugovor o SQL Server Enterprise SA, da li proizvoda iz [Volume Licensing servisni centar](https://www.microsoft.com/Licensing/servicecenter/).
+Ako imate SQL Server Enterprise SA ugovorom, šifru proizvoda možete da nabavite iz [centra za usluge količinskog licenciranja](https://www.microsoft.com/Licensing/servicecenter/).
 
-Za više informacija:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Za više informacija: https://docs.microsoft.com/power-bi/report-server/install-report-server

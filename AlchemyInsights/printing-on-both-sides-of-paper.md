@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289576"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801891"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Štampanje na obe strane papira (obostrano štampanje)
 
 **Da li je moj štampač sposoban za obostrano štampanje?**
 
-Rezime funkcije štampača ili priručnik treba da vam kaže da li je sposoban da štampa sa obe strane papira, takođe poznat kao "obostrano štampanje". Ako imate Microsoft Office, drugi način da saznate jeste da otvorite Office aplikaciju kao što je Word ili Excel, tako što ćete se postarati za **> štampanje**, uverite se da je izabran pravi štampač i potražiti mogućnost u odeljku "Postavke". Na primer: 
+Rezime ili ručni rad štampača trebalo bi da vam istakne da li je sposoban da štampa sa obe strane papira, poznat i kao "obostrano štampanje". Ako imate Microsoft Office, drugi način da to saznate je da otvorite Office aplikaciju kao što je Word ili Excel, da biste **> odštampali**, da biste se uverili da je izabran pravi štampač i da potražite mogućnosti u odeljku postavke. Na primer: 
 
 ![Postavke štampača](media/print-settings.png)
 
-**Obostrano štampanje u programu Microsoft Office**
+**Obostrano štampanje u sistemu Microsoft Office**
 
-Ako vaš štampač može da štampa sa obe strane, kada odete u **datoteku > odštampati** u aplikaciji Office, videćete opciju "Štampaj sa obe strane", kao što je prikazano u gornjem primeru.  Izaberite tip obostranog štampanja koji želite (okretanje na duge ivice ili okretanje na kratke ivice), a zatim kliknite na dugme **Odštampaj** da biste pokrenuli odštampani otisak.
+Ako je štampač u stanju da štampa sa obe strane, kada odete u **datoteku > Štampaj** u Office aplikaciji, videćete opciju "Štampaj na obe strane", kao što je prikazano u gorenavedenom primeru.  Izaberite željeni tip obostrano štampanja (Flip na dugu ivicu ili okreni kratku ivicu) i kliknite na dugme **Odštampaj** da biste pokrenuli štampanje.
 
 **Obostrano štampanje iz bilo koje aplikacije**
 
-U mnogim aplikacijama prilikom štampanja videćete opšti dijalog za štampanje koji izgleda ovako: 
+U mnogim aplikacijama prilikom štampanja videćete opšti dijalog štampanja koji izgleda ovako: 
 
-![Dijalog "Štampanje"](media/print-dialog.png)
+![Štampanje dijaloga](media/print-dialog.png)
 
-Uverite se da je izabran pravi štampač, a zatim kliknite na dugme " **željene postavke** " da biste otvorili prozor željene postavke štampača. Ako je štampač sposoban za obostrano štampanje, mogućnost omogućavanja ovog zadatka za štampanje će se prikazati u tom prozoru.
+Uverite se da je izabran pravi štampač, a zatim izaberite stavku **željene postavke** da biste otvorili prozor željene postavke štampača. Ako štampač može obostrano da se odštampa, mogućnost da to omogućite za trenutni posao štampanja prikazaće se u tom prozoru.
