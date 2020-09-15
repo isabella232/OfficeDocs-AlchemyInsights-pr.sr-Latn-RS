@@ -1,11 +1,12 @@
 ---
-title: 8000071 Outlook.com popravljanje e-poruke sinhronizacija-francuski
+title: 8000071 Outlook.com fix sinhronizacija e-pošte – FRANCUSKO
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,15 +16,15 @@ ms.custom:
 - "1147"
 - "1148"
 - "8000071"
-ms.openlocfilehash: b28c449c398fe5e7c2aec1894cef5fdacbe3b2d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 072e7103aaefb96e6d1a74f517793a865346619c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722066"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671782"
 ---
-# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Résupdre problèmes de Sinhrona des poruke
+# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Rйsudre Les proveravaj de sinhronizacije poruka
 
-Si Ru pouvez pas envoer u recevoir des courriers électronieti, a ne peut pas se konekter à Outlook.com, [essajejz ces Solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
+Mi vous ne podok pas Envoyer vas recevoir des courriers йletron oniques, vi ne peut pas se konektora za Outlook.com, [essayez rešenja](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Si Login pouvez pas rekonekter à je Hotmail Ou Outlook.com, découvrez [komentar se konekter Ou se dekonekter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Vi vous ne pouvez pas vous veza cter a votre Hotmail u Outlook.com, dacouvrez [komentarišete povezivanje](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)sa uslugom Outlook.com.

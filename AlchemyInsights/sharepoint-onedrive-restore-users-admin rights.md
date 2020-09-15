@@ -1,27 +1,28 @@
 ---
-title: Rešavanje problema sa programom Access je zabranio poruke za poslovne lokacije u usluzi OneDrive
+title: Rešavanje problema sa pristupom usluzi OneDrive for Business sajtovima
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 95bd46e8b7a6006f3735612d9a5602fb2b2a283b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9001cf0b7d9f1f05a2ecedca2c3137dd1b8a1c38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511198"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670630"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Rešavanje problema sa programom Access je zabranio poruke za poslovne lokacije u usluzi OneDrive
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Rešavanje problema sa pristupom usluzi OneDrive for Business sajtovima
 
-Do ovog problema najčešće dolazi kada se korisnik izbriše i ponovo kreira sa istim glavnim korisničkim imenom (UPN). Novi nalog se kreira koristeći drugačiju PUID (Passport jedinstveni ID) vrednost. Kada korisnik pokuša da pristupi kolekciji lokacija ili usluzi OneDrive, korisnik ima neispravan PUID. Drugi scenario uključuje sinhronizaciju direktorijuma sa organizacionom jedinicom aktivnog direktorijuma (OU). Ako su korisnici već prijavljeni na SharePoint, a zatim se premeštaju u drugu i ponovo povezani sa SharePoint, može doći do ovog problema.
+Ovaj problem se najčešće javlja kada je korisnik izbrisan i ponovo kreiran sa istim direktorom glavnog imena (UPN). Novi nalog se kreira pomoću različitog korisničkog polja (Passport unikatni ID). Kada korisnik pokuša da pristupi kolekciji lokacija ili svom OneDrive, korisnik ima neispravni PUID. Drugi scenario uključuje sinhronizaciju direktorijuma sa organizacionim jedinicama aktivnog direktorijuma (OU). Ako su se korisnici već prijavili u sistemu SharePoint, a zatim se premeštaju u drugačiji a i ponovo sinhronizuju sa sistemom SharePoint, oni mogu da doћive ovaj problem.
 
-1. Da biste rešili ovaj problem, trebalo bi da vratite originalni UPN sa koracima u članku, [vratite korisnika u aplikaciji Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
-2. Ako ne možete da vratite prvobitni korisnik u prethodno stanje, trebalo bi da uklonite starog korisnika sa lokacije OneDrive koristeći ove korake, [uklonite korisnika sa liste korisničkih informacija](). 
-3. Kada se to uradi, možete da proverite da li korisnik ima administratorska prava za OneDrive lokaciju tako što ćete slediti korake za [Dodavanje admin-a za korisnike usluge OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles)
+1. Da biste rešili ovaj problem, trebalo bi da vratite originalni UPN sa koracima u članku, [vratite korisnika u prethodno stanje u usluzi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+2. Ako ne možete da vratite originalnog korisnika, trebalo bi da uklonite starog korisnika sa OneDrive lokacije pomoću ovih koraka, [uklonite korisnika sa liste korisničkih informacija](). 
+3. Kada to uradite, korisnik može da potvrdi administratorska prava na OneDrive sajtu tako što će pratiti korake za [Dodavanje administratora u OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles) .
 
-Više informacija o nivoima dozvola potražite u članku, [Razumevanje nivoa dozvola u sistemu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Više informacija o nivoima dozvola potražite u članku [Razumevanje nivoa dozvola u sistemu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
