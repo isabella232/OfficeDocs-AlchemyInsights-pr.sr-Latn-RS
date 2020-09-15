@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 10ef2e8fa7c564d53177a52136eb48cd709e5c55
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158524"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702629"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a><span data-ttu-id="8ecf3-102">MSCommerce zahteva nalog preduzeća ili administratora naplate</span><span class="sxs-lookup"><span data-stu-id="8ecf3-102">MSCommerce requires a Company or Billing Administrator account</span></span>
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a><span data-ttu-id="07da9-102">MSCommerce zahteva preduzeće ili administratorski nalog za naplatu</span><span class="sxs-lookup"><span data-stu-id="07da9-102">MSCommerce requires a Company or Billing Administrator account</span></span>
 
-<span data-ttu-id="8ecf3-103">MSCommerce modul zahteva nalog koji ima privilegije preduzeća ili administratora naplate.</span><span class="sxs-lookup"><span data-stu-id="8ecf3-103">The MSCommerce module requires an account with Company or Billing Administrator privileges.</span></span> <span data-ttu-id="8ecf3-104">Ako dobijate sledeću grešku, biće potrebno da se ponovo povežete sa drugim nalogom.</span><span class="sxs-lookup"><span data-stu-id="8ecf3-104">If you are receiving the following error, you will need to reconnect with a different account.</span></span>
+<span data-ttu-id="07da9-103">MSCommerce modul zahteva nalog sa privilegijama administratorskih privilegija ili administratora naplate.</span><span class="sxs-lookup"><span data-stu-id="07da9-103">The MSCommerce module requires an account with Company or Billing Administrator privileges.</span></span> <span data-ttu-id="07da9-104">Ako dobijate sledeću grešku, moraćete ponovo da se povežete sa drugim nalogom.</span><span class="sxs-lookup"><span data-stu-id="07da9-104">If you are receiving the following error, you will need to reconnect with a different account.</span></span>
 
-<span data-ttu-id="8ecf3-105">*Greška-Udaljeni server je prijavio grešku: (403) je zabranjeno. Erordetzatvori-na C:\Program Files\windowspowershell\modules\mskomercijale\1.2\mskomercijale.psm1:216 Char: 5*</span><span class="sxs-lookup"><span data-stu-id="8ecf3-105">*ErrorMessage - The remote server returned an error: (403) Forbidden. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*</span></span><br>
-<span data-ttu-id="8ecf3-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ručni Sterror-kontekst greške $ _-prilagodite poruku "nije uspjelo ponovno tri...*</span><span class="sxs-lookup"><span data-stu-id="8ecf3-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Failed to retri ...*</span></span><br>
-<span data-ttu-id="8ecf3-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span><span class="sxs-lookup"><span data-stu-id="8ecf3-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span></span><br>
-<span data-ttu-id="8ecf3-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Kategoryinfo: nije navedeno: (:) [Write-greška], pisanje u pisanju*</span><span class="sxs-lookup"><span data-stu-id="8ecf3-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException*</span></span><br>
-<span data-ttu-id="8ecf3-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Fullietidedilid: Microsoft. PowerShell. komande. oglasi za rad u obradi, ručni greška*</span><span class="sxs-lookup"><span data-stu-id="8ecf3-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*</span></span>
+<span data-ttu-id="07da9-105">*Errorporuka – Udaljeni server je vratio grešku: (403). Podaci o greškama-na C:\Program Files\windowspower, Modules\mskomerce\1.2\mskomerce.psm1:216 Char: 5*</span><span class="sxs-lookup"><span data-stu-id="07da9-105">*ErrorMessage - The remote server returned an error: (403) Forbidden. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*</span></span><br>
+<span data-ttu-id="07da9-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruleerror-ErrorContext $ _-Customerrorporuka "nije uspelo za retri...*</span><span class="sxs-lookup"><span data-stu-id="07da9-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Failed to retri ...*</span></span><br>
+<span data-ttu-id="07da9-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span><span class="sxs-lookup"><span data-stu-id="07da9-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span></span><br>
+<span data-ttu-id="07da9-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Kategoriinformacije: nije navedeno: (:) [Greška pisanja], Writeerrorizuzetak*</span><span class="sxs-lookup"><span data-stu-id="07da9-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException*</span></span><br>
+<span data-ttu-id="07da9-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Fullikvalifikacija ID-ovi: Microsoft. PowerShell. komande. Erriteerrorerr, HandleError*</span><span class="sxs-lookup"><span data-stu-id="07da9-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*</span></span>
 
-<span data-ttu-id="8ecf3-110">Ako vaš nalog nema privilegije preduzeća ili naplate administratora, obratite se IT administratoru.</span><span class="sxs-lookup"><span data-stu-id="8ecf3-110">If your account does not have Company or Billing Administrator privileges, contact your IT Admin.</span></span>
+<span data-ttu-id="07da9-110">Ako vaš nalog nema privilegije administratora za naplatu, obratite se IT administratoru.</span><span class="sxs-lookup"><span data-stu-id="07da9-110">If your account does not have Company or Billing Administrator privileges, contact your IT Admin.</span></span>
