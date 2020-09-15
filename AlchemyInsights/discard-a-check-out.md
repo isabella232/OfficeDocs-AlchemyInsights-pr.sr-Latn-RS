@@ -1,28 +1,29 @@
 ---
-title: Odbaci odjavljivanje
+title: Odbacivanje odjavljivanja
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715128"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712342"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Odbacivanje odjavne biblioteke dokumenata
+# <a name="discard-a-check-out-from-a-document-library"></a>Odbacivanje odjavljivanja iz biblioteke dokumenata
 
-1. Kliknite desnim tasterom miša na datoteku koju želite da odbacite odjavu.
+1. Kliknite desnim tasterom miša na datoteku koju želite da odbacite.
     
-2. Izaberite stavku **više**, a zatim kliknite na dugme **Odbaci odjavljivanje**. 
+2. Kliknite na dugme **još**, a zatim na dugme **Odbaci odjavljivanje**. 
     
-3. Iz dijaloga kliknite na dugme **Odbaci odjavu** da biste obrisali odjavljivanje. 
+3. U dijalogu kliknite na dugme **Odbaci odjavljivanje** da biste obrisali odjavljivanje. 
     
-Za dodatna pitanja o proveri i odjavu pogledajte odeljak [glavna pitanja o odjavu, proveri i verzijama](https://go.microsoft.com/fwlink/?linkid=2018786).
+Dodatna pitanja o prijavljivanju i odjavljivanju potražite [u članku najvažnije informacije o odjavljivanju](https://go.microsoft.com/fwlink/?linkid=2018786), prijavljivanju i verzijama.
   
 

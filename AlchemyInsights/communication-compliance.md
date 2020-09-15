@@ -1,43 +1,44 @@
 ---
-title: Usaglašenost sa komunikacijama
+title: Usaglašenost komunikacije
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706179"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713865"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Usaglašenost komunikacija u programu Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Usaglašenost u komunikaciji u programu Microsoft 365
 
-Usaglašenost sa komunikacijom je novo rešenje koje je Microsoft 365 za usaglašavanje koje organizacijama omogućava da ispunjavaju zahteve za usaglašenost sa standardima i minimizira rizike komunikacije. Zasniva se na funkciji nadzora i sadrži nova poboljšanja, uključujući:
+Usaglašenost komunikacije je novo Microsoft 365 rešenje usaglašenosti koje pomaže organizacijama da ispune zahteve za nadzorne obaveze i umanjuju rizike komunikacije. Zasnovan je na funkciji nadzora i sadrži nova poboljšanja, uključujući:
 
-- Inteligentni prilagodljivi predlošci
-- Fleksibilni tokovi posla ponovnog posredovanja
-- Akcionable opažanja
+- Inteligentni predlošci koji se mogu prilagoditi
+- Fleksibilni tokovi posla
+- Aktivni pronicljivost
 
-Ako trenutno koristite [smernice za nadzor](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), preporučujemo da sada koristite novu usaglašenost sa komunikacijama da biste rešili regulatorne potrebe.
+Ako trenutno koristite [smernice nadzora](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), preporučujemo da sada koristite novu usaglašenost komunikacije sa regulatornim potrebama za rešavanje informacija.
 
-Da biste podesili usaglašenost sa komunikacijama, pogledajte odeljak [Konfigurisanje usklađenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Da biste podesili usaglašenost u komunikaciji, pogledajte članak [Konfigurisanje usaglašenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Da biste istražili, pregledali i ponovo posredovali usaglašenost sa komunikacijama, pogledajte odeljak [Istraživanje i ponovna posredovanje obaveštenja o usaglašenosti komunikacija](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Da biste istražili, pregledali i otklonili usaglašenost komunikacije, pogledajte članak [Istraživanje i rešenja obaveštenja o usaglašenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-Za pregled funkcije usaglašenosti sa komunikacijom pogledajte odeljak [usaglašenost sa komunikacijama u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Pregled funkcije usaglašenosti komunikacije potražite [u članku usaglašenost komunikacije u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Zahtevi za licenciranje: korisnici koje nadgleda smernice za komunikaciju moraju imati jednu od sledećih radnji:
+Zahtevi za licencu: korisnici koje nadgleda komunikacione smernice moraju imati jednu od sledećih opcija:
 
-- Microsoft 365 E5 licenca za usaglašavanje
-- Office 365 Enterprise E3 licenca sa naprednim programskim dodacima za usaglašavanje
-- Office 365 Enterprise E5 pretplata
+- Microsoft 365 E5 licenca za usaglašenost
+- Office 365 Enterprise E3 licenca sa naprednim dodacima usaglašenosti
+- Office 365 Enterprise E5
 
-Ako nemate neku od gore navedenih i želite da pokušate da izvršite usaglašenost sa komunikacijama, **[Prijavite se na probnu verziju sistema Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Ako nemate nijednu od gorenavedenih i želite da pokušate usaglašenost sa komunikacijom, **[Upišite se za probnu verziju sistema Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
