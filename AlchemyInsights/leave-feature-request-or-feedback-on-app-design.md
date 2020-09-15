@@ -1,35 +1,36 @@
 ---
-title: Ostavite zahtev za funkciju ili povratnu informaciju o dizajnu aplikacija
+title: Ostavljanje zahteva za funkciju ili povratne informacije o dizajnu aplikacije
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265242"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676536"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Ostavite zahtev za funkciju ili povratnu informaciju o dizajnu aplikacija
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Ostavljanje zahteva za funkciju ili povratne informacije o dizajnu aplikacije
 
-Cenimo vas što delite svoje misli dok nastavljamo da radimo na Outlooku. *Uservoice* je forum gde možete ostavljate povratne informacije i glasati o idejama drugih.  
+Cenimo to što delite misli dok mi nastavljamo da radimo na programu Outlook. *Uservoice* je forum gde možete ostaviti povratne informacije i glasati o idejama drugih.  
 
 Da nam ostavi ideju: 
 
-**Postavke > pomoći & povratnim informacijama > Predlaganje funkcije > objavi ideju** 
+**Postavke > pomoć & povratne informacije > predloži da funkcija > objavi ideju** 
 
-**Briga kako se vaše ime/e-pošta prikazuje?**
+**Briga kako se prikazuje ime/e-pošta?**
 
-Kada dodate komentar postojećem zahtevu za funkciju, aplikacija će automatski popuniti vaše ime ili e-adresu iz primarnog naloga koji je podešen u aplikaciji. Potrebno je da prosledite **novi** zahtev za opciju da biste izabrali ime koje će se prikazivati. 
+Kada dodate komentar u postojeći zahtev za karakteristiku, aplikacija će automatski popuniti vaše ime ili e-adresu sa primarnog naloga koji je podešen u aplikaciji. Da biste odabrali ime koje se prikazuje, morate da prosledite **novi** zahtev za funkciju. 
 
-Podnošenje zahteva je jednostavan proces od tri koraka. Na trećoj i poslednjoj stranici, videćete red za svoju e-adresu (potrebno) i liniju za vaše ime. Ovde možete odabrati kako će se prikazivati ime ili možete da je prosledite anonimno. 
+Prosleđivanje zahteva je jednostavan proces od 3 koraka. Na trećem i kraju stranice videćete red za e-adresu (obavezno) i liniju za vaše ime. Ovde možete da izaberete kako će vaše ime biti prikazano ili možete da prosledite ideju anonimno. 
 
-**Napomena:** Možda će biti potrebno da promenite e-adresu koja je automatski popunjena na ovoj stranici. Ako je vaše ime podešeno na određeni način u okviru postavki klijenta e-pošte, promena povratnih informacija može biti zamenjena vašim postavkama. 
+**Napomena:** Možda ćete morati i da promenite adresu koja se popunjava na ovoj stranici. Ako je vaše ime postavljeno na određeni način u okviru postavki vašeg klijenta e-pošte, postavke ćete promeniti na anonimne povratne informacije. 

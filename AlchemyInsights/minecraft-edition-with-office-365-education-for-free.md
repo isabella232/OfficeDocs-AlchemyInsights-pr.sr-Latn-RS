@@ -1,38 +1,39 @@
 ---
-title: Besplatan izdanje sa Office 365 obrazovanjem
+title: Minecraft izdanje sa Office 365 Edukacionim slobodnim
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579663"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674124"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Besplatan izdanje sa Office 365 obrazovanjem
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft izdanje sa Office 365 Edukacionim slobodnim
 
-[Besplatan izdanje sa Office 365 obrazovanjem](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft izdanje sa Office 365 Edukacionim slobodnim](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecsplav: obrazovni** program zahteva Windows 10
+- **Minecraft: obrazovanje** zahteva Windows 10
 
-- Pokušaji ili pretplate na **Minecsplav: obrazovanje** se nudi za obrazovne stanare kojima upravlja Azure Active Directory (Azure AD)
+- Sudske procese ili pretplate na **Minecraft: edukacija izdanja** kojima upravlja Azure Active Directory (AZURE AD)
 
-  - Ako vaša škola nema [Azurnu reklamu, IT administrator može da postavi jednu](https://docs.microsoft.com/education/windows/school-get-minecraft) ulogu kao deo procesa dobijanja **minecsplav: edukacija**.
+  - Ako vaša škola nema Azure OGLAŠATICE, [IT administrator može da je podesi](https://docs.microsoft.com/education/windows/school-get-minecraft) kao deo procesa dobijanja **Minecraft: edukacija**.
 
-  - Office 365 obrazovanje, koje uključuje online verzije Microsoft 365 aplikacija plus 1 TB online skladište besplatno je za nastavnike i studente. [Prijavite se u školu za Office 365 obrazovanje](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 obrazovanje, koje uključuje verzije Microsoft 365 aplikacija plus 1 TB na mreži je besplatno za nastavnike i studente. [Upisivanje škole za Office 365 obrazovanje](https://products.office.com/academic/office-365-education-plan).
 
-  - Ako vaša škola ima pretplatu za Office 365, ona obuhvata besplatnu Azure pretplatu za OGLAŠAVANJE. [Registrujte besplatan pretplatničku pretplatu](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Ako školska škola ima pretplatu na Office 365, ona sadrži besplatnu Azure reklamu pretplatu. [Registrujte besplatnu pretplatu na Azure oglas](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Saznajte kako nastavnici mogu da dobiju i distribuiraju Minecsplav: edukacija](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Saznajte kako nastavnici mogu da dobiju i distribuiraju Minecraft: edukacija](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Saznajte kako administratori mogu da dobiju i distribuiraju mini-izdanja: obrazovanje](https://docs.microsoft.com/education/windows/school-get-minecraft)i kako da upravljate dozvolama za mini-splav.
+[Saznajte kako administratori mogu da dobiju i distribuiraju Minecraft: izdanje](https://docs.microsoft.com/education/windows/school-get-minecraft)i kako da upravljate dozvolama za Minecraft.

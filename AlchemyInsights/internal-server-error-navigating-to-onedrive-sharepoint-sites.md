@@ -1,36 +1,37 @@
 ---
-title: Problemi sa performansama-SharePoint ili OneDrive
+title: Problemi sa performansama – SharePoint ili OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763159"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677184"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Unutrašnja greška servera prilikom kretanja na SharePoint ili OneDrive lokacije
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Interna greška na serveru prilikom navigacije na SharePoint ili OneDrive lokacijama
 
-Prilikom pokušaja da se kreću do SharePoint ili OneDrive lokacija, korisnici mogu dobiti grešku 500 unutrašnjeg servera. 
+Korisnici mogu da prime 500 unutrašnju grešku prilikom pokušaja da se kreću na SharePoint ili OneDrive lokacijama. 
 
-Pokušajte da obrišete keš za pregledač pre nego što se krećete na lokaciju.
+Pokušajte da obrišite keš pregledača pre nego što se vratite na stranicu.
 
 
-1. U pregledaču Microsoft Edge idite na više... > postavke
+1. U Microsoft Edge pregledaču idite na stavku još... > postavke
 
-2. U okviru stavke Obriši podatke o pregledanju izaberite stavku **Izaberi šta da obrišete**
+2. U okviru Izbriši podatke o pregledanju izaberite stavku **Odaberite šta da obrišete**
 
-3. Potvrdite izbor u polju za potvrdu kolačići i sačuvani podaci o Veb lokacijama i izaberite opciju **Obriši**.
+3. Potvrdite izbor u polju za potvrdu kolačići i sačuvani podaci za Veb lokacije i izaberite stavku **čisti**.
 
-Napomena: Ovi koraci mogu se razlikovati kada koriste druge pregledače kao što su Firefox ili Chrome.
+Napomena: Ovi koraci mogu da se razlikuju prilikom korišćenja drugih pregledača kao što su Firefox ili Chrome.
 
-Ako ovo ne reši problem, možete da proverite da li je na vašem računaru došlo do aktivnog održavanja kada se krećete do centra za [poruke](https://portal.office.com/adminportal/home#/MessageCenter).
+Ako to ne reši problem, možete da potvrdite da li postoji aktivno održavanje na zakupcu tako što ćete se navigacija do centra za [poruke](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Na kraju, uverite se da ste posetili stranicu " [zdravstvo usluge](https://portal.office.com/adminportal/home#/servicehealth) " da biste proverili da li postoje neki savetnici/incidenti koji se mogu naići.
+Na kraju, uverite se da posećujete stranicu " [zdravlje usluge](https://portal.office.com/adminportal/home#/servicehealth) " da biste proverili da li postoje saveti/incidenti koji se možda dešavaju.
 
