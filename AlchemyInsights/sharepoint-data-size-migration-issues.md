@@ -1,9 +1,10 @@
 ---
-title: Problemi prilikom migriranja podataka u SharePoint online
+title: Problemi sa migriranjem podataka u SharePoint online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552935"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700901"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemi prilikom migriranja podataka u SharePoint online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemi sa migriranjem podataka u SharePoint online
 
-**Migriranje preko 100TB podataka**
+**Migriranje preko 100 TB podataka**
 
-Čini se da migrirate preko 100TB podataka na SharePoint online. Pratite dolenavedene korake da bismo vam mogli pomoći u najkraćem mogućem roku. 
+Izgleda da migriram preko 100 TB podataka u SharePoint online. Pratite dolenavedene korake da biste mogli da vam pomognemo što je pre moguće. 
 
-1. Izaberite **novi zahtev za servis**, a zatim **novi zahtev za servis**. 
-2. Ostavite naslov i opis kao **SharePoint migraciju preko 100TB**.
-3. Kada se karta prosledi, ažurirajte je sledećim informacijama: 
+1. Izaberite stavku **novi zahtev za uslugom**, a zatim **novi zahtev za uslugom**. 
+2. Ostavite naslov i opis kao **prenos SharePoint migracije preko 100 TB**.
+3. Kada se ulaznica prosledi, ažurirajte je pomoću sledećih informacija: 
 
     - Procenjena veličina migracije.
-    - Procena kada biste želeli da započnete i dovršite migraciju.
-    - Opišite mesto na koje želite da migrirate sadržaj, kao što je SharePoint Server, box, Gdisk, deljeni resursi datoteka itd...
+    - Procena kada želite da započnete i dovršite migraciju.
+    - Opiљi gde migrirate sadržaj iz, na primer, SharePoint Server, box, GDrive, deljene datoteke itd.

@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,33 +13,33 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054139"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700757"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Vraćanje izbrisanih stavki iz sistema SharePoint
 
-Kada izbrišete stavku ili lokaciju iz sistema SharePoint, ona se ne uklanja odmah. Izbrisane stavke idu u korpu za otpatke na vremenski period. U tom trenutku možete vratiti stavke koje ste izbrisali na njihovu prvobitnu lokaciju. Za više informacija posetite dolenavedena linka.
+Kada izbrišete stavku ili sajt iz sistema SharePoint, oni se ne uklanjaju odmah. Izbrisane stavke idu u korpu za otpatke tokom određenog vremenskog perioda. Tokom tog vremena stavke koje izbrisali možete da vratite na originalnu lokaciju. Više informacija potražite u dolenavedenoj vezi.
 
-- [Vraćanje stavki u korpu za otpatke na SharePoint lokaciji](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Vraćanje stavki u korpu za otpatke SharePoint lokacije](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [Vraćanje izbrisanih datoteka ili fascikli u OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Vraćanje izbrisanih datoteka ili fascikli u usluzi OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 - [Brisanje stavki ili Pražnjenje korpe za otpatke](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-- [Vraćanje izbrisane kolekcije lokacija (uključujući grupu, komunikaciju i druge lokacije)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection )
+- [Vraćanje izbrisane kolekcije lokacija (uključujući grupu, komunikaciju i druge lokacije)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
 
-- [Vraćanje izbrisane OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- [Vraćanje izbrisane OneDrive usluge u prethodno stanje](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
 - [SharePoint online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Funkcija "Oporavak datoteka"**
+**Funkcija vraćanja datoteka u prethodno stanje**
 
-Ako se veliki broj vaših OneDrive ili SharePoint datoteka izbriše, zamenjuje, oštećuju ili zarazi malverom, možete da vratite celu OneDrive ili SharePoint biblioteku u prethodno stanje pomoću funkcije "Oporavak datoteka".
+Ako se mnogo vaše OneDrive ili SharePoint datoteke brišu, prepišu, oštete ili zaražene malverom, možete da vratite celokupnu OneDrive ili SharePoint biblioteku na prethodno vreme pomoću funkcije Restore Restore datoteke.
 
-- [Vraćanje u OneDrive biblioteku](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Vraćanje OneDrive biblioteke](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Vraćanje biblioteke dokumenata u prethodno stanje](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [Vraćanje biblioteke dokumenata](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
