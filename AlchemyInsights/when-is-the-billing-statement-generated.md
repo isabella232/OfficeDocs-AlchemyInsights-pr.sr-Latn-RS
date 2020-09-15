@@ -1,11 +1,12 @@
 ---
-title: Kada je generisan izvod naplate?
+title: Kada se generiše izvod naplate?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431231"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719211"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Kada je generisan izvod naplate
+# <a name="when-is-the-billing-statement-generated"></a>Kada se generiše izvod naplate
 
-Datum izvoda je podešen na dan u mesecu nakon kreiranja naloga. Na primer, ako ste kreirali svoj nalog 20 januara, datum izvoda je postavljen na 21 za svaki naredni mesec.
+Datum izjave je podešen na dan u mesecu nakon kreiranja naloga. Na primer, ako ste kreirali nalog na 20., datum izjave je podešen na 21.
 
-Dodatni troškovi koji se javljaju tokom aktivnog ciklusa naplate uključeni su u fakturu za sledeći mesec. Datumi početka i završetka ciklusa naplate za svaku fakturu navedeni su u **rezimeu fakturisanja** fakture.
+Dodatne troškove koji se javljaju tokom aktivnog ciklusa naplate koji se pojavljuju u fakturi za sledeći mesec. Početni i krajnji datumi ciklusa naplate za svaku fakturu navedeni su u **rezimeu naplate** fakture.
 
-Kreditna kartica i/ili račun u banci (gde je primenljivo) uplate se rešavaju dan nakon **datuma fakture**.
+Kreditna kartica i/ili račun u banci (gde je primenljivo) dan nakon **datuma fakture**.
   
-Da biste saznali više, pogledajte odeljak [razumevanje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Da biste saznali više, pogledajte članak [razumevanje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
