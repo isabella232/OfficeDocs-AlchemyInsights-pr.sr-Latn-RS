@@ -1,34 +1,35 @@
 ---
-title: Povezivanje lokacije čvorišta
+title: Povežite sajt čvorišta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407292"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715755"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a><span data-ttu-id="38843-102">Poveži postojeću lokaciju sa lokacijom čvorišta</span><span class="sxs-lookup"><span data-stu-id="38843-102">Associate existing site with a hub site</span></span>
+# <a name="associate-existing-site-with-a-hub-site"></a><span data-ttu-id="61394-102">Povezivanje postojeće Veb lokacija sa lokacijom čvorišta</span><span class="sxs-lookup"><span data-stu-id="61394-102">Associate existing site with a hub site</span></span>
 
-<span data-ttu-id="38843-103">Postupite na sledeći način da biste postojeću lokaciju povezali sa lokacijom čvorišta:</span><span class="sxs-lookup"><span data-stu-id="38843-103">To associate an existing site with your hub site, do the following:</span></span>
+<span data-ttu-id="61394-103">Da biste povezali postojeću sajt sa lokacijom čvorišta, uradite sledeće:</span><span class="sxs-lookup"><span data-stu-id="61394-103">To associate an existing site with your hub site, do the following:</span></span>
   
-1. <span data-ttu-id="38843-104">Na vašoj lokaciji izaberite **Postavke** (ikonu "oprema" u gornjem desnom uglu), a zatim izaberite **informacije o lokaciji**.</span><span class="sxs-lookup"><span data-stu-id="38843-104">On your site, select **Settings** (the gear icon in the top right corner), and then select **Site information**.</span></span>
+1. <span data-ttu-id="61394-104">Na svojoj stranici izaberite stavke **Postavke** (ikona zupčanika u gornjem desnom uglu), a zatim izaberite **informacije o sajtu**.</span><span class="sxs-lookup"><span data-stu-id="61394-104">On your site, select **Settings** (the gear icon in the top right corner), and then select **Site information**.</span></span>
 
-2. <span data-ttu-id="38843-105">U prozoru " **uređivanje informacija o lokaciji** ", u meniju " **Povezivanje lokacije čvorišta** " izaberite lokaciju čvorišta koju želite da pridružite lokaciji, a zatim kliknite na dugme **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="38843-105">In the **Edit site information** panel, in the **Hub site association** menu, select the hub site that you want to associate with your site, and then click **Save**.</span></span> <span data-ttu-id="38843-106">Izgled vaše lokacije će se promeniti tako da se podudara sa lokacijom čvorišta, a traka za navigaciju lokacije čvorišta će se pojaviti na vrhu.</span><span class="sxs-lookup"><span data-stu-id="38843-106">The look of your site will change to match that of the hub site and the hub site navigation bar will appear at the top.</span></span>
+2. <span data-ttu-id="61394-105">Na tabli za **uređivanje informacija o sajtu** , u meniju " **asocijacija čvorišta** " izaberite sajt čvorišta koje želite da povežete sa lokacijom, a zatim kliknite na dugme **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="61394-105">In the **Edit site information** panel, in the **Hub site association** menu, select the hub site that you want to associate with your site, and then click **Save**.</span></span> <span data-ttu-id="61394-106">Izgled sajta će se promeniti tako da se podudara sa lokacijom čvorišta i traka za navigaciju na lokaciji čvorišta će se pojaviti na vrhu.</span><span class="sxs-lookup"><span data-stu-id="61394-106">The look of your site will change to match that of the hub site and the hub site navigation bar will appear at the top.</span></span>
 
-><span data-ttu-id="38843-107">**Beleške**</span><span class="sxs-lookup"><span data-stu-id="38843-107">**Note**</span></span>
+><span data-ttu-id="61394-107">**Cedu**</span><span class="sxs-lookup"><span data-stu-id="61394-107">**Note**</span></span>
 >
-><span data-ttu-id="38843-108">Ako opcija "povezivanje lokacije čvorišta" nije prisutna ili nema navedenih lokacija, lokacije čvorišta možda nisu omogućene ili možda nemate dozvolu da povežete lokacije sa lokacijom čvorišta.</span><span class="sxs-lookup"><span data-stu-id="38843-108">If the Hub site association option is not present or no sites are listed there, hub sites may not be enabled or you may not have permission to associate sites with a hub site.</span></span> <span data-ttu-id="38843-109">Za više informacija obratite se administratoru.</span><span class="sxs-lookup"><span data-stu-id="38843-109">Contact your administrator for more information.</span></span>
+><span data-ttu-id="61394-108">Ako opcija povezivanja lokacije čvorišta nije prisutan ili nije navedena nijedna lokacija tamo, lokacije čvorišta možda neće biti omogućene ili nemate dozvolu da povežete lokacije sa lokacijom čvorišta.</span><span class="sxs-lookup"><span data-stu-id="61394-108">If the Hub site association option is not present or no sites are listed there, hub sites may not be enabled or you may not have permission to associate sites with a hub site.</span></span> <span data-ttu-id="61394-109">Obratite se administratoru za više informacija.</span><span class="sxs-lookup"><span data-stu-id="61394-109">Contact your administrator for more information.</span></span>
 >
-><span data-ttu-id="38843-110">Ne postoji ograničenje za broj lokacija koje mogu da se povezuju sa lokacijom čvorišta.</span><span class="sxs-lookup"><span data-stu-id="38843-110">There is no limit to the number of sites that can be associated with a hub site.</span></span>
+><span data-ttu-id="61394-110">Ne postoji ograničenje broja sajtova koji se mogu povezati sa lokacijom čvorišta.</span><span class="sxs-lookup"><span data-stu-id="61394-110">There is no limit to the number of sites that can be associated with a hub site.</span></span>
   
