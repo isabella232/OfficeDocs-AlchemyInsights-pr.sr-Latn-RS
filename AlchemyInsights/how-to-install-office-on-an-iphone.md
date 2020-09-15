@@ -1,27 +1,27 @@
 ---
-title: Kako instalirati Office na iPhone
+title: Kako da instaliram Office na iPhone uređaju
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 1dbfe6151fefd812281009dc68c39474dadf1203
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2da851956f7de295895ccc5e52c30538796c4f77
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759202"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704107"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="3e6fa-102">Kako instalirati Office na iPhone</span><span class="sxs-lookup"><span data-stu-id="3e6fa-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="b7783-102">Kako da instaliram Office na iPhone uređaju</span><span class="sxs-lookup"><span data-stu-id="b7783-102">How to install Office on an iPhone</span></span>
 
-- <span data-ttu-id="3e6fa-103">Neka korisnik [tapnete na vezu za preuzimanje](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) sa svog mobilnog uređaja, u programima Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="3e6fa-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="b7783-103">Neka korisnik [Dodirnite povezivanje preuzimanja](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) sa mobilnog uređaja, za Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="b7783-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="3e6fa-104">Neka korisnik pokrene aplikaciju **, tapnite i** unesite njihove radne ili školske akreditive.</span><span class="sxs-lookup"><span data-stu-id="3e6fa-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="b7783-104">Neka korisnik pokrene aplikaciju, dodirnite stavku **Prijavi se** i unesite njihov poslovni ili školski akreditivi.</span><span class="sxs-lookup"><span data-stu-id="b7783-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
