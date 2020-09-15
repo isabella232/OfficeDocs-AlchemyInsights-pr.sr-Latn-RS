@@ -6,21 +6,22 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: 165417510a0b7d19ddbd7afefff9cd12713e90da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43686624"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668505"
 ---
-# <a name="access-services"></a><span data-ttu-id="15c26-102">Access usluge</span><span class="sxs-lookup"><span data-stu-id="15c26-102">Access Services</span></span>
+# <a name="access-services"></a><span data-ttu-id="b4198-102">Access usluge</span><span class="sxs-lookup"><span data-stu-id="b4198-102">Access Services</span></span>
 
-<span data-ttu-id="15c26-103">Funkcija pristupa uslugama na lokaciji SharePoint online je u penziji.</span><span class="sxs-lookup"><span data-stu-id="15c26-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="15c26-104">Nove Web aplikacije i Web baze podataka zasnovane na programu Access više ne mogu da se kreiraju, a postojeće Web aplikacije i Web baze podataka biće zatvorena do aprila, 2018.</span><span class="sxs-lookup"><span data-stu-id="15c26-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="15c26-105">Ova promena ne utiče na Access baze podataka na radnoj površini (. accdb).</span><span class="sxs-lookup"><span data-stu-id="15c26-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="15c26-106">Preporučujemo Microsoft PowerApps kao alternativu pristupu Web aplikacijama i Web bazama podataka.</span><span class="sxs-lookup"><span data-stu-id="15c26-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
+<span data-ttu-id="b4198-103">Funkcija Access Services u usluzi SharePoint online se penzionisala.</span><span class="sxs-lookup"><span data-stu-id="b4198-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="b4198-104">Nove Veb aplikacije zasnovane na operativnom sistemu Access i Veb baze podataka više ne mogu da se kreiraju, a postojeće Veb aplikacije i Veb baze podataka će biti zatvorene do aprila, 2018.</span><span class="sxs-lookup"><span data-stu-id="b4198-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="b4198-105">Ovu promenu ne utiče na Access baze podataka na radnoj površini (. accdb).</span><span class="sxs-lookup"><span data-stu-id="b4198-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="b4198-106">Preporučujemo da Microsoft PowerApps bude alternativa za pristup Veb aplikacijama i Veb bazama podataka.</span><span class="sxs-lookup"><span data-stu-id="b4198-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
   
-[<span data-ttu-id="15c26-107">Saznajte više o Microsoft Poweraplikacijama</span><span class="sxs-lookup"><span data-stu-id="15c26-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
+[<span data-ttu-id="b4198-107">Saznajte više o Microsoft PowerApps programima</span><span class="sxs-lookup"><span data-stu-id="b4198-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
   
