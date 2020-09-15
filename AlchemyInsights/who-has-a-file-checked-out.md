@@ -1,30 +1,31 @@
 ---
-title: Ko je odjavio datoteku?
+title: Ko je provjerio datoteku?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 1f834d972829aa643edd90f7ae2419b402e3a8f5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765139"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699209"
 ---
-# <a name="who-has-a-file-checked-out"></a>Ko je odjavio datoteku?
+# <a name="who-has-a-file-checked-out"></a>Ko je provjerio datoteku?
 
-Da biste videli ko je odjavio datoteku u sistemu SharePoint, možete da izvršite jedan od sledećih koraka:
+Da biste videli ko je provjerio datoteku u sistemu SharePoint, možete da izvršite neki od sledećih koraka:
   
-1. Zadržite pokazivač iznad **odjavljivanja** da biste videli savet za alatke koji vam saopštava ko je odjavio datoteku. 
+1. Zadržite pokazivač iznad **odjavljivanja** da biste videli savet za alatke koji vam govori ko je odjavio datoteku. 
     
-2. Dodavanje **odjavljene** kolone u podrazumevani prikaz biblioteke. Na ovaj način svi mogu lako da vide ko je odjavio dokument. 
+2. Dodajte odjavljivanje **po** koloni u podrazumevani prikaz biblioteke. Na ovaj način svi mogu lako da vide ko je proverio dokument. 
     
-Da biste saznali kako da dodate odjavnu kolonu u sistemu SharePoint, pogledajte odeljak [Kreiranje kolone u listi ili biblioteci](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Da biste saznali kako da dodate odjavljivanje po koloni u sistemu SharePoint, pogledajte [članak Kreiranje kolone na listi ili u biblioteci](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Pogledajte najčešća pitanja o tome kako da prijavite ili odjavite, pogledajte [najvažnije pitanje o odjavu](https://go.microsoft.com/fwlink/?linkid=2018786).
+Pogledajte najčešća pitanja o prijavljivanju ili odjavljivanju, pogledajte [najvažnije pitanja o odjavljivanju, prijavite](https://go.microsoft.com/fwlink/?linkid=2018786)se.
   
 

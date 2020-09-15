@@ -1,35 +1,36 @@
 ---
-title: Nevolje sa satom jabuka
+title: Problemi sa Apple satom
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: 131b21469e189c0db2d4c88a1f90cecffe1315f4
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288308"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700037"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Nevolje sa satom jabuka
+# <a name="trouble-with-the-apple-watch"></a>Problemi sa Apple satom
 
-Ako imate problema pri korišćenju programa Outlook na sat jabuke, evo nekih koraka za rešavanje problema: 
+Ako imate problema prilikom korišćenja programa Outlook u programu Apple watch, evo nekih koraka za rešavanje problema: 
 
-1. Posetite aplikaciju "praćenje" na iPhone-u.
+1. Idite na aplikaciju praćenje na iPhone uređaju.
 
-2. Pomerite se do aplikacije Outlooka.
+2. Pomerajte se do Outlook aplikacije.
 
-3. Uključi/isključi "Prikaži aplikaciju na Apple Voč **" da biste** deinstalirali.
+3. Preklopnik "Prikaži aplikaciju na Apple watch" na " **Isključeno** " da biste ga deinstalirali.
 
-4. Uključite/isključite "Prikaži aplikaciju na Apple Voč **" da biste** ponovo instalirali na sat.
+4. Preklopnik "Prikaži aplikaciju na Apple watch" **za ponovno instaliranje u programu** watch.
 
-5. Pokrenite aplikaciju Outlook na traci "sat" i sačekajte da se podaci sinhronizuju sa najnovijim. 
+5. Pokrenite Outlook aplikaciju na Apple watch i sačekajte da se podaci sinhronizuju sa najnovijim. 
 
-Ako vaš problem nije rešen, tim za podršku bi bio srećan da pomogne. Idite na **postavke > pomoći & povratnu informaciju > obratite se podršci**. 
+Ako problem nije rešen, tim za podršku će biti srećan da pomogne. Idite na **postavke > pomoć & povratne informacije > obratite se podršci**. 
