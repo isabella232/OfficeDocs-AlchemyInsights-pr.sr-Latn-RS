@@ -1,34 +1,35 @@
 ---
-title: Povezivanje lokacije čvorišta
+title: Povežite sajt čvorišta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407292"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715755"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Poveži postojeću lokaciju sa lokacijom čvorišta
+# <a name="associate-existing-site-with-a-hub-site"></a>Povezivanje postojeće Veb lokacija sa lokacijom čvorišta
 
-Postupite na sledeći način da biste postojeću lokaciju povezali sa lokacijom čvorišta:
+Da biste povezali postojeću sajt sa lokacijom čvorišta, uradite sledeće:
   
-1. Na vašoj lokaciji izaberite **Postavke** (ikonu "oprema" u gornjem desnom uglu), a zatim izaberite **informacije o lokaciji**.
+1. Na svojoj stranici izaberite stavke **Postavke** (ikona zupčanika u gornjem desnom uglu), a zatim izaberite **informacije o sajtu**.
 
-2. U prozoru " **uređivanje informacija o lokaciji** ", u meniju " **Povezivanje lokacije čvorišta** " izaberite lokaciju čvorišta koju želite da pridružite lokaciji, a zatim kliknite na dugme **Sačuvaj**. Izgled vaše lokacije će se promeniti tako da se podudara sa lokacijom čvorišta, a traka za navigaciju lokacije čvorišta će se pojaviti na vrhu.
+2. Na tabli za **uređivanje informacija o sajtu** , u meniju " **asocijacija čvorišta** " izaberite sajt čvorišta koje želite da povežete sa lokacijom, a zatim kliknite na dugme **Sačuvaj**. Izgled sajta će se promeniti tako da se podudara sa lokacijom čvorišta i traka za navigaciju na lokaciji čvorišta će se pojaviti na vrhu.
 
->**Beleške**
+>**Cedu**
 >
->Ako opcija "povezivanje lokacije čvorišta" nije prisutna ili nema navedenih lokacija, lokacije čvorišta možda nisu omogućene ili možda nemate dozvolu da povežete lokacije sa lokacijom čvorišta. Za više informacija obratite se administratoru.
+>Ako opcija povezivanja lokacije čvorišta nije prisutan ili nije navedena nijedna lokacija tamo, lokacije čvorišta možda neće biti omogućene ili nemate dozvolu da povežete lokacije sa lokacijom čvorišta. Obratite se administratoru za više informacija.
 >
->Ne postoji ograničenje za broj lokacija koje mogu da se povezuju sa lokacijom čvorišta.
+>Ne postoji ograničenje broja sajtova koji se mogu povezati sa lokacijom čvorišta.
   

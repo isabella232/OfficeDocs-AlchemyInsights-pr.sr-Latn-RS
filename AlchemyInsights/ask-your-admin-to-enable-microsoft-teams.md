@@ -1,10 +1,11 @@
 ---
-title: Pitajte administratora da omogući Microsoft timove
+title: Zatražite od administratora da omogućava Microsoft timove
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573146"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716259"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Nedostaje vam! Pitajte administratora da omogući Microsoft timove
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Propuљtaљ. Zatražite od administratora da omogućava Microsoft timove
 
-Ako imate EDU tenanta, potrebno je da ručno omogućite Microsoft timove. Da biste to uradili, idite u Microsoft 365 admin Center > **Services i programske dodatke > Microsoft timovi**. Ako koristite novi centar za administraciju timova, moraćete da isključite **isprobajte novi administrativni centar** da biste pronašli **usluge i programske dodatke**. 
+Ako imate EDU zakupca, morate ručno da omogućite Microsoft Teams. Da biste to uradili, idite u Microsoft 365 centar administracije > **usluge i programske dodatke > Microsoft timovima**. Ako koristite novi centar administracije, moraćete da isključite **isprobajte novi centar administracije**   da biste pronašli **usluge i programske dodatke**. 
 
 **Važno**: možda ćete morati da sačekate do 24 časa da bi promene stupile na snagu.
