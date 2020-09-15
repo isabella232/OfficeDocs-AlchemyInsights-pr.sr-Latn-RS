@@ -1,23 +1,24 @@
 ---
-title: Postavljanje timova na VDI okruženja
+title: Instaliranje timova na VANDI okruženja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6329d0d5e99ae0ed929ca9eb376abe6a280ba6df
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344146"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663059"
 ---
-# <a name="installing-teams-on-vdi-environments"></a><span data-ttu-id="1b647-102">Postavljanje timova na VDI okruženja</span><span class="sxs-lookup"><span data-stu-id="1b647-102">Installing Teams on VDI environments</span></span>
+# <a name="installing-teams-on-vdi-environments"></a><span data-ttu-id="b8efb-102">Instaliranje timova na VANDI okruženja</span><span class="sxs-lookup"><span data-stu-id="b8efb-102">Installing Teams on VDI environments</span></span>
 
-<span data-ttu-id="1b647-103">Za informacije o primeni timova na deljenim računarima, uslugama udaljene radne površine (RDS) ili virtualnoj infrastrukturi (VDI) pogledajte odeljak [deljeni računar i Vdi okruženja sa Microsoft timovima](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="1b647-103">For information about deploying Teams on shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
+<span data-ttu-id="b8efb-103">Informacije o primeni timova na deljene računare, uslugama za udaljene radne površine (RDS) ili virtuelnu infrastrukturu na radnoj površini (VANDI) potražite [u članku deljeni računar i vanski okruženjima sa Microsoft timovima](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="b8efb-103">For information about deploying Teams on shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
