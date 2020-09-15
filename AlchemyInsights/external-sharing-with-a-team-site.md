@@ -1,32 +1,33 @@
 ---
-title: Spoljna deljenje sa lokacijom tima
+title: Spoljno deljenje sa lokacijom tima
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 05dc591bec1414fbc9f6eca9efcd0fdbf93bd9b9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702860"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708481"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Spoljna deljenje sa lokacijom tima
+# <a name="external-sharing-with-a-team-site"></a>Spoljno deljenje sa lokacijom tima
 
-Da biste uključili deljenje spoljnog korisnika za lokacije timova, sledite ove korake: 
+Da biste uključili deljenje spoljnog korisnika za lokacije tima, slijedite ove korake: 
   
-1. U novom SharePoint admin centru, izaberite stavku **aktivne lokacije**.
+1. U novom SharePoint centru administracije izaberite stavku **aktivne lokacije**.
   
-2. Izaberite lokaciju koja ima predložak **timske lokacije** . 
+2. Izaberite sajt sa predloškom **sajta tima** . 
   
-3. U gornjem meniju izaberite dugme za **Deljenje** . 
+3. Izaberite dugme **Deljenje** iz gornjeg menija. 
   
- **Napomena**: podrazumevano je da će opcija za deljenje biti postavljena na nove i postojeće spoljne korisnike kada se kreira moderna stranica tima. 
+ **Napomena**: kada se kreira moderna lokacija tima, opcija eksternog deljenja će biti postavljena na nove i postojeće spoljne korisnike. 
   
- **Napomena:** Ako je izabrano više od jedne lokacije, dugme za **Deljenje** će biti onemogućeno. Izaberite samo jednu lokaciju. 
+ **Napomena:** Ako je izabrano više lokacija, dugme za **Deljenje** će izgledati neomogućeno. Izaberite samo jednu stranicu. 
   
 

@@ -1,27 +1,28 @@
 ---
-title: Generisanje automatskih natpisa i transkripta u programu Microsoft stream
+title: Kreiranje automatskih natpisa i transkripta u programu Microsoft stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 2be38095a627c03cdf85f4d00f31c61491198068
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409180"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707797"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generisanje automatskih natpisa i transkripta u programu Microsoft stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Kreiranje automatskih natpisa i transkripta u programu Microsoft stream
 
-Tok može automatski da generiše natpise koristeći automatsku tehnologiju prepoznavanja govora, a prozor "transkript" možete da prikažete da biste se lako kretali i pratili zajedno sa govornim sadržajem video zapisa.
+Tok može automatski da generiše naslove pomoću automatske tehnologije prepoznavanja govora i možete da prikažete prozor za premeštanje transkripta da biste se lako kretali i sledili pored izgovorenog sadržaja video zapisa.
 
-- [Generisanje automatskih natpisa i transkripta za video snimke u programu Microsoft stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Generisanje automatskih natpisa i transkript za video zapise Microsoft toka](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Prikazivanje prozora "transkripta pomeranja" za video zapis u Microsoft toku](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Prikazivanje prozora "pomeranje" za video zapis u programu Microsoft stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

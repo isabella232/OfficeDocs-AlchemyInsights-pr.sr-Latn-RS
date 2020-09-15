@@ -1,31 +1,32 @@
 ---
-title: Pronalaženje izgubljenih ili nedostajućih datoteka u usluzi OneDrive ili SharePoint
+title: Pronađite izgubljene ili datoteke koje nedostaju u usluzi OneDrive ili sistemu SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 0cd8db0ea9de03d30001aa749e2c37330ad29ef2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1d615bf8dc16528d9cbf283672225364aaae9949
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716114"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708553"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Pronalaženje izgubljenih ili nedostajućih datoteka u usluzi OneDrive ili SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Pronađite izgubljene ili datoteke koje nedostaju u usluzi OneDrive ili sistemu SharePoint
 
-- Proverite korpu za otpatke tako što ćete na vebu pregledati u usluzi OneDrive ili SharePoint lokaciji, a zatim u levom oknu izabrati stavku korpa za otpatke. (Ako u levom oknu ne vidite korpu za otpatke, kliknite na ikonu "Postavke", a zatim izaberite stavku " **sadržaj lokacije**". **Korpa za otpatke** nalazi se krajnje desno na komandnoj traci na vrhu.) 
+- Potvrdite korpu za otpatke tako što ćete pregledati OneDrive ili SharePoint lokaciju na vebu i kliknuti na korpu za otpatke u levom oknu. (Ako ne vidite korpu za otpatke u levom oknu, kliknite na ikonu postavke, a zatim izaberite stavku **Sadržaj sajta**. **Korpa za otpatke** je na krajnjoj desnoj strani komandne trake na vrhu.) 
     
-- Ako sinhronizujete datoteke na računaru, proverite korpu za otpatke na računaru. 
+- Ako sinhronizujete datoteke na računaru, potvrdite izbor u korpi za otpatke na računaru. 
     
-- Ako ne vidite stavku koju tražite i nedavno je izbrisana, administrator kolekcije lokacija će možda moći da ga vrati iz korpe za otpatke kolekcije lokacija. Ako ste administrator kolekcije lokacija, pogledajte odeljak [Vraćanje izbrisanih stavki iz korpe za otpatke kolekcije lokacija](https://go.microsoft.com/fwlink/?linkid=866439).
+- Ako ne vidite stavku koju tražite, a ona je nedavno izbrisana, administrator kolekcije lokacija možda može da je vrati u prethodno stanje iz korpe za otpatke kolekcije lokacija. Ako ste administrator kolekcije lokacija, pogledajte članak [Vraćanje izbrisanih stavki iz korpe za otpatke kolekcije lokacija](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Više pomoći u vraćanju izbrisanih datoteka i fascikli u OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Pomoć pri ponovnom uspostavljanju izbrisanih datoteka i fascikli u usluzi OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 
