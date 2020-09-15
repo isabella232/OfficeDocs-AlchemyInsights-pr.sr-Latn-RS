@@ -1,10 +1,11 @@
 ---
-title: 414 iskustvo pretraživanja je ažurirano
+title: 414 ažuriranje pretrage
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709313"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691877"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="e8251-102">Iskustvo pretrage je ažurirano</span><span class="sxs-lookup"><span data-stu-id="e8251-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="4bfc2-102">Pretraživanje ažuriranja</span><span class="sxs-lookup"><span data-stu-id="4bfc2-102">Search experience updated</span></span>
 
-<span data-ttu-id="e8251-103">Pretraga se sada nalazi na dnu aplikacije.</span><span class="sxs-lookup"><span data-stu-id="e8251-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="e8251-104">Kada tapnete na njega, on će vam dati direktan pristup vašim najvišim kontaktima, predstojećim putovanjima krstarenjima, isporukama i nedavnim prilozima.</span><span class="sxs-lookup"><span data-stu-id="e8251-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="e8251-105">Možete da pretražujete e-poruke, datoteke i kontakte na bilo kom računu iz jednog polja za pretragu ili da koristite nove filtere da biste suzili obim pretrage.</span><span class="sxs-lookup"><span data-stu-id="e8251-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="4bfc2-103">Pretraga se sada nalazi na dnu aplikacije.</span><span class="sxs-lookup"><span data-stu-id="4bfc2-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="4bfc2-104">Tapkanje na njega pruža vam direktan pristup najvišim kontaktima, predstojećim putovanjima za putovanja, pošiljke paketa i nedavne priloge.</span><span class="sxs-lookup"><span data-stu-id="4bfc2-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="4bfc2-105">Možete da tražite e-poruke, datoteke i kontakte na bilo kom od naloga iz jednog polja za pretragu ili da koristite nove filtere da biste suzili pretragu.</span><span class="sxs-lookup"><span data-stu-id="4bfc2-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
