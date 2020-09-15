@@ -1,28 +1,29 @@
 ---
-title: Napredno lovački upit najbolja praksa
+title: Napredni praktici za lov Query
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: e9752434b5f525e442ed73a30ae349edf0d12400
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599318"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696671"
 ---
-# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="8c625-102">Napredno lovački upit najbolja praksa</span><span class="sxs-lookup"><span data-stu-id="8c625-102">Advanced hunting query best practices</span></span>
+# <a name="advanced-hunting-query-best-practices"></a><span data-ttu-id="e3499-102">Napredni praktici za lov Query</span><span class="sxs-lookup"><span data-stu-id="e3499-102">Advanced hunting query best practices</span></span>
 
-<span data-ttu-id="8c625-103">Pogledajte kompletan [upit za napredno lov u članku najbolja rešenja](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) za detaljnije preporuke i smernice:</span><span class="sxs-lookup"><span data-stu-id="8c625-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
-- <span data-ttu-id="8c625-104">Optimizovanje performansi upita.</span><span class="sxs-lookup"><span data-stu-id="8c625-104">Optimizing query performance.</span></span>
-- <span data-ttu-id="8c625-105">Saveti za upite i zamke.</span><span class="sxs-lookup"><span data-stu-id="8c625-105">Query tips and pitfalls.</span></span>
-- <span data-ttu-id="8c625-106">Upiti sa komandnom linijama.</span><span class="sxs-lookup"><span data-stu-id="8c625-106">Queries with command lines.</span></span>
+<span data-ttu-id="e3499-103">Pročitajte članak napredni Vodič za [lov](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) za najnovije иlanke za detaljne preporuke i uputstva na:</span><span class="sxs-lookup"><span data-stu-id="e3499-103">Please see the full article [Advanced hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for detailed recommendations and guidance on:</span></span>
+- <span data-ttu-id="e3499-104">Optimizovanje performansi upita.</span><span class="sxs-lookup"><span data-stu-id="e3499-104">Optimizing query performance.</span></span>
+- <span data-ttu-id="e3499-105">Saveti za upite i zamke.</span><span class="sxs-lookup"><span data-stu-id="e3499-105">Query tips and pitfalls.</span></span>
+- <span data-ttu-id="e3499-106">Upiti sa komandama.</span><span class="sxs-lookup"><span data-stu-id="e3499-106">Queries with command lines.</span></span>
 
 
