@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ms.date: 04/21/2020
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -11,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 0388f95e2b7815dcbbb6aca200f44e55e9c5724f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713805"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666884"
 ---
-# <a name="modern-site-as-root-site"></a>Moderna lokacija kao osnovna lokacija
+# <a name="modern-site-as-root-site"></a>Savremena lokacija kao osnovna lokacija
 
-Počeli smo da iskorimo novu funkciju koja će vam omogućiti da [svoju klasičnu lokaciju razmenite sa modernom lokacijom](https://docs.microsoft.com/sharepoint/modern-root-site). Koristite funkciju [Pozovi-Spoziteswap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da biste zamenili lokaciju lokacije sa drugom lokacijom dok arhivirate originalnu lokaciju. Dostupna za obe strane tima (nije povezano sa grupom) i komunikaciona lokacija.
+Počeli smo da ovodimo novu funkciju koja će vam omogućiti da [zamenite klasičnu osnovnu veb sajt sajta modernom lokacijom](https://docs.microsoft.com/sharepoint/modern-root-site). Korišćenje poziva [-Spositesvp](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) za razmenu lokacije sa drugom lokacijom dok arhivirate originalnu lokaciju. Dostupno za oba sajta tima (nije povezano sa grupom) i sajt za komunikaciju.
 
 >[!Important]
-> Nemojte brisati klasičnu osnovnu lokaciju da biste kreirali modernu lokaciju za komunikaciju. Microsoft ne podržava ovaj program. Brisanjem osnovne lokacije sve SharePoint lokacije u vašoj organizaciji neće biti moguće pristupiti svim korisnicima, dok ne vratite lokaciju ili ne kreirate novu lokaciju na istoj URL adresi. Ovu karakteristiku ćemo komunicirati preko centra za poruke. Trebalo bi da očekujete da će funkcija uskoro biti uključena u vaš tenak.
+> Nemojte da izbrišete klasičnu osnovnu sajt da biste kreirali modernu sajt za komunikaciju. Microsoft ne podržava ovo. Brisanje osnovne lokacije će učiniti da sve SharePoint lokacije u vašoj organizaciji budu nedostupne svim korisnicima dok ne vratite lokaciju ili kreirate novu lokaciju na istoj URL adresi. Ovu funkciju ćemo komunicirati putem centra za poruke. Trebalo bi da očekujete da će funkcija uskoro biti uključena u zakupca.
 
-## <a name="known-issues-with-swapping-sites"></a>Poznati problemi sa lokacijama za zamenjivanje
-- Ciljna lokacija može da vrati grešku "nije pronađeno" (HTTP 404) u kratkom vremenskom periodu.
-- Sadržaj će morati da se ponovo ažurira da bi se ažurirao indeks pretrage. Ovde nije potreban ručni korak, ovo će se automatski obaviti.
-- Sve što zavisi od "statičnih" veza (kao što su sinhronizacija datoteka i OneNote datoteke) biće potrebno ručno korigovati.
-- Možda će biti potrebno proveriti lokacije servera za Project da biste bili sigurni da su i dalje ispravno povezani. 
+## <a name="known-issues-with-swapping-sites"></a>Poznati problemi sa Veb lokacijama
+- Ciljna lokacija može da vrati grešku "nije pronađena" (HTTP 404) na kratko vreme.
+- Potrebno je ponovo popisivati sadržaj da biste ažurirali indeks pretrage. Ovde ne postoji potreban ručni korake, ovo će biti gotovo automatski.
+- Sve što zavisi od veza "statične" (kao što su sinhronizacija datoteka i OneNote datoteke) mora se ručno ispraviti.
+- Za lokacije servera projekta možda će biti potrebno da se verifikujete da biste se uverili da su i dalje ispravno povezane. 
