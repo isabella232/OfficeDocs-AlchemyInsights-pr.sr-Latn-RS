@@ -1,24 +1,25 @@
 ---
-title: 1264 IP blokiran za slanje previše bezvredne pošte (550 5.7.51)
+title: 1264 IP blokirano za slanje previše bezvredne bezvredne pošte (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 5734a51e78af29244867429af8e29ea4b54aa4cf
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765895"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695843"
 ---
-# <a name="access-denied-banned-sender"></a>Zabranjen pristup, zabranjen pošiljalac
+# <a name="access-denied-banned-sender"></a>Pristup je odbijen, zabranjeni pošiljalac
 
- **Greška**: SMTP greška sa udaljenog servera za rcpt u komandu, domaćin: *xxxx*-com.mail.Protection.Outlook.com (*XXX.XXX.XXX.XXX*) razlog: 550 5.7.511 pristup odbijen, zabranjen pošiljalac [*XX.XXX.x.XXX*]. 
+ **Greška**: SMTP greška sa udaljenog servera za RCPT za komandu, host: *xxxx*-com.mail.Protection.Outlook.com (*XXX.XXX.XXX.XXX*) razlog: 550 5.7.511 pristup odbijen, zabranjeni pošiljalac [*XX.XXX.x.XXX*]. 
 
-Ako dobijete ovu grešku prilikom slanja e-poruke primaocu Microsoft 365, uklonite na njega isti nalog sa liste blokiranih pošiljalaca [https://sender.office.com](https://sender.office.com).
+Ako primite ovu grešku prilikom slanja e-pošte u Microsoft 365 primalac, uklonite taj nalog koji je uticao na listu blokiranih pošiljalaca [https://sender.office.com](https://sender.office.com) .
