@@ -1,29 +1,30 @@
 ---
-title: Dozvole u Microsoft toku
+title: Dozvole u programu Microsoft stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: c1ffc34d5e4110349afe387d64449d2af08db30c
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403598"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721425"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Dozvole u Microsoft toku
+# <a name="permissions-in-microsoft-stream"></a>Dozvole u programu Microsoft stream
 
-Kada otpremite video zapis, podrazumevano je da će dozvole biti vidljive celom preduzeću. Ako želite da navedete dozvole za određene korisnike/grupe, možete da prilagodite dozvole za video.
+Kada otpremite video, podrazumevano se postavljaju dozvole za video zapis koji će biti vidljiv celom preduzeću. Ako želite da navedete dozvole za određene korisnike/grupe, možete da prilagodite dozvole za video.
 
-- [Dozvole i privatnost u Microsoft toku](https://docs.microsoft.com/stream/portal-permissions)
+- [Dozvole i privatnost u programu Microsoft stream](https://docs.microsoft.com/stream/portal-permissions)
 
-- [Grupne dozvole](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [Dozvole grupe](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
-- [Dozvole za kanal](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
+- [Dozvole kanala](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
