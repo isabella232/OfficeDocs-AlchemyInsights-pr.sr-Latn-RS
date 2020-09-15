@@ -1,43 +1,44 @@
 ---
-title: Usaglašenost sa komunikacijama
+title: Usaglašenost komunikacije
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706179"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713865"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a><span data-ttu-id="0c3e1-102">Usaglašenost komunikacija u programu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="0c3e1-102">Communication compliance in Microsoft 365</span></span>
+# <a name="communication-compliance-in-microsoft-365"></a><span data-ttu-id="9848e-102">Usaglašenost u komunikaciji u programu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="9848e-102">Communication compliance in Microsoft 365</span></span>
 
-<span data-ttu-id="0c3e1-103">Usaglašenost sa komunikacijom je novo rešenje koje je Microsoft 365 za usaglašavanje koje organizacijama omogućava da ispunjavaju zahteve za usaglašenost sa standardima i minimizira rizike komunikacije.</span><span class="sxs-lookup"><span data-stu-id="0c3e1-103">Communication compliance is a new Microsoft 365 compliance solution that helps organizations meet supervisory compliance requirements and minimize communication risks.</span></span> <span data-ttu-id="0c3e1-104">Zasniva se na funkciji nadzora i sadrži nova poboljšanja, uključujući:</span><span class="sxs-lookup"><span data-stu-id="0c3e1-104">It is based on the Supervision feature and contains new enhancements, including:</span></span>
+<span data-ttu-id="9848e-103">Usaglašenost komunikacije je novo Microsoft 365 rešenje usaglašenosti koje pomaže organizacijama da ispune zahteve za nadzorne obaveze i umanjuju rizike komunikacije.</span><span class="sxs-lookup"><span data-stu-id="9848e-103">Communication compliance is a new Microsoft 365 compliance solution that helps organizations meet supervisory compliance requirements and minimize communication risks.</span></span> <span data-ttu-id="9848e-104">Zasnovan je na funkciji nadzora i sadrži nova poboljšanja, uključujući:</span><span class="sxs-lookup"><span data-stu-id="9848e-104">It is based on the Supervision feature and contains new enhancements, including:</span></span>
 
-- <span data-ttu-id="0c3e1-105">Inteligentni prilagodljivi predlošci</span><span class="sxs-lookup"><span data-stu-id="0c3e1-105">Intelligent customizable templates</span></span>
-- <span data-ttu-id="0c3e1-106">Fleksibilni tokovi posla ponovnog posredovanja</span><span class="sxs-lookup"><span data-stu-id="0c3e1-106">Flexible remediation workflows</span></span>
-- <span data-ttu-id="0c3e1-107">Akcionable opažanja</span><span class="sxs-lookup"><span data-stu-id="0c3e1-107">Actionable insights</span></span>
+- <span data-ttu-id="9848e-105">Inteligentni predlošci koji se mogu prilagoditi</span><span class="sxs-lookup"><span data-stu-id="9848e-105">Intelligent customizable templates</span></span>
+- <span data-ttu-id="9848e-106">Fleksibilni tokovi posla</span><span class="sxs-lookup"><span data-stu-id="9848e-106">Flexible remediation workflows</span></span>
+- <span data-ttu-id="9848e-107">Aktivni pronicljivost</span><span class="sxs-lookup"><span data-stu-id="9848e-107">Actionable insights</span></span>
 
-<span data-ttu-id="0c3e1-108">Ako trenutno koristite [smernice za nadzor](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), preporučujemo da sada koristite novu usaglašenost sa komunikacijama da biste rešili regulatorne potrebe.</span><span class="sxs-lookup"><span data-stu-id="0c3e1-108">If you currently use [Supervision policies](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), we recommend that you now use the new Communication compliance to address regulatory needs.</span></span>
+<span data-ttu-id="9848e-108">Ako trenutno koristite [smernice nadzora](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), preporučujemo da sada koristite novu usaglašenost komunikacije sa regulatornim potrebama za rešavanje informacija.</span><span class="sxs-lookup"><span data-stu-id="9848e-108">If you currently use [Supervision policies](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), we recommend that you now use the new Communication compliance to address regulatory needs.</span></span>
 
-<span data-ttu-id="0c3e1-109">Da biste podesili usaglašenost sa komunikacijama, pogledajte odeljak [Konfigurisanje usklađenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).</span><span class="sxs-lookup"><span data-stu-id="0c3e1-109">To setup communication compliance, see [Configure communication compliance](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).</span></span>
+<span data-ttu-id="9848e-109">Da biste podesili usaglašenost u komunikaciji, pogledajte članak [Konfigurisanje usaglašenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).</span><span class="sxs-lookup"><span data-stu-id="9848e-109">To setup communication compliance, see [Configure communication compliance](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).</span></span>
 
-<span data-ttu-id="0c3e1-110">Da biste istražili, pregledali i ponovo posredovali usaglašenost sa komunikacijama, pogledajte odeljak [Istraživanje i ponovna posredovanje obaveštenja o usaglašenosti komunikacija](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).</span><span class="sxs-lookup"><span data-stu-id="0c3e1-110">To investigate, review, and remediate communication compliance, see [Investigate and remediate communication compliance alerts](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).</span></span>
+<span data-ttu-id="9848e-110">Da biste istražili, pregledali i otklonili usaglašenost komunikacije, pogledajte članak [Istraživanje i rešenja obaveštenja o usaglašenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).</span><span class="sxs-lookup"><span data-stu-id="9848e-110">To investigate, review, and remediate communication compliance, see [Investigate and remediate communication compliance alerts](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).</span></span>
 
-<span data-ttu-id="0c3e1-111">Za pregled funkcije usaglašenosti sa komunikacijom pogledajte odeljak [usaglašenost sa komunikacijama u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).</span><span class="sxs-lookup"><span data-stu-id="0c3e1-111">For an overview of the communication compliance feature, see [Communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).</span></span>
+<span data-ttu-id="9848e-111">Pregled funkcije usaglašenosti komunikacije potražite [u članku usaglašenost komunikacije u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).</span><span class="sxs-lookup"><span data-stu-id="9848e-111">For an overview of the communication compliance feature, see [Communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).</span></span>
 
-<span data-ttu-id="0c3e1-112">Zahtevi za licenciranje: korisnici koje nadgleda smernice za komunikaciju moraju imati jednu od sledećih radnji:</span><span class="sxs-lookup"><span data-stu-id="0c3e1-112">License requirements: Users monitored by communication policies must have one of the following:</span></span>
+<span data-ttu-id="9848e-112">Zahtevi za licencu: korisnici koje nadgleda komunikacione smernice moraju imati jednu od sledećih opcija:</span><span class="sxs-lookup"><span data-stu-id="9848e-112">License requirements: Users monitored by communication policies must have one of the following:</span></span>
 
-- <span data-ttu-id="0c3e1-113">Microsoft 365 E5 licenca za usaglašavanje</span><span class="sxs-lookup"><span data-stu-id="0c3e1-113">Microsoft 365 E5 Compliance license</span></span>
-- <span data-ttu-id="0c3e1-114">Office 365 Enterprise E3 licenca sa naprednim programskim dodacima za usaglašavanje</span><span class="sxs-lookup"><span data-stu-id="0c3e1-114">Office 365 Enterprise E3 license with the Advanced Compliance add-on</span></span>
-- <span data-ttu-id="0c3e1-115">Office 365 Enterprise E5 pretplata</span><span class="sxs-lookup"><span data-stu-id="0c3e1-115">Office 365 Enterprise E5 subscription</span></span>
+- <span data-ttu-id="9848e-113">Microsoft 365 E5 licenca za usaglašenost</span><span class="sxs-lookup"><span data-stu-id="9848e-113">Microsoft 365 E5 Compliance license</span></span>
+- <span data-ttu-id="9848e-114">Office 365 Enterprise E3 licenca sa naprednim dodacima usaglašenosti</span><span class="sxs-lookup"><span data-stu-id="9848e-114">Office 365 Enterprise E3 license with the Advanced Compliance add-on</span></span>
+- <span data-ttu-id="9848e-115">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="9848e-115">Office 365 Enterprise E5 subscription</span></span>
 
-<span data-ttu-id="0c3e1-116">Ako nemate neku od gore navedenih i želite da pokušate da izvršite usaglašenost sa komunikacijama, **[Prijavite se na probnu verziju sistema Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.</span><span class="sxs-lookup"><span data-stu-id="0c3e1-116">If you don't have any of the above and want to try communication compliance, **[Sign up for a trial of Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.</span></span>
+<span data-ttu-id="9848e-116">Ako nemate nijednu od gorenavedenih i želite da pokušate usaglašenost sa komunikacijom, **[Upišite se za probnu verziju sistema Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.</span><span class="sxs-lookup"><span data-stu-id="9848e-116">If you don't have any of the above and want to try communication compliance, **[Sign up for a trial of Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.</span></span>

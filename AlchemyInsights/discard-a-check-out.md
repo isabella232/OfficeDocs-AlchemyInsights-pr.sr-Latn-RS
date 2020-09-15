@@ -1,28 +1,29 @@
 ---
-title: Odbaci odjavljivanje
+title: Odbacivanje odjavljivanja
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715128"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712342"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a><span data-ttu-id="9dada-102">Odbacivanje odjavne biblioteke dokumenata</span><span class="sxs-lookup"><span data-stu-id="9dada-102">Discard a check out from a document library</span></span>
+# <a name="discard-a-check-out-from-a-document-library"></a><span data-ttu-id="b014c-102">Odbacivanje odjavljivanja iz biblioteke dokumenata</span><span class="sxs-lookup"><span data-stu-id="b014c-102">Discard a check out from a document library</span></span>
 
-1. <span data-ttu-id="9dada-103">Kliknite desnim tasterom miša na datoteku koju želite da odbacite odjavu.</span><span class="sxs-lookup"><span data-stu-id="9dada-103">Right-click the file you want to discard check out.</span></span>
+1. <span data-ttu-id="b014c-103">Kliknite desnim tasterom miša na datoteku koju želite da odbacite.</span><span class="sxs-lookup"><span data-stu-id="b014c-103">Right-click the file you want to discard check out.</span></span>
     
-2. <span data-ttu-id="9dada-104">Izaberite stavku **više**, a zatim kliknite na dugme **Odbaci odjavljivanje**.</span><span class="sxs-lookup"><span data-stu-id="9dada-104">Click **More**, and then click **Discard Check Out**.</span></span> 
+2. <span data-ttu-id="b014c-104">Kliknite na dugme **još**, a zatim na dugme **Odbaci odjavljivanje**.</span><span class="sxs-lookup"><span data-stu-id="b014c-104">Click **More**, and then click **Discard Check Out**.</span></span> 
     
-3. <span data-ttu-id="9dada-105">Iz dijaloga kliknite na dugme **Odbaci odjavu** da biste obrisali odjavljivanje.</span><span class="sxs-lookup"><span data-stu-id="9dada-105">From the dialog box, click **Discard Check Out** to clear the check out.</span></span> 
+3. <span data-ttu-id="b014c-105">U dijalogu kliknite na dugme **Odbaci odjavljivanje** da biste obrisali odjavljivanje.</span><span class="sxs-lookup"><span data-stu-id="b014c-105">From the dialog box, click **Discard Check Out** to clear the check out.</span></span> 
     
-<span data-ttu-id="9dada-106">Za dodatna pitanja o proveri i odjavu pogledajte odeljak [glavna pitanja o odjavu, proveri i verzijama](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="9dada-106">For additional questions about checking in and checking out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="b014c-106">Dodatna pitanja o prijavljivanju i odjavljivanju potražite [u članku najvažnije informacije o odjavljivanju](https://go.microsoft.com/fwlink/?linkid=2018786), prijavljivanju i verzijama.</span><span class="sxs-lookup"><span data-stu-id="b014c-106">For additional questions about checking in and checking out, see [Top questions about check out, check in, and versions](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 
