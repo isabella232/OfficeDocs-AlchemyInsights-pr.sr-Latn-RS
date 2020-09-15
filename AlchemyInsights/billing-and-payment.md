@@ -1,60 +1,61 @@
 ---
-title: Naplata i plaćanje
+title: Plaćanje i uplata
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225246"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686044"
 ---
-# <a name="billing-and-payment"></a>Naplata i plaćanje
+# <a name="billing-and-payment"></a>Plaćanje i uplata
 
-Vaše račune možete pronaći na kartici "računi za **naplatu**"  >  [&](https://go.microsoft.com/fwlink/p/?linkid=848039) karticu "uplate".  Podrazumevano je prikazano poslednjih 3 meseca faktura.  Da biste videli starije fakture, podesite filter.  Kliknite na vezu " **Preuzmite fakturu" PDF** da biste videli fakturu.
+Račune možete da pronađete na kartici uplate **za**  >  [račune &](https://go.microsoft.com/fwlink/p/?linkid=848039) .  Prikazuju se podrazumevano poslednje tri mesece faktura.  Da biste prikazali starije fakture, prilagodite filter.  Kliknite na vezu **Preuzmi fakturu za fakturisanje** da biste prikazali fakturu.
 
-**Prijem faktura putem e-pošte**
+**Primanje faktura putem e-pošte**
 
-Na **Billing**  >  stranici "[obaveštenja o naplati](https://go.microsoft.com/fwlink/p/?linkid=853212) naplate" možete da uključite ovu **on** funkciju i da upravljate korisnicima koji će fakturu primiti kao prilog e-pošte. Faktura će biti poslata na e-adrese korisnika na listi primalaca obaveštenja. Lista sadrži sve naplate i opšte admin-ove.  Promenom uloge možete da upravljate time ko dobija obaveštenje o fakturi.  Uklanjanje globalne ili administratorske uloge za naplatu uklanja tog korisnika sa liste primalaca i dodaje da će korisnik na listu primalaca dodati opštu ili administratorsku ulogu.
+Na stranici **"**  >  [obaveštenja o naplati](https://go.microsoft.com/fwlink/p/?linkid=853212) naplate" možete da uključite ovu **on** funkciju i upravljate korisnicima koji će primiti fakturu kao prilog e-pošte. Faktura se šalje e-adresama korisnika na listi primalaca obaveštenja. Lista obuhvata sve fakturisanja i opšte administratori.  Možete da upravljate time ko dobija obaveštenja o fakturi promenom uloge.  Uklanjanje uloge globalnog ili naplate administracije uklanja tog korisnika sa liste primalaca i dodavanje uloge "opšta administracija" ili "administrator naplate" dodaje korisnika na listu primalaca.
 
-**Napomena**: dobićete dve odvojene e-poruke: one koje vam omogućavaju da znate da je vaš račun spreman, sa uputstvima za prijavljivanje u admin Center da biste ga prikazali i drugu e-poruku koja sadrži izvod naplate kao prilog.
+**Napomena**: dobićete dve odvojene e-poruke: ona koja vam omogućava da saznate da li je nalog spreman, sa uputstvima da se prijavite u centar administracije da biste ga prikazali i drugu e-poruku koja sadrži izvod o naplati kao prilog.
 
-**Plaćanja**
+**Isplata**
 
-Ako se plati kreditnom karticom ili računom u banci, način plaćanja povezan sa Vašom pretplatom se naplaćuje u roku od nekoliko dana od kreiranja nacrta. Ako plaćanje ne uspe, ažurirajte ili promenite način plaćanja.
+Ako plaćate kreditnom karticom ili bankovnim nalogom, metod plaćanja povezan sa pretplatom se naplaćuje u roku od nekoliko dana nakon kreiranja naloga. Ako uplata ne uspe, ažurirajte ili promenite način plaćanja.
 
-Ako ste dodali novu karticu, a i dalje dobijate obaveštenje na staru kreditnu karticu, možda ćete morati da povežete novu karticu sa pretplatom.
+Ako ste dodali novu karticu i još uvek dobijate obaveštenje o opadanju na staroj kartici, možda ćete morati da povežete tu novu karticu sa pretplatom.
 
-1. U okviru administratorskog centra idite na račun za **naplatu**  >  **&**  >  stranicu "[načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806) ".
+1. U centru administracije idite na stranicu **"**  >  **računi plaćanja & uplate**"  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
 
-2. Izaberite red načina plaćanja koji želite da zamenite. U desnom oknu su navedeni svi profili za naplatu i pojedinačne pretplate koje koriste izabrani način plaćanja.
+2. Izaberite način za zamenu. Desni okno navodi sve profile naplate i pojedinačne pretplate koje koriste izabrani metod plaćanja.
 
-3. U desnom oknu izaberite stavku **Zameni način plaćanja za sve artikle**.
+3. U desnom oknu izaberite stavku **Zameni metodu plaćanja za sve stavke**.
 
-4. Da biste koristili postojeći način plaćanja, odaberite jedan sa padajuće liste, a zatim izaberite stavku **Zameni**.
+4. Da biste koristili postojeći način plaćanja, na padajućoj listi izaberite stavku **Zameni**.
 
     > [!NOTE]
-    > Ako imate pretplate povezane sa profilom za naplatu, možete koristiti samo kreditnu ili debitnu karticu za plaćanje. Ako na stranici " **načini plaćanja** " imate listu računa u banci, one nisu dostupne za biranje u padajućoj listi.
+    > Ako imate pretplate povezane sa profilom naplate, možete da koristite kredit ili debitnu karticu da biste ih platili. Ako imate bankovne račune navedene na stranici **metodi plaćanja** , one nisu dostupne za izbor na padajućoj listi.
 
-5. Da biste dodali novi način plaćanja, izaberite opciju " **Dodaj način plaćanja**".
+5. Da biste dodali novi način plaćanja, izaberite stavku **Dodaj metodu plaćanja**.
 
-6. U oknu " **Dodaj način plaćanja** " Unesite informacije o nalogu, a zatim kliknite na dugme **Sačuvaj**. Morate koristiti način plaćanja iz iste zemlje kao i vaš stanar.
+6. U oknu **Dodavanje načina plaćanja** unesite informacije o nalogu, a zatim izaberite stavku **Sačuvaj**. Morate da koristite način plaćanja iz iste zemlje kao stanar.
 
-7. Novi način plaćanja je već izabran u padajućoj listi. Izaberite stavku **Zameni**.
+7. Novi način plaćanja je već izabran na padajućoj listi. Izaberite stavku **Zameni**.
 
-Da biste saznali više, pogledajte odeljak [Upravljanje metodama plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Da biste saznali više, pogledajte članak [Upravljanje metodama plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Učestalost naplate**
 
-Računi se generišu mesečno ili godišnje, u zavisnosti od učestalosti naplate koja je izabrana prilikom odjave.  
+Računi se generišu mesečno ili godišnje, u zavisnosti od učestalosti naplate izabranog na odjavljivanje.  
 
-**Napomena**: porudžbine sa godišnjim naplatom mogu dobiti srednjoročni mandat ako su izvršene promene, kao što su Dodavanje ili uklanjanje licenci. [Promenite učestalost naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Napomena**: porudžbine sa godišnjem naplatom mogu dobiti srednjoročni uslov ako su izvršene promene, kao što je dodavanje ili uklanjanje licenci. [Promena učestalosti naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

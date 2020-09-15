@@ -5,25 +5,26 @@ author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 6796112af0c67669ce073ac98348c9420c94730c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39625822"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687494"
 ---
 # <a name="add-users-to-intune"></a>Dodavanje korisnika u Intune
 
-Možete ručno dodati korisnike u usluzi Intune koristeći [Microsoft 365 admin Center](https://admin.microsoft.com/) ili [Intune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
+Možete ručno da dodate korisnike u Intune pretplatu pomoću [Microsoft 365 centra administracije](https://admin.microsoft.com/)   ili [Intune portala](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
 
-Administrator može da uređuje korisničke naloge da bi dodelio Intune licence. Licence možete dodeliti u Microsoft 365 admin Center ili lokaciji Intune.
+Administrator može da uređuje korisničke naloge da bi dodelio Intune licence. Možete dodeliti licence u Microsoft 365 centru administracije ili Intune portala.
 
-Za više informacija o korišćenju Microsoft 365 admin Center pogledajte odeljak [Dodavanje korisnika pojedinačno ili u obimno u Microsoft 365 admin Center](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+Više informacija o korišćenju Microsoft 365 centra administracije potražite [u članku pojedinačno ili masovno Dodavanje korisnika u microsoft 365 centar administracije](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-Za više informacija o korišćenju programa Intune, pogledajte odeljak [Dodavanje korisnika i odobravanje administrativnih dozvola za Intune](https://docs.microsoft.com/intune/fundamentals/users-add).
+Više informacija o korišćenju programskog dodatka Intune potražite u članku [Dodavanje korisnika i odobravanje administrativnih dozvola za Intune](https://docs.microsoft.com/intune/fundamentals/users-add).
