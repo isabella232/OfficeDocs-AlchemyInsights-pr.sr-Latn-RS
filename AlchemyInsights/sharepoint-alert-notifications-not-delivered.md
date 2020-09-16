@@ -1,11 +1,12 @@
 ---
-title: Nije isporučena SharePoint obaveštenja o obaveštenju
+title: Obaveštenja o SharePoint obaveštenjima koja nisu isporučena
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343100"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751257"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Nije isporučena SharePoint obaveštenja o obaveštenju
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Obaveštenja o SharePoint obaveštenjima koja nisu isporučena
 
-Proverite fasciklu "Neželjena pošta" u e-poruci, jer ponekad obaveštenja mogu da odu tamo.
+Potvrdite izbor u fascikli "Neželjena pošta" u e-poruci, kao što ponekad obaveštenja mogu da idu tamo.
 
-Utvrdite da li **se sva obaveštenja ne isporučuju** ili ako **pojedinačna uzbuna** iz određene datoteke ili biblioteke nije isporučena.
+Utvrdite da li **se sva obaveštenja ne isporučuju** ili ako se **pojedinačno obaveštenje** iz određene datoteke ili biblioteke ne dostavi.
 
-- **Pojedinačna obaveštenja se ne isporučuju**: ako pojedinačna uzbuna iz određene datoteke ili biblioteke nije isporučena, možete pokušati da je izbrišete i ponovo kreirate. Pogledajte odeljak [Upravljanje, prikazivanje ili brisanje SharePoint obaveštenja](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) da biste ponovo kreirali obaveštenje.
-- **Sva obaveštenja se ne isporučuju**: ako se ne isporučuju sva obaveštenja iz više datoteka ili biblioteka, posetite [kontrolnu tablu za uslugu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste proverili da li postoje neki savetnici/incidenti koji mogu da se odvijaju sa SharePoint ili Exchange serverom. To pitanje može biti sa mogućnošću SharePoint upozorenja ili kašnjenja u e-porukama putem Exchange servera. Takođe će biti važno da imate na umu da li se e-pošta isporučuje, a ako ne, to pitanje je verovatno sa kašnjenjima Exchange servera.
+- **Pojedinačne obaveštenja se ne isporučuju**: ako se pojedinačno obaveštenje iz određene datoteke ili biblioteke ne dostavi, možete da pokušate da ga izbrišete i ponovo kreirate. Pogledajte članak [Upravljanje, prikazivanje ili brisanje SharePoint obaveštenja](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) da biste ponovo kreirali obaveštenje.
+- **Sva obaveštenja se ne isporučuju**: ako se sva obaveštenja iz više datoteka ili biblioteka ne isporuče, posetite [kontrolnu tablu zdravstva usluge](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste pronašli sve savete/incidente koji se možda dešavaju sa sistemom SharePoint ili Exchange. Problem bi mogao da bude uz mogućnost SharePoint obaveštenja ili kašnjenja u e-porukama putem razmene. Važno je i da primetite da li se nalazi druga e-pošta i ako nije, problem je verovatno sa kašnjenjima u razmeni.
 
 Najčešća pitanja o obaveštenjima:
 
-- Nije moguće poslati obaveštenja grupi za distribuciju, podržane su samo bezbednosne i O365 grupe.
-- Ne možete da prilagodite predloške e-pošte upozorenja; Potrebno je da koristite Microsoft tok posla za protok ili SharePoint dizajner da biste ih ostvarili.
+- Nije moguće slati obaveštenja u grupu distribucije, podržani su samo Security i O365 grupe.
+- Ne možete da prilagodite predloške e-pošte obaveštenja; Potrebno je da koristite Microsoft FLOW ili SharePoint Designer tok posla da biste to postigli.
 
 ## <a name="related-topics"></a>Srodne teme
 
-Želite li da isprobate Microsoft protok na SharePoint mreži?
+Želite da probate Microsoft flow u usluzi SharePoint online?
 
-- [Kreiraj tok](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Kreiranje protoka](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
 - [SharePoint i protok](https://flow.microsoft.com//blog/sharepoint-and-flow/)
