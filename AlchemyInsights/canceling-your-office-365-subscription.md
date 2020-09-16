@@ -1,10 +1,11 @@
 ---
-title: Otkažete pretplatu?
+title: Otkazujete pretplatu?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 429dfe3d66fb37a62e2355084cd30c5e4fe16e71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508174"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757350"
 ---
-# <a name="canceling-your-subscription"></a>Otkažete pretplatu?
+# <a name="canceling-your-subscription"></a>Otkazujete pretplatu?
 
-Žao nam je što vas vidim, ali ako želite da otkažete pretplatu, Evo vaših opcija:
+Biće nam žao da odete, ali ako želite da otkažete pretplatu, Evo vaših opcija:
   
-- Ako ste probni kupac, nema ničega za otkazivanje. Probne pretplate se automatski ističu ukoliko ne navedete način plaćanja.
+- Ako ste korisnik probne usluge, nema ničega za otkazivanje. Probne pretplate isteknu automatski, osim ako ne obezbedite način plaćanja.
 
-- Ako imate manje od 25 dodeljenih licenci, možete da otkažete pretplatu na mreži. Idite na stranicu " **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". U odeljku " **postavke &"** izaberite komandu **"Otkaži pretplatu"**.
+- Ako imate manje od 25 dodeljenih licenci, možete otkazati pretplatu na mreži. Idite na stranicu **Billing** " \> **[naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". U odeljku **radnje &** izaberite stavku **Otkaži pretplatu**.
 
-- Ako imate više od 25 dodeljenih licenci, možete da uklonite korisnike dok ne dobijete manje od 25 godina.
+- Ako imate više od 25 dodeljenih licenci, možete da uklonite korisnike dok ne dobijete manje od 25.
   
-**Refundacija: bilo koji prorated kredit će vam biti vraćen u okviru sledećeg ciklusa naplate.** 
+**Povraćaj kredita: bilo koji proporcionalni kredit će vam biti vraćen u okviru sledećeg ciklusa naplate.** 
 
-**Napomena**: ako ne vidite opciju za otkazivanje, kliknite na pretplatu da biste prikazali detalje i trebalo bi da vidite opciju **"Otkaži pretplatu"** u okviru **postavki & radnje**. 
+**Napomena**: ako ne vidite opciju za otkazivanje, kliknite na pretplatu da biste prikazali detalje i trebalo bi da vidite opciju **Otkaži pretplatu** u **postavkama & radnje**. 
 
-Da biste saznali više, pogledajte odeljak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Da biste saznali više, pogledajte članak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

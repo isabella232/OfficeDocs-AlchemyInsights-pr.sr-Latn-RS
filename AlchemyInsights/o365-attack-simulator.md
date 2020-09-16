@@ -1,41 +1,42 @@
 ---
-title: 2681 na simulatoru napada u aplikaciji Microsoft 365
+title: 2681 simulator napada u programu Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506752"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759233"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Simulatoru napada u Microsoftu 365
+# <a name="attack-simulator-in-microsoft-365"></a>Simulator napada u programu Microsoft 365
 
-- Da li nedostaje simulatoru napada? Simulatoru napada zahteva **Office 365 napredni plan zaštite pretnji 2 (ATP plan 2)** ili **Office 365 Enterprise E5**. Simulatoru napada **nije** uključen u Office 365 napredni plan zaštite pretnje 1 (ATP plan 1), Office 365 Enterprise E3 ili bilo koje Microsoft 365 aplikacije za poslovne pretplate.
+- Nedostaje vam simulator za napad? Simulator napada zahteva **Office 365 napredni plan zaštite od pretnje 2 (ATP plan 2)** ili **Office 365 Enterprise E5**. Simulator napada **nije** uključen u Office 365 napredni plan zaštite od pretnje 1 (ATP plan 1), Office 365 Enterprise E3 ili bilo koje Microsoft 365 aplikacije za pretplate.
 
-- Nalog koji koristite za pokretanje simuliranog napada zahteva globalne administratorske ili administratorske dozvole za zaštitu od više faktora (MFA). Za više informacija o zahtevima za simulatoru napada pogledajte [ovu temu](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Nalog koji koristite za pokretanje simuliranih napada zahteva opšte dozvole globalnog administratora ili administratora bezbednosti i potvrdu identiteta sa više faktora (MFA). Više informacija o zahtevima za simulator napada potražite u [ovom članku](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
-- Važne stvari koje treba znati o **okrutne sile napada lozinke** :
+- Važne stvari koje treba znati **o** simulacijama za napad
 
-  - Ako je ciljni nalog omogućen MFA, a lozinka je ispravno pogodila, nalog neće biti ugrožen (drugi faktor potvrde identiteta će biti nepotpun).
+  - Ako je omogućeno MFA za ciljni nalog i ako je lozinka ispravno pogodila, nalog se neće prikazati kao kompromitovan (drugi faktor potvrde identiteta će biti nepotpun).
 
-  - Datoteka sa lozinkama ne može da bude veća od 10 MB. Koristite jednu lozinku po redu, a zatim uključite prazan red (znak za kraj reda) nakon poslednje lozinke na listi.
+  - Datoteka lozinki ne može biti veća od 10 MB. Koristite jednu lozinku po redu i dodajte praznu liniju (povratni tip) posle poslednje lozinke na listi.
 
-- Važne stvari koje treba znati o **koplju phishing** Priloži simulacije:
+- Važne stvari koje treba znati o **phishing** Prilaganje Priloži:
 
-  - Po dizajnu, ne možete da navedete prilagođenu vrednost za **URL adresu servera za prijavljivanje na phishing**.
+  - Po dizajnu, ne možete da obezbedite prilagođenu vrednost za **URL adresu za phishing server za prijavljivanje**.
 
-  - Ako primalac koristi [programski dodatak "Omogući" poruke izveštaja](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) da prijavi poruku kao phishing, možda nećete primati obaveštenja za poruku (zato što je ovo simulirani napad).
+  - Ako primalac koristi [programski dodatak "Omogućavanje poruke izveštaja](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) " da bi izvestio o grešci kao phishing, možda nećete primati obaveštenja (jer je ovo simulirani napad).
 
-- Izveštaji: Nakon dovršenog simuliranog napada, možete da izaberete stavku " **Detalji napada** " da biste videli izveštaj.
+- Izveštaji: kada se završi simulirani napad, možete da kliknete na dugme **Detalji napada** da biste videli izveštaj.
 
-- Za detaljna uputstva i nove osobine simulatora napada pogledajte [simulatoru napada u Microsoftu 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Detaljna uputstva i nove funkcije u simulatoru za napad potražite [u članku napad simulatora u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
