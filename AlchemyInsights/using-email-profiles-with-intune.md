@@ -6,37 +6,38 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 5aae83a0ab26c2bd59fddd2ad64d1c461d29f0f7
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46555763"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653302"
 ---
 # <a name="using-email-profiles-with-intune"></a>Korišćenje profila e-pošte sa Intune
 
-Intune može da se koristi za kreiranje i primenu profila e-pošte za osnovni (ugrađeni) klijent e-pošte na više platformi uređaja.
+Intune se mogu koristiti za kreiranje i primenu profila e-pošte za poreklom (ugrađeni) klijent e-pošte na više platformi uređaja.
 
-Informacije o nekim ograničenjima povezanim sa profilima e-pošte, uključujući način na koji se obrađuju prisustvo postojećih profila i kako se uklanjaju Profili e-pošte, pogledajte odeljak [Dodavanje postavki e-pošte na uređaje pomoću funkcije Intune](https://docs.microsoft.com/intune/email-settings-configure).
+Informacije o nekom od ograničenja koja se odnose na profile e-pošte, uključujući kako se rukuje prisutnost postojećeg profila i kako da uklonite profile e-pošte, potražite [u članku Dodavanje postavki e-pošte u uređaje pomoću Intune](https://docs.microsoft.com/intune/email-settings-configure).
 
-Više informacija o kreiranju profila e-pošte za svaku platformu uređaja potražite u članku:
+Više informacija o tome kako da kreirate profile e-pošte za svaku platformu uređaja potražite u članku:
 
-[Postavke za Android uređaje da biste konfigurisali e-poštu, potvrdu identiteta i sinhronizaciju u usluzi Intune](https://docs.microsoft.com/intune/email-settings-android)  
-[Dodavanje postavki e-pošte za iOS i iPadOS uređaje u programu Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
-[Postavke profila e-pošte u usluzi Microsoft Intune za uređaje koji rade pod operativnim sistemom Windows Phone 8,1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[Postavke Android uređaja da biste konfigurisali e-poštu, potvrdu identiteta i sinhronizaciju u Intune](https://docs.microsoft.com/intune/email-settings-android)  
+[Dodavanje postavki e-pošte za iOS i iPadOS uređaje u usluzi Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[Postavke profila e-pošte u programu Microsoft Intune za uređaje koje koriste Windows Phone 8,1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
 [Postavke profila e-pošte za uređaje koji rade pod operativnim sistemom Windows 10 u programu Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
-**Uobičajeno pitanje sinhronizacije**
+**Uobičajeni problem sa sinhronizacijom**
 
-**KNOX na Android e-pošti profil sprečava korisničke kontakte, kalendar i zadatke, od sinhronizacije do korisničkih uređaja.**
+**KNOX na Android profilu e-pošte sprečava korisnike, kalendar i zadatke da se sinhronizuju sa korisničkim uređajima.**
 
-Profil e-pošte KNOX na Android KNOX uređaju nudi administratoru opcije da odluči koji tipovi sadržaja se sinhronizuju sa uređajem tako što će podesiti svaki od njih da ih omogući.
+Profil e-pošte na Android KNOX-u pruža programu administrator opciju da odluči koji tipovi sadržaja se sinhronizuju sa uređajem tako što će se podesiti svako omogućen.
 
-Ako je postavka za bilo koji od tipova sadržaja postavljena na vrednost " **Nije konfigurisano** " (podrazumevani), taj tip sadržaja se neće automatski sinhronizovati. Korisnik će možda omogućiti tip sadržaja koji žele direktno na uređaj, ali ta konfiguracija se zamenjuje postavkom smernica Intune, a sinhronizacija se zaustavlja za taj tip sadržaja.
+Ako je postavka za bilo koji tip sadržaja podešena tako da **ne bude podešena** (podrazumevano), taj tip sadržaja se ne sinhronizuje automatski. Korisnik može da omogući ručno željeni tip sadržaja, ali ta konfiguracija se zamenjuje pomoću postavke Intune, a sinhronizacija prestaje za taj tip sadržaja.
 
