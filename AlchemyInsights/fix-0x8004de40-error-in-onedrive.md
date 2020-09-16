@@ -1,32 +1,33 @@
 ---
-title: Fix 0x8004de40 greška u usluzi OneDrive
+title: Ispravka greške 0x8004de40 u usluzi OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5da4271f242597b195ef61d553fd4a2ffb313025
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716042"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745144"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40 greška u usluzi OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Ispravka greške 0x8004de40 u usluzi OneDrive
 
-Ako dobijete grešku 0x8004de40 u usluzi OneDrive:
+Ako primite grešku 0x8004de40 0 uz OneDrive:
 
-- Ponovo pokrenite računar na koji je bio povezan sa domenom u vašem Akitve.
-- Ako ponovno pokretanje ne reši problem, raspakovanje i ponovno pridruživanje uređaju iz Azure oglasa. 
+- Ponovo pokrenite računar koji utiče na njega dok ste povezani sa Acitve Domain Domain Directory.
+- Ako ponovno pokretanje ne reši problem, odpridružite se i pridružite se uređaju iz usluge Azure AD. 
 
-**Napomena**: trebalo bi da budete na korporativnoj mreži dok izvršavate ove korake. Nemojte da izvršavate ove korake kada ne možete da se povežete sa korporativnom infrastrukturom (na primer, tokom putovanja). 
+**Napomena**: trebalo bi da budete na mreži preduzeća prilikom izvršavanja ovih koraka. Nemojte vršiti ove korake kada ne možete da se povežete sa korporativnom infrastrukturom (na primer, dok putujete). 
 
-- Otvaranje pune komandne linije. 
-- Kliknite desnim tasterom miša na **komandnu liniju** **, a**zatim izaberite stavku **Pokreni kao administrator**da biste otvorili sve pune komandne linije.
-- Otkucajte *dsregcmd/napuštanje* i pritisnite taster **ENTER**.
-- Kada dovršite, otkucajte *dsregcmd/JOIN* i pritisnite taster **ENTER**.
-- Kada dovršite, zatvorite komandnu liniju.
+- Otvorite otvorenu komandnu liniju. 
+- Da biste otvorili povećanu komandnu liniju, kliknite- **Start**, kliknite desnim tasterom miša na **komandnu liniju**, a zatim izaberite stavku **Pokreni kao administrator**.
+- Otkucajte *dsregcmd/ostavi* i pritisnite taster **ENTER**.
+- Kada završite, otkucajte *dsregcmd/JOIN* i pritisnite taster **ENTER**.
+- Kada završite, zatvorite komandnu liniju.
 - Ponovo pokrenite računar i prijavite se u OneDrive.

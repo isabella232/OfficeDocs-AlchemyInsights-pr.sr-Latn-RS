@@ -1,25 +1,26 @@
 ---
-title: Praćenje ili nepraćenje SharePoint lokacije
+title: Praжenje ili neodgovarati SharePoint sajt
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720940"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744449"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Praćenje ili nepraćenje SharePoint lokacije
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Praжenje ili neodgovarati SharePoint sajt
 
-Ako korisnici imaju problema sa sljedećim ili nesljedećim SharePoint resursima, dovršite ove korake:
+Ako korisnici imaju problema sa sledećim koracima, a koji ne prate sledeće SharePoint resurse:
 
-* Zamolite korisnika da se odjavi i ponovo prijavi u SharePoint i pokušajte da izvršite iste korake da biste sledili/otkačili praćenje SharePoint resursa.
-* Utvrdite da li je problem sa određenom lokacijom ili svim lokacijama. Ako dođe do problema sa određenim lokacijama, uverite se da je funkcija "sledeći sadržaj" aktivna za lokaciju tako što ćete otići na **Postavke lokacije > Upravljanje funkcijama lokacije > sledeći sadržaj**. Ako je funkcija podešena na "aktivno", pokušajte da deaktivirate i ponovo aktivirate ovu funkciju za tu lokaciju.
-* Zamolite korisnika da pokuša drugi Internet pregledač da vidi da li je problem specifičan za korisnički pretraživač.
-* Ako svi korisnici i sve lokacije imaju isti problem, proverite [kontrolnu tablu usluge](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste videli da li je vaša organizacija uticala na to.
+* Zatražite od korisnika da se odjavite i ponovo prijavi u SharePoint i isprobajte iste korake da biste sledili/odjavili SharePoint resurs.
+* Utvrdite da li je problem sa određenom lokacijom ili svim lokacijama. Ako se problem javlja sa određenim lokacijama, uverite se da je funkcija "sledeći sadržaj" aktivna za lokaciju tako što ćete otići na **Postavke lokacije > Upravljanje funkcijama lokacije > pomoću sadržaja**. Ako je funkcija podešena na aktivnu, pokušajte ponovo da deaktivirate i aktivirate funkciju za sajt.
+* Zatražite od korisnika da pokuša da pokuša da vidi da li je problem karakterističan za pregledač korisnika.
+* Ako svi korisnici i sve lokacije imaju isti problem, pogledajte [kontrolnu tablu zdravstva usluge](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste videli da li je vaša organizacija uticala na njega.

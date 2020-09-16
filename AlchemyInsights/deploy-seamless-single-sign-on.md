@@ -1,27 +1,28 @@
 ---
-title: Primeni Nebesprekoran prijavljivanje
+title: Primena nesmetanog jedinstvenog prijavljivanja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 92ea18126af38ba9c065833f02c0f12bcb154c06
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7060f7fa3d8b259027e17e821c8da736b8526f3d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704683"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745608"
 ---
-# <a name="enable-seamless-sso"></a>Omogući nesmetan SSO
+# <a name="enable-seamless-sso"></a>Omogućavanje savršena SSO
 
-Azure Active Directory (Azure oglas) besprekoran za jedinstveno prijavljivanje (neprimetna SSO) automatski se prijavljuje u korisnike kada se nalaze na korporativnim površinama koje su povezane sa vašom korporativnom mrežom.
+Azure Active Directory (Azure AD) besprekorno se prijavljuje (besprekorni SSO) automatski potpisuje korisnike kada su na računarima koji su povezani sa korporativnom mrežom.
   
-[Pratite korake iz ovog članka da biste omogućili besprekoran SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Slijedite korake iz ovog članka da biste omogućili besprekoran SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

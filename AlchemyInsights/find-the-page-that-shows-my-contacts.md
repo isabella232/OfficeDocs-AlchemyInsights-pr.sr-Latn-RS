@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: ae9d45741f5bdd8ab6df1bc35c51663f7b937a47
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573586"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745288"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>Pronalaženje stranice koja prikazuje kontakte
 
-Kontakte možete da pretražujete na isti način dok pretražujete e-poruke.
+Možete da pretražujete kontakte na isti način kao što tražite e-poruke.
  
-Tapnite na ikonu za pretragu Lupe, a zatim u polje na vrhu ekrana upišite zahtev za pretraživanje kontakata. (**Protip**: možete dvaput da tapnete na lupu da biste mogli da se usredsredite na polje za pretragu.) Rezultati će se pojaviti u odeljku "Kontakti".
+Dodirnite ikonu "Pretraga stakla", a zatim otkucajte zahtev za pretragu kontakata u polje na vrhu ekrana. (**Dobakљiљ**: možete da dodirnete dvaput na lupu da biste doveli fokus na polje za pretragu.) Rezultati će se pojaviti u odeljku kontakti.
