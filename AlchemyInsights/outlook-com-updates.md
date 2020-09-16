@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719354"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722505"
 ---
-# <a name="outlookcom-updates"></a><span data-ttu-id="9c536-102">Outlook.com ispravke</span><span class="sxs-lookup"><span data-stu-id="9c536-102">Outlook.com updates</span></span>
+# <a name="outlookcom-updates"></a><span data-ttu-id="64aba-102">Outlook.com ispravke</span><span class="sxs-lookup"><span data-stu-id="64aba-102">Outlook.com updates</span></span>
 
-<span data-ttu-id="9c536-103">**Najnovije ispravke**</span><span class="sxs-lookup"><span data-stu-id="9c536-103">**Latest updates**</span></span>
+<span data-ttu-id="64aba-103">**Najnovije ispravke**</span><span class="sxs-lookup"><span data-stu-id="64aba-103">**Latest updates**</span></span>
 
-- <span data-ttu-id="9c536-104">Nabavite još e-poruke sa novim Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="9c536-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="9c536-105">Pojednostavili smo pretraživanje da bismo lakše nego ikada mogli da pronađemo ono što tražite.</span><span class="sxs-lookup"><span data-stu-id="9c536-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="9c536-106">Nove funkcije, poput fotografija i pregleda priloga, omogućavaju vam da slike i datoteke vidite bez napuštanja prijemnog poštanskog sandučeta.</span><span class="sxs-lookup"><span data-stu-id="9c536-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="9c536-107">Sada možete dodati emojis i GIFs u vaše poruke.  [Saznajte više o novom Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="9c536-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+- <span data-ttu-id="64aba-104">Iskoristite e-poštu sa novim Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="64aba-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="64aba-105">Unapređeni smo u potrazi da bismo vam olakšali pronalaženje onoga što tražite.</span><span class="sxs-lookup"><span data-stu-id="64aba-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="64aba-106">Nove funkcije kao što su snimci fotografija i prilozi omogućavaju vam da vidite slike i datoteke bez napuštanja prijemnog poštanskog sandučeta.</span><span class="sxs-lookup"><span data-stu-id="64aba-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="64aba-107">Sada možete da dodate emoji znakovi i GIF poruke.  [Saznajte više o novom Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="64aba-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
 
-<span data-ttu-id="9c536-108">**Ažuriranje e-pošte**</span><span class="sxs-lookup"><span data-stu-id="9c536-108">**Email updates**</span></span>
+<span data-ttu-id="64aba-108">**Ispravke za e-poštu**</span><span class="sxs-lookup"><span data-stu-id="64aba-108">**Email updates**</span></span>
 
-- <span data-ttu-id="9c536-109">Ako vaše poštansko sanduče Outlook.com nije ažurno, pogledajte članak [popravljanje Outlook.com problema sa sinhronizacijom e-pošte](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9c536-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+- <span data-ttu-id="64aba-109">Ako se Outlook.com poštansko sanduče ne ažurira, pogledajte članak [Rešavanje problema sa ispravkom Outlook.com e-pošte](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="64aba-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
