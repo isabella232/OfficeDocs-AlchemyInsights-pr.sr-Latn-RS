@@ -1,38 +1,39 @@
 ---
-title: 2491 obaveštenja e-poruke iz ' Phish dostavljene zbog načela tenanta ili zamene korisnika
+title: 2491 upozoravanje e-poruka iz "Phish isporučene zbog smernica zakupca ili zamene korisnika"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758946"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728625"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Obavesti e-poruke sa ' Phish isporučenim zbog smernica za zatezivanje ili zamenu korisnika
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Upozoravanje e-poruka iz ' Phish isporučene zbog polise zakupca ili korisnika
 
-Podrazumevane smernice za upozorenje pod nazivom "Phish isporučeno zbog tenanta ili korisničke zamene" su isporučene u stanari sa Office 365 ATP P1 i P2 licence. Ako ste primili ovo obaveštenje, evo koraka za istraživanje:
+Podrazumevana smernica za obaveštenje pod imenom "Phish isporučen zbog zakupca ili zamene korisnika" je poslata zakupcima Office 365 ATP P1 i P2 licenci. Ako ste dobili ovo obaveštenje, evo koraka za istraživanje:
 
-1. Iz poruke obaveštenja kliknite na dugme " **Prikaži obaveštenje** " da biste otišli na stranicu " **obaveštenja** " u centru za bezbednost &.
+1. U poruci upozorenja kliknite na dugme **Prikaži obaveštenje** da biste otiљli na stranicu **obaveštenja** u centru za bezbednost & bezbednosti.
 
-2. Izaberite obaveštenje da biste videli opciju za **Prikazivanje liste poruka** ili **Prikazivanje poruka u programu Explorer**. Obe opcije će vas odvesti do detalja poruke, koja uključuje ID poruke. Imajte na umu da će veza "Explorer za pretnje" automatski filtrirati poruke koje odgovaraju kriterijumu obaveštenja. Možda će biti potrebno da podesite filter datuma u istraživaču pretnji.
+2. Potvrdite izbor u polju za potvrdu obaveštenje da biste videli opciju za **prikaz liste poruka** ili **prikazali poruke u programu Explorer**. Obe opcije vas vodi do detalja poruke, što obuhvata ID poruke. Imajte u vidu da će karika u programu Explorer za pretnju automatski filtrirati poruke koje se podudaraju sa kriterijumima obaveštenja. Možda ćete morati da prilagodite filter datuma u istraživaču pretnji.
 
-Prevarantska poruka je isporučena zbog ručnog konfigurisanog zamene:
+Phishing poruka je isporučena zbog ručno konfigurisane zamene:
 
-- Dozvoljen pošiljalac ili domen koji je postavio korisnik.
+- Dozvoljeni pošiljalac ili domen koji je postavio korisnik.
 
-- Dozvoljen pošiljalac ili domen koji je postavio administrator u smernicama za borbu protiv bezvredne pošte.
+- Dozvoljeni pošiljalac ili domen postavljen u okviru smernica za sprečavanje bezvredne pošte.
 
-- Dozvoljena IP adresa u smernicama filtera veze.
+- Dozvoljena IP adresa u smernicama filtriranja veze.
 
-- Pravilo toka pošte (poznato i kao pravilo prevoza) konfigurirano je tako da dozvoljava poruke.
+- Pravilo toka pošte (poznato i kao pravilo transporta) koje je podešeno da omogući poruke.
 
-Ako smatrate da je poruka nepravilno označena kao Phish, koristite [programski dodatak poruke u Outlook izveštaju](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) da biste prosledili uzorke poruka korporaciji Microsoft.
+Ako verujete da je poruka pogrešno označena kao frish, koristite [programski dodatak Outlook izveštaj](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) za prosleđivanje uzoraka poruka korporaciji Microsoft.
