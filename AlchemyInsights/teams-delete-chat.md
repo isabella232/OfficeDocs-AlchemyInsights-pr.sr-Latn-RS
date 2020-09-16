@@ -1,31 +1,32 @@
 ---
-title: 'Timovi: Izbriši ćaskanje'
+title: 'Timovi: izbrišite ćaskanje'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: a9c02dcf00fff4d89b720668e287c1a76b4b68ea
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: d22877d1777df432a1c9b5420c4fce73d291c994
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027126"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736806"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Brisanje ćaskanja u Microsoft timovima
 
-Da biste saznali više o tome kako pojedinačni korisnici mogu da uređuju ili izbrišu poruke, Prikažite [ili izbrišite poslatu poruku u timovima](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263). 
+Da biste saznali više o tome kako pojedinačni korisnici mogu da uređuju ili brišu poruke, Prikažite [ili izbrišite poslatu poruku u timovima](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263). 
 
-Opcije brisanja obuhvataju sledeće:
+Opcije brisanja uključujete sledeće:
 
-- Korisnici mogu da izbrišu sopstvene poruke bilo gde u timovima.
-- Vlasnici tima mogu da odaberu da li korisnici mogu da uređuju ili izbrišu svoje stanante ili da izbrišu sve poruke objavljene u javnim kanalima.
-- Korisnici mogu da sakriju ili da prigušaju svoje privatne chat niti (niti one koje se pojavljuju kada kliknete na ikonu za ćaskanje).
+- Korisnici mogu da brišu sopstvene poruke bilo gde u timovima.
+- Vlasnici tima mogu da odaberu da li korisnici mogu da uređuju ili brišu u zakupcu ili da brišu poruke objavljene na javnim kanalima.
+- Korisnici mogu da sakriju ili isključuju privatne ćaskanja (nit koji se pojavljuju kada kliknete na ikonu ćaskanja).
 
-**Napomena:** Mogućnost brisanja privatnih Chat niti još uvek je pod kontrolom i može se pratiti u [Userglasu](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads). 
+**Napomena:** Mogućnost brisanja privatnih žaca za ćaskanje i dalje se nalazi u okviru pregleda i može se pratiti u [Uservoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/33535006-delete-private-chat-threads). 
