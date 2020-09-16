@@ -1,38 +1,39 @@
 ---
-title: Uobičajene teme i rešenja za SharePoint online
+title: Uobičajeni problemi i rezolucije na SharePoint mreži
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771193"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720327"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>Uobičajene teme i rešenja za SharePoint online
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>Uobičajeni problemi i rezolucije na SharePoint mreži
 
-Evo nekih često zahtevanih tema za probleme sa SharePoint mrežom:
+Evo nekih često zahtevanih tema za SharePoint online probleme:
 
-- **Prvi koraci**: koristite [SharePoint look knjigu](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) da biste izgradili prelepu, snažnu internu mrežu koja povezuje radno mesto. Pogledajte [primere](https://lookbook.microsoft.com/) i dobijte [smernice dizajna](https://spdesign.azurewebsites.net/). Pogledajte [intro na SharePoint Online da](https://docs.microsoft.com/sharepoint/introduction) biste dobili sveukupan uvod u SharePoint online.
+- **Prvi koraci**: koristite [Book look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) da biste napravili prelepu, moćnu intranet koja povezuje radno mesto. Pogledajte [primere](https://lookbook.microsoft.com/) i nabavite [uputstva za dizajniranje](https://spdesign.azurewebsites.net/). Pogledajte [Uvod u SharePoint online](https://docs.microsoft.com/sharepoint/introduction) za ukupan uvod u SharePoint online.
 
-- **Dozvole**: [napravite strategiju za dozvole](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i [razumete nivoe dozvola](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Dozvole**: [Kreiranje strategije dozvola](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i [Razumevanje nivoa dozvola](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-- **Deljenje**: [Deljenje sa drugima](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) unutar vaše organizacije ili [sa drugim osobama izvan vaše organizacije](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Deljenje**: [Deljenje sa drugima](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) unutar organizacije ili [sa drugima izvan vaše organizacije](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
-- **Rad sa datotekama dokumenata**: Saznajte više o [Otpremi](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)datoteka, [preuzimanju](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)datoteka, [uređivanjima](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)datoteka i trenutnim [ograničenjima za datoteke](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **Rad sa datotekama dokumenata**: Saznajte više o [otpremanju](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)datoteka, [preuzimanju](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)datoteka, [uređenju](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)datoteka i trenutnim [ograničenjima datoteka](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- **Skladište**: Saznajte kako da upravljate korisnicima OneDrive skladišta</a>, kao što je [Upravljanje skladištem lokacija](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) na vašoj pretplati i [razumevanje svih ograničenja](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Skladište**: Saznajte kako da upravljate korisnicima OneDrive skladišta </a> , kao što je [Upravljanje skladištem lokacija](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) za pretplatu i [razumevanje svih ograničenja](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
 
-- Ime za **ime**: pogledajte odeljak [Promena imena SharePoint domena](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) za više informacija.
+- **Preimenovanje zakupca**: pogledajte članak [Promena imena SharePoint domena](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) za više informacija.
 
-- **Osavremeni SharePoint**: pregledajte [Vodič do modernog iskustva u sistemu SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i [osavremeniti vaše klasične SharePoint lokacije](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) da biste započeli premeštanje.
+- **Modernizuje SharePoint**: pregledajte [Vodič kroz moderno iskustvo u sistemu SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i [modernizuje SharePoint lokacije](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) da biste započeli premeštanje.
 
-**Napomena:** Za određeniji odgovor o SharePoint problemu, ukratko Preformulišite vaše pitanje i uključite sve greške koje vidite ili funkcije koje koristite.
+**Napomena:** Da biste imali konkretniju poruku o SharePoint problemu, nakratko Preformulišite pitanje i uključujete sve greške koje vidite ili funkcije koje koristite.

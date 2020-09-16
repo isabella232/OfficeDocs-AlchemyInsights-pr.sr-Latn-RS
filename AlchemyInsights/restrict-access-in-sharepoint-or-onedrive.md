@@ -5,26 +5,27 @@ author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: ed8e97b20c96a7b46995c969074cc4cef3a787d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715898"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720696"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ograničavanje pristupa u sistemu SharePoint ili OneDrive
 
-U sistemu SharePoint i OneDrive ograničajte pristup stavkama kao što su datoteke, fascikle i liste dodeljivanjem pristupa samo grupama ili pojedincima kojima želite da pristupite. Podrazumevano, dozvole u sistemu SharePoint su nasleđene od višeg u hijerarhiji. Zato datoteka nasleđuje dozvole iz fascikle koja nasleđuje dozvole iz biblioteke, što nasleđuje dozvole od lokacije.
+U sistemu SharePoint i OneDrive ograničite pristup stavkama kao što su datoteke, fascikle i liste tako što ćete dodeliti Access samo grupama ili osobama koje želite da imate. Dozvole u sistemu SharePoint podrazumevano su nasleđene iz većeg dodatka u hijerarhiji. Tako da datoteka nasleđuje svoje dozvole iz fascikle, koja nasleđuje dozvole iz biblioteke, koja nasleđuje dozvole od lokacije.
   
-Možete da delite na višem nivou (kao što je deljenje čitave lokacije), a zatim da prekinete nasleđivanje ako ne želite da delite sve stavke na lokaciji. Međutim, to ne preporučujemo zato što je održanje dozvola u budućnosti složenija i zbunjujuća. Evo šta možete uraditi:
+Možete da delite na većem nivou (na primer, tako što ćete deliti celu stranicu), a zatim prekinuti nasledstvo ako ne želite da delite sve stavke na lokaciji. Međutim, ovo ne preporučujemo zato što vam ubuduće omogućava da održavate dozvole složenije i zbunjujuće. Evo šta možete da uradite umesto toga:
   
-- Ako, na primer, želite da delite celokupan sadržaj fascikle osim jedne datoteke u njoj, premestite tu datoteku na novu lokaciju koja se ne deli.
+- Ako, na primer, želite da delite celokupan sadržaj fascikle, osim za jednu datoteku, premestite tu datoteku na novu lokaciju koja se ne deli.
     
-- Ako imate dve potfascikle u fascikli i želite da delite jednu potfasciklu sa grupama a i B i da dozvolite samo grupisanje pristupa drugoj potfascikli, podelite nadređenu fasciklu sa grupom a i dodajte grupu B u prvu potfasciklu.
+- Ako imate dve potfascikle u fascikli i želite da delite jednu potfasciklu sa grupama A i B i omogućite samo pristup grupi u drugu potfasciklu, delite nadređenu fasciklu sa grupom a i dodajte grupu B u prvu potfasciklu.
     
-[Prestanak deljenja datoteke ili fascikle](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Zaustavljanje deljenja datoteke ili fascikle ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 
