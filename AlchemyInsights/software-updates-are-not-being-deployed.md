@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: 418f457700f02881df30e6f650a60101192aa538
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45424112"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665264"
 ---
 # <a name="software-updates-are-not-being-deployed"></a>Softverske ispravke se ne raspoređuju
 
-Ako ste konfigurisali softverske ispravke putem Windows 10 Update prstena, ali ispravke nisu raspoređene, pokušajte sledeće:  
+Ako ste konfigurisali softverske ispravke pomoću ringa Windows 10 Update, ali ispravke se ne primenjuju, pokušajte sledeće:  
 
-- Razmislite o promeni Windows usluge u odnosu na **polugodišnju** vrstu izdanja kanala na strožiji tip izdanja.
-- Proverite kvalitetan period za **Ažuriranje** i **Ažuriranje karakteristika**. Poreza period bi mogao da dovede do kašnjenja u ispravkama za do 180 dana.
+- Razmotrite promene Windows servisiranja iz  **polugodišnjeg**  tipa objavljivanja kanala na striktniju, češće tip izdavanja.
+- Potvrdite deferralan period radi  **ažuriranja kvaliteta**  i  **ispravke funkcije**. Period deferrala može dovesti do kašnjenja dopuna za do 180 dana.

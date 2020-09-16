@@ -1,54 +1,55 @@
 ---
-title: Rešavanje problema sa primenom certifikata za potvrdu verodostojnosti klijenta
+title: Rešavanje problema pri primeni certifikata identiteta klijenta
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: 698329d7705af320c9f679b92532b58ac84e6624
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46555811"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659000"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Rešavanje problema sa primenom certifikata za potvrdu verodostojnosti klijenta
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Rešavanje problema pri primeni certifikata identiteta klijenta
 
-Intune NDES/SCEP i PKCS/PFX profili certifikata se obično koriste zajedno sa drugim tipovima profila kao što su WiFi, VPN i e-pošta da bi korisnicima omogućio identitet korporacijskih resursa. Kada su ti tipovi profila povezani sa profilom certifikata klijenta, zavisi od uspešnog raspoređivanja tog profila.
+Intune/SCEPS i PKCS/PFX certifikati klijenata se najčešće koriste zajedno sa drugim tipovima profila kao što su WiFi, VPN i e-pošta da bi se korisnicima omogućio da potvrde potvrdu u korporacijske resurse. Kada su ovi tipovi profila povezani sa profilom certifikata klijenta zavise od uspešne primene tog profila.
 
-Početno podešavanje infrastrukture i pridružena konfiguracija profila certifikata klijenta često zahtevaju rešavanje problema. Za Postepeni vodič za uspešno podešavanje NDES konektora i uputstva za rešavanje problema za izoliranje problema sa primenom certifikata, pogledajte: 
+Početna konfiguracija infrastrukture i povezana konfiguracija profila certifikata klijenta često zahtevaju rešavanje problema. Za vodič po koracima za uspešno podešavanje NDES konektora i uputstvo za rešavanje problema da bi se izoliram problemi sa primenom certifikata, pogledajte: 
 
-- [Konfigurišite infrastrukturu za podršku SCEP sa Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Pregled za Rješavanje problema sa SCEP profilima certifikata pomoću usluge Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Konfigurisanje infrastrukture za podršku pomoću Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Pregled profila certifikata za rešavanje problema sa Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Koristite referentne skripte ljuske da biste proverili konfiguraciju. Više informacija potražite u članku [Intune skripte za verifikaciju konektora certifikata](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Koristite referentne scenarije da biste potvrdili konfiguraciju. Više informacija potražite u članku [skripte za verifikaciju konektora za verifikovanje certifikata](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
 
   
-**Drugih uobičajenih pitanja**
+**Drugi uobičajeni problemi**
 
-**Kada pokušam da instaliram priključak za Intune potvrde na server NDES Connector, dobijam poruku "nije moguće proveriti lozinku u zahtevu za certifikat. Možda je već korišćen. Pribavite novu lozinku za prosleđivanje sa ovim zahtevom. "**  
+**Kada pokušam da instaliram konektor za potvrdu Intune na server NDES Connector, dobijam poruku "lozinka u zahtevu za certifikat ne može biti proverena. Možda je već korišćen. Nabavite novu lozinku za prosleđivanje sa ovim zahtevom. "**  
 
-Ova poruka znači da je potrebno da pokrenete instalaciju sa konektorom za certifikat kao administrator.
+Ova poruka znači da treba da pokrećete instalaciju konektora za certifikat kao administrator.
 
-U nekim okruženjima, serveri na kojima pokreće Intune certifikat moraju da koriste proxy server za povezivanje sa uslugom Intune, kao i da konektor certifikata mora da koristi proxy. U nekim okolnostima, NDES Connector zanemaruje konfigurisane proxy postavke i možda će biti neophodno da konfigurišete postavke proxy servera dok se radi u bezbednosnom kontekstu Localsistema. 
+U nekom okruženju, serveri na kojima je pokrenut certifikat Intune mora da koristi proxy server za povezivanje sa Intune tako da konektor za certifikat mora da koristi proxy. U odreрenim okolnostima, NDES konektor zanemaruje podešene proxy postavke i možda će biti potrebno da konfigurišu postavke proxy servera dok su u bezbednosnom kontekstu lokalnog sistema. 
  
-Rešenje je pokretanje programa Internet Explorer kao sistema i konfigurisanje proxy servera u programu IE. Nakon ponovnog pokretanja usluge Intune Connector, NDES konektor se povezuje sa Intune.
+Rešenje je da pokrećete Internet Explorer kao sistem i konfigurišete proxy u IE. Nakon ponovnog pokretanja usluge sistema Intune Connector, NDES konektor se povezuje sa Intune.
 
-**Korisnički uređaji više ne primaju certifikate za SCEP iz NDES.**
+**Korisnički uređaji više ne primaju sertifikate iz funkcija NDES.**
 
-Moguće je da je certifikat za potvrdu identiteta klijenta izdao na NDES server, a naveden za vreme instalacije NDES Connector je istekao ili je nestao. Da biste otklonili: 
+Moguće je da je certifikat identiteta klijenta izdat NDES serveru i naveden tokom instalacije sistema NDES Connector, istekao ili da nedostaje. Da biste rešili: 
  
-1. Deinstalirajte NDES konektor.  
-2. Koristite ove detalje da biste zahtevali novu potvrdu identiteta klijenta ili certifikat potvrde identiteta servera: 
+1. Deinstalirajte NDES Connector.  
+2. Koristite ove detalje da biste zatražili novu potvrdu identiteta klijenta ili certifikat potvrde identiteta servera: 
  
-    - Naziv subjekta: CN = spoljašnji FQDN  
-    - Alternativno ime teme (potrebno je oboje): DNS = eksterni FQDN, DNS = interni FQDN 
+    - Ime teme: CN = spoljni FQDN  
+    - Alternativno ime subjekta (oba su potrebna): DNS = eksterni FQDN, DNS = interna FQDN 
  
-3. Ponovo instalirajte NDES Connector sa novim certifikatom.
+3. Ponovno instaliranje NDES konektora pomoću novog certifikata.

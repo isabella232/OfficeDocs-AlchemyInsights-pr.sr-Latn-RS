@@ -1,31 +1,32 @@
 ---
-title: O identitetu u mreži Yammer
+title: O identitetu u usluzi Yammer
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: 2c4c2c836d18d2ab45e2368e778c793277b18aa0
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148304"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664184"
 ---
-# <a name="about-identity-in-yammer"></a>O identitetu u mreži Yammer
+# <a name="about-identity-in-yammer"></a>O identitetu u usluzi Yammer
 
-Preporučuje se da sve mreže preduzmu sledeće korake da biste izbegli probleme vezane za identitet:
+Preporučuje se da sve mreže preduzmu sledeće korake da bi se izbegli problemi u vezi sa identitetom:
 
-1. Nametni Office 365 identitet nakon što obezbedite Microsoft 365 naloge za korisnike u programu Azure oglasa da biste bili sigurni da se svi korisnici prijavljivanjem pomoću primarnog Microsoft 365 naloga. Više informacija potražite u članku [Primenjivanje Office 365 identiteta za korisnike mreže Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).
-2. Konsolidovanje više mreža na mreži Yammer. Zastarele konfiguracije mreže Yammer dozvoljavaju da više mreža na mreži Yammer bude povezano sa jednim tenkom. Više informacija potražite u članku [migracija mreže-konsolidovanje više mreža Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
-3. Opcionalno, primenite licencu za Yammer da biste blokirali korisnike sa mreže Yammer ako nemaju licencu. Više informacija potražite u članku [Upravljanje korisničkim licencama za Yammer u sistemu Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
-4. Na kraju, revizite listu korisnika za starije mreže Yammer i obustavite zastarele korisnike. Preporučuje se da obustavite (deaktivirate) korisnike umesto da ih izbrišete, jer je brisanje neopoziva. Više informacija potražite u članku [nadgledanje korisnika Yammer na mrežama povezanim sa Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) i [Uklanjanje korisnika](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
+1. Nametanje Office 365 identiteta nakon obezbeđivanja Microsoft 365 naloga za korisnike u Azure AD da biste se uverili da se svi korisnici prijave pomoću primarnog Microsoft 365 naloga. Više informacija potražite u članku [nametanje primene Office 365 identiteta za Yammer korisnike](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).
+2. Konsolidovanje više Yammer mreža. Zastarele konfiguracije usluge Yammer dozvoljava da se više Yammer mreža poveže sa jednim zakupcem. Više informacija potražite u članku [migracija na mreži – konsolidacija više Yammer mreža](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+3. Opcionalno, nametanje licenciranja za Yammer da blokirate korisnike iz usluge Yammer ako nemaju licencu. Više informacija potražite u članku [Upravljanje korisničkim licencama usluge Yammer u sistemu Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
+4. Konačno, nadzor liste korisnika za starije Yammer mreže i suspenduje zastarele korisnike. Preporučuje se da obustavite (Deaktivirajte) korisnike umesto da ih brišete zato što je brisanje neopoziva. Više informacija potražite u članku [nadgledanje Yammer korisnika u mrežama povezanim sa sistemom Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) i [uklanjanjem korisnika](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
 
-Ako konfigurišete Yammer pomoću ovih koraka, takođe ćete biti spremni da konfigurišete mrežu Yammer za osnovni režim za Microsoft 365. Više informacija potražite u članku [Konfigurisanje mreže Yammer za osnovni režim za Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode).
+Konfigurisanjem Yammer pomoću ovih koraka takođe ćete biti spremni da konfigurišete Yammer mrežu za izvorni režim za Microsoft 365. Više informacija potražite u članku [Konfigurisanje Yammer mreže za izvorni režim za Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode).

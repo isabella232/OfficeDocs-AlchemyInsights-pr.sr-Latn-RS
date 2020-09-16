@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569405"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658748"
 ---
 # <a name="troubleshooting-events-from-email"></a>Rešavanje problema sa e-poštom
 
-1. Proverite da li je omogućena funkcija za poštansko sanduče: **get-Eventsfromemailiskonfiguracija <mailbox> -identitet**
+1. Potvrdite da je funkcija omogućena za poštansko sanduče: **da biste dobili-Eventsfromemail Configuration <mailbox> – identitet**
 
-2. Zatim pogledajte ' događaje iz e-maila ' evidencije **Export-MailboxDiagnosticLogs <mailbox> -Component time profil**
+2. Zatim pogledajte "događaji iz e-pošte" evidentira **Export-Mailboxdijagnostičke zapise <mailbox> – vremenski profil komponente**
 
-3. U "događajima iz evidencije e-pošte", pronađite Internetporuku koja se podudara sa stavkom u poštanskom sandučetu.  
+3. U evidenciji "događaji iz e-pošte" Pronađite aplikaciju Internegeid koja se podudara sa stavkom u poštanskom sandučetu.  
 
-4. Rezultat Pover, određuje da li je artikal dodat ili ne. Događaji će biti dodati samo ako je poverljiv rezultat = "pouzdan".
+4. Vrednost "pouzdanost" određuje da li se stavka dodaje ili ne. Događaji će biti dodati samo ako je vrednost "Pouzdani" = "pouzdan".
 
-Rezultat povernje je određen svojstvima SPF, Dkim ili Dmark, koji se nalaze u zaglavlju poruke.
+Vrednost "pouzdanost" određuje SPF, Dkim ili Dmark svojstva koja se nalaze u zaglavlju poruke.
 
 Da biste prikazali ova svojstva:
 
-**Radnu površinu Outlook**
+**Outlook za stone računare**
 
-- Otvorite stavku
-- Svojstva > datoteke-> Internet zaglavlja
+- Otvaranje stavke
+- Svojstva >-> Internet zaglavlja
 
-Ili
+Jer
 
 **MFCMapi**
 
-- Kretanje do stavke u prijemnom poštanskom sandučetu
-- Potraži PR_TRANSPORT_MESSAGE_HEADERS_W
+- Idite do stavke u prijemnom poštanskom sandučetu
+- Potražite PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Ova svojstva se određuju i zapisuju tokom transporta i proizvodnog postupka. Za dalje rešavanje problema, možda ćete morati da pratite podršku za transport u vezi sa otkazima u SPF-u, DKIM i. ili DMARK.
+Ova svojstva su rešena i snimljena tokom transporta i proizvodnog postupka. Da biste mogli da rešite problem, možda ćete morati da izvršite pretraživanje sa podrškom za transport o neuspesima u programu SPF, DKIM i. ili DMARK.
