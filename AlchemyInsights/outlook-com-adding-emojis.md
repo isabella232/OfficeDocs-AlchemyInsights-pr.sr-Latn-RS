@@ -1,28 +1,29 @@
 ---
-title: 8000045 Dodavanje emojis-a
+title: 8000045 Dodavanje emoji znakovi-a
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1402"
 - "8000045"
-ms.openlocfilehash: 4fc30ba6d5e582ef2bab9a3484177559c8044b2c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 21a28caafbd4dff143ed2e237f3d002d80d9671b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681946"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753993"
 ---
-# <a name="adding-emojis-to-email-messages"></a>Dodavanje emojje u e-poruke
+# <a name="adding-emojis-to-email-messages"></a>Dodavanje emoji znakovi u e-poruke
 
-U poruke možete da umetnete emojis.
+Možete da umetnete emoji znakovi u poruke.
 
-1. Odgovorite na postojeću e-adresu ili izaberite **novu poruku**.
-1. Izaberite dugme " **Umetni emojis** " <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> na dnu prozora za pisanje da biste otvorili okno izraza.
-1. Potražite i odaberite emođi ili GIF datoteku koju želite da umetnete.
+1. Odgovaranje na postojeću e-poštu ili izbor **nove poruke**.
+1. Kliknite na dugme **Umetni emoji znakovi** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> na dnu prozora za pisanje da biste otvorili okno izrazi.
+1. Potražite i odaberite emoji ili GIF koji želite da umetnete.
