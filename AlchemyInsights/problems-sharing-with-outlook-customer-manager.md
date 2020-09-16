@@ -1,11 +1,12 @@
 ---
-title: problemi-deljenje-sa-Outlook-rukovodilac-menadžer
+title: problemi-deljenje – Outlook – menadžer-menadžer
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758840"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728265"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemi pri deljenju sa Outlook Menadžerom za korisnike
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Deljenje problema sa Outlook menadžerom klijenata
 
-Ako imate problema sa deljenjem sa programom Outlook korisnički menadžer, preporučujemo da prvo pokušate da obrišete keš za pregledač. Na primer, u programu Internet Explorer vi biste:
+Ako imate problema sa deljenjem sa Outlook menadžerom klijenata, preporučujemo da prvo opozovete izbor keš pregledača. Na primer u programu Internet Explorer vi biste:
 
-1. Otvorite **Postavke** > **opštih** > postavki u okviru stavke **Istorija** > pregledanja**i baze podataka**.
-2. Izbrišite datoteke keša za Web lokaciju "outlookapps.com".
+1. Izaberite stavke **Postavke**  >  **Opšte** > u okviru **Browsing history**  >  **kešite istorije i baze podataka**.
+2. Brisanje datoteka keširanja za Veb lokaciju "outlookapps.com".
 3. Ponovo pokrenite Outlook.
 
-Više informacija o deljenju potražite u članku [Deljenje informacija u programu Outlook menadžer za korisnike](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Više informacija o deljenju potražite u članku [Deljenje informacija u Outlook menadžeru klijenata](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

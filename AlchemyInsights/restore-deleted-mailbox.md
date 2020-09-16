@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisanih poštanskog sandučeta
+title: Vraćanje izbrisanog poštanskog sandučeta
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511378"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728085"
 ---
-# <a name="restore-a-deleted-mailbox"></a>Vraćanje izbrisanih poštanskog sandučeta
+# <a name="restore-a-deleted-mailbox"></a>Vraćanje izbrisanog poštanskog sandučeta
 
-Kada korisnik izgubi licencu za Exchange online, njihovo poštansko sanduče se zadržava 30 dana i može se spasiti samo ponovnim dodeljivanjem licence korisniku.
+Kada korisnik izgubi Exchange online licencu, njihovo poštansko sanduče se zadržava za 30 dana i može se oporaviti jednostavnim ponovnim dodeljivanjem licence korisniku.
   
- *To će raditi samo u roku od 30 dana.*  
+ *Ovo će funkcionisati samo za 30 dana.*  
   
-1. U Microsoft 365 admin Center idite na stranicu " **Korisnici** \> **aktivnih korisnika** ". Izaberite dotisnički korisnik.
+1. U Microsoft 365 centru administracije idite na stranicu **Korisnici** \> **aktivni korisnici** . Izaberite korisnika koji je u pitanju.
 
-2. Na kartici **licence i aplikacije** dodelite Exchange online licencu i kliknite na dugme **Sačuvaj promene**.
+2. Na kartici **licence i aplikacije** dodelite licencu Exchange Online i izaberite stavku **Sačuvaj promene**.
 
-Ako pokušavate da spasete deljeni poštansko sanduče, ona se takođe oporavlja 30 dana. Možete ih pronaći pod **korisnicima** \> **izbrisanim korisnicima**; deljeni poštanski sandučići ne zahtevaju licencu. Ako shvatite da je potrebno da vratite izbrisane korisnike u prethodno stanje, pogledajte odeljak [Vraćanje korisnika u prethodno stanje](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Ako pokušavate da spasete Deljeno poštansko sanduče, on se takođe može spasti za 30 dana. Možete ih pronaći u okviru **Korisnici** koji su \> **izbrisali korisnike**; deljeni poštanski sandučići ne zahtevaju licencu. Ako shvatite da treba da vratite izbrisanog korisnika, pogledajte [Vraćanje u prethodno stanje korisnika](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
   
