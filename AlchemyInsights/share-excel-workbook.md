@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
-ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163795"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739299"
 ---
-# <a name="collaborate-on-excel-documents"></a>Saradnja u Excel dokumentima
+# <a name="collaborate-on-excel-documents"></a>Saradnja na Excel dokumentima
 
-Koristite **funkciju za kreiranje**da biste sarađivali sa kolegama u Excel dokumentima. 
+Da biste sarađivali sa kolegama u Excel dokumentima, koristite **funkciju koautorstvo**. 
 
-Saznajte više o omogućavanju i korišćenju ove funkcije, pored toga što vidite odgovore na najčešća pitanja o slučajevima deljenja i za kreiranje [radnih sveski, na saradnju u Excel radnim sveskama u isto vreme sa kokreiranje](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Saznajte više o omogućavanju i korišćenju ove funkcije, pored toga što ćete videti odgovore na najčešća pitanja o deljenju i koautorstvu scenarija prilikom [saradnje na Excel radnim sveskama istovremeno sa koautorstvom](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
