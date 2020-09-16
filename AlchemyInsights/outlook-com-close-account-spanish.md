@@ -1,25 +1,26 @@
 ---
-title: 8000067-Outlook.com zatvori nalog-španski
+title: 8000067-Outlook.com Close nalog – španski
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000067
-ms.openlocfilehash: 926024900c10d75f04596d6f455e63924df630ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 45186d1a569bcf11a87c80c1cca714ed90cc4544
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722174"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752517"
 ---
-# <a name="cerrar-la-cuenta-de-outlookcom"></a>Cerrar La cuenta de Outlook.com
+# <a name="cerrar-la-cuenta-de-outlookcom"></a>Servrar La cuente de Outlook.com
 
-Para cerrar permanentemente su cuenta de Correo elektrónico de Outlook.com, deberá cerrar su cuenta de Microsoft.
+Para cerrar permanentemente su cuente de Correo elektrone electrónico de Outlook.com, deberla servrar su Cuente de Microsoft.
 
-Cuando cierre La cuenta de Microsoft, su Correo elektrónico y Sus kontactos se eliminarán de nuestros servidores y no se podrian rereadar.
+Cuando cierre La Cuente de Microsoft, su Correo electróko y Sus contactos se eliminisati arбde nuestros
 
-[Lea Alışamadım cerrar su cuenta.](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[Lea Cуmo servrar su cuenta.](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
