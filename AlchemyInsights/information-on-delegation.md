@@ -1,10 +1,11 @@
 ---
-title: 606 informacija o delegaciji
+title: 606 informacije o delegaciji
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661742"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755721"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegacija za rešavanje problema u programima Outlook i Outlook na Webu
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegiranje za rešavanje problema u programu Outlook i programu Outlook na vebu
 
-**Rešavanje problema sa Sarom alatkom:**
+**Rešavanje problema sa Sarom |:**
 
-1. [Ovde](https://aka.ms/SaRA-SkypeForBusinessSignIn)Preuzmite i instalirajte SaRA alat.
-1. Izaberite **Outlook**, a zatim **Imam problema sa kalendarom**.
-1. Izgovorite " **da** " za računar koji je pogođen.
-1. Dodajte e-adresu tog korisnika koji je pogođen.
-1. Izaberite **Imam problema sa delegatnim dozvolama**.
-1. Ako ste osoba koja daje dozvole, unesite e-adresu svog delegata na sledeći zahtev. Ako ste primili dozvole, a vi ste delegat, unesite e-adresu osobe koja vam je dala dozvole.
+1. Preuzmite i instalirajte Saru alatku [ovde](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Izaberite stavku **Outlook**, a zatim imam **problema sa kalendarom**.
+1. Izgovorite " **da** " za mašinu za zaražena.
+1. Dodajte adresu e-pošte pogođene korisniku.
+1. Izaberite stavku **Imam problema sa delegiranjem dozvolama**.
+1. Na sledećem upitu, ako ste osoba koja daje dozvole, unesite adresu e-pošte delegata. Ako ste dobili dozvole, a vi ste delegat, unesite e-adresu osobe koja vam je dala dozvole.
 1. U sledećem meniju izaberite opciju koja odgovara vašem scenariju.
-1. Na sledećem meniju izaberite nivo dozvola.
-1. U ovoj fazi SaRA alatka će vršiti automatizovane čekove i pružiće vam moguću rezoluciju ili će obezbediti evidenciju dijagnostike koja može da se koristi za dalje rešavanje problema.
-1. Evidencije možete da pronađete u fascikli "SaRA Results" koja se nalazi na lokaciji C:\users\username\appdata\local\sararesults s.
+1. U sledećem meniju izaberite nivo dozvole.
+1. U ovoj fazi, Sarah alatka će izvršiti automatizovane provere i omogućiće vam mogućnost evidencije dijagnostike koja se može koristiti za dalju rešavanje problema.
+1. Evidentira možete da pronađete u fascikli sa rezultatima Sare koja se nalazi na lokaciji C:\users\userime \Appdata\local\sararesults.
