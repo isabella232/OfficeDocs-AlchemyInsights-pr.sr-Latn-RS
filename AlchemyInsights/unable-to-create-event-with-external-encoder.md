@@ -1,23 +1,24 @@
 ---
-title: 'Timovi: Live Event-nije moguće kreirati događaj sa spoljnim kokodom'
+title: 'Timovi: Event Event-ne možete da kreirate događaj sa spoljnim kodiranjem'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 3ca6227dde33b9c0093602f152377fcaff4041fc
-ms.sourcegitcommit: 60e8e348131d4db4d0d34ffe5b321bc92d7bf7e9
+ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "41969747"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796914"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Treba da konfigurišete svoj Live događaj pomoću spoljnog Encoder?
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Treba da konfigurišete događaj uživo pomoću spoljnog kodiranja?
 
-Ako imate problema sa korišćenjem programa za kodiranje da biste radili sa timovima uživo, pogledajte dokumentaciju instalacije za kodiranje: [Konfigurisanje kodiranja za protok uživo u Microsoft toku](https://docs.microsoft.com/stream/live-encoder-setup)
+Ako imate problema sa pristupačnošću kodiranja za rad sa timovima na uživo, pogledajte dokumentaciju za podešavanje kodiranja: [Konfigurisanje kodiranja za protok uživo u programu Microsoft stream](https://docs.microsoft.com/stream/live-encoder-setup)
