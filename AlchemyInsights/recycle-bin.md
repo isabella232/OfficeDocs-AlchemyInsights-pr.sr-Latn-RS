@@ -1,32 +1,33 @@
 ---
 title: Korpa za otpatke
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 417f1e343b94bf0397fa7fce067317f9ccc24bab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720223"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740993"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Vraćanje stavki u prethodno stanje na SharePoint mreži
+# <a name="restore-items-in-sharepoint-online"></a>Vraćanje stavki u prethodno stanje u usluzi SharePoint online
 
-Kada brišete stavke na SharePoint mreži, zadržavaju se ukupno 93 dana. One ostaju u korpi za otpatke lokacije cijelo vrijeme, osim ako je ne ispraznite ili brišete stavke iz nje. U tom slučaju, stavke idu u korpu za otpatke kolekcije lokacija, gde ostaju do kraja 93 dana. Na kraju vremena, stavke se trajno brišu. Da biste izbrisane stavke vratili iz korpe za otpatke lokacije:
+Kada brišete stavke u sistemu SharePoint online, one se zadržavaju za ukupno 93 dana. One ostaju u korpi za otpatke lokacije sve vreme, osim ako je ne ispraznite ili izbrišete stavke iz nje. U tom slučaju, stavke idu u korpu za otpatke kolekcije lokacija, gde ostaju do kraja 93 dana. Na kraju vremena, stavke se trajno brišu. Da biste vratili izbrisane stavke iz korpe za otpatke lokacije:
   
-1. Idite na lokaciju i u levom oknu izaberite stavku " **Korpa za otpatke** ". 
+1. Idite na sajt i u levom oknu izaberite stavku **Korpa za otpatke** . 
     
-    Ako u levom oknu ne vidite **korpu za otpatke** , u gornjem desnom uglu kliknite na ikonu "Postavke", a zatim izaberite stavku " **sadržaj lokacije**". Korpa za otpatke nalazi se krajnje desno na komandnoj traci na vrhu.
+    Ako u levom oknu ne vidite **korpu za otpatke** , kliknite na ikonu postavke u gornjem desnom uglu, a zatim izaberite stavku **Sadržaj sajta**. Korpa za otpatke je na krajnjoj desnoj strani komandne trake na vrhu.
     
-2. Na stranici " **Korpa za otpatke** " izaberite stavke koje želite da vratite tako što ćete postaviti pokazivač na njih i kliknuti na ikonu za potvrdni znak koja će se pojaviti. 
+2. Na stranici **Korpa za otpatke** izaberite stavke koje želite da vratite u prethodno stanje tako što ćete postaviti pokazivač na njih i kliknuti na ikonu oznake potvrde koja se pojavljuje. 
     
 3. Kliknite na dugme **Vrati u prethodno stanje**.
     

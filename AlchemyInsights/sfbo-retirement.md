@@ -1,25 +1,26 @@
 ---
-title: SFBO penzionisanje
+title: Za penzionisanje
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000699"
 - "2596"
-ms.openlocfilehash: 8840e2b236627dba51e24d28f8ff19fe65157959
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 1945a7be3c4b2f4b926f754ff57dd1c25ae6d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316984"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739479"
 ---
-# <a name="skype-for-business-online-retirement"></a>Skype za poslovno online mirovnju
+# <a name="skype-for-business-online-retirement"></a>Skype za posao online penzionisanje
 
-Za informacije o povlačenju u usluzi Skype za poslovno online pogledajte [Ovaj članak](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).
+Informacije o penziji Skype za posao online potražite u [ovom članku](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).
 
-Napomena: ovo obaveštenje ne utiče na Skype za poslovne objekte. 
+Napomena: ova objava ne utiče na Skype za posao na imanju. 

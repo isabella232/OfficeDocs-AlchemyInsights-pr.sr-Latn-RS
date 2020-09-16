@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912525"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741785"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kako odložiti nadogradnju timova koje je upravljao korporacija Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kako da odložite nadogradnju Microsoft timova
 
-**Važno**: možemo vam pomoći da popravimo ovo pomoću dijagnostike podrške, ali izgleda da ne koristite novi admin Center. Da biste koristili novi admin Center, prevucite preklopnik u gornjem desnom pravu koja ukazuje na **novi admin Center** udesno. Pomoću novog administratorskog centra, kliknite na **potrebna pomoć?** vidžet, otkucajte "odloži nadogradnju timova", a zatim sledite odzive da biste pokrenuli dijagnostiku.
+**Važno**: možemo vam pomoći da to popravimo pomoću dijagnostike podrške, ali izgleda da ne koristite novi centar administracije. Da biste koristili novi centar administracije, prevucite preklopnik na gornju desnu karticu koja kaže da je **novi centar administracije** desno. Pomoću novog centra administracije izaberite opciju **Potrebna vam je pomoć?** višit, otkucajte "odloži nadogradnju", a zatim kliknite na dugme odzivi da biste pokrenuli dijagnostiku.
 
-Ako ste dobili komunikaciju o automatizovanu nadogradnju korporacije Microsoft od programa Skype za preduzeća u Microsoft timovima, a želite da odložite automatsku nadogradnju na neki kasniji datum, globalni administrator može da se prijavi na [portal za administraciju timova](https://admin.teams.microsoft.com/dashboard) i nakon što izabere dugme " **status osvežavanja** " u okviru Microsoft "Nadogradnja timova", kliknite na dugme " **odloži** ". Da biste videli novi datum automatizovane nadogradnje vašeg tenanta Microsoft timovima, osvežite stranicu administratorskog portala tima.
+Ako ste dobili komunikaciju o automatizovanoj nadogradnji sa usluge Skype za posao u Microsoft timovima i želite da odložite automatizovanu nadogradnju, globalni administrator može da se prijavi na [portal administratora administracije](https://admin.teams.microsoft.com/dashboard) i, nakon što potvrdite **status Osveži** u okviru Microsoft tima nadogradnjom, izaberite dugme **odloži** . Da biste videli novi datum za automatsku nadogradnju stanara na Microsoft timove, osvežite stranicu portala administracije.
 
-**Napomena:** Dugme " **odloži** " će biti dostupno samo ako ste primili obaveštenje centra za poruke u vezi sa automatizovanim nadogradnjom. 
+**Napomena:** Dugme **odloži** će biti dostupno samo ako ste dobili obaveštenje o centru za poruke u vezi sa automatskim nadogradnjom. 
 
-Globalni administratori takođe mogu da pokrenu [-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) da bi saznali više o njihovom trenutnom statusu nadogradnje.
+Opšti administratori mogu da [se](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) pokrenu i da biste saznali više o trenutnom statusu nadogradnje.
