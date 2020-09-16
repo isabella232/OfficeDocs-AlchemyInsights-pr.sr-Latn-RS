@@ -1,31 +1,32 @@
 ---
-title: Rešavanje problema sa greškom 404, datoteka nije pronađena
+title: Rešavanje problema sa greškama 404, datoteka nije pronađena
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: c860b9db63e8d341cbe5e6d8d1d420b4c9d01c9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e76864949bde7230e63f509823ab1e3edf631388
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505357"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750105"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Rešavanje problema sa greškom 404, datoteka nije pronađena
+# <a name="troubleshoot-error-404-file-not-found"></a>Rešavanje problema sa greškama 404, datoteka nije pronađena
 
-Kada korisnici pokušaju da pristupe lokaciji ili datoteci u sistemu SharePoint ili OneDrive, primaju se greška 404. To često uzrokuje neka lokacija ili datoteka ili grupa koja je preimenovana, premeštena ili izbrisana. Na primer: korisnici će iskusiti 404 greške pri pokušaju pristupa osnovnoj kolekciji lokacija, a ona je izbrisana.
+Greška 404 se prima kada korisnici pokušaju da pristupe lokaciji ili datoteci u sistemu SharePoint ili OneDrive. To je često uzrokovano lokacijom ili datotekom ili grupom koje se preimenuju, premeštaju ili brišu. Na primer: korisnici će iskusiti grešku od 404 pokušavajući da pristupe kolekciji osnovnih lokacija i izbrisana je.
 
-Da biste ispravili grešku 404 za lokaciju koja je preimenovana, premeštena ili izbrisana:
+Da biste rešili grešku 404 za stranicu koja je preimenovana, premeštena ili izbrisana:
 
-Za klasične lokacije koje postoje u klasičnom admin centru, pogledajte odeljak [Vraćanje izbrisane kolekcije lokacija](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Za klasične lokacije koje postoje u klasičnom centru administracije, pogledajte članak [Vraćanje izbrisane kolekcije lokacija](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Za moderne lokacije (komunikacija, grupa povezana ili druge lokacije) koje postoje u novom SharePoint admin centru, pogledajte odeljak [prikaz i Vraćanje izbrisanih lokacija u novom SharePoint administratoru centra](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Za moderne lokacije (komunikacija, povezivanje sa grupom ili drugim lokacijama) koje postoje u novom SharePoint centru administracije, pogledajte članak [prikaz i Vraćanje izbrisanih lokacija u novi SharePoint centar administracije](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Da biste ispravili grešku 404 za datoteku (ili neku drugu stavku) koja je preimenovana, premeštena ili izbrisana:
+Da biste rešili grešku 404 za datoteku (ili drugu stavku) koja je preimenovana, premeštena ili izbrisana:
 
-Idite na lokaciju SharePoint ili OneDrive i pogledajte korpu za otpatke iz sadržaja lokacije. Vidite, [vratite stavke u korpu za otpatke na SharePoint lokaciji](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Idite na SharePoint ili OneDrive sajt i pogledajte korpu za otpatke iz sadržaja lokacije. Pogledajte [stavke vraćanje stavki u korpu za otpatke SharePoint lokacije](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Ako i dalje ne možete da pronađete stavku, možete da pretražite evidenciju nadgledanja ako je evidencija omogućena, [pretražite datoteku za evidenciju nadgledanja u Microsoft 365 Security & centar za usaglašavanje](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+Ako i dalje ne možete da pronađete stavku možete da pretražite evidenciju nadzora ako je evidentiranje omogućeno pogledajte, [pretražite evidenciju nadzora u Microsoft 365 Security & centar za usaglašenost](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
