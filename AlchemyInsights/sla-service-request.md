@@ -1,27 +1,28 @@
 ---
-title: Zahtev za kredit usled vantaže servisa
+title: Kreditni zahtev zbog prekida usluge
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 5f675c9f44563df2fb7183e91c5478335ca58058
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708317"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726861"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Zahtev za kredit usled vantaže servisa
+# <a name="credit-request-due-to-a-service-outage"></a>Kreditni zahtev zbog prekida usluge
 
-Da biste se primenili na zahtev za kredit usled starosti servisa, otvorite zahtev za uslugu.
+Da biste se prijavili za kreditni zahtev zbog prekida usluge, otvorite zahtev za uslugom.
 
-Uverite se da imate ID incidenta koji je pronađen na stranici " [zdravstvo](https://docs.microsoft.com/office365/enterprise/view-service-health) u sistemu Microsoft 365 admin Center".
+Obavezno imate ID incidenta koji se nalazi na [stranici "zdravstvo usluge](https://docs.microsoft.com/office365/enterprise/view-service-health) " u Microsoft 365 centru administracije.
 
-Molimo vas da se uverite da će, kako se vaš zahtev obrađuje, biti validna za posmatranje uticaja pregrada.
+Budite informisani da će se, dok se zahtev obrađuje, podvrgnuti ispravci za posmatranje uticaja prekida.

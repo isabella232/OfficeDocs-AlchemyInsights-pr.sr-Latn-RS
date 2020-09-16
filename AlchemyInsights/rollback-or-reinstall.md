@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: a8b30eeb61b20283efbcc5968dbf36aef45f36e8
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 43c3c97d95b271c51283fcd492597de0eccd8799
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969760"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727725"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Ponovo instaliraj ili vrati Office
+# <a name="reinstall-or-roll-back-office"></a>Ponovno instaliranje ili vraćanje sistema Office
 
-Ako imate opšte probleme sa programom Excel ili nailazite na određeni problem sa programom Excel posle nedavne ispravke Office programskog paketa, možda ćete moći da rešite problem tako što ćete izvršiti ponovnu instalaciju sistema Office ili vratiti se na prethodnu verziju sistema Office.
+Ako nailazite na opšte probleme sa programom Excel ili da imate određeni problem sa programom Excel posle nedavne ispravke u sistemu Office, možda ćete moći da rešite problem tako što ćete ponovo instalirati Office ili se vratiti na prethodnu verziju sistema Office.
 
-Da biste izvršili **ponovnu instalaciju** sistema Office, pregledajte [Preuzmite i instalirajte ili ponovo instalirajte Office 365 ili Office 2019 na PC ili Mac računaru](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
+Da biste **ponovo instalirali** Office, pregledajte [stavku Preuzmi i instalirajte ili ponovo instalirajte Office 365 ili Office 2019 na PC ili Mac računaru](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
 
-Da biste obavili **Vraćanje** sistema Office, pregledajte [Kako da se vratite na stariju verziju sistema Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic). 
+Da biste vratili **rollback** Office, pregledajte [Kako da se vratite na stariju verziju sistema Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic). 
