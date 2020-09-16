@@ -1,27 +1,28 @@
 ---
-title: Timovi za Virtualizovanoj infrastrukturi radne površine
+title: Timovi za Virtuelizovanu infrastrukturu za računare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599462"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736446"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="c3707-102">Timovi za Virtualizovanoj infrastrukturi radne površine</span><span class="sxs-lookup"><span data-stu-id="c3707-102">Teams for Virtualized Desktop Infrastructure</span></span>
+# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="6259d-102">Timovi za Virtuelizovanu infrastrukturu za računare</span><span class="sxs-lookup"><span data-stu-id="6259d-102">Teams for Virtualized Desktop Infrastructure</span></span>
 
-<span data-ttu-id="c3707-103">Za detaljne informacije o timovima za Virtualizovane infrastrukture radne površine pogledajte [timove za Virtualizovanoj infrastrukturi](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="c3707-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
+<span data-ttu-id="6259d-103">Detaljne informacije o Virtuelizovanoj oblasti infrastrukture za računare potražite [u timovima za virtuelizovanu infrastrukturu za računare](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="6259d-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
 
-<span data-ttu-id="c3707-104">Poznati problemi i ograničenja u VDI okruženjima su detaljna u odeljku " [poznati problemi i ograničenja](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) " u istom članu koji obuhvata sledeće teme:</span><span class="sxs-lookup"><span data-stu-id="c3707-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
- - <span data-ttu-id="c3707-105">Primena, instalacija i instalacija klijenta</span><span class="sxs-lookup"><span data-stu-id="c3707-105">Client deployment, installation, and setup</span></span>
- - <span data-ttu-id="c3707-106">Poziv i sastanci</span><span class="sxs-lookup"><span data-stu-id="c3707-106">Calling and meetings</span></span>
+<span data-ttu-id="6259d-104">Poznati problemi i ograničenja u vidi okruženja detaljno su objašnjeni u odeljku [poznati problemi i ograničenja ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) istog članka, što obuhvata sledeće teme:</span><span class="sxs-lookup"><span data-stu-id="6259d-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
+ - <span data-ttu-id="6259d-105">Raspoređivanje klijenata, instalacija i podešavanje</span><span class="sxs-lookup"><span data-stu-id="6259d-105">Client deployment, installation, and setup</span></span>
+ - <span data-ttu-id="6259d-106">Pozivanje i sastanci</span><span class="sxs-lookup"><span data-stu-id="6259d-106">Calling and meetings</span></span>
