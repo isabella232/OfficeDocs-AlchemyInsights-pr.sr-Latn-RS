@@ -1,38 +1,39 @@
 ---
-title: Problemi sa performansama-SharePoint ili OneDrive
+title: Problemi sa performansama – SharePoint ili OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2dc0cd5f1641298853443d364eb9434ec1d9cd5a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511162"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771258"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ili OneDrive sporo, nepristupačno ili nedostupan za više korisnika
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ili OneDrive spori, nedostupni ili nedostupni za više korisnika
 
-Ako OneDrive ili SharePoint lokacija nije dostupna većem broju korisnika koji su ranije imali pristup, možda postoji problem sa privremenim servisom. [Proverite kontrolnu tablu usluge za zdravstvo](https://portal.office.com/adminportal/home#/servicehealth).
+Ako OneDrive ili SharePoint lokacija nisu dostupni većem broju korisnika koji su prethodno imali Access, možda postoji privremeno izdanje. [Potvrdite izbor u polju za zdravstvenu zaštitu usluge](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Dodaj i licenciraj korisnika**
+**Dodavanje i licenciranje korisnika**
 
-Uverite se da ste [dodelili licence korisnicima u sistemu Microsoft 365 za posao](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Uverite se da ste [korisnicima dodelili licence u usluzi Microsoft 365 za preduzeća](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 
-**Dodeli dozvole**
+**Dodeljivanje dozvola**
 
-Ako je korisniku dodeljena SharePoint licenca i još uvek prima poruku koja je zabranila pristup, proverite da li su dodeljeni [odgovarajući nivo dozvola](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
+Ako je korisniku dodeljena SharePoint licenca i još uvek prima pristup odbijen pristup, uverite se da je dodeljen [odgovarajući nivo dozvole](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
 
-**Razmislite o korišćenju funkcije "zahtev za pristup"**
+**Razmotrite korišćenje funkcije Access zahteva**
 
-[Funkcija zahteva za pristup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) omogućava osobama da zahtevaju pristup sadržaju za koji trenutno nemaju dozvolu za pregled.
+[Funkcija Access zahteva](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) omogućava osobama da zahtevaju pristup sadržaju koji trenutno nemaju dozvolu da vide.
 
-**Dozvoli da prilagođena skripta uzrokuje probleme sa zabranim pristupom**
+**Dozvolite prilagođenoj skriptama može dovesti do problema sa zabranom pristupa**
 
-Postoje određeni slučajevi u kojima funkcija *Dozvoli prilagođeno skripte* može da predstavlja Nedozvoljen pristup. Za spisak funkcija koje su pogođene, bezbednosna razmatranja i mogućnost onemogućavanja funkcija. Molimo posetite [ili sprečite prilagođenu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Postoje određeni scenariji gde funkcija " *Dozvolite prilagođenu* poruku" može da predstavlja pristup koji je zabranjen. Za listu pogođene funkcije, bezbednosna pitanja i mogućnost onemogućavanja funkcije. Posetite [stavku Omogući ili sprečite prilagođenu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)poruku.
 

@@ -6,21 +6,22 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: 4d2fd6d68c88407740729aecd9e4d63f5b0d712b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761756"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772492"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Ne prima poštu u Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Nije primanje pošte u Outlook.com
 
-Ako ne primate e-poruke od određenog pošiljaoca, kao što su izjave u banci ili poruke za poništavanje lozinke, moraćete da kontaktirate pošiljaoca i obavestite ih da ne primate e-poruke na Outlook.com nalogu. Obratite se pošiljaocu [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), gde može da pronađe informacije o najboljim praksama, da preporuči rešavanje problema i vezu ka kontaktu sa timom za podršku pošiljaocu.
+Ako ne primate e-poštu od određenog pošiljaoca, kao što su izveštaji banaka ili poništavanje lozinki, moraćete da se obratite pošiljaocu i obavestite ih da ne primate e-poštu na Outlook.com nalogu. Uputite pošiljaoca na lokaciju [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) gde mogu da pronađu informacije o najboljim praksama, Preporučite rešavanje problema i vezu da biste kontaktirali naš tim podrške.
   
-Ako vaš Outlook.com nalog uopšte ne prima e-poštu, pogledajte odeljak [popravljanje problema sa sinhronizacijom Outlook.com e-pošte](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Ako vaš Outlook.com nalog uopšte ne prima e-poštu, pogledajte članak [popravljanje Outlook.com problema sa sinhronizacijom e-pošte](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 
