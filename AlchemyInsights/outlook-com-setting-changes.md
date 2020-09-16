@@ -6,34 +6,35 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743575"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722721"
 ---
 # <a name="settings-in-outlookcom"></a>Postavke u Outlook.com
 
-Ako je primalac unutrašnji ili eksterni u vašoj organizaciji i ako koristi nalog e-pošte Office 365 ili Outlook.com, sledeći klijenti ne smeju da učine nešto specijalno da bi otvorili poruku: **outlook 2016, Outlook na Web aplikaciji Veb/Outlook, aplikacija Outlook Mobile**
+Ako je primalac interno ili spoljašnji za vašu organizaciju i ako koristi Office 365 ili Outlook.com e-poštu, sledeći klijenti ne bi trebalo da rade ništa posebno da bi otvorili poruku: **outlook 2016, Outlook na vebu/Outlook Web App, Outlook aplikaciji za mobilne uređaje**
 
-**Delegati** korisnika kojima je poruka zaštićena, nije moguće otvoriti zaštićene poruke. Informacije u e-poruci mogu da vide samo originalni primaoci (osoba koja je zaštićena e-pošta).
+**Delegati** korisnika na koje je zaštićena e-pošta poslata ne mogu da otvore zaštićene poruke. Mogu da prikažu informacije u e-poruci samo originalni primaoci (osoba na koju je zaštićena e-pošta poslata).
 
-- Ako se primalac nalazi na drugom dobavljaču Internet usluga i&nbsp;ne može da otvori poruku i vidi prilog "rpmsg", pratite dolenavedene instrukcije:
+- Ako je primalac na drugom dobavljaču Internet usluga i ne &nbsp; može da otvori poruku i vidi prilog ' rpmsg ', slede uputstva ispod:
     
     - Izaberite stavku **Pročitaj** poruku.
     
-    - One se preusmeravaju na stranicu na kojoj bi trebalo da izaberu **prijavljivanje pomoću jednokratne šifre za prolaz**.
+    - Oni se preusmeravaju na stranicu na koju bi trebalo da izaberu **jednokratni kôd**.
     
-    - Kôd za prolaz sa jednom upotrebom se šalje na istu e-adresu. Unesite šifru u prozor pregledača, a zatim kliknite na dugme " **dalje** " da biste pročitali poruku.
+    - Kôd za jednokratnu upotrebu se šalje istoj e-adresi. Unesite kôd u prozoru pregledača, a zatim izaberite stavku **Nastavi** da čitate poruku.
 
-- Ako ne možete da šifrovane poruke iz neke druge organizacije, sledite korake rezolucije navedene u ovom [članku](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
+- Ako ne možete da šifruju poruke iz druge organizacije, slijedite korake rezolucije navedene u ovom [članku](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
 
-- Ako je poštansko sanduče primaoca na **Yahoo ili gmail**, sledite uputstva</span> koja su pronađena u ovom [članku](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+- Ako je poštansko sanduče primaoca na usluzi **Yahoo ili gmail**, pratite uputstva </span> pronađena u ovom [članku](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
 
-- Smernice za zaštitu primenjuju se samo na [poznate formate datoteka](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). OneDrive za poslovne priloge nije podržano za šifrovanje.
+- Smernice za zaštitu primenjuju se samo na [poznate formate datoteka](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Šifrovanje usluge OneDrive for Business nije podržano za šifrovanje.
 
-- Deljeni poštanski sandučići **Ne mogu da otvore šifrovane poruke koje su trenutno u bilo kom klijentu**. 
+- Deljeni poštanski sandučići **Ne mogu da otvore šifrovane poruke trenutno preko bilo kog klijenta**. 
