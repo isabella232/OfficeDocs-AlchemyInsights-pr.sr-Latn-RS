@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: 892ad3fc88da16833bce5bb6679b5d9e60a5302f
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
-ms.translationtype: HT
+ms.openlocfilehash: 65d4a6d3bb55c648b3d019bf82b5c38a152bfbac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116504"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666524"
 ---
 # <a name="office-activation-errors-on-mac"></a>Greške pri Office aktivaciji na Mac računaru
 
 Isprobajte sledeće korake da biste otklonili grešku pri aktivaciji Office aplikacije na MAC računaru:
 
-- Proverite da li imate pretplatu koja dozvoljava klijentske licence i [uverite se da korisnik ima dodeljenu licencu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Proverite da li imate pretplatu koja dozvoljava klijentske licence i [uverite se da korisnik ima dodeljenu licencu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Preuzmite i pokrenite [alatku za uklanjanje licence](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
 

@@ -1,27 +1,30 @@
 ---
-title: Dozvoljavanje ili sprečavanje anonimnog korisnika da se pridruže sastancima timova
+title: Omogućavanje ili sprečavanje anonimnog korisnika da se pridruže sastancima tima
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: HT
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493596"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669910"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Dozvoljavanje ili sprečavanje anonimnog korisnika da se pridruže sastancima timova
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Omogućavanje ili sprečavanje anonimnog korisnika da se pridruže sastancima tima
 
-Postavke anonimnog spoja za sastanak možete kontrolisati u okviru administratorskog centra timova.
+Možete kontrolisati postavke pridruživanja anonimnog sastanka u centru administracije timova.
 
-1.  Idite u centar administratora [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339) .
-2.  U levoj navigacionoj traci, idi **Meetings**u   >   **Postavke sastanka**za sastanke.
-3.  Na osnovu **učesnika**uključite **anonimne korisnike koji mogu da se pridruže sastanku**.
+**Promena stupa na snagu do 24 časa.**
+
+1.  Idite u [Centar administracije tima](https://admin.teams.microsoft.com)
+2.  U levoj navigaciji izaberite stavku postavke **sastanaka**   >   **Meeting settings**.
+3.  U okviru  **učesnici**, Uključi  **anonimne korisnike mogu da se pridruže sastanku**.

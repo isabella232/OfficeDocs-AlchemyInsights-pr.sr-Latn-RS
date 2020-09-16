@@ -1,38 +1,39 @@
 ---
-title: Intune na zalihama uređaja
+title: Intune zalihe uređaja
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: d59ee014a64de39d01837e90909619f30ec35e89
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440475"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667892"
 ---
-# <a name="intune-device-inventory"></a>Intune na zalihama uređaja
+# <a name="intune-device-inventory"></a>Intune zalihe uređaja
 
-Uređaj Blade obezbeđuje administratorsku uvid u uređaje pod upravom u usluzi Intune na osnovu uređaja. Prikazane informacije uključuju: hardver, otkrivene aplikacije, stanje usaglašenosti uređaja i stanje konfiguracije uređaja.
+Oљtrica uređaja pruža administratorni uvid u "Uređaji" u okviru upravljanja u okviru usluge Intune na osnovu po uređaju. Prikazane informacije uključuju: hardver, pronađene aplikacije, stanje usaglašenosti uređaja i stanje konfiguracije uređaja.
 
-Podaci o zalihama za hardverske i otkrivene aplikacije prikupljaju se u sedmodnevnom ciklusu. Aplikacije i specifični elementi hardvera su se razlikovale u zavisnosti od operativnog sistema uređaja, kao i od toga da li je uređaj lično ili u vlasništvu preduzeća.
+Podaci o zalihama za hardver i otkrivene aplikacije se prikupljaju na sedmodnevnom ciklusu. Prijave i određeni elementi hardvera prijavljeni su u zavisnosti od operativnog sistema uređaja i da li je uređaj lično ili u vlasništvu preduzeća.
 
-Za više informacija pogledajte odeljak [pregled informacija o uređaju u usluzi Intune](https://docs.microsoft.com/intune/device-inventory).
+Više informacija potražite u članku [Pregled detalja uređaja u programu Intune](https://docs.microsoft.com/intune/device-inventory).
 
 **NAJČEŠĆA PITANJA**
 
-Q: Neću primati popis aplikacija prisutnih na Intune-upisan Windows uređaje. Zašto da ne?
+Q: ne primam kompletnu listu aplikacija koje su prisutne na Intune-upisanim Windows uređajima. zašto da ne?
 
-A: u ovom trenutku su samo moderne aplikacije navedene za Windows 10 računare koji su identifikovani kao korporativni uređaji. Intune ne prikuplja informacije o Win32 aplikacijama instaliranim na ovim uređajima.
+A: sada su navedene samo moderne aplikacije za Windows 10 računare koji su identifikovani kao korporativni uređaji. Intune ne prikuplja informacije o Win32 aplikacijama instaliranih na ovim uređajima.
 
-Q: Zašto se brojevi telefona ne prikupljaju sa svih uređaja?
+P: Zašto se brojevi telefona ne prikupljaju sa svih uređaja?
 
-A: telefoni kategorizovani kao korporativni uređaji u Intune nisu identifikovani sa punim telefonskim brojem kada, na primer, pokrećete izveštaj o zalihama za mobilni uređaj. Brojevi telefona na vašem uređaju su uvek delimično maskirani sa zvezdicom (* * * *) i prikazuju samo poslednje četiri cifre.
+A: telefoni kategorizovani kao korporativni uređaji u Intune se ne identifikuju sa punim brojem telefona kada, na primer, pokrećete izveštaj o zalihama mobilnog uređaja. Broj telefonskih brojeva sa doniranim uređajima je uvek delimično maskiran sa zvezdica (* * * *) i Prikaži samo poslednje četiri cifre.

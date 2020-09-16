@@ -1,27 +1,28 @@
 ---
-title: Uloga savremenog trgovinskog korisnika
+title: Moderna uloga korisnika
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749014"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667028"
 ---
-# <a name="modern-commerce-user-role"></a>Uloga savremenog trgovinskog korisnika
+# <a name="modern-commerce-user-role"></a>Moderna uloga korisnika
 
-Korisnička uloga za modernu trgovinu daje određenim korisnicima dozvolu da pristupe Microsoft 365 admin Center i vide leve stavke navigacije za **kućnu**, **naplatu**i **podršku**. Sadržaj koji je dostupan u ovim oblastima kontroliše uloge specifične za trgovinu, koje dodeljuju korisnicima da upravljaju proizvodima koje su kupili za sebe ili za vašu organizaciju. To može uključivati zadatke kao što su računi za plaćanje ili za pristup nalozima za naplatu i profilima za naplatu.
+Uloga moderne trgovinske trgovine pruža određenim korisnicima dozvolu da pristupe Microsoft 365 centru administracije i vide leve stavke navigacije za **kuću**, **naplatu**i **podršku**. Sadržaj dostupan u ovim oblastima kontrolišu uloge koje su dodeljene korisnicima za upravljanje proizvodima koje su kupili za sebe ili za vašu organizaciju. To može da ima zadatke kao što su plaćanje ili pristup nalozima za naplatu i profilima za naplatu.
 
-Korisnici sa ulogom moderne trgovine obično imaju administratorske dozvole u drugim Microsoft sistemima za kupovinu, ali nemaju privilegije globalnog administratora ili administratora naplate.
+Korisnici sa savremenim korisničkim ulogom imaju administrativne dozvole u drugim Microsoft nabavnim sistemima, ali nemaju globalni administrator ili administratorske privilegije naplate.
 
-Da biste saznali više o ovoj i drugim administrativnim ulogama, pogledajte [dozvole administratora uloge u Azure aktivnom direktorijumu](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Da biste saznali više o ovoj i drugim administratorskim ulogama, pogledajte članak [dozvole za administratorske uloge u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
