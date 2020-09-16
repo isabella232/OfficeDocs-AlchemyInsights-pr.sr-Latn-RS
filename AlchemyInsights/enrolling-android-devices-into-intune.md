@@ -1,36 +1,37 @@
 ---
-title: Enkotrljajući Android uređaje u Intune
+title: Umetnuti Android uređaje u Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: fdab7958e0dfea34fd1e113be09fff4cd3019401
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654593"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784321"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Enkotrljajući Android uređaje u Intune
+# <a name="enrolling-android-devices-into-intune"></a>Umetnuti Android uređaje u Intune
 
-Intune podržava upis sledećih Android uređaja:
+Intune podržava prijavljivanje sledećih Android uređaja:
 - Samsung Knox i zebra
-- Androenterprise profil rada
-- Android Enterprise namenski
-- Android Enterprise je kompletno upravljalo
+- Android Enterprise profil poslovnog rada
+- Android Enterprise posvećen
+- Android Enterprise
 
-Pre podešavanja upisa za Android uređaje, [Pregledajte preliminarno rekvizite] (https://docs.microsoft.com/intune/enrollment/android-enroll.
+Pre nego što podesite prijavljivanje za Android uređaje, [Pregledajte preduslove] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
 
-Za informacije o rešavanju problema sa upisima uređaja u celini i nekim greškama u Android vezi, pogledajte odeljak [Rešavanje problema sa upisima uređaja u programu Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Informacije o rešavanju problema sa prijavljivanjem uređaja i neke Android Roperom za prijavljivanje potražite [u članku rešavanje problema sa prijavljivanjem uređaja u programu Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Takođe, možete da koristite [sadržaj koji opisuje probleme sa rešavanjem problema "Intune"](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) da bi vam pomogao da identifikujete stavke koje se mogu susreti sa vašim korisnicima.
+Takođe možete da koristite [sadržaj koji opisuje oљtricu za rešavanje problema Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) kako bi vam pomogla da identifikujete probleme sa rokom koji vaši korisnici imaju.
 
 
 

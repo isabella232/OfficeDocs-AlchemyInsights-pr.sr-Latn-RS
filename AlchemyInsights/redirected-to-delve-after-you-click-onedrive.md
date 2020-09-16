@@ -1,37 +1,38 @@
 ---
-title: OneDrive za poslovnu Web OneDrive preusmerava na Delve
+title: OneDrive for Business Veb OneDrive preusmerava na Delve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722824"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776394"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Preusmeravaju se na Delve nakon što kliknete na OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Preusmereno na Delve kada kliknete na OneDrive
 
-Pogledajte naš detaljni [Vodič za rešavanje problema](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
+Pogledajte naš detaljan [Vodič za rešavanje problema](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Da bi rešio ovaj problem, administrator mora korisnicima da dodeli pravo da kreira svoje lokacije mog portala. Do ovoga dolazi zato što se na lokacijama kreira OneDrive za poslovnu stranicu.
+Da biste rešili ovaj problem, administrator mora korisnicima da dodeli pravo da kreiraju svoje lokacije "Moji Veb lokacije". To je zato što se na mojim sajtovima kreiraju OneDrive for Business stranica.
 
-Da biste dodelili ovo pravo, sledite ove korake:
+Da biste ovo ispravno dodelili, slijedite ove korake:
 
-1. U sistemu SharePoint admin Center izaberite stavku **korisnički profili**.
+1. U SharePoint centru administracije izaberite stavku **korisnički profili**.
 
-2. U odeljku " **osobe** " izaberite stavku " **Upravljanje korisničkim dozvolama**".
+2. U odeljku **osobe** izaberite stavku **Upravljanje dozvolama korisnika**.
 
-3. Dodajte korisnike koji zahtevaju dozvolu za kreiranje lokacije "Moji portali". Ova postavka je podrazumevano postavljena na **sve osim za spoljne korisnike**.
+3. Dodajte korisnike koji zahtevaju dozvole za kreiranje lokacije mojih lokacija. Ova postavka podrazumevano se podešava **svima osim spoljnim korisnicima**.
 
-4. Nakon što dodate korisnika, korisnike ili grupu, uverite se da je izabran korisnik, korisnici ili grupa, pomerite se do odeljka " **dozvole** ", a zatim potvrdite izbor u polju za potvrdu pored stavke " **Kreiranje lične lokacije" (potrebno za lično skladištenje, ubacivanje papira i praćeni sadržaj)**.
+4. Kada dodate korisnika, korisnike ili grupu, uverite se da je izabran korisnik, korisnici ili grupa, idite u odeljak **dozvole** , a zatim potvrdite izbor u polju za potvrdu pored stavke **Kreiraj ličnu stranicu (obavezno za lično skladište, feed za vesti i praćene sadržaje)**.
 
-5. Kliknite na dugme **u redu**, a zatim neka korisnik Potraži do OneDrive stranice da bi kreirao lokaciju.
+5. Kliknite na dugme **u redu**, a zatim neka korisnik Potraži OneDrive stranicu da bi kreirao lokaciju.

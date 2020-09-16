@@ -5,38 +5,39 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703621"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784681"
 ---
 # <a name="enable-external-sharing"></a>Omogućavanje spoljnog deljenja
 
- Da biste se uverili da je deljenje omogućeno za SharePoint Online:
+ Da biste obezbedili da deljenje bude omogućeno za SharePoint Online:
   
-- **Globalna podela**
+- **Globalno deljenje**
     
-  - Portal –\> spoljna podela-\> deljenje-lokacije, pustite spoljne osobe da PRISTUPE vašim lokacijama: na
+  - Portal i \> Spoljni Deljenje – \> Pregled deljenja – lokacije, dozvoli spoljnim osobama da pristupe sajtovima: na
     
-  - Portal-\> spoljna podela-\> lokacije-"Dozvolite spoljnim ljudima da pristupe vašim lokacijama"
+  - Portal- \> Spoljni Deljenje – \> lokacije-"Dozvoli spoljnim osobama da pristupe vašim lokacijama"
     
-- **Administrativna razmena-SharePoint admin Center**
+- **Administrativno deljenje – SharePoint centar administracije**
     
-    Spoljno deljenje-uverite se da je izabrana neka od dve opcije:
+    Spoljno deljenje – obezbedite da su izabrane dve opcije:
     
-  - "Dozvolite spoljnim korisnicima koji prihvataju pozive za deljenje i prijavite se kao ovlašćeni korisnici"
+  - "Omogućavanje spoljnim korisnicima koji prihvataju pozive za deljenje i prijave se kao ovlašćeni korisnici"
     
-  - "Dozvolite oba spoljnog korisnika koji prihvataju pozive za deljenje i veze sa anonimnim gostom"
+  - "Omogući i spoljnim korisnicima koji prihvataju pozive za deljenje i anonimne veze za goste"
     
 - **Pojedinačne kolekcije lokacija**
     
-  - Kolekcije lokacija-izaberite tu kolekciju lokacija, a zatim kliknite na dugme "deljenje"-da\> biste proverili da li su izabrane opcije deljenja.
+  - Kolekcije lokacija – izaberite stavku kolekcija lokacija, a zatim izaberite stavku deljenje – na traci – \> Uverite se da su izabrane opcije deljenja.
     
-Za dodatne informacije o tome kako da uključite spoljnu deobu, pogledajte odeljak [Uključivanje ili isključivanje spoljnog deljenja za SharePoint online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Dodatne informacije o tome kako da uključite ili isključite spoljno deljenje potražite [u članku Uključivanje ili isključivanje spoljnog deljenja za SharePoint online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
