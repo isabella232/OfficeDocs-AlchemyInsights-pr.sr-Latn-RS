@@ -6,29 +6,30 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 2bcfb7cc174cd58b21e1bb0c82f0d7cdb25e2fdd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 404ef9ecd824541f98471bb8797f5f6e025012b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506968"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806305"
 ---
 # <a name="enable-mailbox-auditing"></a>Omogućavanje nadgledanja poštanskog sandučeta
 
-Da biste omogućili nadzor poštanskog sandučeta za jednog korisnika ili čitavu organizaciju, sledeće cmdlet se moraju pokretati iz udaljene ljuske napajanja:
+Da biste omogućili nadgledanje poštanskog sandučeta za jednog korisnika ili za celu organizaciju, sledeće cmdlet lokacije moraju da se pokrenu sa udaljenog programskog sistema Power Shell:
   
- **Jedan korisnik**
+ **Pojedinačni korisnik**
   
-Set-poštansko sanduče-identitet "Jane Dau"-AuditEnabled $true
+Scenofor-poštansko sanduče-identitet "Džejn Dau" $true
   
- **Organizacija**
+ **Kompanija**
   
-Preuzimanje-poštansko sanduče-veličina rezultata neograničenog-filter {RecipientTypeDetails-sa "Userpoštansko sanduče"} | Set-poštansko sanduče-AuditEnabled $true
+Nabavite-poštansko sanduče – Rezultućete neograničeno-Filtriraj {RecipientTypeDetails-EQ "Korisničkopoštansko sanduče"} | Scenofor-poštansko sanduče – $true
   
 [uči više](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
   

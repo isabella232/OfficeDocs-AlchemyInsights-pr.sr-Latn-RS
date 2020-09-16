@@ -1,28 +1,29 @@
 ---
-title: Kako zatvoriti nalog za analitiku radne površine
+title: Kako se zatvara nalog analitike radne površine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771121"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725637"
 ---
-# <a name="working-with-desktop-analytics"></a>Rad sa analitiku radne površine
+# <a name="working-with-desktop-analytics"></a>Rad sa analizama radne površine
 
-Izgleda kao da pitate za analitiku radne površine. Možda ćemo moći da pomognemo sa preciznijim odgovorom ako ponovo postavite pitanje.
+Izgleda da se raspituju o analitici radne površine. Možda možemo da vam pomognemo sa preciznije odgovorima ako ste Preformulišite pitanje.
 
-- [Šta je to analitiku radne površine?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Podešavanje analitike radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
-- [Najčešće postavljana pitanja](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Rešavanje problema sa analitiku radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Šta je to Analitika radne površine?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Kako se podešava Analitika radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Najčešća pitanja](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Rešavanje problema sa analitikom radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

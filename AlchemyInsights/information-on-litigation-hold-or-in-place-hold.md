@@ -1,32 +1,33 @@
 ---
-title: Informacije o sporu ili na čekanju
+title: Informacije o neparnoj čekanju ili na mjestu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 63b28edc5d2eb7c8d904e004c06c5682768411a7
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508714"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755505"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>O parničnom i na mestu ima
+# <a name="about-litigation-holds-and-in-place-holds"></a>O parnicama koji se održavaju i održavaju
 
-- Da biste na poštansko sanduče primenili zadrška za jednu ili više mesta, potrebna je [licenca za Exchange online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ako imate neki drugi plan, dodelite odvojenu Exchange dozvolu za [arhiviranje na mreži](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) za nalog. 
+- Da biste primenjivali sporni poziv ili zadržali mesto u poštanskom sandučetu, potrebna je [licenca Exchange online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ako imate neki drugi plan, dodelite [zamenu Exchange online arhiviranja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) na nalog. 
     
-- **Da biste omogućili održavanje parničnog spora** za jednog korisnika, sledite [ovde](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)navedene korake. Kada je omogućeno održavanje sudskog sporova, sav sadržaj u poštanskom sandučetu se postavlja na čekanje.
+- **Da biste omogućili sporni** korak za jednog korisnika, slijedite korake navedene [ovde](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Kada se omogući čekanje, sav sadržaj u poštanskom sandučetu se stavlja na čekanje.
     
-- Da biste primenili **na mesto** na kome se nalaze pojedinačni korisnici ili zadrška **svim poštanskim sandučićima u celoj organizaciji**, možete da koristite smernice za zadržavanje u centru za bezbednost Microsoft 365 i centar za usaglašavanje tako što ćete slediti korake navedene [ovde]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Da biste **zadržali čekanje na mestu za pojedinačne korisnike** ili držanje za **sve Poštanske sandučiće u celoj organizaciji**, možete da koristite smernice za zadržavanje u Microsoft 365 centru za bezbednost i usaglašenost tako što ćete pratiti korake navedene [ovde]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
     
     > [!NOTE]
-    > Za programe zadržavanja na nivou org-a, novi korisnici će biti automatski dodati na zadrška. 
+    > Za smernice za zadržavanje širom organizacije, novi korisnici će se automatski dodati čekanju. 
   
-- Da biste prikazali ili otkrili sadržaj poštanskog sandučeta koji je stavljen na čekanje, koristite **EDiscovery Search i Izvezi**. Za informacije o korištenju **EDiscovery Search and EXPORT**, pratite korake navedene [ovde](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Da biste prikazali ili otkrili sadržaj poštanskog sandučeta koji se postavlja na čekanje, koristite **pretragu i izvoz**. Da biste dobili informacije o korišćenju **pretrage i izvoza**, slijedite korake navedene [ovde](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
     
 
