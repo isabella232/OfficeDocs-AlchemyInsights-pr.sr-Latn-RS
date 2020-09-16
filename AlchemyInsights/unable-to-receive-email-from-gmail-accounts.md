@@ -1,33 +1,34 @@
 ---
-title: Nije moguće primati e-poštu sa gmail naloga
+title: Nije moguće primiti e-poštu sa gmail naloga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: dd3ebda3f835edd9f15fee096476273ad4249baf
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559141"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735465"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nije moguće primati e-poštu sa gmail naloga
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nije moguće primiti e-poštu sa gmail naloga
 
-**Pitanje**
+**SPOR**
 
 Svesni smo da neki korisnici možda neće moći da primaju e-poštu sa gmail naloga. Istražujemo mogući problem.
 
-**REŠENJE**
+**PRIVREMENO rešenje**
 
-Proverite da niste slučajno blokirali gmail domen pri blokiranju jednog gmail korisnika.
+Potvrdite da niste slučajno blokirali domen gmail kada blokirate jednog gmail korisnika.
 
 1. Otvorite [listu blokiranih pošiljalaca](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Ako se Gmail.com nalazi na listi, kliknite na ikonu "smeće" pored stavke i pritisnite taster " **Sačuvaj**".
+2. Ako je Gmail.com na listi, kliknite na ikonu za otpatke pored stavke stavka i pritisnite **Sačuvaj**.

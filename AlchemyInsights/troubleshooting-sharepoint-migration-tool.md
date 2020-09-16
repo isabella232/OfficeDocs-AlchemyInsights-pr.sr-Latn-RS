@@ -1,11 +1,12 @@
 ---
-title: Rešavanje problema sa alatkom za SharePoint migraciju i greškama
+title: Rešavanje problema sa SharePoint alatkama za migraciju i greškama
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: e38a74935ff1aa9f815790f4e205f36d43f593df
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759490"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735753"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Rešavanje problema sa alatkom za SharePoint migraciju i greškama
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Rešavanje problema sa SharePoint alatkama za migraciju i greškama
 
-Kada koristite alatku za SharePoint migraciju (SPMT), možete naići na uobičajene probleme i greške. Za više informacija pogledajte dolenavedene veze.
+Možete naići na neke uobičajene probleme i greške prilikom korišćenja alatke za migraciju u sistemu SharePoint (RAZMT). Pogledajte dolenavedene veze za više informacija.
 
-- [Rešavanje uobičajenih problema i grešaka u ŠMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Rešavanje uobičajenih problema sa RAZMT i greškama](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
-- [Rešavanje problema sa rešavanjem problema pri instalaciji](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+- [Rešavanje problema sa SPMT instalacijom](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

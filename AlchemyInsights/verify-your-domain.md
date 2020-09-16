@@ -1,11 +1,12 @@
 ---
-title: Proverite svoj domen
+title: Verifikacija domena
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710457"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734320"
 ---
-# <a name="verify-your-domain"></a>Proverite svoj domen
+# <a name="verify-your-domain"></a>Verifikacija domena
 
- **Zapis verovatno nije ažuriran preko interneta.**
+ **Zapis se verovatno ne ažurira preko interneta.**
   
-Obično nam je potrebno samo nekoliko minuta da bismo mogli da vidimo novi zapis, ali ponekad može da traje već nekoliko sati. 
+Obično je potrebno samo nekoliko minuta da vidimo novi zapis, ali povremeno može da potraje nekoliko časova. 
   
-- Ako ste već dugo čekali, dvaput proverite da li ste kopirali i nalepili tačnu vrednost u zapis za verifikaciju u TXT na DNS domaćinu. Jedno od uobičajenih problema ne uključuje deo zapisa "MS =". Potrebna nam je i to!
+- Ako ste tako dugo čekali, ponovo proverite da li ste kopirali i nalepili tačnu vrednost u TXT zapis verifikacije u DNS host. Jedan uobičajeni problem nije deo zapisa "MS =". I to nam treba!
 
-- Kod nekih DNS domaćina morate da preduzmete dodatni korak da biste sačuvali datoteku zone (gde se nalazi DNS zapis) tako da će se ažurirati preko interneta. Uverite se da ste sačuvali promene tako da Microsoft može da vidi i potvrdi zapis.
+- Na neki DNS host, morate da izvršite dodatni stepenik da biste sačuvali datoteku zone (gde je uskladišten DNS zapis) tako da se ažurira na internetu. Uverite se da ste sačuvali promene tako da Microsoft može da vidi i potvrdi zapis.
