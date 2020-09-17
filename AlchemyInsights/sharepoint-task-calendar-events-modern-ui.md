@@ -1,9 +1,10 @@
 ---
-title: Lista događaja zadataka i kalendara u modernom INTERFEJSU
+title: Lista događaja i kalendarski spisak modernih INTERFEJSA
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6137138a-9570-4ac9-892b-143c25ad6f64
@@ -11,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: c92510a6a4f23e9c4524d08a3f567d0b6ba5d61a
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573238"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795474"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Lista događaja zadataka i kalendara u modernom INTERFEJSU
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Lista događaja i kalendarski spisak modernih INTERFEJSA
 
-Možda ćete videti grešku u prikazu "naslov" kao `< ID >_.000` na listama zadataka i događaja kada pokušavate da ih prikažete u modernom prikazu.
+Možda ćete videti grešku u prikazu "naslov" kao `< ID >_.000` na LISTAMA zadataka i događaja kada pokušate da ih prikažete u modernom prikazu.
 
-Određeni tipovi lista i biblioteka još uvek nisu ugrađeni za prikazivanje u modernom korisničkom interfejsu, kao što je lista zadataka ili lista događaja.
+Određeni tipovi lista i biblioteka još uvek nisu ugrađeni da se pojave u modernom korisničkom interfejsu kao što je lista zadataka ili lista događaja.
 
-Jedan od prioritetnih stavki za nas je da podržimo liste zadataka i događaja kao deo savremenog UX. Međutim, nemamo ETA za ovu podršku, tako da i dalje koristite klasičan doživljaj ovih lista.
+Jedna od prioritetnih stavki za nas jeste da podržava liste zadataka i događaja kao deo moderne UX. Međutim, ne dolazi do ove podrške, tako da nastavite da koristite klasično iskustvo za ove liste.
 
-Za više informacija, posjetite [maksimalno korišćenje modernih lista i biblioteka](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Više informacija potražite u članku [Maksimalna upotreba upotrebe modernih lista i biblioteka](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
