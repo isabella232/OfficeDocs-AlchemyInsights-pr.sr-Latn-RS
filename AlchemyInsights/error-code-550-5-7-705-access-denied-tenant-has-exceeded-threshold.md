@@ -1,10 +1,11 @@
 ---
-title: Kôd greške 550 5.7.705 pristup odbijen, stanarka je premašio prag
+title: Kôd greške 550 5.7.705 je zabranjen pristup, stanar je premašio prag
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
@@ -12,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703004"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784033"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="036e0-102">550 5.7.705 pristup odbijen, stanarka je premašio prag</span><span class="sxs-lookup"><span data-stu-id="036e0-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="11043-102">550 5.7.705 pristup je odbijen, zakupac je premašio prag</span><span class="sxs-lookup"><span data-stu-id="11043-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="036e0-103">Ova poruka se javlja kada je vaša organizacija poslala previše spam ili masovne pošte i mi plasiramo blok odlazne pošte.</span><span class="sxs-lookup"><span data-stu-id="036e0-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="036e0-104">Uobičajeni uzroci su ugroženi na servere ili ugroženi administrativni nalozi koji su korišćeni za kreiranje konektora.</span><span class="sxs-lookup"><span data-stu-id="036e0-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="036e0-105">Oba uslova mogu dozvoliti da bezvredna pošta prođe kroz vašu organizaciju.</span><span class="sxs-lookup"><span data-stu-id="036e0-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="11043-103">Ova poruka se javlja kada organizacija pošalje previše bezvredne pošte ili masovne pošte, a mi blokiramo blok odlazne pošte.</span><span class="sxs-lookup"><span data-stu-id="11043-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="11043-104">Uobičajeni uzroci su ugroženi lokalni serveri ili kompromitovani Administratorski nalozi koji su korišćeni za kreiranje konektora.</span><span class="sxs-lookup"><span data-stu-id="11043-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="11043-105">Bilo koji uslov može da omogući da spam prođe kroz vašu organizaciju.</span><span class="sxs-lookup"><span data-stu-id="11043-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="036e0-106">Da biste uklonili ovaj blok, potrebno je da razumete i objasnite uzrok agenta za podršku, kao i da ispravite osnovni problem.</span><span class="sxs-lookup"><span data-stu-id="036e0-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="036e0-107">Kliknite na dugme " **obratite nam** se ispod" kada budete spremni.</span><span class="sxs-lookup"><span data-stu-id="036e0-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="11043-106">Da biste uklonili ovaj blok, morate da razumete i objasnite uzrok toga agentu za podršku, kao i da ispravite osnovni problem.</span><span class="sxs-lookup"><span data-stu-id="11043-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="11043-107">Kliknite **ispod** kada budete spremni.</span><span class="sxs-lookup"><span data-stu-id="11043-107">Click **Contact us** below once you're ready.</span></span>
