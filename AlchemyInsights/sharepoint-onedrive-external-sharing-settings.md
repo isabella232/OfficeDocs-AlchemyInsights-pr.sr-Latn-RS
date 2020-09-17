@@ -1,35 +1,36 @@
 ---
-title: Uključivanje ili isključivanje spoljne deljenja za SharePoint
+title: Uključivanje ili isključivanje spoljnog deljenja za SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063667"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800406"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Poruka upozorenja: smernice vaše organizacije ne dozvoljavaju deljenje sa ovim korisnicima
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Poruka upozorenja: smernice organizacije vam ne omogućava da delite sa ovim korisnicima
 
-Korisnici mogu iskusiti poruku upozorenja kada pokušavaju da dele sa spoljnim korisnicima vaše organizacije. Poruka predstavlja **smernice vaše organizacije koje vam ne dozvoljavaju da delite sa ovim korisnicima. Idite na spoljnu deobu u Microsoft 365 admin Center da biste je omogućili**. Ovo se često događa kada prvi put pokušate da delite sa spoljnim korisnicima ili prilikom deljenja sa novim spoljnim korisnicima.
+Korisnici mogu da doћive poruku upozorenja kada pokušavaju da je podele sa spoljnim korisnicima organizacije. Poruka predstavlja **smernice vaše organizacije ne omogućava vam da delite sa ovim korisnicima. Idite na spoljašnje deljenje u Microsoft 365 centru administracije da biste ga omogućili**. To se često dešava prvi put kada pokušate da delite sa spoljnim korisnicima ili kada delite sa novim spoljnim korisnicima.
 
-Proverite **spoljne postavke deljenja SharePoint i OneDrive** za vašu organizaciju.
+Potvrdite izbor u polju za **spoljnu razmenu SharePoint i OneDrive** .
 
-1. U vašem [Microsoft 365 admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), izaberite **SharePoint**.
-3. Izaberite **Deljenje** da biste videli postavke spoljnog deljenja.
+1. U [Microsoft 365 centru administracije](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)izaberite stavku **SharePoint**.
+3. Izaberite stavku **Deljenje** da biste videli postavke spoljnog deljenja.
 
-Proverite **Postavke spoljnog deljenja** za određenu lokaciju.
+Potvrdite **Postavke spoljnog deljenja** za određenu sajt.
 
-1. U vašem [Microsoft 365 admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), izaberite **SharePoint**.
-2. Izaberite **aktivne lokacije** da biste videli dostupne lokacije.
-3. Izaberite lokaciju koju želite da proverite, a zatim izaberite dugme za **Deljenje** koje se prikazuje na traci sa menijima da biste proverili postavke lokacije.
+1. U [Microsoft 365 centru administracije](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)izaberite stavku **SharePoint**.
+2. Izaberite stavku **aktivne lokacije** da biste videli dostupne lokacije.
+3. Izaberite sajt koji želite da proverite, a zatim kliknite na dugme **Deljenje** koje se prikazuje na traci sa menijima da biste verifikovali postavke za sajt.
 
 Više informacija potražite u članku [Pregled spoljnog deljenja](https://docs.microsoft.com/sharepoint/external-sharing-overview).

@@ -1,27 +1,28 @@
 ---
-title: Outlook.com ne može da primi verifikaciona pravila
+title: Outlook.com ne može da prima Verifikacione kodove
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1005"
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760822"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799542"
 ---
-# <a name="cant-get-verification-codes"></a>Nije moguće dobiti šifre za verifikaciju
+# <a name="cant-get-verification-codes"></a>Ne možete da dobijete Verifikacione kodove
 
-Ako ne možete da pristupite alternativnoj e-pošti ili broju telefona, idite na stranicu " [osnove bezbednosti](https://account.microsoft.com/security) Microsoft naloga", izaberite opciju "Nemam **nijednu od njih** na stranici za prijavljivanje" i sledite uputstva da biste zamenili bezbednosne informacije.
+Ako ne možete da pristupite alternativnom e-pošti ili telefonu, idite na stranicu [osnove bezbednosti](https://account.microsoft.com/security) Microsoft naloga, izaberite stavku **Nemam nijednu od ovih** na stranici za prijavljivanje, a zatim uputstva za zamenu bezbednosnih informacija.
 
-*Napomena:* [Aplikacija Microsoft autorizatora](https://go.microsoft.com/fwlink/?linkid=2016117) ne zahteva Internet vezu da bi vam obezbedila verifikacioni kôd.
+*Napomena:* [Aplikacija Microsoft potvrda identiteta](https://go.microsoft.com/fwlink/?linkid=2016117) ne zahteva Internet vezu da bi vam obezbedila kôd za verifikaciju.
 
-Da biste saznali više o tome, pročitajte [bezbednosne informacije i verifikacioni kôd Microsoft naloga](https://support.microsoft.com/help/12428/).
+Da biste saznali više, pročitajte [informacije o bezbednosnim informacijama i kôdovima za Microsoft nalog](https://support.microsoft.com/help/12428/).

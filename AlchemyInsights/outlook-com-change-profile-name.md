@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c0ea9dbe-2953-474d-ab31-2bc447b2e21d
@@ -13,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 6f90968c23674274f4f516572828fe7a52c7818c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760678"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802431"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Promena imena profila u Outlook.com
 
 1. Idite na [informacije o Microsoft nalogu](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Izaberite **Uredi ime**.
-3. Unesite ime i prezime i kliknite na dugme " **Sačuvaj**".
+2. Izaberite stavku **Uredi ime**.
+3. Unesite ime i prezime i kliknite na dugme **Sačuvaj**.
 
-Dopustite da promene vaše ime profila budu primenjene na 24 časa.
+Dozvolite 24 časa da promene ime profila bude na snazi.

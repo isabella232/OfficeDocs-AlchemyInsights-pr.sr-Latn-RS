@@ -1,10 +1,11 @@
 ---
-title: Rešavanje problema sa tokovima posla u sistemu SharePoint
+title: Rešavanje problema sa tokovi posla u sistemu SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,21 +15,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138985"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800262"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Rešavanje problema sa tokovima posla u sistemu SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Rešavanje problema sa tokovi posla u sistemu SharePoint
 
-**Rešavanje problema sa tokovima posla i otklanjanje grešaka u sistemu SharePoint**
+**Rešavanje problema sa pokretanjem tokova posla u sistemu SharePoint**
 
-Pogledajte u članku [rešavanje grešaka SharePoint provere toka posla](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) i [otklanjanja grešaka SharePoint tokova posla](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Pogledajte članak [Rešavanje problema sa SharePoint pokretanjem toka posla](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) i [otklanjanju grešaka na SharePoint tokovi posla](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-**Automatizacija napajanja**
+**Power automatizovanje**
 
-Ako ste samo počeli sa tokovima posla, razmislite o korišćenju sistema za [automatizaciju napajanja](https://docs.microsoft.com/power-automate/modern-approvals) umesto klasičnih SharePoint rešenja toka posla.
+Ako ste samo prvi koraci uz tokove posla, razmotrite korišćenje usluge [Automatizovanje](https://docs.microsoft.com/power-automate/modern-approvals) umesto klasičnog SharePoint toka posla.
 
-Za više informacija pogledajte [SharePoint tokove posla u mirovinu](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Više informacija potražite u [penziji putem SharePoint tokova posla](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).

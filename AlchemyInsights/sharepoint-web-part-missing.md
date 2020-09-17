@@ -1,27 +1,28 @@
 ---
-title: Nedostaju Web segmenti uređivača sadržaja ili uređivača skripti
+title: Nema uređivača sadržaja ili Veb segmenata uređivača scenarista
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: 86ba18efc4bd466a12f32d82288d37ec1032e348
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407328"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800370"
 ---
-# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Nedostaju Web segmenti uređivača sadržaja ili uređivača skripti
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Nema uređivača sadržaja ili Veb segmenata uređivača scenarista
 
-Ako nedostaje Web segment koji koristite za pregled, na primer, za **Uređivač sadržaja ili Web segment za uređivanje skripti**, moguće je da pokušavate da dodate [klasičan Web segment na modernu stranicu](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Važno je primetiti da moderne stranice mogu da koriste samo savremene Web segmente i klasične stranice mogu da koriste samo klasične Web segmente. Mnogi savremeni Web segmenti ispunjavaju iste namene kao i klasične Web segmente, ali ćete videti razlike u izgledu i funkcionalnosti.
+Ako vam nedostaje Veb segment za koji ste korišćeni, na primer **Veb segment uređivača sadržaja ili uređivač scenarija**, moguće je da pokušavate da dodate [klasični Veb segment na modernu stranicu](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Važno je da primetite da moderne stranice mogu da koriste samo moderne Veb segmente i klasične stranice mogu da koriste samo klasične Veb segmente. Veliki broj modernih Veb segmenata ispunjava iste namene kao klasični Veb segmenti, ali videćete razlike u izgledu i funkcionalnosti.
 
-Postoji mnogo Web segmenata koji se ne prikazuju zbog [prilagođene postavke skripte](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), koja je podrazumevano onemogućena na modernim lokacijama. 
+Postoji mnogo Veb segmenata koji se ne pojavljuju zbog [prilagođene postavke scenarije](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), koji se podrazumevano sprečavaju na modernim lokacijama. 
 
-Listu Web segmenata koji nisu dostupni potražite u funkcijama koje su [pogođene kada je prilagođena skripta blokirana](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+Za listu Veb segmenata koji su nedostupni pogledajte, funkcije su [pogođene prilikom blokiranja prilagođenog teksta](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
-Više informacija o posledicama po bezbednost na temu bezbednosti potražite u članku [bezbednosni podaci o omogućavanju prilagođene skripte](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Više informacija o bezbednosnim implikacijama prilagođenog skripata potražite u članku [bezbednost prilikom dozvoljavanja prilagođenog skripta](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
