@@ -1,27 +1,28 @@
 ---
-title: Kako formalno završiti sastanak
+title: Kako da zvanično okončaju sastanak
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 1d11e4421559aefd50638555d1309bfcae12d50f
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708774"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780433"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Kako formalno završiti sastanak
+# <a name="how-to-formally-end-a-meeting"></a>Kako da zvanično okončaju sastanak
 
-Organizatori sastanka mogu da okončaju sastanak za sve učesnike sastanka u timovima tako što će kliknuti na dugme " **Završi sastanak** " u kontrolama sastanka u okviru sastanka.  
+Organizatori sastanka mogu da okončaju sastanak za sve učesnike sastanka u timovima tako što će izabrati stavku **završetak sastanka** u kontrolama sastanka u sastanku.  
 
-Da biste završili sastanak u toku za sve učesnike, izaberite stavku "kontrole sastanka", kliknite na ikonu 3-tačka, a zatim na dugme "Završi sastanak". Od vas će biti zatraženo da potvrdite izbor. Potvrda da će vaš izbor okončati sastanak za svakoga.
+Da biste završili sastanak u toku sastanka za sve učesnike, izaberite stavku kontrole sastanka, izaberite ikonu 3-Dot i kliknite na dugme na kraju sastanka. Bićete upitani da potvrdite izbor. Potvrda izbora će završiti sastanak za sve.
 
-Napomena: samo organizator sastanka može da "Završi" sastanak.
+Napomena: samo organizator sastanka može da "okonča" sastanak.

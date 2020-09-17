@@ -1,10 +1,11 @@
 ---
-title: Kako da podesim emitovanje za Skype sastanak
+title: Kako da podesim emitovanje Skype sastanka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 94ef1f8479b0056347e632c8993ad2c6c612602d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305240"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781477"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nije moguće pokrenuti emitovanje za Skype sastanak ili joj se pridružiti?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ne možete da pokrenete emitovanje Skype sastanka ili da se pridružite njima?
 
-Ako imate problema sa pokretanjem ili pridruživanjem Skype sastanka koji se emituje kao član tima događaja (proizvođač sastanka), proverite da li ste dvaput proverili konfiguraciju. Skype emitovanje za sastanak zahteva neke ručne korake podešavanja. Sledite korake iz ovog članka da biste se uverili da su mreža i Skype za poslovni portal ispravno konfigurisani i da je neusaglašeni korisnik nije blokirao nesaglasnu licencu:
+Ako imate problema pri pokretanju ili pristupu emitovanju Skype sastanka kao član tima događaja (producent sastanka), obavezno dvaput proverite konfiguraciju. Emitovanje Skype sastanka zahteva neke korake za ručno podešavanje. Slijedite korake iz ovog članka da biste se uverili da su mrežni i Skype za posao online portal korektno konfigurisani i da korisnik koji utiče na to ne blokira neusaglašenu licencu:
 
-[Podesite mrežu za emitovanje za Skype za sastanak](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Podešavanje mreže za emitovanje Skype sastanka](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

@@ -1,32 +1,33 @@
 ---
-title: Povećanje prostora za skladištenje u usluzi OneDrive za posao
+title: Kako povećati skladištenje u usluzi OneDrive for Business
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063055"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780109"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Povećanje prostora za skladištenje u usluzi OneDrive za posao
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kako povećati skladištenje u usluzi OneDrive for Business
 
 Da biste promenili podrazumevano skladište za nove i postojeće OneDrive korisnike:
   
-- Idite na [stranicu skladišta u usluzi OneDrive admin Center](https://admin.onedrive.com/?v=StorageSettings), a zatim unesite novi iznos u GB.
+- Idite na [stranicu skladišta OneDrive centra administracije](https://admin.onedrive.com/?v=StorageSettings), a zatim unesite novi iznos u GB.
 
-Ova postavka prostora za skladištenje se odnosi na sve korisnike kojima niste postavili određena ograničenja za skladištenje. Da biste promenili prostor za skladištenje za određene korisnike, potrebno je da koristite Microsoft PowerShell. Za informacije o tome kako da to uradite pogledajte odeljak [Promena prostora za skladištenje korisnika u OneDrive pomoću programa PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Ova postavka prostora za skladištenje se primenjuje na sve korisnike za koje niste odredili određena ograničenja skladištenja. Da biste promenili prostor za skladištenje za određene korisnike, morate da koristite Microsoft PowerShell. Informacije o tome kako da to uradite potražite u članku [Promena OneDrive prostora za skladištenje korisnika pomoću programa PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
 
-**Napomena**: Izgleda da nemate plan koji uključuje neograničeno skladište. Za informacije o skladištu koje dobijate uz svaki plan pogledajte odeljak [OneDrive za opis poslovnog servisa](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+**Napomena**: Izgleda da nemate plan koji sadrži neograničeno skladište. Informacije o skladištu koje dobijate sa svakim planom potražite u članku [OneDrive for Business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Da biste povećali prostor za skladištenje u usluzi OneDrive za posao, odaberite pretplatu koja sadrži **OneDrive za poslovni plan 2** ili **Office 365 Enterprise E3**. 
+Da biste povećali skladište u usluzi OneDrive for Business, odaberite pretplatu koja obuhvata **OneDrive for Business plan 2** ili **Office 365 Enterprise E3**. 
   
-Da biste promenili planove, u Microsoft 365 admin Center idite na stranicu " **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", izaberite pretplatu za promenu, a zatim odaberite karticu " **Nadogradnja** ".
+Da biste promenili planove, u Microsoft 365 centru administracije, idite na stranicu " **naplatu** \> **[svojih proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", izaberite pretplatu za promenu, a zatim odaberite karticu **Nadogradnja** .
   
-Za više informacija o prebacivanju planova i usluzi OneDrive za poslovno skladištenje pogledajte odeljak [Prebacivanje na drugi Microsoft 365 za poslovni plan](https://go.microsoft.com/fwlink/?LinkId=2031117) i [za opis usluge OneDrive za poslovni servis](https://go.microsoft.com/fwlink/p/?LinkId-2031122).
+Više informacija o prebacivanju planova i usluzi OneDrive for Business skladište potražite u članku [Prebacivanje na neki od Microsoft 365 za poslovnog plana](https://go.microsoft.com/fwlink/?LinkId=2031117) i za [opis usluge OneDrive for Business](https://go.microsoft.com/fwlink/p/?LinkId-2031122).
