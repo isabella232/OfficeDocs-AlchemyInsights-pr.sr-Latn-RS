@@ -1,29 +1,30 @@
 ---
-title: 'Pravila prijemnog poštanskog sandučeta: operacija nije uspela'
+title: 'Pravila za Prijemno sanduče: operacija nije uspela'
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: f9b0f8250724a2d2049a5d4b5358727ced31777b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d0c95acd2587460d281474ebdba87683d336036d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724642"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778741"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a>Greška u pravilima i obaveštenjima: "operacija nije uspela"
+# <a name="rules-and-alerts-error-the-operation-failed"></a>Greška pravila i obaveštenja: "operacija nije uspela"
 
-Nakon instalacije sledećih ispravki možda ćete videti grešku u pravilima prijemnog poštanskog sandučeta:
+Možete da vidite grešku po pravilima prijemnog poštanskog sandučeta nakon instalacije sledećih ispravki:
 
-- [Outlook 2016: Avgust Security Update KB](https://support.microsoft.com/help/4461506)
-- [Outlook 2013: Avgust Security Update KB](https://support.microsoft.com/help/4461486)
-- [Outlook 2010: Avgust Security Update KB](https://support.microsoft.com/help/4461585)
+- [Outlook 2016: Security Update iz novembra KB](https://support.microsoft.com/help/4461506)
+- [Outlook 2013: Security Update iz novembra KB](https://support.microsoft.com/help/4461486)
+- [Outlook 2010: Security Update iz novembra KB](https://support.microsoft.com/help/4461585)
 
-Najnoviji status ovog poznatog problema možete da vidite tako što ćete posetiti [Outlook grešku: "operacija nije uspela..." Kada izaberete stavku "Upravljanje pravilima" & obaveštenja](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
+Možete da vidite najnoviji status ovog poznatog problema posetom [Outlook grešci: "operacija nije uspela..." Kada izaberete stavku Upravljaj pravilima & obaveštenjima](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
