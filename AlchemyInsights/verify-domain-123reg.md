@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 838406ef6dd45fce436a72cd60888cd9498baa35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5fd4ab38926024e704346dc07552691563a1265d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657542"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816267"
 ---
 # <a name="verify-your-domain-with-123-regcouk"></a>Verifikujte domen uz 123-reg.co.uk
 
 Da biste verifikovali domen, moraćete da dodate TXT zapis u registar domena da biste potvrdili da posedujete domen. 
 
-Prvo kliknite na dugme [Dodaj čarobnjak za domen](https://portal.office.com/adminportal/home#/Domains) tako što ćete izabrati stavke **Postavke** \> **domena**, a zatim **dodati domen**.
+Prvo kliknite na dugme [Dodaj čarobnjak za domen](https://admin.microsoft.com/Adminportal#/Domains) tako što ćete izabrati stavke **Postavke** \> **domena**, a zatim **dodati domen**.
   
 Pogledajte članak [Kreiranje DNS zapisa na sajtu 123-Reg.co.uk za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) za uputstva "pokoraka".

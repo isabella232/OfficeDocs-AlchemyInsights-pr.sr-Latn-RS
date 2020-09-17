@@ -1,26 +1,27 @@
 ---
-title: Proverite da li je vaš domen sa Obskim Ddimom
+title: Verifikacija domena sa signalom za oblake
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 481afa2550afd25797133ef6f3fff04111118a8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7f6162fa03fd53e23d048ca7997e0d878279fcc6
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766327"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816447"
 ---
-# <a name="verify-your-domain-with-cloudflare"></a>Proverite da li je vaš domen sa Obskim Ddimom
+# <a name="verify-your-domain-with-cloudflare"></a>Verifikacija domena sa signalom za oblake
 
-Da biste proverili domen, potrebno je da u registrator domena dodate TXT zapis da biste proverili da li posedujete svoj domen. 
+Da biste verifikovali domen, moraćete da dodate TXT zapis u registar domena da biste potvrdili da posedujete domen. 
 
-Prvo, sledite [čarobnjak za dodavanje domena](https://portal.office.com/adminportal/home#/Domains) tako što ćete izabrati stavku " **Postavke** \> **",** a zatim **dodati domen**.
+Prvo kliknite na dugme [Dodaj čarobnjak za domen](https://admin.microsoft.com/Adminportal#/Domains) tako što ćete izabrati stavke **Postavke** \> **domena**, a zatim **dodati domen**.
   
-Pogledajte članak [Kreiranje DNS zapisa u senci za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) za uputstva "korak po korak".
+Pogledajte članak [Kreiranje DNS zapisa u oblačicu bljeska za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) za uputstva "korake po redu".
