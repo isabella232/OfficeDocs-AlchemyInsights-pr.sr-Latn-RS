@@ -1,25 +1,26 @@
 ---
-title: Kako da dozvolim programu Skype za poslovne korisnike da komuniciraju sa korisnicima Skype-a
+title: Kako da dopustim Skype za posao korisnicima da komuniciraju sa Skype korisnicima
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 63e94a9aa365dd83cf96c0abb55c1ff6dba769ff
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316994"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781945"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Dozvoli da Skype za poslovne korisnike dodaju kontakte za Skype
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Dozvoli da Skype za posao korisnici dodaju Skype kontakte
 
-Pomoću Skype-a za poslovne korisnike, korisnici mogu da traže i IM sve osobe koje koriste Skype, besplatnu aplikaciju! Ovaj članak sadrži objašnjenja o tome šta je potrebno da uradite da biste mogli da dodate Skype kontakte.
+Uz Skype za posao vaši korisnici mogu da traže i sa svima koji koriste Skype, besplatnu aplikaciju! Ovaj članak objašnjava šta treba da uradite da biste mogli da dodate Skype kontakte.
 
-[Dozvoli da Skype za poslovne korisnike dodaju kontakte za Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Dozvoli da Skype za posao korisnici dodaju Skype kontakte](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
