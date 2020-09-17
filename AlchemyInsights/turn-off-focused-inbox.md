@@ -1,11 +1,12 @@
 ---
-title: 8000001 isključite fokusirano prijemno poštansko sanduče
+title: 8000001 isključite fokusirano Prijemno sanduče
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 86c30e6b61b7246c5230604e7e16e1893a9195a7
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582285"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797094"
 ---
-# <a name="turn-off-focused-inbox"></a>Isključivanje fokusirane prijemnog poštanskog sandučeta
+# <a name="turn-off-focused-inbox"></a>Isključivanje fokusiranog prijemnog sandučeta
 
-1. Izaberite **postavljanja** \> **usmerena u prijemno poštansko sanduče**.  
+1. Izaberite stavku **Postavke** \> **fokusirano Prijemno sanduče**.  
 
-2. U okviru **kada se e-pošta primi**, izaberite stavku **ne Sortiraj poruke**.
+2. U okviru **kada se primi e-pošta**, izaberite stavku **ne Sortirajte poruke**.
 
-3. Izaberite **"u redu"**.
+3. Izaberite stavku **u redu**.
 
-Da biste saznali više, pogledajte [fokusirano prijemno poštansko sanduče za Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste saznali više, pogledajte odeljak [fokusirano prijemno poštansko sanduče za Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).

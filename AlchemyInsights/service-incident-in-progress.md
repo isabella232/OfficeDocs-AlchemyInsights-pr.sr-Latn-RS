@@ -1,29 +1,30 @@
 ---
-title: Događaj usluge u toku
-ms.author: v-crytho
+title: Incident usluge u toku
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 8f3cc2d96e981edf4f573d4a5c2ceb9750d11367
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719624"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799074"
 ---
-# <a name="service-incident-in-progress"></a>Događaj usluge u toku
+# <a name="service-incident-in-progress"></a>Incident usluge u toku
 
-Možda će vas uticati na incident usluge ili savetodavna u kome se trenutno vodi istraga. Najnoviji status možete proveriti tako što ćete otići na stranicu " [zdravstvo usluge](https://admin.microsoft.com/adminportal/home#/servicehealth) ".
+Možda će biti pogođene incidentom usluge ili savetnicima koji se trenutno istražuju. Najnoviji status možete da potvrdite tako što ćete otići na stranicu " [zdravlje usluge](https://admin.microsoft.com/adminportal/home#/servicehealth) ".
   
-Za pogodnost možete pronaći rezime ovog incidenta:
+Ako vam je lakše, možete da pronađete rezime ovog incidenta u nastavku:
   
-> **Broj incidenta:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Broj incidenta:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
-> Opis uticaja: {ImpactDescription}
+> Opis uticaja: {Zagreљtdescription}

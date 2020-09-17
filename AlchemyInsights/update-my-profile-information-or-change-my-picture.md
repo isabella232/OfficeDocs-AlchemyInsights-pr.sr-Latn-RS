@@ -1,33 +1,34 @@
 ---
-title: Ažuriraj informacije o profilu ili promijeni moju sliku
+title: Ažuriranje informacija o profilu ili promena slike
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720115"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796950"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Ažuriraj informacije o profilu ili promijeni moju sliku
+# <a name="update-my-profile-information-or-change-my-picture"></a>Ažuriranje informacija o profilu ili promena slike
 
-Trenutno nije moguće uređivati i ažurirati informacije o profilu direktno iz programa Outlook za iOS, ali je moguće uređivanje ovih informacija na drugom mestu. 
+Trenutno nije moguće uređivati i ažuriram informacije o profilu direktno iz programa Outlook za iOS, ali ove informacije možete uređivati na drugom mestu. 
 
-Možete da napravite ispravke za svoj profil u programu Outlook za Windows ili Outlook na Webu (OWS). 
+Možete da ažurirate profil u programu Outlook za Windows ili Outlook na vebu (OWA). 
 
 **Outlook za Windows**: 
 
-- **File** >  > **User information****About me** **Update Profile** **Office Account**Informacije o nalogu za Office nalog (unosi vas u Microsoft 365 profil na mreži) > Ažuriraj profil ili kliknite na ikonu kamere da biste promenili fotografiju >   
+- **Datoteka**  >  **Office nalog**  >  **Korisničke informacije**  >  **O meni** (dovodi vas u Microsoft 365 profil online) > **Ažurirajte profil** ili kliknite na ikonu kamere da biste promenili fotografiju  
   
-**Outlook na Webu (OWS)**: 
+**Outlook na vebu (OWA)**: 
 
-- **Slika** > profila**moj** > profil**Ažuriranje profila**
+- **Slika profila**  >  **Moj profil**  >  **Ažuriranje profila**

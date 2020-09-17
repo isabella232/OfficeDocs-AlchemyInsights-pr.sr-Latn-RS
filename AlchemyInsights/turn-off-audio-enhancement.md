@@ -1,29 +1,30 @@
 ---
-title: Isključivanje poboljšanja zvuka
+title: Isključivanje zvuka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 3b515e18296f5a50ce64b7811c870b35e0e65d63
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738477"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797202"
 ---
-# <a name="turn-off-audio-enhancement"></a>Isključivanje poboljšanja zvuka
+# <a name="turn-off-audio-enhancement"></a>Isključivanje zvuka
 
 Sledite ove korake:
 
-1. Idite na **početni ekran**, unesite **zvuk**i izaberite stavku **Kontrolna tabla zvuka** ili **promenite zvuke sistema** sa liste rezultata.
+1. Idite na **početni ekran**, unesite **zvuk**i izaberite stavku **Kontrolna tabla zvuka** ili **promenite zvukove sistema** sa liste rezultata.
 
-2. Na kartici **Reprodukcija** kliknite desnim tasterom miša (ili dodirnite i držite) podrazumevani uređaj i izaberite stavku **Svojstva**.
+2. Na kartici **Reprodukcija** kliknite desnim tasterom miša na podrazumevani uređaj (ili ga dodirnite i držite) i izaberite stavku **Svojstva**.
 
-3. Na kartici **poboljšanja** potvrdite izbor u polju za potvrdu **Onemogući sve zvučne efekte** i pokušajte da reprodukujete zvučni uređaj. Ako to ne funkcioniše, kliknite na **dugme "Otkaži"** i na kartici " **Reprodukcija** " izaberite drugi podrazumevani uređaj (ako ga imate), potvrdite izbor u polju za potvrdu **Onemogući sve zvučne efekte** i pokušajte ponovo da reprodukujete zvuk. Uradite ovo za svaki podrazumevani uređaj.
+3. Na kartici **poboljšanja** potvrdite izbor u polju za potvrdu **Onemogući sve zvučne efekte** i pokušajte da reprodukujete zvučni uređaj. Ako to ne funkcioniše, izaberite stavku **Otkaži** i na kartici **Reprodukcija** izaberite drugi podrazumevani uređaj (ako ga imate), potvrdite izbor u polju za potvrdu **Onemogući sve zvučne efekte** i ponovo pokušajte da reprodukujete zvuk. Uradite to za svaki podrazumevani uređaj.
