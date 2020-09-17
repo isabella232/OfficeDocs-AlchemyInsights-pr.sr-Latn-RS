@@ -6,35 +6,36 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063883"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778165"
 ---
 # <a name="manage-app-licenses"></a>Upravljanje licencama aplikacija
 
-## <a name="to-change-license-quantity"></a>Da biste promenili količinu licence
+## <a name="to-change-license-quantity"></a>Promena količine licenci
 
-1. Idite na stranicu " **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", a zatim odaberite karticu " **aplikacije** ".
+1. Idite na stranicu " **naplatu**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", a zatim odaberite karticu " **aplikacije** ".
 
-2. Pronađite i izaberite aplikaciju u kojoj želite da upravljate.  
+2. Pronađite i izaberite aplikaciju koju želite da upravljate.  
 
-3. Izaberite **Dodaj/ukloni licence**.
+3. Izaberite stavku **Dodaj/ukloni licence**.
 
-4. Unesite novi broj potrebnih licenci. Na primer, ako trenutno imate 5 licenci i samo je potrebno 4, unesite 4 u polje " **Ukupno licenci** ". Ako trenutno imate 5 licenci i potrebno vam je 10 ukupnih licenci, unesite 10 u polje " **Ukupno licenci** ".
+4. Unesite novi broj potrebnih licenci. Na primer, ako trenutno imate 5 licenci i treba vam samo četiri, unesite 4 u polje **Ukupno licenci** . Ako trenutno imate 5 licenci i treba vam 10 ukupnih licenci, unesite 10 u polje **Ukupno licenci** .
 
-## <a name="to-assign-app-licenses"></a>Da biste dodelili licence za aplikacije
+## <a name="to-assign-app-licenses"></a>Da biste dodelili licence za aplikaciju
 
-1. Idite na stranicu " **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", a zatim odaberite karticu " **aplikacije** ".
+1. Idite na stranicu " **naplatu**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", a zatim odaberite karticu " **aplikacije** ".
 
-2. Pronađite i izaberite aplikaciju u kojoj želite da upravljate.  
+2. Pronađite i izaberite aplikaciju koju želite da upravljate.  
 
-3. U okviru **postavke & radnje**izaberite vezu za **Upravljanje na portalu programa Publisher**.
+3. U okviru **stavke postavke & radnje**, izaberite stavku **Upravljanje na portalu izdavača**.
