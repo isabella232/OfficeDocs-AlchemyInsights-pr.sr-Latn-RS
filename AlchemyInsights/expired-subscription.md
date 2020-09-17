@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,20 +14,20 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56bd5c85be4316f2c0cdc21f1f49ae5895ca4b97
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505593"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782953"
 ---
 # <a name="expired-subscription"></a>Istekla pretplata
 
-Izgleda da imate jednu ili više isteklih pretplata. Ako želite da nastavite sa uslugom, morate ponovo da aktivirate pretplatu ili da napravite novu nabavku.
+Izgleda da imate neke istekle pretplate. Ako želite da nastavite sa uslugama, morate ponovo da aktivirate pretplatu ili da napravite novu kupovinu.
   
 **Ponovo aktiviraj**
   
-1. U okviru administratorskog centra idite na stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. U centru administracije idite na stranicu " **Billing** \> **[naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
 
 2. Odaberite pretplatu koju želite da ponovo aktivirate. U odeljku **Naplata**, izaberite stavku **Ponovo aktiviraj**.
 
@@ -36,14 +37,14 @@ Ako ne vidite opciju **Ponovo aktiviraj** kao dostupnu radnju, pozovite podršku
 
 Da biste saznali više, pogledajte članak [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-**Napravite novu izlaznu**
+**Pravljenje nove kupovine**
   
-1. U okviru administratorskog centra idite na **Billing** \> stranicu " **[usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433)** za naplatu".
+1. U centru administracije idite na **Billing** \> stranicu **[usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433)** naplate.
 
-2. Odaberite pretplatu koju želite da kupite, a zatim odaberite stavku " **kupi**".
+2. Odaberite pretplatu koju želite da kupite, a zatim odaberite stavku **kupi**.
 
-3. Unesite broj licenci koje su vam potrebne i odaberite da li želite da platite svakog meseca ili celu godinu. Odaberite da li želite da automatski dodelite licence svima koji trenutno nemaju licencu. Zatim odaberite **odmah odjavljivanje**.
+3. Unesite broj licenci koje su vam potrebne i odaberite da li želite da plaćate svakog meseca ili za celu godinu. Odaberite da li želite da automatski dodeljujete licence svima koji nemaju licencu. Zatim odaberite stavku **odmah odjavljivanje**.
 
-4. Sledite preostale korake da biste dovršili odjavljivanje.
+4. Pratite preostale korake da biste dovršili odjavljivanje.
 
-Da biste saznali više, pogledajte odeljak [kupovina druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+Da biste saznali više, pogledajte članak [kupovina druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
