@@ -1,27 +1,28 @@
 ---
-title: Tvoj autoritet MDM nije postavljen
+title: MDM komanda nije podešena
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638227"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796302"
 ---
-# <a name="your-mdm-authority-is-not-set"></a><span data-ttu-id="b6712-102">Tvoj autoritet MDM nije postavljen</span><span class="sxs-lookup"><span data-stu-id="b6712-102">Your MDM authority is not set</span></span>
+# <a name="your-mdm-authority-is-not-set"></a><span data-ttu-id="30f2e-102">MDM komanda nije podešena</span><span class="sxs-lookup"><span data-stu-id="30f2e-102">Your MDM authority is not set</span></span>
 
-<span data-ttu-id="b6712-103">Autoritet za upravljanje mobilnim uređajima (MDM) ovog tenanta nije postavljen.</span><span class="sxs-lookup"><span data-stu-id="b6712-103">The mobile device management (MDM) authority of this tenant is not set.</span></span> <span data-ttu-id="b6712-104">Morate da postavite autoritet MDM pre upisa i upravljanja uređajima preko Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="b6712-104">You must set an MDM authority before enrolling and managing devices through Intune MDM.</span></span> <span data-ttu-id="b6712-105">Bez podešavanja autoriteta MDM nećete moći da koristite funkcije Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="b6712-105">Without setting the MDM authority you won't be able to use Intune's MDM features.</span></span> <span data-ttu-id="b6712-106">Postavka autoriteta MDM određuje način upravljanja uređajima.</span><span class="sxs-lookup"><span data-stu-id="b6712-106">The MDM authority setting determines how you manage your devices.</span></span>
+<span data-ttu-id="30f2e-103">Nije postavljen autoritet za upravljanje mobilnim uređajima (MDM) ovog zakupca.</span><span class="sxs-lookup"><span data-stu-id="30f2e-103">The mobile device management (MDM) authority of this tenant is not set.</span></span> <span data-ttu-id="30f2e-104">Morate da postavljate MDM autoritet pre nego što se Uvućete i upravljate uređajima kroz Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="30f2e-104">You must set an MDM authority before enrolling and managing devices through Intune MDM.</span></span> <span data-ttu-id="30f2e-105">Bez postavljanja MDM autoriteta nećete moći da koristite MDM funkcije Intune.</span><span class="sxs-lookup"><span data-stu-id="30f2e-105">Without setting the MDM authority you won't be able to use Intune's MDM features.</span></span> <span data-ttu-id="30f2e-106">Postavka MDM određuje kako upravljate uređajima.</span><span class="sxs-lookup"><span data-stu-id="30f2e-106">The MDM authority setting determines how you manage your devices.</span></span>
 
-<span data-ttu-id="b6712-107">Preporučeni koraci:</span><span class="sxs-lookup"><span data-stu-id="b6712-107">Recommended Steps:</span></span>
-1. <span data-ttu-id="b6712-108">Idite na oštricu za pregled funkcije Intune da biste postavili autoritet MDM.</span><span class="sxs-lookup"><span data-stu-id="b6712-108">Navigate to the Intune Enrollment Overview blade to set the MDM authority.</span></span>
-2. <span data-ttu-id="b6712-109">Odaberite odgovarajući autoritet na osnovu vaših administrativnih potreba.</span><span class="sxs-lookup"><span data-stu-id="b6712-109">Choose the appropriate authority based on your administrative needs.</span></span> <span data-ttu-id="b6712-110">Više informacija potražite u članku [Postavljanje članka autoriteta za upravljanje mobilnim uređajem](https://docs.microsoft.com/intune/mdm-authority-set).</span><span class="sxs-lookup"><span data-stu-id="b6712-110">For more information, see [Set the mobile device management authority article](https://docs.microsoft.com/intune/mdm-authority-set).</span></span>
+<span data-ttu-id="30f2e-107">Preporučuje se koraci:</span><span class="sxs-lookup"><span data-stu-id="30f2e-107">Recommended Steps:</span></span>
+1. <span data-ttu-id="30f2e-108">Idite na seиivo za pregled Enrouenja Intune da biste podesili MDM autoritet.</span><span class="sxs-lookup"><span data-stu-id="30f2e-108">Navigate to the Intune Enrollment Overview blade to set the MDM authority.</span></span>
+2. <span data-ttu-id="30f2e-109">Odaberite odgovarajući autoritet na osnovu administrativnih potreba.</span><span class="sxs-lookup"><span data-stu-id="30f2e-109">Choose the appropriate authority based on your administrative needs.</span></span> <span data-ttu-id="30f2e-110">Više informacija potražite u članku [Postavljanje članka autoriteta za upravljanje mobilnim uređajima](https://docs.microsoft.com/intune/mdm-authority-set).</span><span class="sxs-lookup"><span data-stu-id="30f2e-110">For more information, see [Set the mobile device management authority article](https://docs.microsoft.com/intune/mdm-authority-set).</span></span>
