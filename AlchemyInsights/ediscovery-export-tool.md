@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711109"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277954"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ne možete da instalirate ili pokrećete alatku za izvoz eDiscovery?
 
@@ -47,4 +47,5 @@ Ako ne možete da instalirate ili izvršite alatku za izvoz eDiscovery za preuzi
 - Dodeljena vam je uloga izvoza u Microsoft 365 bezbednosnom &amp; centru za usaglašenost. Ova uloga se podrazumevano dodeljuje samo grupi uloga programa eDiscovery. Pogledajte [dodelu dozvola za eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Više informacija potražite u članku [izvoz rezultata pretrage sadržaja](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Ako izvozite više od 100K poštanskih sandučića, moraćete da koristite sledeće PowerShell za preuzimanje rezultata izvoza:  [izvoz rezultata iz više od 100k poštanskih sandučića](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
