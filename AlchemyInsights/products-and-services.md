@@ -1,8 +1,8 @@
 ---
 title: Vaši proizvodi
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799254"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307032"
 ---
 # <a name="your-products"></a>Vaši proizvodi
 
-Možete da pronađete pretplate koje je u vlasništvu organizacije na stranici " **naplatu**  >  **[vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". Evo nekih opcija ove stranice zajedno sa vezama za više informacija o svakoj funkciji:
+Možete da pronađete pretplate koje je u vlasništvu organizacije na stranici " **naplatu**  >  [vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ". Evo nekih opcija ove stranice zajedno sa vezama za više informacija o svakoj funkciji:
 
-1. Upravljajte brojem licenci koje su kupljene za svaku pretplatu pored toga koliko ih je koristi.  **Napomena**: licence koje se ne koriste (nije dodeljeno korisniku) se i dalje naplaćuju.  Da ne biste bili optuženi za nekorišćene licence, smanjite broj licenci koje ste kupili. Informacije o tome kako da dodate ili uklonite licence iz pretplate potražite u članku [Dodavanje ili smanjivanje licenci](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
-
-2. Prikaz obnove ili datuma isteka pretplate.  Možete da upravljate obnavljanjem tako što ćete kliknuti na vezu **Uredi** pored stavke **obnavljanja/ističe** datum.  Više informacija o tome kako da upravljate periodičnom naplatom potražite u članku obnova [Microsoft 365 za preduzeća](https://go.microsoft.com/fwlink/?linkid=2119216) .
-
-3. [Ponovo aktivirajte isteklu ili hendikepiranu pretplatu](https://go.microsoft.com/fwlink/?linkid=2117519).
-
-4. [Uredite način plaćanja koji se koristi za plaćanje pretplate](https://go.microsoft.com/fwlink/?linkid=2117167).
-
-5. [Promenite učestalost faktulisanje](https://go.microsoft.com/fwlink/?linkid=2119112).
-
+1. Prikaz broja dodeljenih licenci i koliko licenci je kupljeno za svaku pretplatu.
+    > [!NOTE]
+    > I dalje ste naplaćeni za licence koje se ne koriste (nije dodeljeno korisniku). Da ne biste bili optuženi za nekorišćene licence, smanjite broj licenci koje ste kupili. Informacije o tome kako da dodate ili uklonite licence iz pretplate potražite u članku [Dodavanje ili smanjivanje licenci](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+2. Prikaz statusa svake pretplate. Da biste saznali kako da ponovo aktivirate pretplatu, pogledajte članak [ponovna aktivacija pretplate](reactivate-your-subscription.md).
+3. Pogledajte datum obnove ili isteka svake pretplate. Možete da upravljate obnavljanjem tako što ćete izabrati pretplatu, a zatim izabrati stavku **Uredi periodičnu naplatu**. Da biste saznali kako da upravljate periodičnom naplatom, pogledajte članak [Upravljanje periodičnom naplatom](manage-auto-renewal.md).
+4. Prikaz načina plaćanja koji se koristi za svaku pretplatu. Da biste saznali kako da promenite način plaćanja, pogledajte odeljak [Promena načina plaćanja](change-payment-method.md).
+5. [Promena učestalosti plaćanja](change-how-often-you-pay.md).
 6. [Otkazivanje pretplate](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Možete da kupite dodatne pretplate sa stranice **Billing**"  >  [**usluge kupovine**](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate".
+Možete da kupite dodatne pretplate sa stranice **Billing**"  >  [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate".
