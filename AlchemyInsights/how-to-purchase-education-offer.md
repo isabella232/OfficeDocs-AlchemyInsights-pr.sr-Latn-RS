@@ -2,8 +2,8 @@
 title: Kako se kupuje ponuda za obrazovanje
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703674"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489291"
 ---
-# <a name="how-to-purchase-education-offer"></a>Kako se kupuje ponuda za obrazovanje
+# <a name="how-to-purchase-an-education-offer"></a>Kako da kupite ponudu za edukaciju
 
 Odobreni ste za Office 365 Education. Da biste kupili:
   
-1. U centru administracije idite na stranicu " **Billing** \> **[naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
-
-2. Odaberite probnu verziju za **studente ili**studente.
-
-3. U odeljku **licence** odaberite stavku **Pretplata na kupovinu**.
-
+1. U centru administracije idite na stranicu " **Billing** \> [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+2. Na kartici **proizvodi** izaberite probnu verziju za **studente ili studente**.
+3. Na stranici detalji pretplate, u odeljku **licenca** izaberite stavku **kupi plaćenu pretplatu**.
 4. Slijedite preostale korake za odjavljivanje.
 
-Ako želite da kupite pretplatu koja se ne nalazi na osnovu onoga što se nalazi na probi, **Billing** idite na \> stranicu [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate i odaberite stavku sa liste u okviru **planovi obrazovanja**.
+Ako želite da kupite različitu od probne pretplate, idite na **Billing** \> stranicu [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate. U okviru **planovi obrazovanja**izaberite željeni plan.
 
-Da biste saznali više, pogledajte članak [kupovina istog plana kao i probna verzija](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Da biste saznali više, pogledajte članak [kupovina pretplate iz besplatnog pokušaja](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).

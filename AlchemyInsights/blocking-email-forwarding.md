@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
-ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
+ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
+ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48219869"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48473115"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Blokiranje ili deblokiranje prosleđivanja e-pošte
 
 Da biste omogućili ili onemogućili Prosleđivanje e-pošte za određeno poštansko sanduče, pogledajte članak [Konfigurisanje prosleđivanja e-pošte](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Na nivou zakupca kontrola spoljnog prosleđivanja se obavlja pomoću izlazne smernice za borbu protiv bezvredne pošte. Ako je podešena na stavku isključeno ili automatski, to može da blokira Prosleđivanje e-pošte pomoću stavke "550 5.7.520 pristup nije dozvoljen, organizacija ne dozvoljava grešku spoljne prosleđivanja". Zatim, ako je podešeno da bude blokirano, to je greška koju će korisnici videti.
+Na nivou zakupca kontrola spoljnog prosleđivanja se obavlja pomoću izlaznih smernica bezvredne pošte. Možete da potvrdite smernice za filtriranje odlazne bezvredne pošte iz centra za bezbednost i usaglašenost [ovde] ( https://protection.office.com/antispam) ili pomoću [komande "Uzmi-Hostedoutboundspampolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)".
 
-Ako je prosleđivanje blokirano, proverite da li su smernice konfigurisane tako da omogućavaju eksterni Autonapred. Možete da potvrdite smernice za filtriranje odlazne bezvredne pošte iz centra za bezbednost i usaglašenost ili tako što ćete pokrenuti komandnu karticu. ime za for, Autoforwardingmod. Ako želite da podesite automatsko blokiranje, ista komanda će vam odmah reći stanje politike.
+Ako dobijate sledeću grešku: **"550 5.7.520 pristup je odbijen, organizacija ne dozvoljava spoljne prosleđivanje"**, proverite da li su smernice konfigurisane tako da omogućuju spoljni automatski pristup.
 
-Napomena: preporučuje se da spoljna automatska funkcija ostane sprečena u podrazumevanim smernicama za izlazne količine i omogućite samo za korisnike kojima je potrebna spoljna prosleđivanje kreiranjem prilagođenih smernica za te korisnike. Možete pročitati više o [konfigurisanju spoljnog prosleđivanja e-pošte u sistemu Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Napomena:** Preporučuje se da spoljna automatska funkcija ostane sprečena u podrazumevanim smernicama za izlaznu vrednost izlaznog bezvredne pošte i da je omogućite samo za korisnike kojima je potrebna spoljna prosleđivanje kreiranjem prilagođenih smernica za te korisnike. Možete pročitati više o [konfigurisanju spoljnog prosleđivanja e-pošte u sistemu Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
