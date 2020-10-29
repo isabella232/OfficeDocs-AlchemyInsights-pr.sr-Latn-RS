@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784321"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791272"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Umetnuti Android uređaje u Intune
 
-Intune podržava prijavljivanje sledećih Android uređaja:
-- Samsung Knox i zebra
-- Android Enterprise profil poslovnog rada
-- Android Enterprise posvećen
-- Android Enterprise
+Ako želite da migrirate korisnike iz aplikacije Android uređaja administratora u Android Enterprise, pregledajte: [premestite Android uređaje iz administratora uređaja u upravljanje upravljanju profilom](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Pre nego što podesite prijavljivanje za Android uređaje, [Pregledajte preduslove] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune podržava prijavljivanje sledećih Android uređaja:  
 
-Informacije o rešavanju problema sa prijavljivanjem uređaja i neke Android Roperom za prijavljivanje potražite [u članku rešavanje problema sa prijavljivanjem uređaja u programu Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung Knox, zebra, administrator uređaja](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise profil poslovnog rada](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise posvećen](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Takođe možete da koristite [sadržaj koji opisuje oљtricu za rešavanje problema Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) kako bi vam pomogla da identifikujete probleme sa rokom koji vaši korisnici imaju.
+Pre nego što podesite prijavljivanje za Android uređaje, [Pregledajte preduslove](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Informacije o rešavanju problema sa prijavljivanjem uređaja i neke Android Roperom za prijavljivanje potražite [u članku rešavanje problema sa prijavljivanjem uređaja u programu Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Takođe možete da koristite sadržaj koji opisuje oљtricu za rešavanje problema Intune kako bi vam pomogla da identifikujete probleme sa rokom koji vaši korisnici imaju.
