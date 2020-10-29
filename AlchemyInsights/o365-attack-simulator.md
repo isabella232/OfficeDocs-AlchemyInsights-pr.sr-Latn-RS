@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759233"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801565"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulator napada u programu Microsoft 365
 
-- Nedostaje vam simulator za napad? Simulator napada zahteva **Office 365 napredni plan zaštite od pretnje 2 (ATP plan 2)** ili **Office 365 Enterprise E5**. Simulator napada **nije** uključen u Office 365 napredni plan zaštite od pretnje 1 (ATP plan 1), Office 365 Enterprise E3 ili bilo koje Microsoft 365 aplikacije za pretplate.
+- Nedostaje vam simulator za napad? Simulator napada zahteva **Microsoft Defender za Office 365 plan 2 (ATP plan 2)** ili **Office 365 Enterprise E5** . Simulator napada **nije** uključen u Microsoft Defender za Office 365 plan 1 (ATP plan 1), Office 365 Enterprise E3 ili bilo koje Microsoft 365 aplikacije za pretplatu.
 
 - Nalog koji koristite za pokretanje simuliranih napada zahteva opšte dozvole globalnog administratora ili administratora bezbednosti i potvrdu identiteta sa više faktora (MFA). Više informacija o zahtevima za simulator napada potražite u [ovom članku](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759233"
 
 - Važne stvari koje treba znati o **phishing** Prilaganje Priloži:
 
-  - Po dizajnu, ne možete da obezbedite prilagođenu vrednost za **URL adresu za phishing server za prijavljivanje**.
+  - Po dizajnu, ne možete da obezbedite prilagođenu vrednost za **URL adresu za phishing server za prijavljivanje** .
 
   - Ako primalac koristi [programski dodatak "Omogućavanje poruke izveštaja](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) " da bi izvestio o grešci kao phishing, možda nećete primati obaveštenja (jer je ovo simulirani napad).
 

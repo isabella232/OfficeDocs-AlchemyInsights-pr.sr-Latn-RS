@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa uslugom Office 365 napredna zaštita pretnje
+title: Rešavanje problema sa programom Microsoft Defender za Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658928"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801457"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Rešavanje problema sa uslugom Office 365 napredna zaštita pretnje
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Rešavanje problema sa programom Microsoft Defender za Office 365
 
 - Da li primečujete kašnjenje u isporuci poruka? Koristite opciju [Dinamičko isporučivanje](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u ATP smernicama bezbednih priloga. To će vam pomoći da izbegnete kašnjenje poruke prilikom zaštite primalaca iz zlonamernog datoteka.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658928"
 
   1. Idite na stavku [https://protection.office.com](https://protection.office.com) i prijavite se pomoću opšteg administratora ili administratorskog naloga.
 
-  2. U levom oknu za navigaciju u okviru stavke **Upravljanje pretnjama** **Odaberite stavku** \> **bezbedne veze**.
+  2. U levom oknu za navigaciju u okviru stavke **Upravljanje pretnjama** **Odaberite stavku** \> **bezbedne veze** .
 
-  3. U **smernicama koje se primenjuju na ceo odeljak organizacije** izaberite smernice i izaberite stavku **Uredi**.
+  3. U **smernicama koje se primenjuju na ceo odeljak organizacije** izaberite smernice i izaberite stavku **Uredi** .
 
-  4. U okviru **Postavke**, omogućite **primenu bezbednih veza ka porukama poslatih unutar organizacije**.
+  4. U okviru **Postavke** , omogućite **primenu bezbednih veza ka porukama poslatih unutar organizacije** .

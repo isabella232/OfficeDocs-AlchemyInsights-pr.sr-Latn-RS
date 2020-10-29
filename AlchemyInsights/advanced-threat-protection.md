@@ -1,5 +1,5 @@
 ---
-title: Office 365 napredna zaštita pretnje
+title: Microsoft zaštitnik za Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696635"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801241"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 napredna zaštita pretnje
+# <a name="microsoft-defender-for-office-365"></a>Microsoft zaštitnik za Office 365
 
-- Bezbedni prilozi, sigurne veze i anti-phishing su deo Office 365 napredne zaštite pretnji. Enterprise E5, edukacija a5 i Microsoft 365 Business Premium uključujete ATP. Svi drugi planovi zahtevaju ATP pretplatu.
+- Bezbedni prilozi, sigurne veze i anti-phishing su deo programa Microsoft zaštitnik za Office 365 (ATP). Enterprise E5, edukacija a5 i Microsoft 365 Business Premium uključujete ATP. Svi drugi planovi zahtevaju ATP pretplatu.
 
 - Treba da dodelite odgovarajuće licence da biste zaštitili korisnike na osnovu sistema Office 365 ATP. Pogledajte [ovu temu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) za uputstva o tome kako se masovno primenjuju licence za korisnike.
 
-- Globalni administratori ili bezbednosni administratori mogu da pristupaju Office 365 ATP funkcijama u bezbednosnoj & centru za usaglašenost u smernicama " **pretnja managmeent** \> **Policy**".
+- Globalni administratori ili bezbednosni administratori mogu da pristupaju Office 365 ATP funkcijama u bezbednosnoj & centru za usaglašenost u smernicama " **pretnja managmeent** \> **Policy** ".
 
 - Smernice za sigurne priloge i sigurne veze mogu vam koristiti celu organizaciju, određene domene ili manje grupe korisnika.
 

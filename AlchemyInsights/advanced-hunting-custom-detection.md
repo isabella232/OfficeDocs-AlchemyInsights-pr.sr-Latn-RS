@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48300075"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801529"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Napredne prilagođene opcije za lov
 
@@ -30,6 +30,6 @@ Ako koristite ATP Microsoft Defender, pogledajte sledeće teme za detalje:
 - [Kreiranje prilagođenih pravila otkrivanja](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Prikaz i upravljanje prilagođenim pravilima otkrivanja](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Ako koristite Microsoft Protection Protection, pogledajte sledeće teme za detalje: 
+Ako koristite Microsoft 365 Defender, pogledajte sledeće teme za detalje: 
 - [Pregled prilagođenih kontrola](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [Kreiranje pravila za prilagođene propise i upravljanje njima](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

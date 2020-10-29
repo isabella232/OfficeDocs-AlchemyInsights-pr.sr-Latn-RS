@@ -1,5 +1,5 @@
 ---
-title: Kupovina sistema Office 365 napredna zaštita pretnje
+title: Kupovina Microsoft Defender za Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693569"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801163"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Kupovina sistema Office 365 napredna zaštita pretnje
+# <a name="purchase-microsoft-defender-for-office-365"></a>Kupovina Microsoft Defender za Office 365
 
-Office 365 napredna zaštita od pretnji (ATP) uključena je u određene pretplate, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium. Ako pretplata ne podrazumeva Office 365 ATP, možete da kupite [ATP plan 1ili ATP plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kao dodatak za određenu pretplatu. Da biste kupili u Microsoft 365 centru administracije:
+Microsoft Defender za Office 365 (ATP) uključen je u određene pretplate, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium. Ako pretplata ne podrazumeva Office 365 ATP, možete da kupite [ATP plan 1ili ATP plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kao dodatak za određenu pretplatu. Da biste kupili u Microsoft 365 centru administracije:
 
 1. Idite na **Billing**   >   [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433)naplate.
 2. Izaberite stranicu **"programski dodaci"**  iz **drugih kategorija koje vas mogu zanimati.**
