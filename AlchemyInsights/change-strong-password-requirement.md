@@ -12,19 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
+ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681886"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48804437"
 ---
 # <a name="change-strong-password-requirement"></a>Promena zahteva jakih lozinki
 
-Microsoft podrazumevano zahteva velike lozinke. 
+Microsoft podrazumevano zahteva velike lozinke.
 
-Pomoću programa PowerShell možete da onemogućite velike lozinke za određene korisnike pomoću ove komande:<br>
-*For-MsolUser – UserPrincipalName <UserPrincipalName> – uporni pasha $FALSE*
+Pomoću programa PowerShell možete da onemogućite velike lozinke za određene korisnike sa ovim komandama:
+
+`Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
+
+Da biste onemogućili velike lozinke za sve korisnike, koristite:
+
+`Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
 
 - [Više informacija o smernicama za lozinke](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
 - [Kako da se povežete sa uslugom Microsoft 365 pomoću programa PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
