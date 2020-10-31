@@ -10,16 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: c08a344e198c2b1c6c7ea47d598f1b92b681d027
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
+ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801601"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815952"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft za izvršavanje deljenja zakupca
 
-Microsoft to će podržati Deljenje lista između ličnih i radnih naloga počevši od 2020. To omogućava korisnicima u organizaciji da se pridruže, prikažu, menjaju i dodaju podatke u liste koje poseduju lični Microsoft nalozi.
+Microsoft da biste izvršili podrška za deljenje lista između ličnih naloga ličnih i poslovnih kontakata. To omogućava korisnicima u organizaciji
+
+Pridružite se, prikazujete, menjate i dodajete podatke u liste koje poseduju lični Microsoft nalozi.
 
 Nova postavka administracije dostupna je za administratore da onemoguće ovu funkciju tako što ćete proveriti opciju.
-Administrator može da pronađe ovu postavku na portportu u okviru **Postavke**  >  **org. postavke**  >  **usluge**  >  **Microsoft da** bi.
+
+Administrator može da pronađe ovu postavku na portportu u okviru **Postavke**  >  **org. postavke**  >  **usluge**  >  **Microsoft da** bi.  
+
+[Zašto ne mogu da se pridružim deljenoj listi?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
