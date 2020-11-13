@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674952"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019561"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Istraživačko iskustvo Microsoft tima
 
-Istraživački rad Microsoft tima omogućava korisnicima u organizaciji koji imaju Azure Active Directory (AAD) i nisu licencirani za timove da započnu istraživačko iskustvo timova. Administratori mogu da uključe ili isključe ovu funkciju za korisnike u organizaciji. (Raniji probni okvir za Microsoft komercijalni oblak sada se zove istraživački iskustvo timova.)
-
-Istraživačko iskustvo Microsoft tima je dostupno bez dodatnog troška do sledećeg godisnjice poslovnog sporazuma ili obnove januara 2021. U tom trenutku, krajnjim korisnicima licence Microsoft Explorit Experience treba da se premeštaju u plaćenu licencu koja uključuje timove.
-
-Više informacija potražite [u članku Upravljanje licencom za Microsoft timove](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Šta su to [timovi za istraživanje](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Istraživački rad Microsoft tima omogućava korisnicima u organizaciji koji nisu licencirani za timove da započnu istraživačko iskustvo timova. Više informacija potražite [u članku šta je to istraživačko iskustvo timova](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Kada će moja licenca da istekne](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Istraživačko iskustvo Microsoft tima je dostupno bez dodatnog troška do sledećeg godišnjice ili obnove narednog sporazuma ili posle 2021 januara.
+- Kao administrator, možete da [nadogradite korisnike sa istraћivacke licence tima](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) tako što ćete kupovati pretplatu koja obuhvata timove, uklanjajući pretplatu na timove od korisnika i dodeljujete novu licencu.
+- Više informacija potražite u članku [Upravljanje licencom za timove.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
