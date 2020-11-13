@@ -1,5 +1,5 @@
 ---
-title: Objavljivanje infrastrukture sa lokacijom za komunikaciju
+title: SharePoint objavljivanje infrastrukture
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,27 +8,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: ada85fec66a00c1fa4416ec25ef8c675fad39e53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms-custom:
+- "1846"
+- "9000253"
+ms.openlocfilehash: 03979fd238aecff0bfb54ab784997727c03fd7c2
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758691"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002679"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="978d7-102">SharePoint objavljivanje infrastrukture</span><span class="sxs-lookup"><span data-stu-id="978d7-102">SharePoint Publishing Infrastructure</span></span>
+# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="f460f-102">SharePoint objavljivanje infrastrukture</span><span class="sxs-lookup"><span data-stu-id="f460f-102">SharePoint Publishing Infrastructure</span></span>
 
+> [!IMPORTANT]
+> <span data-ttu-id="f460f-103">Moderne komunikacione lokacije ne podržavaju klasične funkcije objavljivanja poznate kao infrastruktura za objavljivanje sistema SharePoint Server.</span><span class="sxs-lookup"><span data-stu-id="f460f-103">Modern Communication Sites do not support the classic publishing features known as SharePoint Server Publishing Infrastructure.</span></span> <span data-ttu-id="f460f-104">Kada pokušate da aktivirate funkciju za modernu sajt za komunikaciju, dobićete grešku.</span><span class="sxs-lookup"><span data-stu-id="f460f-104">When trying to activate the feature for a modern Communication Site you will receive an error.</span></span> <span data-ttu-id="f460f-105">Moderne lokacije komunikacije podrazumevano pružaju noviju opciju.</span><span class="sxs-lookup"><span data-stu-id="f460f-105">Modern communication sites provide a newer alternative by default.</span></span>
 
-<span data-ttu-id="978d7-103">SharePoint uključuje klasičnu skupu funkcija koje vam omogućavaju da autorite i objavite obogaćene Veb stranice za intranet.</span><span class="sxs-lookup"><span data-stu-id="978d7-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="978d7-104">Aktivirajte SharePoint infrastrukturu za objavljivanje na nivou kolekcije lokacija da biste ih uključili.</span><span class="sxs-lookup"><span data-stu-id="978d7-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
+<span data-ttu-id="f460f-106">Za klasične lokacije, SharePoint uključuje klasičnu skupu funkcija koje vam omogućavaju da autorite i objavljujete obogaćene Veb stranice za intranet.</span><span class="sxs-lookup"><span data-stu-id="f460f-106">For classic sites, SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="f460f-107">Aktivirajte SharePoint infrastrukturu za objavljivanje na nivou kolekcije lokacija da biste ih uključili.</span><span class="sxs-lookup"><span data-stu-id="f460f-107">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
 
-<span data-ttu-id="978d7-105">Više informacija potražite u dolenavedenoj vezi.</span><span class="sxs-lookup"><span data-stu-id="978d7-105">For more information please visit the links below.</span></span>
-
-[<span data-ttu-id="978d7-106">Omogućavanje funkcija objavljivanja</span><span class="sxs-lookup"><span data-stu-id="978d7-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
-
-[<span data-ttu-id="978d7-107">Funkcije objavljivanja</span><span class="sxs-lookup"><span data-stu-id="978d7-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
-
-<span data-ttu-id="978d7-108">Primeć</span><span class="sxs-lookup"><span data-stu-id="978d7-108">Notes:</span></span>
-
-- <span data-ttu-id="978d7-109">Klasični Predlošci lokacija za objavljivanje podrazumevano uključuje funkcije objavljivanja.</span><span class="sxs-lookup"><span data-stu-id="978d7-109">The classic publishing site templates include the publishing features by default.</span></span>
-
-- <span data-ttu-id="978d7-110">Klasične funkcije objavljivanja nisu dostupne na modernim lokacijama.</span><span class="sxs-lookup"><span data-stu-id="978d7-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="978d7-111">Savremene lokacije pružaju noviju opciju po podrazumevanoj vrednosti.</span><span class="sxs-lookup"><span data-stu-id="978d7-111">Modern sites provide a newer alternative by default.</span></span>
-
+<span data-ttu-id="f460f-108">Više informacija potražite u članku [Omogućavanje funkcija za objavljivanje](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) i [funkcija objavljivanja](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)</span><span class="sxs-lookup"><span data-stu-id="f460f-108">For more information, see [Enable publishing features](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) and [Publishing features](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)</span></span>
