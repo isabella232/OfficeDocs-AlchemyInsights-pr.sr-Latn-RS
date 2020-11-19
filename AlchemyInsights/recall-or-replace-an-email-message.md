@@ -14,18 +14,19 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799218"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353520"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Opoziv ili zamena e-poruke u usluzi Microsoft 365
 
-- Možete da **opozovete poruke koje se šalju osobama u vašoj organizaciji**. Ako je poruka poslata na gmail adresu, na primer, ne možete da je opozovete.
-- Možete **samo da opozovete poruke poslate iz programa Outlook 2016 za računar**. Ako korisnik pošalje poruku pomoću programa Outlook za Mac ili Outlook na vebu, ne možete da ga opozovete.
-- Ako ste administrator, možete da **opozovete poruke u ime korisnika pomoću programa PowerShell**. Ne možete da opozovete poruke iz centra administracije. Pomerajte se nadole do stavke "Pretraga i brisanje e-poruka u organizaciji" za više informacija.
+- Možete da **opozovete poruke koje se šalju osobama u vašoj organizaciji**. Na primer, ako je poruka poslata na gmail adresu, ne možete da je opozovete.
+- Možete **samo da opozovete poruke poslate iz programa Outlook za PC**. Ako korisnik pošalje poruku pomoću programa Outlook za Mac ili Outlook na vebu, ne možete da ga opozovete.
+- Kao administrator zakupca, možete da **opozovete poruke u ime korisnika pomoću programa PowerShell** (više informacija potražite u članku: [pretraživanje i brisanje e-poruka](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
+- Ne možete da opozovete poruke iz centra administracije. Pomerajte se nadole do stavke "Pretraga i brisanje e-poruka u organizaciji" za više informacija.
 
 **Opoziv ili zamena e-poruke koju ste poslali**
 
@@ -38,9 +39,9 @@ ms.locfileid: "47799218"
 
 Više informacija o tome kako da potvrdite opoziv potražite u članku [opoziv ili zamena e-poruke koju ste poslali](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Pretraga i brisanje e-poruka u organizaciji*** Da biste pretražili i izbrisali e-poruke u organizaciji, to je najlakše ako ste globalni administrator. Ako niste globalni administrator, nalog mora da se doda u grupu uloga menadžera eDiscovery ili na ulogu upravljanja usaglašenosti. Da biste izbrisali poruke, moraćete da se pridružite grupi uloga za upravljanje organizacijom ili svojoj ulozi za pretraživanje i čišćenje. Dozvole za ove uloge se dodeljuju u [centru za bezbednost & bezbednosti](https://protection.office.com/).
+**_Da biste pretražili i izbrisali e-poruke u organizaciji_**, to je najlakše ako ste globalni administrator. Ako niste globalni administrator, nalog mora da se doda u grupu uloga menadžera eDiscovery ili na ulogu upravljanja usaglašenosti. Da biste izbrisali poruke, moraćete da se pridružite grupi uloga za upravljanje organizacijom ili svojoj ulozi za pretraživanje i čišćenje. Dozvole za ove uloge se dodeljuju u [centru za bezbednost & bezbednosti](https://protection.office.com/).
 
 1. [Kreirajte pretragu sadržaja](https://docs.microsoft.com/microsoft-365/compliance/content-search) da biste pronašli poruku za brisanje.
-2. [Povezivanje sa bezbednosnim & PowerShell Center usaglašenosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Povezivanje sa bezbednosnim & PowerShell Center usaglašenosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
 
-Ako koristite MFA, pogledajte članak [Povezivanje sa uslugom Microsoft 365 security & Power Shell centar za usaglašenost pomoću multifaktor potvrde identiteta](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ako koristite MFA (multifaktor verifikacije identiteta), pogledajte članak [Povezivanje sa uslugom Microsoft 365 Security & centar za usaglašenost sa PowerShell pomoću multifaktor potvrde identiteta](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
