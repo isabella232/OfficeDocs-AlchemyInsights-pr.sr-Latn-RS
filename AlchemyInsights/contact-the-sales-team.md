@@ -1,28 +1,27 @@
 ---
-title: Obratite se timu prodaje
+title: Obratite se prodajnom timu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932107"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529032"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="14b86-102">Obratite se timu prodaje</span><span class="sxs-lookup"><span data-stu-id="14b86-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="31b2b-102">Obratite se prodajnom timu</span><span class="sxs-lookup"><span data-stu-id="31b2b-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="14b86-103">Pomoću Microsoft Graph konektora, vaša organizacija može da indeksira podatke nezavisnih proizvođača da bi se pojavile u Microsoft rezultatima pretrage.</span><span class="sxs-lookup"><span data-stu-id="14b86-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="31b2b-103">Postoji više načina da se obratite Microsoft 365 prodajnim timom.</span><span class="sxs-lookup"><span data-stu-id="31b2b-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="14b86-104">Linije spajanja u programu Microsoft</span><span class="sxs-lookup"><span data-stu-id="14b86-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="14b86-105">Konektori od strane naših partnera</span><span class="sxs-lookup"><span data-stu-id="14b86-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="14b86-106">Više informacija potražite u članku [Pregled Microsoft Graph konektora](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span><span class="sxs-lookup"><span data-stu-id="14b86-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="31b2b-104">Koristite obrazac  [Obratite nam se](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) da bi vam se obratio Microsoft 365 stručnjak za prodaju.</span><span class="sxs-lookup"><span data-stu-id="31b2b-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="31b2b-105">Da biste se obratili stručnjaku za količinsko licenciranje poslovnih ugovora, počnite sa portalom[centar za usluge količinskog licenciranja](https://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="31b2b-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
