@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569181"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605723"
 ---
 # <a name="onedrive-puid-mismatch"></a>Nepodudaranje sa uslugom OneDrive
 
-Izgleda da imate [Nepodudaranje sa ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -om u usluzi OneDrive for Business. Pratite dolenavedene korake da biste mogli da vam pomognemo što je pre moguće:
+Izgleda da imate [Nepodudaranje sa ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -om u usluzi OneDrive for Business. Da biste nam omogućili da vam prvi pomognemo, uradite sledeće korake:
 
 1. Izaberite stavku  **Podrška za kontakt**, a zatim  **novi zahtev za uslugom**.
 2. Ostavite naslov i opis kao  **pogrešno podudaranje korisnika usluge OneDrive**.
