@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680326"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727237"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>Nije vraćen nijedan rezultat tokom pretrage/izvoza sadržaja
 
@@ -26,7 +26,7 @@ Ako imate problema sa sledećim scenarijima za eDiscovery:
 - Pretraga sadržaja/izvoz ne vraća podatke ili neočekivane podatke
 - Pretraga e-otkrivanja ili izvoz nije uspeo
 
-To može biti izazvano određenim bezbednosnim filteri usaglašenosti koje je postavio određeni administrator i koji nisu komunicirali sa svim administratorima.
+To je možda zbog određenih bezbednosnih filtera koje je postavio određeni administrator i koji nisu komunicirali sa svim administratorima.
 
 Da biste rešili ovaj problem, uverite se da postoje filteri za bezbednost usaglašenosti koji možda uzrokuju ove probleme:
 
