@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682102"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726412"
 ---
 # <a name="change-organization-profile"></a>Promena profila organizacije
 
-Promenite ime preduzeća, adresu, informacije o tehničkim kontaktima i još više u centru administracije na **Settings**  >  stranici[profila za organizaciju](https://go.microsoft.com/fwlink/p/?linkid=2067339) postavki.
+Promenite ime, adresu, tehničke kontakt informacije i još puno toga u centru administracije na kartici " **Postavke**  >    >  [organizacionog profila](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) ".
 
 Obavezno popunite sva potrebna polja označena slovom * da biste omogućili čuvanje promena.
 
