@@ -1,5 +1,5 @@
 ---
-title: Prenos Azure vlasništva
+title: Prenos vlasništva nad naplatom za uslugu Azure
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922168"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736892"
 ---
-# <a name="transfer-azure-billing-ownership"></a>Prenos Azure vlasništva
+# <a name="transfer-azure-billing-ownership"></a>Prenos vlasništva nad naplatom za uslugu Azure
 
-Prijavite se na [Azure portal](https://portal.azure.com/) kao administrator naloga naplate koji ima pretplatu koju želite da prenesete. Ako niste sigurni da li ste i administrator ili ako treba da utvrdite ko je, pogledajte odeljak [Utvrđivanje administratora za naplatu naloga](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
+Prijavite se na [Azure portal](https://portal.azure.com/) kao administrator naloga za naplatu koji ima pretplatu koju želite da prenesete. Ako niste sigurni u to da li ste administrator ili ako treba da utvrdite ko jeste, pogledajte članak [Odredite administratora naloga za naplatu](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- Pretraga o **upravljanju troškovima + naplata**.
-- Izaberite stavku **pretplate** iz levog okna. U zavisnosti od pristupa, možda ćete morati da izaberete opseg naplate, a zatim **pretplate** ili **Azure pretplate**.
-- Izaberite stavku **prenos vlasništva naplate** za pretplatu koju želite da prenesete
-- Unesite e-adresu korisnika koji je administrator naplate naloga koji će biti novi vlasnik za pretplatu, a zatim izaberite stavku **Pošalji zahtev za prenos**
-- Korisnik dobija e-poruku sa uputstvima za redigovanje zahteva za prenos. Da biste odobrili zahtev za prenos, korisnik izabere veze u e-poruci i prati uputstva.
+1. Pretražujte na stranici _Upravljanje cenom + Naplata_.
+1. Izaberite **Pretplate** iz levog okna. U zavisnosti od pristupa, možda ćete morati da izaberete opseg naplate, a zatim **Pretplate** ili **Azure pretplate**.
+1. Izaberite **Prenos vlasništva nad naplatom** za pretplatu koju želite da prenesete.
+1. Unesite adresu e-pošte korisnika koji je administrator naplate za nalog koji će biti novi vlasnik pretplate, a zatim izaberite **pošalji zahtev za prenos**.
+1. Korisnik dobija e-poruku sa uputstvima da pregleda vaš zahtev za prenos. Da bi odobrio zahtev za prenos, korisnik odabira vezu u e-poruci i prati uputstva.
 
-**Napomena** : ako prenesete vlasništvo nad zakupom za pretplatu na nalog korisnika u drugom AZURE AD zakupcu, svi zadaci [zasnovane na ulozi (rbac)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support)dodele za upravljanje resursima u pretplati se trajno uklanjaju. Samo će novi vlasnik imati pristup za upravljanje resursima u pretplati. Više informacija potražite u članku [Prebacivanje pretplate na korisnika u drugom Azure AD zakupcu](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Imajte u vidu da se sva zaduženja sa [kontrolom pristupa na osnovu uloga (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) za upravljanje resursima u pretplati trajno uklanjanju ako prenesete vlasništvo nad naplatom vaše pretplate na korisnički nalog u drugom Azure AD zakupcu. Samo će novi vlasnik imati pristup za upravljanje resursima u pretplati. Za više informacija o tome kako da promenite direktorijum za pretplatu, pogledajte [Prenos pretplate na korisnika u drugom Azure AD zakupcu ](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+_**Važan uticaj na vaše fakture**_: Ako ste preneli vlasništvo nad naplatom za Azure pretplatu, troškovi će biti srazmerni. Moći ćete da pristupite fakturama na sledeći način:  
+
+1. Izaberite vašu pretplatu sa  [Stranice za pretplate](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)  u Azure portalu kao  [ korisnik sa pristupom fakturama](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), a zatim izaberite  **Fakture**.
+1. Kliknite na  **Preuzmi fakturu**  da biste videli kopiju fakture u PDF formatu. Ako kaže  _Nije dostupno_, pogledajte  [Zašto se ne prikazuje faktura za poslednji period naplate?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Možete da vidite i dnevno korišćenje tako što ćete kliknuti na **period naplate** da biste dobili PDF vaše fakture i kopiju datoteke o detaljnom dnevnom korišćenju (.CSV) Za više informacija, pogledajte  [Preuzmite fakturu i podatke o korišćenju](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Preporučeni dokumenti**
 
-- [Prebacivanje vlasništva nad naplatom na Azure pretplatu na drugi nalog](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [Prenesite vlasništvo nad naplatom za Azure pretplatu na drugi nalog](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
 - [O prenosu vlasništva nad naplatom za Azure pretplatu](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- [Prenošenje vizuelnog studija, Microsoft partner Network (MPN) i isplata dok idete na delanje Dev/test](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Najčešća pitanja o vlasništvu prenosa](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Rešavanje problema sa vlasništvom prenosa](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [Prenos pretplata za projektante/testiranje za Visual Studio, Microsoft Partner Network (MPN) i Plaćanje po utrošku](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Prenos vlasništva – najčešća pitanja](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Rešavanje problema u vezi sa prenosom vlasništva](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
