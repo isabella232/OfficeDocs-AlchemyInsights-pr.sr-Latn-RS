@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736892"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755561"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Prenos vlasništva nad naplatom za uslugu Azure
 
 Prijavite se na [Azure portal](https://portal.azure.com/) kao administrator naloga za naplatu koji ima pretplatu koju želite da prenesete. Ako niste sigurni u to da li ste administrator ili ako treba da utvrdite ko jeste, pogledajte članak [Odredite administratora naloga za naplatu](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Pretražujte na stranici _Upravljanje cenom + Naplata_.
+1. Potražite _Upravljanje cenom + Naplata_.
 1. Izaberite **Pretplate** iz levog okna. U zavisnosti od pristupa, možda ćete morati da izaberete opseg naplate, a zatim **Pretplate** ili **Azure pretplate**.
 1. Izaberite **Prenos vlasništva nad naplatom** za pretplatu koju želite da prenesete.
 1. Unesite adresu e-pošte korisnika koji je administrator naplate za nalog koji će biti novi vlasnik pretplate, a zatim izaberite **pošalji zahtev za prenos**.
