@@ -1,5 +1,5 @@
 ---
-title: Kako da dodate i upravljate programskim koracima koji se preporučuje
+title: Kako se dodaju i upravljaju administratorima koji se preporučuju
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678873"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755849"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Kako da dodate i upravljate programskim koracima koji se preporučuje
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Kako se dodaju i upravljaju administratorima koji se preporučuju
+
+Na osnovu opisa problema, našli smo rešenje za vas. Većina klijenata mogla je samostalno da rešava svoj problem nakon praćenja dokumentacije.
 
 **Uređivanje administratora pretplate ili Koadministratora**
 

@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692311"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755509"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Kako se dodaju administratori i upravljaju njima
+# <a name="how-to-add-and-manage-admins"></a>Kako se dodaju administratori i upravljaju njima
+
+Na osnovu opisa problema, našli smo rešenje za vas. Većina klijenata mogla je samostalno da rešava svoj problem nakon praćenja dokumentacije.
 
 Da biste upravljali nalogom naplate za Microsoft ugovor o klijentu (MCA), možete da koristite druge uloge sa željenim nivoom pristupa. Ove uloge su pored ugrađene uloge usluge Azure koje vam pomažu da kontrolišete resurse.
 
