@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731253"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768831"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Omogućavanje BitLocker šifrovanja pomoću Intune
 
@@ -30,10 +30,12 @@ Informacije o rešavanju problema sa BitLocker problemom potražite [u članku r
  
 **NAJČEŠĆA PITANJA**
 
- Q: koje izdanje sistema Windows podržava šifrovanje uređaja pomoću smernica za zaštitu krajnje tačke?<br>
- A: postavke u smernicama za zaštitu krajnje tačke se sprovode pomoću [BitLocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ne svi izdanci ili verzije operativnog sistema Windows podržavaju BitLocker CSP. <br><br>
-      U ovom trenutku, podržavaju se sledeća izdanja operativnog sistema Windows: Enterprise, edukacija, mobilni, mobilni Enterprise i Professional (izdanje 1809 i novije verzije).
- 
+Q: koje izdanje sistema Windows podržava šifrovanje uređaja pomoću smernica za zaštitu krajnje tačke?<br>
+A: postavke u smernicama za zaštitu krajnje tačke se sprovode pomoću [BitLocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ne svi izdanci ili verzije operativnog sistema Windows podržavaju BitLocker CSP. <br><br>
+
+Q: kako BitLocker može da se omogući na uređajima bez potrebe interakcije sa krajnjim korisnicima?<br>
+A: dok god se ispune neophodni preduslovi, moguće je omogućiti BitLocker "Nečudno šifrovanje" kroz Intune. Pogledajte detalje zahteva za uređajima i primere postavki smernica da biste omogućili tiho šifrovanje u sledećem domeni: [tiho omogućavanje usluge BitLocker šifrovanje](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 P: ako je uređaj već šifrovan pomoću usluge OS BitLocker pomoću podrazumevanih postavki OS za šifrovanje i jačine šifrovanja (XTS-AES-128), primena smernica sa drugim postavkama automatski izaziva ponovno šifrovanje disk jedinice sa novim postavkama?<br>
 O: Ne. Da biste primenili nove postavke šifrovanja, disk jedinica mora prvo da se dešifruje.<br><br>
 **Napomena:** Za uređaje koje se upisuju na Autoautopilot, automatsko šifrovanje koje bi se desilo tokom OOBE ne pokreće se dok se ne proceni politika Intune, što omogućava postavkama zasnovane na smernicama da se koriste umesto podrazumevanih vrednosti OS.
