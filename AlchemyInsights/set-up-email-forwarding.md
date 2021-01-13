@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801090"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847614"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Potvrdite postavke za prosleđivanje e-pošte za poštansko sanduče
 
-Lako je verifikovati postavke prosleđivanja e-pošte u Microsoft 365 poštanskom sandučetu. Samo slijedite ove korake.
+Prvo, Prosleđivanje e-pošte mora da bude omogućen na nivou zakupca. Ako ste podesili Prosleđivanje e-pošte na poštansko sanduče, ali ne funkcioniše, pogledajte odeljak [Kontrola automatskog prosleđivanja e-pošte u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Lako je verifikovati postavke prosleđivanja e-pošte na poštansko sanduče! Samo slijedite ove korake.
   
 > Ako je ovo korisničko poštansko sanduče, idite na stavku **Korisnici** \> **aktivni korisnici** i izaberite korisnika čije poštansko sanduče prosleđujete. Na kartici **Pošta** izaberite stavku **Upravljanje Prosleđivanje e-pošte**.
 
