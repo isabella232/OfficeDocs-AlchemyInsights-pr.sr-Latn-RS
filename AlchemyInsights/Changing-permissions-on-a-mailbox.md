@@ -1,5 +1,5 @@
 ---
-title: Menjanje dozvola za poštansko sanduče
+title: Promena dozvola za poštansko sanduče
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502585"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880180"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Menjanje dozvola za poštansko sanduče
+# <a name="changing-permissions-on-a-mailbox"></a>Promena dozvola za poštansko sanduče
 
-Ako je korisnicima potreban pristup poštanskim sandučićima koji nisu njihovi, potrebno je da im date dozvole za rad sa tim poštanskim sandučićima. Način na koji dodeljujete te dozvole zavisi od tipa poštanskog sandučeta. Ako je korisnicima potreban pristup:
+Ako je korisnicima potreban pristup poštanskim sandučićima, oni moraju da im dozvole da rade sa poštanskim sandučićima. Kako dodeljujete te dozvole, zavisi od tipa poštanskog sandučeta. Ako je korisnicima potreban pristup:
   
-- Poštanske sandučiće drugih korisnika-pogledajte [da dodelite dozvole za poštansko sanduče drugom korisniku](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Poštanski sandučići drugih korisnika – pogledajte članak [dajte dozvole za poštansko sanduče drugom korisniku](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Deljeni poštansko sanduče-pogledajte odeljak [Dodavanje ili uklanjanje članova iz deljenog poštanskog sandučeta](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Deljeno poštansko sanduče – pogledajte članak [Konfigurisanje postavki deljenog poštanskog sandučeta](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Ako dozvole ne rade ispravno nakon što izvršite gorenavedene korake, idite u Exchange admin Center i pokušajte da postavite dozvole odatle (pogledajte članak [Upravljanje dozvolama za primaoce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Ako dozvole ne funkcionišu ispravno kada uradite gorenavedene korake, idite u Exchange centar administracije i pokušajte da tamo postavljate dozvole (pogledajte članak [Upravljanje dozvolama za primaoce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
