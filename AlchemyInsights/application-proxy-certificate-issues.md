@@ -1,9 +1,9 @@
 ---
-title: Problemi sa proxy serverom i certifikatima
+title: Problemi sa proxy server aplikacijom i certifikatom
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/13/2021
+ms.date: 01/15/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 753d1ff2b4b803072bab0edca0331ff65a4a2c0b
-ms.sourcegitcommit: 9dbce0b688224ddd6b50ebe5d9cd1ef58bfec7b9
-ms.translationtype: MT
+ms.openlocfilehash: 743350ef31ee45f339086fb39a05835a71fabafa
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868701"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875138"
 ---
-# <a name="application-proxy-and-certificate-issues"></a>Problemi sa proxy serverom i certifikatima
+# <a name="application-proxy-and-certificate-issues"></a>Problemi sa proxy server aplikacijom i certifikatom
 
-Većina korisnika može da reši probleme sa proxy serverom i certifikatima pomoću dolenavedenih članaka, koji su imena preporučenih dokumenata:
+Da biste rešili probleme sa proxy server aplikacijom i certifikatom, pogledajte dokumente u nastavku:
 
 **Preporučeni dokumenti**
 
 - [Certifikati za prilagođene domene](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
-- [Upravljanje SSL certifikatima u programu A.D. FS i VOP u sistemu Windows Server 2016](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
+- [Upravljanje SSL certifikatima u AD FS i WAP u sistemu Windows Server 2016](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
 
 
