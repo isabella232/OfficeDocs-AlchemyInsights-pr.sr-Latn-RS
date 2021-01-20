@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748258"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911781"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Promena domena za Microsoft 365 grupu
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Promena domena za Microsoft 365 grupu
 
 Ako želite da promenite domen za Microsoft 365 grupu tokom kreiranja, slijedite korake u [okviru odabira domena za korišćenje prilikom kreiranja Microsoft 365 grupa](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
 
-Kada je grupa Microsoft 365 već kreirana, trenutno nema načina da se domen promeni. Jedini način je da kreirate novu Microsoft 365 grupu i izbrišete staru ako je potrebno (dodatne e-adrese mogu se dodati u [Exchange centar administracije](https://outlook.office365.com/ecp).
+Da biste promenili domen postojeće Microsoft 365 grupe, kao administrator možete da se krećete ka Microsoft 365 centru administracije, https://admin.microsoft.com a zatim da obavite sledeće korake:
+
+- Izbor **grupa** iz menija sa leve strane
+- Potražite M365 grupu koju želite da izmenite i odaberete, a zatim kliknite na dugme **Uredi** u okviru **e-adrese** kada se na kartici **Opšte** .
+- Sada možete da promenite domen njene primarne e-adrese i da dodate pseudonima e-pošte.
+
+> [!IMPORTANT]
+> Uobičajene grupe za distribuciju i bezbednosne grupe sa omogućenom poštom će vam omogućiti da upravljate manjim postavkama iz centra za M365 administracije, **grupe** . Ako želite da upravljate više svojih detalja, kliknite na karticu **Postavke** kada uredite jednu od njih u M365 centru administracije i odaberite stavku **Upravljaj još postavki u opciji Exchange centar administracije** .
