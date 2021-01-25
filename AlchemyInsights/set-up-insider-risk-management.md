@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784561"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951839"
 ---
 # <a name="set-up-insider-risk-management"></a>Podešavanje upravljanja "Insider rizika"
 
-Koristite smernice upravljanje insajderskim rizikom za identifikovanje rizičnih aktivnosti i alatki za upravljanje za akciju u obaveštenjima rizika u organizaciji. Pre nego što počnete sa uslugom upravljanja insajderskim rizikom, trebalo bi da potvrdite pretplatu na **Microsoft 365**. Da biste pristupili upravljanju insajderskim rizikom, organizacija **mora**da ima jednu od sledećih pretplata:
+Da biste pristupili upravljanju insajderskim rizikom, organizacija **mora** da ima jednu od sledećih pretplata:
 
 - **Microsoft 365 E5** pretplata.
 
@@ -28,16 +29,10 @@ Koristite smernice upravljanje insajderskim rizikom za identifikovanje rizičnih
 
 Ako nemate postojeći **Microsoft 365 E5** plan, a želite da isprobajte upravljanje insajderskim rizikom, možete da dodate Microsoft 365 u postojeću pretplatu ili da se upišete za probnu verziju usluge Microsoft 365 Enterprise E5.
 
-Osnovni koraci za korišćenje programa upravljanja insajderskim rizikom obuhvataju:
-
-1. Omogućavanje dozvola za menadžment rizika za Insider.
-
-2. Omogućavanje evidencije nadzora.
-
-3. Konfigurisanje preduslova za predložak (opcionalno).
-
-4. Konfigurisanje postavki Insider rizika.
-
-5. Kreiranje smernica za upravljanje rizikom Insider.
+> [! SAVETI]
+- > Korišćenje predloške "Curenje podataka": Uverite se da ste konfigurisali bar jednu smernicu za DLP.
+- > Admin ne vidi obaveštenja: Uverite se da je korisniku dodeljena bilo koja od sledećih grupa:
+    - >**Upravljanje Insajderskim rizikom Analitičari**
+    - >**Upravljanje Insajderskim rizikom Istražitelji**
 
 Više informacija o tome kako politike Insider-a mogu da vam pomognu da upravljate rizikom u organizaciji potražite u članku [Upravljanje insajderskim rizikom u programu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
