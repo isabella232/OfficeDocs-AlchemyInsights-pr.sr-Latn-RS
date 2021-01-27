@@ -1,5 +1,5 @@
 ---
-title: Problemi sa potvrdom
+title: Potvrda identiteta
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,89 +13,89 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 53bd0d8f8edaead519d0282239d3a6d338b297b9
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974793"
+ms.locfileid: "49976863"
 ---
-# <a name="authentication-issues"></a>Problemi sa potvrdom
+# <a name="authentication-issues"></a>Potvrda identiteta
 
-**Tražite informacije o šifri greške AADSTS koje su vraćene iz usluge bezbednosnog koda Azure Active Directory (Azure AD)?** Pogledajte [Azure oglašavanje identiteta i lozinke kodova greške](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) da biste pronašli AADSTS opise grešaka, ispravke i neka predložena rešenja.
+**Tražite informacije o AADSTS kodovima grešaka koji se vraćaju iz usluge sigurnosnih tokena Azure Active Directory (Azure AD) (STS)?** Pogledajte [Azure AD potvrdu identiteta i kodove grešaka](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) za pronalaženje AADSTS opisa grešaka, ispravki i nekih predloženih zaoštravanja.
 
-Greške pri autornosti mogu biti rezultat nekoliko raznih problema, od kojih većina stvara 401 ili 403 grešku. Na primer, sledeći problemi mogu sve da dovedu do grešaka autorizacije:
+Greške u autorizaciji mogu biti rezultat nekoliko različitih problema, od kojih većina generiše grešku 401 ili 403. Na primer, svi sledeći problemi mogu dovesti do grešaka u autorizaciji:
 
-- Nepravilni [Tokovi nabavki za Access](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
-- Slabo konfigurisani [Opsezi dozvola](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
-- Manjak [pristanka](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
+- Neispravno [tokovi prikupljanja tokena za pristup](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
+- Loše konfigurisani[opsezi dozvola](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- Nedostatak [pristanka](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
 
-Da biste rešili uobičajene greške pri autorizaciji, isprobajte korake navedene ispod koje se najviše podudara sa greškama koju primate. Više koraka može se primeniti na grešku koju primate.
+Da biste rešili uobičajene greške pri autorizaciji, isprobajte dolenavedene korake koji se najviše podudaraju sa greškom koju primate. Više koraka se može primeniti za grešku koju primate.
 
-- **401 neovlašćena greška: da li je simbol važeći?**
+**Greška 401 neovlašćeno: Da li je vaš token važeći?**
 
-Uverite se da aplikacija predstavlja važeću Access Token u programu Microsoft Graph kao deo zahteva. Ova greška često znači da je u zaglavlju zahtjeva za pristup HTTP-u zahtev nestao i da je Token nevažeći ili da je istekao. Preporučujemo da koristite aplikaciju Microsoft biblioteke autentifikacije (MSAL) za preuzimanje oznaka Access. Pored toga, do ove greške može doći ako pokušate da koristite delegirani Access Token odobren ličnom Microsoft nalogu da biste pristupili API-ju koji podržava samo radne ili školske naloge (organizacioni nalozi).
+Uverite se da vaša aplikacija predstavlja važeći token za pristup programu Microsoft Graph kao deo zahteva. Ova greška često znači da token za pristup možda nedostaje u zaglavlju zahteva za HTTP potvrdu identiteta ili da je token nevažeći ili je istekao. Preporučujemo vam da koristite Microsoft Authentication Library (MSAL) za prikupljanje pristupnih tokena. Pored toga, do ove greške može doći ako pokušate da koristite token za delegirani pristup dodeljen ličnom Microsoft nalogu za pristup API-ju koji podržava samo radne ili školske naloge (organizacione naloge).
 
-**403 zabranjena greška: da li ste izabrali odgovarajući niz dozvola?**
+**Greška 403 koja se odnosi na zabranu pristupa: Da li ste izabrali pravi skup dozvola?**
 
-Uverite se da ste zahtevali ispravan skupa dozvola na osnovu aplikacija Microsoft Graph API za vaše aplikacije. Preporučene najmanje privilegovane dozvole se pružaju u svim temama za Microsoft Graph API metode. Pored toga, na aplikaciju treba da odobri korisnik ili administrator. Odobravanje dozvola obično se dešava kroz stranicu sa dopuљtenja ili korišćenje oљtrice Azure aplikacije za Azure. Na oštrici **postavki** za aplikaciju izaberite stavku **obavezno dozvole**, a zatim izaberite stavku **Dodeli dozvole**. Za više informacija pogledajte članak:
+Uverite se da ste zatražili ispravan skup dozvola na osnovu API-ja Microsoft Graph koji vaša aplikacija poziva. Preporučene najmanje privilegovane dozvole su date u svim temama referentne metode Microsoft Graph API. Pored toga, te dozvole aplikaciji mora dodeliti korisnik ili administrator. Dodeljivanje dozvola obično se događa putem stranice saglasnosti ili upotrebe oštrice za registraciju aplikacije Azure Portal. U odeljku **Postavke** za aplikaciju kliknite na **Potrebne dozvole**, a zatim kliknite na **Odobri dozvole**. Za više informacija pogledajte članak:
 
 - [Dozvole za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
-- [Razumevanje dozvola i pristanka Azure oglasa](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
+- [Razumevanje dozvola i saglasnosti za Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
 
-**403 zabranjena greška: da li je aplikacija priimala oznaku za podudaranje izabranih dozvola?**
+**Greška 403 koja se odnosi na zabranu pristupa: Da li je vaša aplikacija stekla token koji odgovara odabranim dozvolama?**
 
-Uverite se da su tipovi dozvola zahtevane ili dodeljene odgovaraju tipu oznake za Access koji aplikacija plaća. Možete da zahtevate i dodeljujete aplikacije, ali koristite dijazine akreditiva koda za klijentske uređaje, ali koristeći dijafrate akreditenih interaktivnog koda umesto jezičkog toka sadržaja klijenta.
+Uverite se da se vrste zahtevanih ili odobrenih dozvola podudaraju sa tipom tokena za pristup koji vaša aplikacija stiče. Možda zahtevate i dodeljujete dozvole za aplikacije, ali koristite delegirane interaktivne tokene toka koda umesto tokena protoka akreditiva klijenta ili tražite i dodeljujete delegirane dozvole, ali koristite tokene toka akreditiva klijenta umesto delegiranih tokena toka koda.
 
-Više informacija o pribavljanje tokena potražite u članku:
+Za više informacija u vezi sa pribavljanjem tokena, pogledajte:
 
-- [Nabavite pristup u ime korisnika i delegirane dozvole](https://docs.microsoft.com/graph/auth-v2-user) 
-- [Azure AD v 2.0-OAuth 2,0 protok koda autorizacije](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Pristup pristupu bez korisnika (Daemon usluge) i dozvola za aplikacije](https://docs.microsoft.com/graph/auth-v2-service) 
-- [Azure AD v 2.0 – OAuth 2,0. akreditivi protoka klijenata](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+- [Pristupite u ime korisnika i delegiranih dozvola](https://docs.microsoft.com/graph/auth-v2-user) 
+- [Azure AD v2.0 – OAuth 2.0 tok koda autorizacije](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Pristupite bez korisnika (usluga demona) i dozvola aplikacije](https://docs.microsoft.com/graph/auth-v2-service) 
+- [Azure AD v2.0 – OAuth 2.0 tok akreditiva klijenta](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
-**403 zabranjena greška: poništavanje lozinke**
+**Greška 403 koja se odnosi na zabranu pristupa: Resetovanje lozinke**
 
-Trenutno ne postoje dozvole za uslugu "demoni usluge za usluge" koje omogućava poništavanje korisničkih lozinki. Ovi API-ji su podržani samo pomoću interaktivne tokove delegiranog koda sa prijavljenim administratorom. Više informacija potražite u članku [dozvole za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference).
+Trenutno ne postoji dozvola za aplikaciju za daemon dozvole usluge za uslugu koje omogućavaju uspostavljanje početnih vrednosti korisničkih lozinki. Ovi API-ji su podržani samo pomoću interaktivnih tokova delegiranog koda sa prijavljenim administratorom. Za više informacija pogledajte članak[ Microsoft Graph dozvole](https://docs.microsoft.com/graph/permissions-reference).
 
-**403 je zabranjen: da li korisnik ima pristup i da li su licencirani?**
+**Greška 403 koja se odnosi na zabranu pristupa: Da li korisnik ima pristup i da li ima licencu?**
 
-Za delegirani tok koda, Microsoft Graph procenjuje da li je zahtev odobren na osnovu dozvola odobrenih aplikaciji i dozvolama koje ima prijavljeni korisnik. Ova greška obično ukazuje na to da korisnik nije dovoljno privilegovan da izvrši zahtev **ili** korisnik nije licenciran za pristup podacima. Zahtev može uspešno da sprovede samo korisnici sa potrebnim dozvolama ili licencama.
+Za tokove delegiranih kodova, Microsoft Graph procenjuje da li je zahtev dozvoljen na osnovu dozvola dodeljenih aplikaciji i dozvola koje ima prijavljeni korisnik. Generalno, ova greška ukazuje na to da korisnik nije dovoljno privilegovan da izvrši zahtev **ili** da nema licencu za podatke kojima se pristupa. Samo korisnici sa potrebnim dozvolama ili licencama mogu uspešno da podnesu zahtev.
 
-**403 je zabranjen: da li ste izabrali ispravan API resursa?**
+**Greška 403 koja se odnosi na zabranu pristupa: Da li ste izabrali tačan API resursa?**
 
-Usluge API-ja kao što je Microsoft Graph uverite se da je *AUD* tvrdnja (publika) u primljenoj Access Token podudara se sa vrednošću koju ona očekuje za sebe i ako to ne uradi, javlja se greška u 403. Uobičajena greška koja dovodi do ove greške je korišćenje simbola koji se dobija za Azure AD Graph API, Outlook API-ju ili SharePoint/OneDrive API za poziv Microsoft Graph (ili obrnuto). Uverite se da je resurs (ili opseg) za aplikaciju pribavljanje simbola za podudaranje sa API koje aplikacija poziva.
+API usluge kao što je Microsoft Graph proveravaju da *aud* zahteva (publika) u primljenom tokenu za pristup odgovara vrednosti koju očekuje za sebe, a ako ne, pojavljuje se greška "Zabranjeno" 403. Uobičajena greška koja dovodi do ove greške je pokušaj korišćenja tokena stečenog za API-je Azure AD Graph, Outlook API ili SharePoint / OneDrive API za pozivanje Microsoft Graph-a (ili obrnuto). Uverite se da resurs (ili opseg) vaše aplikacije dobija token za podudaranje sa API-jem koji aplikacija poziva.
 
-**400 neispravan zahtev ili 403 je zabranjen: da li se korisnik slaže sa smernicama za uslovno pristup svoje organizacije?**
+**400 Loš zahtev ili 403 zabranjeno: Da li je korisnik usaglašen sa smernicama za uslovni pristup organizacije (CA)?**
 
-Na osnovu smernica za uslovni pristup (CA) organizacije, korisnik koji pristupa Microsoft Graph resursima pomoću aplikacije može da bude izazvan za dodatne informacije koje nisu prisutne u Token Access koji ste prvobitno nabavili. U ovom slučaju, aplikacija prima **400 sa *interaction_required*** greškama tokom kupovine Access oznake ili **403 pomoću *insufficient_claims*** greške prilikom poziva Microsoft Graph. U oba slučaja, odgovor na grešku sadrži dodatne informacije koje mogu biti predstavljene na pristupačnoj krajnjoj tački da bi se korisnik osporio za dodatne informacije (kao što je potvrda identiteta ili prijavljivanje uređaja).
+Na osnovu smernica uslovnog pristupa (CA) organizacije, korisnik koji pristupa resursima Microsoft Graph preko vaše aplikacije može biti osporavan zbog dodatnih informacija koje nisu prisutne u tokenu za pristup koji je vaša aplikacija prvobitno stekla. U ovom slučaju, vaša aplikacija prima **400 sa greškom *interaction_required*** tokom akvizicije pristupnog tokena ili **403 sa greškom *insufficient_claims*** prilikom pozivanja alatke Microsoft Graph. U oba slučaja odgovor na grešku sadrži dodatne informacije koje se mogu predstaviti ovlašćenoj krajnjoj tački da bi se korisnik pozvao na dodatne informacije (poput višefaktorske potvrde identiteta ili registracije uređaja).
 
-Dodatne informacije o uslovnom pristupu potražite u članku:
+Za više informacija u vezi sa uslovnim pristupom pogledajte članak:
 
-- [Rukovanje uslovnim pristupom pomoću MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
-- [Vodič za projektovanje za uslovno aktivan pristup za Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
+- [Rešavanje izazova uslovnog pristupa pomoću MSAL-a](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
+- [Smernice za programere za uslovni pristup Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Kraj podrške za Azure Active Directory potvrda identiteta biblioteke (ADALE) i AZURE AD Graph Graf (AAD Graph)_* _
+**_Kraj podrške za Azure Active Directory biblioteku potvrde identiteta (ADAL) i Azure AD Graph API (AAD Graph)_* _
 
-- Počevši od 30 juna, 2020, više nećemo dodavati nijednu novu funkciju u biblioteku Azure aktivnog direktorijuma (ADALA) i API Azure AD Graph (AAD Graph). Nastavićemo da pružamo tehničku podršku i bezbednosne ispravke, ali više nećemo pružati ispravke funkcija.
-- Počevši od 30 juna, 2022, okončavamo podršku za ADALA i AAD Graf i više neće pružiti tehničku podršku ili bezbednosne ispravke.
-    - Aplikacije koje koriste ADAL na postojećim verzijama OS nastaviće da funkcionišu posle ovog vremena, ali neće dobiti tehničku podršku ili bezbednosne ispravke.
-    - Aplikacije koje koriste AAD Graph posle ovog vremena možda više neće primati odgovore od krajnje tačke AAD Graph.
+- Od 30. juna 2020. više nećemo dodavati nove funkcije u Azure Active Directory Authentication Library (ADAL) i Azure AD Graph API (AAD Graph). Nastavićemo da pružamo tehničku podršku i bezbednosne ispravke, ali više nećemo pružati ispravke funkcija.
+- Od 30. juna 2022. prestaćemo sa podrškom za ADAL i AAD Graph i više nećemo pružati tehničku podršku ili bezbednosne ispravke.
+    - Aplikacije koje koriste ADAL na postojećim verzijama OS nastaviće da rade i nakon ovog vremena, ali neće dobiti nikakvu tehničku podršku ili bezbednosne ispravke.
+    - Aplikacije koje koriste AAD Graph nakon ovog vremena možda više neće primati odgovore od krajnje tačke AAD Graph.
 
-/*Adala migracija**
+_ *ADAL migracija**
 
-Preporučujemo da ažurirate u [Microsoft biblioteci autentifikacije (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), koja ima najnovije funkcije i bezbednosne ispravke. Ova preporuka se nalazi u kontekstu Microsoft migriranja svojih aplikacija u MSAL po krajnjim rokovima. Cilj aplikacije "migracija Microsoft aplikacija u MSAL" jeste da biste se uverili da aplikacije imaju korist od tekuće bezbednosti i poboljšanja funkcija.
+Preporučujemo ažuriranje na [Microsoft Authentication Library (MSAL) ](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)koja ima najnovije funkcije i bezbednosne ispravke. Ova preporuka je u kontekstu Microsoft migracije svojih aplikacija na MSAL do krajnjeg roka za podršku. Cilj migracije Microsoft aplikacija na MSAL je da obezbedi da aplikacije imaju koristi od stalnih poboljšanja MSAL i zaštite.
 
-- [Pročitajte ADNO najčešća pitanja](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- [Saznajte kako da migrirate aplikacije na osnovu osnove po platformi](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- Ako vam je potrebna pomoć da biste razumeli koje aplikacije koriste ADALE, preporučujemo da pregledate sve izvorne kodove za aplikacije i ako je to primenljivo, da pristupite bilo kom nezavisnom dobavljaču proizvoda (ISVs) ili dobavljačima aplikacija. Microsoft podrška vam takođe može pružiti listu svih aplikacija koje ne podržavaju Microsoft u vašem zakupcu.
+- [Pročitajte najčešća pitanja za ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- [Saznajte više o tome kako da migrirate aplikacije na osnovu platforme](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- Ako vam je potrebna pomoć u razumevanju koja od vaših aplikacija koristi ADAL, preporučujemo vam da pregledate izvorni kod svih aplikacija i ako je primenljivo obratite se nezavisnim dobavljačima softvera (ISV) ili dobavljačima aplikacija. Microsoft podrška vam takođe može pružiti listu svih aplikacija koje nisu Microsoft ADAL u vašem zakupcu.
 
 **AAD Graph migracija**
 
-Za aplikacije koje koriste AAD Graph potražite uputstvo za [migraciju Azure AD Graph grafika u Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
+Za aplikacije koje koriste AAD Graph, sledite naša uputstva za [migriranje aplikacija Azure AD Graph na Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
 
-- [Naša kontrolna lista za migraciju pruža taиku na početku](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-- Vaš Azure registracioni portal pokazuje koje aplikacije koriste AAD Graph. Preporučujemo da pregledate sve izvorne kodove za aplikacije i ako je to primenljivo, da pristupite bilo kom dobavljaču ili dobavljačima aplikacija. Microsoft podrška vam pruža i informacije o korišćenju AAD Graph grafikona u vašem zakupcu.
+- [Naša lista za migraciju pruža tačku za početak](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+- Vaš portal za registraciju aplikacija Azure prikazuje koje aplikacije koriste AAD Graph. Preporučujemo vam da pregledate sav izvorni kod aplikacija i, ako je primenljivo, kontaktirate bilo koje ISV-ove ili dobavljače aplikacija. Microsoft podrška takođe može da vam pruži informacije o celokupnoj upotrebi AAD Graph kod vašeg zakupca.
 
  
 
