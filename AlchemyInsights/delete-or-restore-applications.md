@@ -1,0 +1,34 @@
+---
+title: Brisanje ili vraćanje aplikacija
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004335"
+- "7737"
+ms.openlocfilehash: 4df9a98644f6bc7a30f9009719c5198db591afc9
+ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.translationtype: MT
+ms.contentlocale: sr-Latn-RS
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50015017"
+---
+# <a name="delete-or-restore-applications"></a><span data-ttu-id="e2ce9-102">Brisanje ili vraćanje aplikacija</span><span class="sxs-lookup"><span data-stu-id="e2ce9-102">Delete or restore applications</span></span>
+
+<span data-ttu-id="e2ce9-103">**Da biste izbrisali aplikaciju iz Azure oglasa**:</span><span class="sxs-lookup"><span data-stu-id="e2ce9-103">**To delete an application from your Azure AD tenant**:</span></span>
+
+1. <span data-ttu-id="e2ce9-104">Na **Azure AD portalu** izaberite stavku **Enterprise aplikacije**.</span><span class="sxs-lookup"><span data-stu-id="e2ce9-104">In the **Azure AD portal**, select **Enterprise applications**.</span></span> <span data-ttu-id="e2ce9-105">Zatim pronađite i izaberite aplikaciju koju želite da izbrišete.</span><span class="sxs-lookup"><span data-stu-id="e2ce9-105">Then find and select the application you want to delete.</span></span>
+2. <span data-ttu-id="e2ce9-106">U odeljku **Upravljanje** u levom oknu izaberite stavku **Svojstva**.</span><span class="sxs-lookup"><span data-stu-id="e2ce9-106">In the **Manage** section in the left pane, select **Properties**.</span></span>
+3. <span data-ttu-id="e2ce9-107">Izaberite stavku **Izbriši**, a zatim kliknite na dugme **da** da biste potvrdili da želite da izbrišete aplikaciju iz Azure a.d..</span><span class="sxs-lookup"><span data-stu-id="e2ce9-107">Select **Delete**, and then select **Yes** to confirm you want to delete the app from your Azure AD tenant.</span></span>
+
+<span data-ttu-id="e2ce9-108">Više informacija o tome kako da izbrišete aplikaciju potražite u članku [brzi Start: brisanje aplikacije iz Azure Active Directory (AZURE AD) stanara](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).</span><span class="sxs-lookup"><span data-stu-id="e2ce9-108">For more information on how to delete an app, see [Quickstart: Delete an application from your Azure Active Directory (Azure AD) tenant](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).</span></span>
+
+<span data-ttu-id="e2ce9-109">U [programskom dodatku Power-Azureadappličapplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) cmdlet uklanja konfiguracije proxy servera iz određene aplikacije u usluzi Azure Active Directory i može da izbriše aplikaciju u potpunosti ako je navedena.</span><span class="sxs-lookup"><span data-stu-id="e2ce9-109">In PowerShell, the [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) cmdlet removes Application Proxy configurations from a specific application in Azure Active Directory, and can delete the application completely if specified.</span></span>
+
+<span data-ttu-id="e2ce9-110">**Izbrisanu aplikaciju** možete da vratite pomoću programa PowerShell.</span><span class="sxs-lookup"><span data-stu-id="e2ce9-110">You can **restore a deleted application** using PowerShell.</span></span> <span data-ttu-id="e2ce9-111">Kada se identifikuje aplikacija koju želite da vratite u prethodno stanje, možete da je vratite u prethodno stanje pomoću usluge [Restore-Azureaddeldapplic.](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication)</span><span class="sxs-lookup"><span data-stu-id="e2ce9-111">Once the application you want to restore has been identified, you can restore it using [Restore-AzureADDeletedApplication](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).</span></span>
