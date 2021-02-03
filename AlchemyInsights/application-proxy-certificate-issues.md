@@ -1,5 +1,5 @@
 ---
-title: Problemi sa proxy server aplikacijom i certifikatom
+title: Problemi sa proxy serverom i certifikatom aplikacije
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -20,9 +20,9 @@ ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 01/15/2021
 ms.locfileid: "49875138"
 ---
-# <a name="application-proxy-and-certificate-issues"></a>Problemi sa proxy server aplikacijom i certifikatom
+# <a name="application-proxy-and-certificate-issues"></a>Problemi sa proxy serverom i certifikatom aplikacije
 
-Da biste rešili probleme sa proxy server aplikacijom i certifikatom, pogledajte dokumente u nastavku:
+Da biste rešili probleme sa proxy serverom i certifikatom aplikacije, pogledajte dokumente u nastavku:
 
 **Preporučeni dokumenti**
 
