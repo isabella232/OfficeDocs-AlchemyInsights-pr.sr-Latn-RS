@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560454"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093369"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Omogućavanje pisanja lozinke u Azure AD Connect
 
@@ -43,4 +43,4 @@ Uz omogućeno pisanje lozinke u Azure AD Connect, konfigurišite Azure AD SSPR z
 Više informacija potražite u članku [Omogući Azure Active Directory samouslužno poništavanje vraćanja u lokalno okruženje](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Kada administrator poništi korisničku lozinku na Azure portalu, ako je taj korisnik ujedinjen ili je sinhronizovan heš lozinke, lozinka se ponovo piše lokalno. Ova funkcionalnost trenutno nije podržana na Office portalu za administraciju.
+>  Kada administrator poništi korisničku lozinku na Azure portalu, ako je taj korisnik ujedinjen ili je sinhronizovan heš lozinke, lozinka se ponovo piše lokalno. Ova funkcionalnost zahteva licencu za Azure Premium (P1 ili P2) i trenutno nije podržana u Office portalu za administraciju.
