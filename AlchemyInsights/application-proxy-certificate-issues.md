@@ -1,5 +1,5 @@
 ---
-title: Problemi sa proxy server aplikacijom i certifikatom
+title: Problemi sa proxy serverom i certifikatom aplikacije
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -20,13 +20,13 @@ ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 01/15/2021
 ms.locfileid: "49875138"
 ---
-# <a name="application-proxy-and-certificate-issues"></a><span data-ttu-id="3e148-102">Problemi sa proxy server aplikacijom i certifikatom</span><span class="sxs-lookup"><span data-stu-id="3e148-102">Application proxy and certificate issues</span></span>
+# <a name="application-proxy-and-certificate-issues"></a><span data-ttu-id="b9627-102">Problemi sa proxy serverom i certifikatom aplikacije</span><span class="sxs-lookup"><span data-stu-id="b9627-102">Application proxy and certificate issues</span></span>
 
-<span data-ttu-id="3e148-103">Da biste rešili probleme sa proxy server aplikacijom i certifikatom, pogledajte dokumente u nastavku:</span><span class="sxs-lookup"><span data-stu-id="3e148-103">To resolve application proxy and certificate issues, see the below documents:</span></span>
+<span data-ttu-id="b9627-103">Da biste rešili probleme sa proxy serverom i certifikatom aplikacije, pogledajte dokumente u nastavku:</span><span class="sxs-lookup"><span data-stu-id="b9627-103">To resolve application proxy and certificate issues, see the below documents:</span></span>
 
-<span data-ttu-id="3e148-104">**Preporučeni dokumenti**</span><span class="sxs-lookup"><span data-stu-id="3e148-104">**Recommended documents**</span></span>
+<span data-ttu-id="b9627-104">**Preporučeni dokumenti**</span><span class="sxs-lookup"><span data-stu-id="b9627-104">**Recommended documents**</span></span>
 
-- [<span data-ttu-id="3e148-105">Certifikati za prilagođene domene</span><span class="sxs-lookup"><span data-stu-id="3e148-105">Certificates for custom domains</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
-- [<span data-ttu-id="3e148-106">Upravljanje SSL certifikatima u AD FS i WAP u sistemu Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="3e148-106">Managing SSL Certificates in AD FS and WAP in Windows Server 2016</span></span>](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
+- [<span data-ttu-id="b9627-105">Certifikati za prilagođene domene</span><span class="sxs-lookup"><span data-stu-id="b9627-105">Certificates for custom domains</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain#certificates-for-custom-domains)
+- [<span data-ttu-id="b9627-106">Upravljanje SSL certifikatima u AD FS i WAP u sistemu Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="b9627-106">Managing SSL Certificates in AD FS and WAP in Windows Server 2016</span></span>](https://docs.microsoft.com/windows-server/identity/ad-fs/operations/manage-ssl-certificates-ad-fs-wap)
 
 
