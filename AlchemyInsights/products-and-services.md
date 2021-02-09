@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307032"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152504"
 ---
 # <a name="your-products"></a>Vaši proizvodi
 
@@ -32,4 +32,4 @@ Možete da pronađete pretplate koje je u vlasništvu organizacije na stranici "
 5. [Promena učestalosti plaćanja](change-how-often-you-pay.md).
 6. [Otkazivanje pretplate](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Možete da kupite dodatne pretplate sa stranice **Billing**"  >  [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate".
+Možete da kupite dodatne pretplate sa stranice "  >  [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate".
