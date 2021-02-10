@@ -1,30 +1,29 @@
 ---
 title: Promena načina plaćanja
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933397"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152608"
 ---
 # <a name="change-payment-method-fromto"></a>Promena načina plaćanja iz/u
 
 1. **Promena sa fakture na kreditnu karticu ili račun u banci**
 
-    - Kada pređete sa plaćanja po fakturi na plaćanje sa kreditnom karticom ili računom u banci, automatski ćemo kreirati novu pretplatu za vas, premestićemo vaše korisnike na novu pretplatu, a zatim ćemo onemogućiti staru pretplatu. Ne brinite, vaši korisnici neće osetiti prekid usluge i sve njihove informacije će biti dostupne u novoj pretplati. 
-
-    - Pratite korake dokumentovane u [Promena sa fakture na kreditnu karticu ili račun u banci](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Ne možete da automatski promenite plaćanje fakturom u plaćanje drugim načinom plaćanja. Umesto toga morate da [kupite drugu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) plaćenu kreditnom ili debitnom karticom ili putem bankovnog računa, [premestite sve korisnike na novu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) a zatim da [otkažete staru pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Promena sa kreditne kartice ili računa u banci na fakturu**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933397"
 
     - Ako je količina porudžbine prevelika, možda će biti potrebna provera kredita. Ako je tako, videćete poruku „Nije dozvoljeno da se promeni u fakturu“. Vaša porudžbina zahteva proveru kredita. " U ovom slučaju, menjate da plaćate po fakturi ručno.
 
-    - Pratite korake dokumentovane u [promena sa kreditne kartice ili računa u banci na fakturu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) da dovršite ručnu promenu.
+    - Pratite korake iz članka [Kako da promenim plaćanje kreditnom karticom u plaćanje fakturom?](how-do-i-change-from-credit-card-payments-to-invoice.md) da biste dovršili ručnu promenu.
 
-Više informacija potražite u članku [promenite način plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Za više informacija pogledajte članak [Kako da platite pretplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
