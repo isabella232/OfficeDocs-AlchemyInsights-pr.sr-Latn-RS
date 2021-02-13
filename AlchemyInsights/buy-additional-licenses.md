@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307212"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232309"
 ---
 # <a name="buy-additional-licenses"></a>Kupovina dodatnih licenci
 
-1. U centru administracije idite na stranicu " **Billing**  >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** pronađite pretplatu za koju želite da kupite ili uklonite licence. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **kupi licence**.
-3. Ako želite da smanjite broj licenci, na vrhu okna " **kupovina licenci** ", izaberite stavku **Ukloni licence**.
-4. Da biste kupili ili uklonili licence, u okviru **Nova količina** u polju **Ukupna licence** Unesite ukupan broj licenci za ovu pretplatu. Na primer, ako imate 100 licence i želite da dodate još 25, unesite 125. Ako želite da uklonite 25 licenci, unesite 75.
-5. Izaberite stavku **Sačuvaj**.
+**Pogledajte video** koji prikazuje kako se to radi: [kupovina licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-Da biste saznali više, pogledajte članak [kupovina licenci za Microsoft 365 za preduzeća](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+1. U centru administracije idite na stranicu "   >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+2. Na kartici **proizvodi** pronađite pretplatu za koju želite da kupite licence. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **kupi licence**.
+3. U okviru **Nova količina** u polju **Ukupna licence** Unesite ukupan broj licenci koje želite za ovu pretplatu. Na primer, ako imate 100 licence i želite da dodate još 25, unesite 125.
+4. Izaberite stavku **Sačuvaj**.
+
+Da biste saznali više, pogledajte članak [kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Dodatni resursi**
 
