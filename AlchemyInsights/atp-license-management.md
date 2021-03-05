@@ -1,5 +1,5 @@
 ---
-title: Upravljanje licencom za zaštitu pomoću napredne zaštite
+title: Upravljanje licencama za Microsoft Defender za Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287116"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469027"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Upravljanje licencom za zaštitu pomoću napredne zaštite
+# <a name="microsoft-defender-for-office-365-license-management"></a>Upravljanje licencama za Microsoft Defender za Office 365
 
-Office 365 avansna zaštita pretnje (ATP) može se dovršiti u  **Microsoft 365 centru administracije**.
+Upravljanje licencom za Microsoft Defender za Office 365 može se dovršiti u  **Microsoft 365 centru administracije**.
 
-- Da biste kupili Office 365 avansnu zaštitu pretnje:
-    1. Idite na **Billing**  >  [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433)naplate.
+- Da biste kupili Microsoft Defender za Office 365:
+    1. Idite na   >  [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433)naplate.
     2. Na dnu stranice izaberite stavku **dodaci**.
-    3. Na stranici **usluge kupovine** izaberite željeni plan zaštite pretnje pretnjama koji želite da kupite, unesite broj korisnika kojima je potrebna licenca, a zatim izaberite stavku **Odjavi se odmah**. Više informacija potražite u članku [kupovina dodatka](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Da biste dodelili Office 365 avansni licence za zaštitu pretnji **Billing**, idite na  >  **licence**naplate. Više informacija potražite u članku [dodeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Da biste dodali ili uklonili licence iz usluge Office 365 avansnu zaštitu pretnji, **Billing**idite na stavku  >  **naplata proizvoda**. Izaberite pretplatu koju želite da ažurirate, a zatim izaberite stavku **kupi licence** ili ***Ukloni licence**. Više informacija potražite u članku [kupovina ili uklanjanje licenci pretplate](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+    3. Na stranici **usluge kupovine** izaberite stavku Microsoft Defender za Office 365 plan koji želite da kupite, unesite broj korisnika kojima je potrebna licenca, a zatim izaberite stavku **Odjavi se odmah**. Više informacija potražite u članku [kupovina dodatka](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Da biste dodelili Microsoft Defender za Office 365 licence, idite na stavke  >  **licence** naplate. Više informacija potražite u članku [dodeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Da biste dodali ili uklonili licence iz programa Microsoft zaštitnik za Office 365, idite na stavku  >  **naplata proizvoda**. Izaberite pretplatu koju želite da ažurirate, a zatim izaberite stavku **kupi licence** ili **Ukloni licence**. Više informacija potražite u članku [kupovina ili uklanjanje licenci pretplate](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
