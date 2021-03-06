@@ -1,33 +1,35 @@
 ---
-title: Microsoft 365 a3 najčešća pitanja
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Najčešća pitanja o usluzi Microsoft 365 A3
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002871"
 - "5417"
-ms.openlocfilehash: 30dca17df71b2237a1ed1546a4cc2f9cbd3b5f20
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+- commerce
+ms.openlocfilehash: 57e897ffc00393df5997bfda526c7c4e2284c3da
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510370"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469974"
 ---
-# <a name="microsoft-365-a3-faq"></a>Microsoft 365 a3 najčešća pitanja
+# <a name="microsoft-365-a3-faq"></a>Najčešća pitanja o usluzi Microsoft 365 A3
 
-- Da biste uporedili Microsoft 365 Education planove A1, A3, A5, pogledajte planove [Za studente](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) i [Za nastavnika, akademske radnike i osoblje](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
-- Da biste **kupili** a3, idite na **usluge naplate > [nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Koristite polje za pretragu da biste pretražili "a3"; Izaberite plan i broj korisnika. Više informacija potražite u članku [„Kupovina pretplate“](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
-- Da biste **promenili planove**, pogledajte članak [„Ručno menjanje planova za Microsoft 365 za preduzeća“](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Da biste **dodelili** korisnike a3 licenci, idite na **> [licence](https://go.microsoft.com/fwlink/p/?linkid=842264)za naplatu**. Više informacija potražite u članku [„Dodeljivanje licenci“](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Da biste **dodali/uklonili** a3 licence, idite na stavku " **naplata > [proizvodi & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) ** " i kliknite na dugme " **Dodaj/ukloni licence**". Više informacija potražite u članku [„Dodavanje/uklanjanje licenci“](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Da biste **stornirali** a3 licence, posetite **> [& usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)naplate**, kliknite na dugme **Postavke & radnje**, a zatim izaberite stavku **Otkaži pretplatu**. Dodatne informacije potražite u članku [„Otkazivanje pretplate“](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- Da biste **aktivirali** a3 pretplatu, pogledajte odeljak [aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Da biste **ponovo aktivirali** a3 pretplatu, pogledajte odeljak [ponovno aktiviranje pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Da biste produžili a3 probnu verziju, pogledajte odeljak [Proširivanje probnog procesa](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Da biste uporedili Microsoft 365 Education planove A1, A3, A5, pogledajte planove [Za studente](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) i [Za nastavnike, akademske radnike i osoblje](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
+- Da biste **kupili** A3, idite na stavke **Naplata > [Kupovina usluga](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Koristite polje za pretragu da biste pretražili „A3“ i izaberite plan i broj korisnika. [Kupite drugu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Da biste **promenili planove**, pogledajte članak [Nadogradnja na drugi plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Da biste **dodelili** A3 licence korisnicima, idite na stavke **Naplata >[Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Više informacija potražite u članku [Dodeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Da biste **kupili ili uklonili** A3 licence, idite na stavke **Naplata > [Vaši proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Više informacija potražite u članku [Kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Da biste **otkazali** A3 pretplatu, idite na stavke **Naplata > [Vaši proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)**, izaberite pretplatu i u odeljku **Postavke pretplate i plaćanja** izaberite stavku **Otkaži pretplatu**. Više informacija potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Da biste **aktivirali** A3 pretplatu, pogledajte članak [Aktiviranje pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
+- Da biste **ponovo aktivirali** A3 pretplatu, pogledajte članak [Ponovno aktiviranje pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Da biste **produžili** A3 probnu verziju, pogledajte članak [Produžavanje probne verzije](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Više informacija potražite u članku [Upravljanje licencama pretplate](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Više informacija potražite u članku [Kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
