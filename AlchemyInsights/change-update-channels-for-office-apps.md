@@ -24,7 +24,7 @@ ms.locfileid: "50448621"
 
 Ako upravljate kanalima ažuriranja Microsoft 365 aplikacija pomoću administratorskog portala, koristite **Opcije za instalaciju sistema Office** da biste izabrali željeni kanal ažuriranja pre nego što instalirate Office aplikacije. Za više informacija pročitajte članak [Upravljanje opcijama instalacije sistema Office u Microsoft 365 centru administracije](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).
 
-**Napomena** Kanal ažuriranja izabran pomoću opcije **Opcije za instalaciju sistema Office** primenjuje se na sve korisnike koji obavljaju nove instalacije (a u nekim slučajevima i na postojeće instalacije). Ako koristite smernice grupe (GPO) ili Microsoft Endpoint Configuration Manager (MECM) za upravljanje time kako vaši korisnici preuzimaju funkcionalne ispravke, onda se opcije koje izaberete u Microsoft 365 centru administracije neće primenjivati.
+**Napomena** Kanal ažuriranja izabran preko stranice **Opcije za instalaciju sistema Office** primenjuje se na sve korisnike koji obavljaju nove instalacije (a u nekim slučajevima i na postojeće instalacije). Ako koristite smernice grupe (GPO) ili Microsoft Endpoint Configuration Manager (MECM) za upravljanje time kako vaši korisnici preuzimaju ažuriranja funkcija, onda se opcije koje izaberete u Microsoft 365 centru administracije neće primenjivati.
 
 Ako upravljate kanalima ažuriranja Microsoft 365 aplikacija pomoću drugih opcija za upravljanje navedenih u prethodnom tekstu, pogledajte članak [Kako prebaciti kanale ažuriranja za postojeće Office aplikacije](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel).
 
