@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-- commerce
-ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0b6dea84c1342ef17f23180d3b917b052158cf46
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469604"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601838"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Dodeljivanje Microsoft zaštitnik za Office 365 licence
 
@@ -31,4 +30,4 @@ Microsoft Defender za Office 365 može da se dodeli korisnicima u Microsoft 365 
 5. Izaberite stavku **Uključi ili isključi aplikacije i usluge**  da biste ga dodelili ili uklonili.
 6. Kliknite na dugme **Dodeli** i  **Zatvori**.
 
-Da biste kupili više ili uklonili licence, pogledajte članak [kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Da biste kupili dodatne licence ili uklonili neke, pogledajte članak [Kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
