@@ -14,12 +14,12 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 8f8d318c6c1f07342241bf71aab8fd8148e3a9d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 5a1c95907a7e9a3287fa9be467d4eb45602c7abe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086134"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708832"
 ---
 # <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Preporučena rešenja za dinamika za 365
 
@@ -39,6 +39,6 @@ ms.locfileid: "49086134"
 
 * [Aplikacija: rešavanje problema sa aplikacijom D365 za Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [Aplikacija: kako se primenjuje](https://go.microsoft.com/fwlink/p/?linkid=85)
+* [Aplikacija: kako se primenjuje](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 
 * [Aplikacija: Vodič za korisnike](https://go.microsoft.com/fwlink/p/?linkid=857091)

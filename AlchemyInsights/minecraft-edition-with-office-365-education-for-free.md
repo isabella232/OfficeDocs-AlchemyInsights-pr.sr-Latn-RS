@@ -13,12 +13,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 385e50304405268da638a7422c215a95f3f11e3b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674124"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709444"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft izdanje sa Office 365 Edukacionim slobodnim
 
@@ -30,7 +30,7 @@ ms.locfileid: "47674124"
 
   - Ako vaša škola nema Azure OGLAŠATICE, [IT administrator može da je podesi](https://docs.microsoft.com/education/windows/school-get-minecraft) kao deo procesa dobijanja **Minecraft: edukacija**.
 
-  - Office 365 obrazovanje, koje uključuje verzije Microsoft 365 aplikacija plus 1 TB na mreži je besplatno za nastavnike i studente. [Upisivanje škole za Office 365 obrazovanje](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 obrazovanje, koje uključuje verzije Microsoft 365 aplikacija plus 1 TB na mreži je besplatno za nastavnike i studente. [Upisivanje škole za Office 365 obrazovanje](https://www.microsoft.com/education/products/office).
 
   - Ako školska škola ima pretplatu na Office 365, ona sadrži besplatnu Azure reklamu pretplatu. [Registrujte besplatnu pretplatu na Azure oglas](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 

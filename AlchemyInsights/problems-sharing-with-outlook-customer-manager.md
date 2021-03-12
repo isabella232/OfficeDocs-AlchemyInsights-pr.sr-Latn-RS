@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728265"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709264"
 ---
 # <a name="problems-sharing-with-outlook-customer-manager"></a>Deljenje problema sa Outlook menadžerom klijenata
 
 Ako imate problema sa deljenjem sa Outlook menadžerom klijenata, preporučujemo da prvo opozovete izbor keš pregledača. Na primer u programu Internet Explorer vi biste:
 
-1. Izaberite stavke **Postavke**  >  **Opšte** > u okviru **Browsing history**  >  **kešite istorije i baze podataka**.
+1. Izaberite stavke **Postavke**  >  **Opšte** > u okviru   >  **kešite istorije i baze podataka**.
 2. Brisanje datoteka keširanja za Veb lokaciju "outlookapps.com".
 3. Ponovo pokrenite Outlook.
 
-Više informacija o deljenju potražite u članku [Deljenje informacija u Outlook menadžeru klijenata](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Više informacija o deljenju potražite u članku [Deljenje informacija u Outlook menadžeru klijenata](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
