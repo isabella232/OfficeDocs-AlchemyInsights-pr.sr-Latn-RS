@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7763"
-ms.openlocfilehash: 22b122fd6db1e77d334c41b05f4e6198878d705a
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: e2219c0a68a1f5ab560778410c8f86a3a87bc613
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014985"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708328"
 ---
 # <a name="manage-application-access"></a>Upravljanje pristupom aplikaciji
 
@@ -26,7 +26,7 @@ ms.locfileid: "50014985"
     - Da biste direktno dodelili korisnike aplikaciji, pogledajte [Start Start: dodelite korisnike aplikaciji](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).
 1. Da biste upravljali pristupom kroz dozvole i saglasnost, pogledajte članak
     - [Konfigurišite kako krajnji korisnici odobravate aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal). 
-    - [Konfigurisanje toka posla "administrator administracije" (pregled)](https://docs.microsoft.com/zure/active-directory/manage-apps/configure-admin-consent-workflow). 
+    - [Konfigurisanje toka posla "administrator administracije" (pregled)](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow). 
     - Da biste saznali kako da pojednostavite iskustvo korisnika dodeljanjem administracije za administraciju na celoj aplikaciji, pogledajte [članak odobravanje administracije za dodelu zakupca za aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent). 
 1. Da biste upravljali aplikacijama putem ograničenja stanara, pogledajte članak [Korišćenje ograničenja stanara za upravljanje aplikacijama u oblaku u oblaku](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions). 
 1. Rešavanje problema sa sistemom Office 365 pristup [upravljanju pristupom](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center).
