@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687808"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704764"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Dodavanje, uklanjanje ili Sprečavanje korisnika da menjaju fotografije profila
 
@@ -25,6 +25,6 @@ ms.locfileid: "47687808"
 
 - **Uklanjanje fotografija profila:** Fotografije profila može da ukloni administrator u usluzi [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) administrator ili korisnik u njihovim Microsoft timovima korisnika.
 
-- **Blokiranje promena fotografije profila:** Promene fotografija mogu da se blokiraju za sve Microsoft 365 * dodavanjem smernica Outlook Veb aplikacija po članku, [zaključavanje fotografija ili ograničavanje dozvola za promenu Microsoft 365 fotografije profila](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Blokiranje promena fotografije profila:** Promene fotografija mogu da se blokiraju za sve Microsoft 365 * dodavanjem smernica Outlook Veb aplikacija po članku, [zaključavanje fotografija ili ograničavanje dozvola za promenu Microsoft 365 fotografije profila](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Imajte u vidu da Microsoft timovi trenutno ne podržavaju smernice Outlook Web App polise za blokiranje promena fotografija, ali planira da doda podršku za ovu funkciju početkom 2020.
+* Microsoft timovi trenutno ne podržavaju smernice Outlook Web App polise za blokiranje promena fotografija, ali planira da doda podršku za ovu funkciju početkom 2020.

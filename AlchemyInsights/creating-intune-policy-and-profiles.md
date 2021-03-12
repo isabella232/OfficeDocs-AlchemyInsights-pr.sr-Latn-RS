@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746773"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704656"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Kreiranje smernica i profila Intune
 
 U Intune možete da kreirate smernice i profile koji rade različite stvari.
 
-- **Profili**za prijavljivanje: unapred Konfiguriši uređaje po platformi, omogućavanje korisničkog afiniteta, korišćenje potvrde identiteta više faktora i još toga.
+- **Profili** za prijavljivanje: unapred Konfiguriši uređaje po platformi, omogućavanje korisničkog afiniteta, korišćenje potvrde identiteta više faktora i još toga.
 
   [Šta je to prijavljivanje uređaja](https://docs.microsoft.com/intune/device-enrollment)i kreiranje profila za prijavljivanje za [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)i [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) su dobri resursi.
 
@@ -43,4 +43,4 @@ Korisne veze:
 
 - [Uobičajena pitanja, problemi i rezolucije pomoću smernica uređaja i profila u programu Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Rešavanje problema sa smernicama i profilima u Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Rešavanje problema sa smernicama i profilima u Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
