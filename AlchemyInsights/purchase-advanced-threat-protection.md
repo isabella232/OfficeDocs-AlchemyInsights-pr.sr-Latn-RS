@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602126"
+ms.locfileid: "50707860"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Kupovina Microsoft Defender za Office 365
 
-Microsoft zaštitnik za Office 365 uključen je u određene pretplate, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium. Ako pretplata ne podrazumeva Microsoft Defender za Office 365, možete da kupite [Microsoft zaštitnik za office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kao dodatak za određenu pretplatu. Da biste kupili u Microsoft 365 centru administracije:
+Microsoft zaštitnik za Office 365 uključen je u određene pretplate, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium. Ako pretplata ne podrazumeva Microsoft Defender za Office 365, možete da kupite [Microsoft zaštitnik za office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) kao dodatak za određenu pretplatu. Da biste kupili u Microsoft 365 centru administracije:
 
 1. U centru administracije idite na   >  stranicu[usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate.
 2. Na dnu stranice " **usluge kupovine** ", u odeljku **programski dodaci** pronađite programski dodatak Microsoft Defender za Office 365, a zatim izaberite stavku **Detalji**.

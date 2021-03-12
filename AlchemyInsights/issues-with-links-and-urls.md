@@ -3,7 +3,7 @@ title: Problemi sa vezama i URL adresama
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974752"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707896"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemi sa vezama i URL adresama
 
-Preusmeravanje URI/odgovor URL adrese (oba izraza se mogu menjati) su URL adrese koje koristi Microsoft platforma za identifikaciju za povraćaj traženih željena aplikacija. Informacije o ovim URL adresama potražite u sledećim člancima:
+URI preusmeravanja/URL adrese odgovora (oba izraza su zamenljiva) predstavljaju URL adrese koje koristi Microsoft platforma za identitete da bi vratila tokene koje zahtevaju aplikacije. Više informacija o ovim URL adresama potražite u sledećim člancima:
 
-- [Tokovi potvrde identiteta i scenariji aplikacije](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – informacije o preusmeravanju uris na stranici **registracija aplikacije** za svaki scenario.
-- [Preusmeravanje URI/odgovori ograničenja URL adrese i ograničenja](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [Tokovi potvrde identiteta i scenariji aplikacija](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – Informacije o URI-ovima preusmeravanja na stranici **Registracija aplikacija** za svaki scenario.
+- [Ograničenja URI-a preusmeravanja/URL adrese odgovora](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**Ne znam kako da registrujem pravo preusmeravanje JURIJ/odgovor URL za moju aplikaciju**
+**Ne znam kako da registrujem odgovarajući URI preusmeravanja / URL adresu odgovora za svoju aplikaciju**
 
-Kada se prijavite pomoću aplikacije koju razvijate, ako dijalog za prijavljivanje prikazuje **AADSTS50011: URL adresa odgovora navedena u zahtevu se ne podudara sa URL adresama koje su podešene za aplikaciju <your app ID>**, moraćete da dodate registraciju aplikacije, preusmeravanje i da kôd koji koristite u zahtevu za oznaku Microsoft identiteta.
+Kada se prijavite pomoću aplikacije koju projektujete, ako je u dijalogu za prijavljivanje prikazan tekst **AADSTS50011: URL adresa odgovora navedena u zahtevu ne podudara se sa URL adresama odgovora konfigurisanim za aplikaciju <your app ID>**, moraćete u registraciju aplikacije da dodate URI preusmeravanja koju je vaš kôd koristio u zahtevu za token za Microsoft platformu za identitete.
 
-Da biste dodali URL za odgovor, idite na karticu **potvrda identiteta** na stranici **registracija aplikacije** na Azure portalu i dodajte stavku u odeljak **preusmeravanja uris** . Preusmeri Urove su otkucane (Veb ili mobilna/radna površina). Vrednost koju treba da unesete zavisi od tipa aplikacije koju gradite, kao što je opisano ispod:
+Da biste dodali URL adresu odgovora, idite na karticu **Potvrda identiteta** na stranici za **registraciju aplikacije** na Azure portalu i dodajte unos u odeljak **URI-ovi preusmeravanja**. Vrednost koju treba da unesete zavisi od tipa aplikacije koju projektujete, kao što je opisano u nastavku:
 
-- Za aplikacije sa jednom stranicom i Veb aplikacijama, URL adresa je URL adresa u aplikaciji. Pogledajte [registraciju aplikacije sa jednom stranicom](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) ili [Registrujte aplikaciju Veb aplikacije pomoću Azure portala](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
-- Za aplikacije za stone računare vrednost koju treba da odaberete zavisi od:
-    - platforma (MacOS se razlikuje od Windowsa ili Linux)
-    - način na koji ste nabavili simbol (interaktivno, uz protok koda uređaja, sa integrisanom Windows autentifikacijom [IWA] ili sa korisničkim imenom/lozinkom).
-    Detalje potražite u članku [aplikacije za računare – registracija aplikacije – preusmeravanje URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
-- Za mobilne aplikacije, URI preusmeravanje zavisi od:
-    - platforma (iOS/Android/UWP)
-    - informacije koje se koriste za izradu aplikacije, kao što je ID za spakuju u iOS, kao i hash ime paketa i hash na usluzi android, Registracija na Azure će vam pomoći. Detalje potražite u članku [Konfigurisanje platforme i preusmeravanje ure](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
-
-> [!NOTE]
-> Veb API i neke od tihog načina za sticanje tokena (IWA i username/password) ne zahtevaju preusmeravanje URI.
-
-**Rasporedio sam Veb aplikaciju i kada sam testirao aplikaciju "raspoređeno", dobijam poruku "pogrešno podudaranje sa URL adresom"**
-
-Dodajte preusmeravanje za sve lokacije na kojima koristite Veb aplikaciju. Više informacija potražite u članku [Registrovanje aplikacije Veb aplikacije pomoću Azure portala](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+- Za aplikacije sa jednom stranicom i veb aplikacije, URL adresa odgovora je URL adresa u aplikaciji. Pogledajte članke [Registracija aplikacija sa jednom stranicom](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) ili [Registracija veb aplikacije pomoću Azure portala](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
+- Vrednost koju treba da odaberete za aplikacije za računare zavisi od:
+    - platforme (MacOS se razlikuje od operativnog sistema Windows ili Linux)
+    - načina na koji preuzimate token (interaktivno, pomoću toka koda uređaja, pomoću integrisane Windows potvrde identiteta [IWA] ili pomoću korisničkog imena/lozinke).
+    Detalje potražite u odeljku [Aplikacije za računare – Registracija aplikacija – URI preusmeravanja](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
+- Za aplikacije za mobilne uređaje, URI preusmeravanja zavisi od:
+    - platforme (iOS/Android/UWP)
+    - informacija koje se koriste za izgradnju aplikacije, kao što je ID kompleta u operativnom sistemu iOS, kao i ime paketa i hash potpisa u sistemu Android. Registracija aplikacija na Azure portalu će vam pomoći. Detalje potražite u odeljku [Konfiguracija platforme i URI-ovi preusmeravanja](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
 > [!NOTE]
-> Dodajte preusmeravanje URI za lokaciju neposredno posle primene aplikacije na toj lokaciji.
+> Veb API-ji i neki od tihih načina nabavke tokena (IWA i korisničko ime/lozinka) ne zahtevaju URI preusmeravanja.
 
-**Ne mogu da registrujem dovoljno URL adrese odgovora**
+**Projektovao/la sam svoju veb aplikaciji i prilikom testiranja primenjene aplikacije, dobijam poruku o nepodudaranju URL adresa odgovora**
 
-Vi ste ISV i imate jedan ili više Urova za preusmeravanje za svaku vašu muљteriju. Želite da migrirate iz ADAL/Azure AD v 1.0 u MSAL/Microsoft Platform identiteta i pritisnite [Maksimalan broj preusmeravanja ure](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Da biste rešili ovo, [Dodajte preusmeravanje URIs za servisne direktore](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) koji odgovaraju svakom od vaših klijenata.
+Dodajte URI-ove preusmeravanja za sve lokacije na kojima primenjujete veb aplikaciju. Više informacija potražite u odeljku [Registrovanje veb aplikacije pomoću Azure portala](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+
+> [!NOTE]
+> Dodajte URI preusmeravanja za lokaciju odmah nakon primene aplikacije na toj lokaciji.
+
+**Ne mogu da registrujem dovoljno URL adresa odgovora**
+
+Vi ste ISV i imate jedan ili više URI-ova preusmeravanja za svakog od svojih klijenata. Želite da izvršite migraciju iz usluge ADAL/Azure AD v1.0 u MSAL/Microsoft platformu za identitete i dostigli ste [maksimalni broj URI-ova preusmeravanja](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Da biste rešili ovo, [dodajte URI-ove preusmeravanja u principale usluge](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) koji odgovaraju svakom od vaših klijenata.
