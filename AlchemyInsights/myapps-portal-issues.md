@@ -1,5 +1,5 @@
 ---
-title: Problemi sa portalu MyApps
+title: Problemi sa portalom „Moje aplikacije“
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917050"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708580"
 ---
-# <a name="myapps-portal-issues"></a>Problemi sa portalu MyApps
+# <a name="myapps-portal-issues"></a>Problemi sa portalom „Moje aplikacije“
 
-Da biste rešili probleme na koje nailazite prilikom prijavljivanja ili korišćenja portala "moje aplikacije", pogledajte članak [Rešavanje problema sa portalu "Moji aplikacije](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)".
+Za rešavanje problema na koje nailazite kada se prijavljujete u portal „Moje aplikacije“ ili kada ga koristite, pogledajte [Rešavanje problema sa portalom „Moje aplikacije“](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
 
-**Ne vidim aplikacije koje očekujem na tabli Access aplikacije**
+**Ne vidim aplikacije koje očekujem na tabli za pristup aplikacijama**
 
-Za uputstva o tome kako da saznate zašto se aplikacije koje očekujete ne pojavljuju na tabli Access aplikacije, pogledajte članak:
+Da biste otkrili zašto se na tabli za pristup aplikacijama ne pojavljuju aplikacije koje očekujete, pogledajte:
 
-- [Ne znam zašto se aplikacija koju sam dodelio ne pojavljuje na Access tabli](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Ne znam zašto se aplikacija koju sam dodelio/la ne pojavljuje na tabli za pristup](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Ne znam zašto se aplikacija pojavljuje na kontrolnoj tabli](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Ne znam zašto se aplikacija pojavljuje na tabli za pristup](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Imam problema sa prijavljivanjem na tablu za pristup aplikaciji**
+**Imam probleme prilikom prijavljivanja na tablu za pristup aplikacijama**
 
-Da biste rešili probleme u vezi sa prijavljivanjem na tablu Access aplikacije, pogledajte članak:
+Za rešavanje problema koji se tiču prijavljivanja na tablu za pristup aplikacijama, pogledajte:
 
-[Ne mogu da se prijavim na Veb lokaciju Access table](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Ne mogu da se prijavim na veb sajt za tablu za pristup](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Imam problema prilikom korišćenja proširenja pregledača aplikacije za Access**
+**Imam probleme prilikom korišćenja proširenja pregledača za tablu za pristup aplikacijama**
 
-Da biste rešili probleme u vezi sa upotrebom proširenja pregledača kontrolne table, pogledajte članak:
+Za rešavanje problema koji se tiču korišćenja proširenja pregledača za tablu za pristup aplikacijama, pogledajte:
 
-[Video sam grešku prilikom instaliranja proširenja aplikacije Access table za aplikaciju](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Video/la sam grešku prilikom instaliranja proširenja pregledača za tablu za pristup aplikacijama](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Imam problema sa funkcijom na tabli Access aplikacije**
+**Imam probleme sa funkcijom na tabli za pristup aplikacijama**
 
-Da biste rešili probleme koji se odnose na određenu funkciju na tabli Access aplikacije, pogledajte članak:
+Za rešavanje problema koji se odnose na određenu funkciju na tabli za pristup aplikacijama, pogledajte:
 
-- [Ne znam kako da koristim pristup samouslužnoj aplikaciji](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Ne znam kako da koristim samouslužni pristup aplikacijama](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Naišao sam na problem prilikom korišćenja samouslužne aplikacije za pristup](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Naišao/la sam na problem prilikom korišćenja samouslužnog pristupa aplikacijama](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Ako imate problema sa primenom portala "moje aplikacije"**
+**Ako imate probleme prilikom primene ili korišćenja portala „Moje aplikacije“**
 
-Da biste rešili probleme koje doživite prilikom primene ili korišćenja portala Myapp, pogledajte članak:
+Za rešavanje problema na koje nailazite prilikom primene ili korišćenja portala „Moje aplikacije“, pogledajte:
 
-- [Kreiranje kolekcija na portalu "moje aplikacije"](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Kreirajte kolekcije na portalu „Moje aplikacije“](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Konfigurisanje zadatka samouslužnog aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Konfigurišite samouslužno dodeljivanje aplikacija](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Rešavanje problema sa krajnjim korisnicima na portalu "moje aplikacije"](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Rešite probleme krajnjeg korisnika u portalu „Moje aplikacije“](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 
