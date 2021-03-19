@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598819"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896665"
 ---
 # <a name="uk-domain-transfers"></a>. britanski transfere domena
 
 Obratite se Microsoft podršci i zatražite od nje da se **oznaka "IPS** " podudara sa registrom na koji želite da upravljate domen. Kada se oznaka promeni, domen se odmah prebacuje na novi registar. Zatim ćete morati da radite sa novim registrom da biste dovršili prenos, verovatno plaćali troškove transfera i dodali domen prenesen na nalog pomoću vašeg novog registra.
 
 Više informacija o prenosu domena potražite u članku [prenošenje domena sa korporacije Microsoft na drugi host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+
+Pripremite se da obezbedite oznaku IP-a za novi registrator, koji se može pronaći na https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
