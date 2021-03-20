@@ -1,25 +1,26 @@
 ---
-title: Blokiraj preuzimanje datoteke pomoću programa Azure-uslovno pristup
+title: Blokirajte preuzimanja datoteka uz uslovni pristup Azure AD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5710"
-ms.openlocfilehash: 284c82d3f7e3e75ad1ac2f502df11cd682781566
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
-ms.translationtype: MT
+ms.openlocfilehash: e52c8f5a0710b4c596d533bac76e03b357faf89d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44358469"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685720"
 ---
-# <a name="block-file-download-with-azure-ad-conditional-access"></a>Blokiraj preuzimanje datoteke pomoću programa Azure-uslovno pristup
+# <a name="block-file-download-with-azure-ad-conditional-access"></a>Blokirajte preuzimanja datoteka uz uslovni pristup Azure AD
 
-Smernice bezbednosne sesije aplikacije "Cloud" omogućavaju vam da ograničite sesiju zasnovanu na stanju uređaja. Da biste izvršili kontrolu nad sesijom koristeći uređaj kao uslov, kreirajte pravila uslovnog pristupa i smernice sesije.
+Smernice za sesije bezbednosti aplikacije u oblaku omogućavaju vam da ograničite sesiju na osnovu stanja uređaja. Da biste postigli kontrolu nad sesijom koristeći uređaj kao uslov, kreirajte smernice uslovnog pristupa i smernice sesije.
 
-- [Blokiraj preuzimanje datoteke pomoću programa Azure-uslovno pristup](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Blokiranje preuzimanja datoteke uz uslovni pristup Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
