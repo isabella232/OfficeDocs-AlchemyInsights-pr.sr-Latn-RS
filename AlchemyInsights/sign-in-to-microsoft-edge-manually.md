@@ -1,5 +1,5 @@
 ---
-title: Ručno prijavljivanje na Microsoft Edge
+title: Ručno prijavljivanje u Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678851"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398671"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Ručno prijavljivanje na Microsoft Edge
+# <a name="sign-in-to-microsoft-edge-manually"></a>Ručno prijavljivanje u Microsoft Edge
 
-Ako korisnik nije automatski prijavljen tokom prvog iskustva, korisnik može da se ručno prijavi kroz postavke pregledača ili otplatom identiteta. Da biste upravljali prijavljivanjem, koristite sledeće smernice:
+Ako korisnik nije automatski prijavljen tokom prvog pokrenog iskustva, korisnik može ručno da se prijavi putem postavki pregledača ili potpalete identiteta. Da biste upravljali prijavljivanjem, koristite sledeće smernice:
 
-1. [Omogućeno Nepremešta](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – da biste se uverili da korisnik uvek ima radni profil u usluzi Microsoft Edge.
-2. [Ograniиite](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) prijavljivanje na obrazac – da ograničite prijavljivanje na skupu pouzdanih naloga.
-3. [Browsersignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – onemogućavanje prijavljivanja ili nametanje korisnicima da se prijave.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Da biste se uverili da korisnik uvek ima poslovni profil u programu Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – Da biste ograničili prijavljivanje na skup pouzdanih naloga.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – Da biste onemogućili prijavljivanje ili primorali korisnike da se prijavaju.
 

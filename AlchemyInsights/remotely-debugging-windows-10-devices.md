@@ -1,5 +1,5 @@
 ---
-title: Prvi koraci uz daljinsko otklanjanje Windows 10 uređaja
+title: Prvi koraci sa daljinskim otklanjanjem grešaka u operativnom sistemu Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583964"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398578"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Prvi koraci uz daljinsko otklanjanje Windows 10 uređaja
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Prvi koraci sa daljinskim otklanjanjem grešaka u operativnom sistemu Windows 10
 
-Da biste daljinski otklanjete grešku uživo na Windows 10 uređaju sa Windows ili macOS računara:
+Da biste daljinski otklonio grešaka u uživo sadržaju na Windows 10 uređaju sa Windows ili macOS računara:
 
-1. Podesite Windows 10 uređaj za daljinsku vezu, a zatim se povežite sa njim sa vaše razvojne mašine.
-2. Ispitajte i otklanjanja sadržaja uživo na Windows 10 uređaju sa vaše razvojne mašine.
-3. Sadržaj scenarija sa Windows 10 uređaja na instancu DevTools na uređaju za razvijanje.
+1. Podesite Windows 10 uređaj za otklanjanje grešaka na daljinu, a zatim se povežite sa računarom sa razvojnim računarom.
+2. Proverite sadržaj uživo i otklonite grešaka na Windows 10 uređaju sa razvojnog računara.
+3. Sadržaj ekrana sa Windows 10 uređaja na DevTools instancu na razvojnom računaru.
 
-Da biste saznali više, pogledajte članak [Prvi koraci uz daljinsku uslugu Windows 10 uređaja pomoću Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Da biste saznali više, pogledajte [članak Prvi koraci sa udaljenim otklanjanjem grešaka u operativnom sistemu Windows 10 uređaji pomoću programa Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)

@@ -1,5 +1,5 @@
 ---
-title: Napredni koncepti autentičnosti primenljiv na Microsoft Edge
+title: Napredni koncepti potvrde identiteta koji se primenjuju na Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573529"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398599"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Napredni koncepti autentičnosti primenljiv na Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Napredni koncepti potvrde identiteta koji se primenjuju na Microsoft Edge
 
-Slede Napredni koncepti autentičnosti koji se primenjuju na Microsoft Edge:
+Slede napredni koncepti potvrde identiteta koji se primenjuju na Microsoft Edge:
 
 **Proaktivna potvrda identiteta**
 
-Kada omogućite smernice za [Proactiveda](https://go.microsoft.com/fwlink/?linkid=2134621) , Microsoft Edge će pokušati da produzi potvrdu o prijavljivanju korisnika u Microsoft usluge. U redovnim intervalima, ona će koristiti uslugu na mreži za proveru ažuriranog manifesta koji sadrži trenutnu potvrdu konfiguracije.
+Kada omogućite [smernice ProactiveAuthEnabled,](https://go.microsoft.com/fwlink/?linkid=2134621) Microsoft Edge će pokušati da proaktivno potvrdi identitet prijavljenih korisnika putem Microsoft usluga. U redovnim intervalima koristiće uslugu na mreži da bi proverila ažuriranu manifest koja sadrži konfiguraciju koja upravlja Proaktivnom potvrdom identiteta.
 
-Beneficije: proaktivna potvrda identiteta omogućava potvrdu identiteta na ključnim uslugama, kao što je stranica Office nova kartica. Takođe, ako se Bing koristi kao pretraživač, proaktivna potvrda identiteta poboljšava performanse trake adresa i pomaže pri generisanje rezultata pretrage personalizovanih na potrebe preduzeća.
+Pogodnosti: Proaktivna potvrda identiteta omogućava potvrdu identiteta ključnim uslugama, kao što je stranica "Nova kartica sistema Office". Takođe, ako se Bing koristi kao pretraživač, Proaktivna potvrda identiteta poboljšava performanse trake adresa i pomaže u generisanju rezultata pretrage personalizovanih prema potrebama vašeg preduzeća.
 
-**Windows Hello Kredui za NTLM potvrdu identiteta**
+**Windows Hello CredUI za NTLM potvrdu identiteta**
 
-Ako je pojedinačni prijavljivanje (SSO) nije dostupan kada Veb lokacija pokuša da se prijavi na korisnika kroz NTLM ili pregovaranje mehanizma, ova funkcija će korisniku omogućiti da deli akreditive OS sa Veb lokacijom i da bi ispunila izazov potvrde identiteta pomoću Windows Hello Ccrveni UI. Ovaj tok prijavljivanja pojaviće se samo u operativnom sistemu Windows 10 i samo za korisnike koji ne primaju SSO tokom NTLM ili pregovaranja.
+Ako jedinstveno prijavljivanje (SSO) nije dostupno kada veb lokacija pokuša da se prijavi na korisnika putem NTLM ili Negotiate mehanizma, ova funkcija će omogućiti korisniku da deli OS akredicije sa veb lokacijom i da zadovolji izazov potvrde identiteta korišćenjem Windows Hello cred korisničkog interfejsa. Ovaj tok prijavljivanje će se pojaviti samo u operativnom sistemu Windows 10 i samo za korisnike koji ne dobijaju SSO tokom NTLM-a ili sporazumnog izazova.
 
 **Korišćenje sačuvanih lozinki za automatsko prijavljivanje**
 
-Korisnici koji čuvaju lozinke u aplikaciji Microsoft Edge mogu da omoguću automatsko prijavljivanje na Veb lokacije na kojima imaju sačuvane akreditive. Korisnici mogu da uključe ovu funkciju u edge://settings/passwords i da je konfigurišete u smernicama [upravljača lozinkama](https://go.microsoft.com/fwlink/?linkid=2134622) .
+Korisnici koji čuvaju lozinke u programu Microsoft Edge mogu da omoguće automatsko prijavljivanje na veb lokacije na kojima imaju sačuvane akredicije. Korisnici mogu da uključe ili isključe ovu funkciju edge://settings/passwords, a vi možete da je konfigurišete u [smernicama menadžera lozinki.](https://go.microsoft.com/fwlink/?linkid=2134622)
