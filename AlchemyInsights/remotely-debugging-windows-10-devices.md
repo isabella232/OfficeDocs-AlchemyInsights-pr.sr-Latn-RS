@@ -1,5 +1,5 @@
 ---
-title: Prvi koraci uz daljinsko otklanjanje Windows 10 uređaja
+title: Prvi koraci sa daljinskim otklanjanjem grešaka u operativnom sistemu Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583964"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398578"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a><span data-ttu-id="90508-102">Prvi koraci uz daljinsko otklanjanje Windows 10 uređaja</span><span class="sxs-lookup"><span data-stu-id="90508-102">Get started with remotely debugging Windows 10 devices</span></span>
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a><span data-ttu-id="62a70-102">Prvi koraci sa daljinskim otklanjanjem grešaka u operativnom sistemu Windows 10</span><span class="sxs-lookup"><span data-stu-id="62a70-102">Get started with remotely debugging Windows 10 devices</span></span>
 
-<span data-ttu-id="90508-103">Da biste daljinski otklanjete grešku uživo na Windows 10 uređaju sa Windows ili macOS računara:</span><span class="sxs-lookup"><span data-stu-id="90508-103">To remotely debug live content on a Windows 10 device from a Windows or macOS computer:</span></span>
+<span data-ttu-id="62a70-103">Da biste daljinski otklonio grešaka u uživo sadržaju na Windows 10 uređaju sa Windows ili macOS računara:</span><span class="sxs-lookup"><span data-stu-id="62a70-103">To remotely debug live content on a Windows 10 device from a Windows or macOS computer:</span></span>
 
-1. <span data-ttu-id="90508-104">Podesite Windows 10 uređaj za daljinsku vezu, a zatim se povežite sa njim sa vaše razvojne mašine.</span><span class="sxs-lookup"><span data-stu-id="90508-104">Set up your Windows 10 device for remote debugging, and then connect to it from your development machine.</span></span>
-2. <span data-ttu-id="90508-105">Ispitajte i otklanjanja sadržaja uživo na Windows 10 uređaju sa vaše razvojne mašine.</span><span class="sxs-lookup"><span data-stu-id="90508-105">Inspect and debug live content on your Windows 10 device from your development machine.</span></span>
-3. <span data-ttu-id="90508-106">Sadržaj scenarija sa Windows 10 uređaja na instancu DevTools na uređaju za razvijanje.</span><span class="sxs-lookup"><span data-stu-id="90508-106">Screencast content from your Windows 10 device onto a DevTools instance on your development machine.</span></span>
+1. <span data-ttu-id="62a70-104">Podesite Windows 10 uređaj za otklanjanje grešaka na daljinu, a zatim se povežite sa računarom sa razvojnim računarom.</span><span class="sxs-lookup"><span data-stu-id="62a70-104">Set up your Windows 10 device for remote debugging, and then connect to it from your development machine.</span></span>
+2. <span data-ttu-id="62a70-105">Proverite sadržaj uživo i otklonite grešaka na Windows 10 uređaju sa razvojnog računara.</span><span class="sxs-lookup"><span data-stu-id="62a70-105">Inspect and debug live content on your Windows 10 device from your development machine.</span></span>
+3. <span data-ttu-id="62a70-106">Sadržaj ekrana sa Windows 10 uređaja na DevTools instancu na razvojnom računaru.</span><span class="sxs-lookup"><span data-stu-id="62a70-106">Screencast content from your Windows 10 device onto a DevTools instance on your development machine.</span></span>
 
-<span data-ttu-id="90508-107">Da biste saznali više, pogledajte članak [Prvi koraci uz daljinsku uslugu Windows 10 uređaja pomoću Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).</span><span class="sxs-lookup"><span data-stu-id="90508-107">To learn more, see [Get Started with Remote Debugging Windows 10 Devices using Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).</span></span>
+<span data-ttu-id="62a70-107">Da biste saznali više, pogledajte [članak Prvi koraci sa udaljenim otklanjanjem grešaka u operativnom sistemu Windows 10 uređaji pomoću programa Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)</span><span class="sxs-lookup"><span data-stu-id="62a70-107">To learn more, see [Get Started with Remote Debugging Windows 10 Devices using Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).</span></span>
