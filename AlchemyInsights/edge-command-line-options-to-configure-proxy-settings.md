@@ -1,5 +1,5 @@
 ---
-title: Korišćenje opcija komandne linije za Konfigurisanje postavki proxy servera u usluzi Microsoft Edge
+title: Korišćenje opcija komandne linije za konfigurisanje postavki proxy servera u programu Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,18 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004254"
+- "9004632"
 - "7561"
-ms.openlocfilehash: a54e30034cc0dbfe60a3d88f04ffe119ca451bb6
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+- "8363"
+ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706790"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403433"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Korišćenje opcija komandne linije za Konfigurisanje postavki proxy servera u usluzi Microsoft Edge
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Korišćenje opcija komandne linije za konfigurisanje postavki proxy servera u programu Microsoft Edge
 
-U Microsoft Edge verzijama 77 i novije verzije, mrežni niz podrazumevano koristi mrežne postavke sistema. U hibridne scenarije gde korisnici traže alternativu, Microsoft Edge podržava opcije komandne linije za konfigurisanje prilagođenih Proxy postavki. Detalje potražite u članku:
+U pregledaču Microsoft Edge verzije 77 i novijim verzijama, mrežni stek podrazumevano koristi mrežne postavke sistema. U hibridnim scenarijima u kojima korisnici traže alternativu, Microsoft Edge podržava opcije komandne linije za konfigurisanje prilagođenih proxy postavki. Detalje možete da vidite u:
 
-1. [Postavke sistemske mreže](https://go.microsoft.com/fwlink/?linkid=2133962)
+1. [Sistemske postavke mreže](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [Opcije komandne linije za postavke proxy servera](https://go.microsoft.com/fwlink/?linkid=2134292)
 3. [Napredne postavke konfiguracije i druge opcije](https://go.microsoft.com/fwlink/?linkid=2134293)

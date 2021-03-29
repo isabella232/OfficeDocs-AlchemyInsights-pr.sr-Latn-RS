@@ -1,5 +1,5 @@
 ---
-title: Omogućavanje nesmetanog jedinstvenog prijavljivanja (SSO)
+title: Omogućavanje nesomećenog jedinstvenog prijavljivanje (SSO)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,18 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004344"
+- "9004357"
 - "9385"
-ms.openlocfilehash: eb920556d08706220a0a86e453fab1cb4db9b519
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+- "9861"
+ms.openlocfilehash: 66613381a9d07b9e79152cb1fa7f746d02d40f26
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696328"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403397"
 ---
-# <a name="enable-seamless-single-sign-on-sso"></a>Omogućavanje nesmetanog jedinstvenog prijavljivanja (SSO)
+# <a name="enable-seamless-single-sign-on-sso"></a>Omogućavanje nesomećenog jedinstvenog prijavljivanje (SSO)
 
-Većina korisnika mogu da omogućuju besprekorno jedinstveno prijavljivanje (SSO) pomoću dolenavedenih koraka:
+Većina korisnika može da omogući nesposobno jedinstveno prijavljivanje (SSO) na sledeći način:
 
-1. Da biste omogućili besprekoran SSO, slijedite korake iz članka [Azure Active Directory Nesmetna pojedinačno prijavljivanje: brzi Start](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start).
-2. Da biste saznali kako da nabavite "SSO Experience" na lokaciji Azure AD su vam se pridružili uređaji i aplikacijama koje se oslanjaju na lokalnu reklamu, pogledajte [Kako SSO za lokalno resurse funkcionišu na lokaciji AZURE ad se pridružuju](https://docs.microsoft.com/azure/active-directory/devices/azuread-join-sso).
-3. Da biste saznali više o različitim lokalnim i Azure Active Directory topologiji (Azure AD) koji koriste Azure AD Connect Sync kao rešenje za integraciju, pogledajte članak [topologije za AZURE AD](https://docs.microsoft.com/azure/active-directory/hybrid/plan-connect-topologies)Connect. Ovaj članak obuhvata i podržane i nepodržane konfiguracije.
+1. Da biste omogućili nesmašan SSO, pratite korake iz članka Nesmašno jedinstveno prijavljivanje za [Azure Active Directory: brzi start.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start)
+2. Da biste saznali kako da dobijete SSO iskustvo na Azure AD uređajima pridruženim resursima i aplikacijama koji se oslanjaju na objekat iz usluge AD, pogledajte kako SSO do drugih resursa funkcioniše na [Azure AD](https://docs.microsoft.com/azure/active-directory/devices/azuread-join-sso)pridruženim uređajima.
+3. Da biste saznali više o raznim mešovitim i Azure Active Directory (Azure AD) zapologijama koje koriste Azure AD Connect sinhronizaciju kao ključno rešenje za integraciju, pogledajte [Topologies za Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/hybrid/plan-connect-topologies) Ovaj članak sadrži podržane i nepodržane konfiguracije.

@@ -1,5 +1,5 @@
 ---
-title: Konfigurisanje besprekornog jedinstvenog prijavljivanja (SSO)
+title: Konfigurisanje nesometanog jedinstvenog prijavljivanje (SSO)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,47 +11,49 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004344"
+- "9004357"
 - "9384"
-ms.openlocfilehash: 32790b23547de36cd2864e85ebae67f54ad91707
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+- "9863"
+ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841674"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402281"
 ---
-# <a name="configure-seamless-single-sign-on-sso"></a>Konfigurisanje besprekornog jedinstvenog prijavljivanja (SSO)
+# <a name="configure-seamless-single-sign-on-sso"></a>Konfigurisanje nesometanog jedinstvenog prijavljivanje (SSO)
 
 **Konfigurisanje aplikacija**
 
-1. Trebalo bi da nabavite vrednosti od dobavljača aplikacije. Možete ručno da unesete vrednosti ili da otpremite datoteku metapodataka da biste izdvojili vrednost polja.
-2. Mnoge aplikacije su već unapred konfigurisane za rad sa uslugom Azure AD. Ove aplikacije su navedene u galeriji aplikacija koje možete da pregledate kada dodate aplikaciju u Azure AD stanar. [Brza grupa](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) vas prolazi kroz proces.
-3. Da biste kreirali aplikaciju koja nije galerija, možete da kliknete na dugme Uključi **+ Kreiranje sopstvene aplikacije** i date ime aplikaciji.
-    - Podrazumevano, ona će izabrati stavku **integrisati bilo koju drugu aplikaciju koju ne pronađete u galeriji** koja je ispravna opcija za aplikacije koje nisu iz galerije.
-    - Kada **unesete ime** za aplikaciju, on će kreirati novu aplikaciju preduzeća koja nije galerija.
-    - Zatim možete da se krećete na **jedinstveno prijavljivanje** u okviru **upravljanja** tom aplikacijom i moći ćete da vidite različitu tehniku za primenu u okruženju.
+1. Trebalo bi da dobijete vrednosti od prodavca aplikacije. Možete ručno da unesete vrednosti ili otpremite datoteku metapodataka da biste izdvojiti vrednost polja.
+2. Mnoge aplikacije su već unapred konfigurisane za rad sa uslugom Azure AD. Ove aplikacije su navedene u galeriji aplikacija koje možete da pregledate kada dodate aplikaciju U Azure AD zakupca. Grupa [brzih startova](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) će vas proći kroz proces.
+3. Da biste kreirali aplikaciju koja nije galerija, možete da kliknete na **dugme +** Kreirajte sopstvenu aplikaciju i date ime aplikaciji.
+    - Podrazumevano će izabrati opciju Integriši sve druge aplikacije koje ne pronađete u galeriji, što je ispravna opcija za **aplikacije** koje nisu u galeriji.
+    - Kada **pritisnete** stavku Kreiraj nakon što stavite ime za aplikaciju, kreiraće se nova enterprise aplikacija koja nije galerija.
+    - Zatim možete da odete  na jedinstveno  prijavljivanje u okviru Upravljanje tom aplikacijom i moći ćete da vidite različite tehnike za primenu u okruženju.
 
-**Konfigurisanje besprekornog SSO za određenu aplikaciju**
+**Konfigurisanje nesomećenog SSO-a za određenu aplikaciju**
 
-Za aplikacije u galeriji videćete detaljnu, postepenog, uputstva. Da biste pristupili koracima, možete da pregledate listu svih uputstava za konfiguraciju aplikacije na [uputstvima za konfiguraciju aplikacije Sahas](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list).
+Za aplikacije u galeriji ćete pronaći detaljna uputstva korak po korak. Da biste pristupili koracima, možete da pregledate listu svih uučavanja za konfiguraciju aplikacije u uputstvima za konfiguraciju [SaaS aplikacije.](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)
 
-**Konfigurišite SSO sa sistemom SEML**
+**Konfigurisanje SSO zasnovanog na SAML-u**
 
-1. [Brzi Start: podesite SAML-ova Single za prijavljivanje (SSO) za aplikaciju u Azure Active Directory (AZURE AD) zakupcu](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso).
-2. Da biste saznali više o opciji zasnovano na jedinstvenom prijavljivanje, pogledajte članak [razumevanje jednostrukog prijavljivanja na osnovu Sema l](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on).
-3. Da biste saznali više o zahtjevima za potvrdu identiteta za SAML 2,0 i odgovore da Azure Active Directory (Azure AD) podržava jednokratnu Sign-On (SSO), pogledajte članak [Single Sign-On seml protokol](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol).
-4. Da biste saznali kako da kreirate i konfigurišete Single-in za jedinstveno prijavljivanje (SSO) za aplikaciju u usluzi Azure Active Directory (Azure AD) pomoću Microsoft Graph API, pogledajte članak [Konfigurisanje SAML-a jedinstvenog prijavljivanja za aplikaciju pomoću Microsoft Graph API](https://docs.microsoft.com/graph/application-saml-sso-configure-api)-ja.
-5. Da biste saznali kako Azure AD koristi SAML protokol, pogledajte [kako Microsoft funkcija za identifikaciju koristi saml protokol](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
+1. Brzi start: Podešavanje jedinstvenog prijavljivanje zasnovanog na [SAML-u (SSO) za aplikaciju u Azure Active Directory (Azure AD) zakupca.](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)
+2. Da biste saznali više o opciji zasnovanoj na SAML-u za jedinstveno prijavljivanje, pogledajte razumevanje jedinstvenog prijavljivanje zasnovanog na [SAML-u.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
+3. Da biste saznali više o ZAHTEVima za SAML 2.0 potvrdom identiteta i odgovorima koje Azure Active Directory (Azure AD) podržava za Single Sign-On (SSO), pogledajte [single Sign-On SAML protokol.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
+4. Da biste saznali kako da kreirate i konfigurišete jedinstveno prijavljivanje zasnovano na SAML-u (SSO) za aplikaciju u sistemu Azure Active Directory (Azure AD) koristeći Microsoft Graph API, pogledajte članak Konfigurisanje jedinstvenog prijavljivanje zasnovanog na [SAML-u](https://docs.microsoft.com/graph/application-saml-sso-configure-api)za aplikaciju pomoću microsoft Graph API-ja.
+5. Da biste saznali kako Azure AD koristi SAML protokol, pogledajte članak [Kako platforma Microsoft identitet koristi SAML protokol.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
 
-**Konfigurisanje Tikena i tvrdnji**
+**Konfigurisanje tokena i zahteva**
 
-1. [Kako da: prilagodite tvrdnje izdate iz znaka seml za preduzeća](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
-2. Da biste saznali kako da konfigurišete zahteve pomoću programa PowerShell, pogledajte članak [: prilagođavanje tvrdnji koji se automatski emituje za određenu aplikaciju u zakupcu (pregled)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-3. Da biste saznali kako da konfigurišete opcionalne tužbe, pogledajte članak [: obezbeđivanje opcionalnih tvrdnji za aplikaciju](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-4. Da biste saznali kako da koristite atribute proširenja šeme direktorijuma za slanje korisničkih podataka u aplikacije u zahtevima za oznaku simbola, pogledajte članak [Korišćenje atributa proširenja šeme direktorijuma u zahtevima](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. Da biste saznali kako da konfigurišete Token ћivota, pogledajte članak [Pregled simbola koji je moguće konfigurisati u Microsoft platformi identiteta (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
-6. [Konfigurisanje simbola trajanja tokena (Preview)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) -u ovom članku prošećemo kroz uobičajen scenarij koji može da vam pomogne da nametnete nova pravila za životni vek. U primeru, naučite kako da kreirate smernice koje zahtevaju da korisnici češće rade autentičnosti u Veb aplikaciji.
+1. [Kako da: prilagodite zahteve izdate u SAML tokenu za poslovne aplikacije.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
+2. Da biste saznali kako da konfigurišete zahteve pomoću programa PowerShell, pogledajte kako da: prilagodite zahteve emitovane u tokenima za određenu aplikaciju u zakupca [(Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+3. Da biste saznali kako da konfigurišete opcionalne zahteve, pogledajte kako da: pružite [opcionalne zahteve aplikaciji.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+4. Da biste saznali kako da koristite atribute proširenja šeme direktorijuma za slanje korisničkih podataka aplikacijama u zahtevima za token, pogledajte temu Korišćenje atributa proširenja [šeme direktorijuma u zahtevima.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions)
+5. Da biste saznali kako da konfigurišete trajanja tokena, pogledajte članak Konfigurisanje trajanja [tokena na platformi Microsoft identitet (pregled).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+6. [Konfigurisanje smernica za](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) trajanje tokena (pregled) – U ovom članku ćemo proći kroz scenario uobičajenih smernica koji vam može pomoći da nametnete nova pravila za trajanje tokena. U primeru ćete saznati kako da kreirate smernice koje zahtevaju da korisnici češće potvrde identitet u veb aplikaciji.
 
-**Rešavanje problema sa konfiguracijom SSO**
+**Rešavanje problema sa SSO konfiguracijom**
 
-- Najčešća pitanja o Azure Active Directory Nesmetna Sign-On (besprekoran SSO) potražite u članku [Azure Active Directory nije pristupačnija jednostruko prijavljivanje: najčešća pitanja](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq).
-- Za rešavanje problema sa informacijama o uobičajenim problemima koji se tiču Azure aktivnog direktorijuma (Azure AD) bez slobodne Sign-On (besprekorni SSO) pogledajte članak [Rešavanje problema sa uslugom Azure Active Directory nije jedinstveno prijavljivanje](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).
+- Za najčešća pitanja o Azure Active Directory nesumnjivom jedinstvenom Sign-On (nesmanje SSO), pogledajte [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)nesmanje jedinstveno prijavljivanje: najčešća pitanja.
+- Za informacije o rešavanju uobičajenih problema u vezi sa nesmašnim jedinstvenim prijavljivanjem za Azure Active Directory (Azure A Sign-On D), pogledajte rešavanje problema sa nesumnjivim jedinstvenim prijavljivanjem u [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)

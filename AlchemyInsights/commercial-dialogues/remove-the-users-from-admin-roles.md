@@ -1,9 +1,9 @@
 ---
-title: Uklanjanje korisnika sa uloga administratora
+title: Uklanjanje korisnika iz uloga administracije
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: fc4bd22861fbc1d254d0fdd4d6c5fa46e63d550e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 23a6533f0ae759a7b8bc4a668f1f6d11e297da26
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483208"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403145"
 ---
-# <a name="remove-the-users-from-the-admin-roles"></a>Uklanjanje korisnika sa uloga administratora
+# <a name="remove-the-users-from-the-admin-roles"></a>Uklanjanje korisnika iz uloga administracije
 
-Evo kako ovo da uradite:
+Evo kako to da uradite:
 
-1. U centru administracije izaberite stavke **Korisnici**  >  [**aktivni korisnici**](https://go.microsoft.com/fwlink/p/?linkid=834822).
-1. Izaberite korisnika čiji nalog je kompromitovan.
-1. U pomeni koji se pojavi izaberite stavku **Uređivanje** **uloga**. Uklonite korisnika sa bilo koje uloge administratora dok ne budete sigurni da njihov nalog više nije kompromitovan.
+1. U centru aktivnosti izaberite stavku Korisnici  >  [**aktivni korisnici.**](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. Izaberite korisnika čiji nalog je ugrožen.
+1. U iletu koji se pojavi izaberite stavku **Uredi** **za uloge**. Uklonite korisnika iz uloga administracija dok ne budete sigurni da mu nalog više nije ugrožen.
 

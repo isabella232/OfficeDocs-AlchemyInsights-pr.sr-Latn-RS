@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583743"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402389"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurisanje postavki Microsoft Edge smernica u operativnom sistemu Windows
 
-Da biste konfigurisali postavke smernica i kontrolisane ispravke za Microsoft Edge, koristite objekte smernica grupe (GPOs). Možete i da pružis smernice kroz registrator; Ovo bi bilo odgovarajuće za (1) Windows uređaje priključeni na Microsoft Active Directory domen i za (2) instance Windows 10 pro i preduzeća upisane za upravljanje uređajima u Microsoft Intune.
+Da biste konfigurisali postavke smernica i upravljane ispravke za Microsoft Edge, koristite objekte smernica grupe (GPO-ove). Smernice možete da obezbede i putem registratora; ovo bi bilo prikladno za (1) Windows uređaje pridružene Microsoft Active Directory domenu i za (2) Windows 10 Pro i Enterprise instance upisane za upravljanje uređajima u aplikaciji Microsoft Intune.
 
-Da biste konfigurisali Microsoft Edge pomoću funkcije GPOs, uradite sledeće:
+Da biste konfigurisali Microsoft Edge pomoću GPO-a, uradite sledeće:
 
-1. Na centralno skladište smernica grupe u domenu aktivnog direktorijuma ili u fascikli predlošci definicija smernica na pojedinačnim računarima, instalirajte sve administrativne predloške koji dodaju pravila i postavke za Microsoft Edge.
-2. Podesite određene smernice koje želite da podesite.
+1. Idite u centralno skladište smernica grupe na Active Directory domenu ili u fasciklu sa predlošcima definicija smernica na pojedinačnim računarima, instalirajte sve administrativne predloške koji dodaju pravila i postavke za Microsoft Edge.
+2. Konfigurišite određene smernice koje želite da postavite.
 
-Da biste saznali više, pogledajte članak [Konfigurisanje postavki Microsoft Edge smernica u operativnom sistemu Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Da biste saznali više, pogledajte [članak Konfigurisanje postavki Microsoft Edge smernica u operativnom sistemu Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
