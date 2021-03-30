@@ -1,5 +1,5 @@
 ---
-title: Deljenje SharePoint datoteka ili fascikli
+title: Deljenje SharePoint ili OneDrive datoteka ili fascikli
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779029"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408128"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Deljenje SharePoint datoteka ili fascikli
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Deljenje SharePoint ili OneDrive datoteka ili fascikli
 
-Datoteke koje skladištite na SharePoint lokaciji obično su dostupne svima sa dozvolama za sajt, ali ćete možda želeti da delite određene datoteke ili fascikle sa osobama koje inače nemaju pristup lokaciji. Kada delite datoteke i fascikle, možete da odlučite da li da dozvolite osobama da ih uređuju ili samo prikažu.
+Datoteke koje uskladištite na SharePoint lokaciji obično su dostupne svima sa dozvolama za lokaciju, ali možda ćete želeti da delite određene datoteke ili fascikle sa osobama koje inače nemate pristup lokaciji. Kada delite datoteke i fascikle, možete da odlučite da li ćete dozvoliti ljudima da ih uređuju ili samo pregledaju. Za više informacija pogledajte članak:
 
 [Deljenje SharePoint datoteka ili fascikli](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Deljenje OneDrive datoteka i fascikli](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
