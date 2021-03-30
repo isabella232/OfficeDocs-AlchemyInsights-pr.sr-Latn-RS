@@ -1,5 +1,5 @@
 ---
-title: Kako da preuzmete i instalirate Microsoft da biste izvršili
+title: Kako da preuzmete i instalirate Microsoft To Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823157"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401957"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="97b46-102">Kako da preuzmete i instalirate Microsoft da biste izvršili</span><span class="sxs-lookup"><span data-stu-id="97b46-102">How to download and install Microsoft To Do</span></span>
+# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="ee08b-102">Kako da preuzmete i instalirate Microsoft To Do</span><span class="sxs-lookup"><span data-stu-id="ee08b-102">How to download and install Microsoft To Do</span></span>
 
-<span data-ttu-id="97b46-103">Microsoft da biste izvršili aplikacije za Win32, iOS, Android i Mac aplikaciju mogu se preuzeti iz odgovarajućeg skladišta.</span><span class="sxs-lookup"><span data-stu-id="97b46-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
+<span data-ttu-id="ee08b-103">Aplikacija Microsoft To Do za Win32, iOS, Android i Mac aplikacije može da se preuzme iz odgovarajuće prodavnice.</span><span class="sxs-lookup"><span data-stu-id="ee08b-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
 
-<span data-ttu-id="97b46-104">Ako imate ograničeni pristup skladištu za zakupca, molimo vas da pogledate [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) za vanmrežni instalacioni program</span><span class="sxs-lookup"><span data-stu-id="97b46-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) for offline installer</span></span>
+<span data-ttu-id="ee08b-104">Ako imate ograničeni pristup prodavnici za vašeg zakupca, potražite vanmrežni instalacioni program na [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps)</span><span class="sxs-lookup"><span data-stu-id="ee08b-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) for offline installer</span></span>
 
-<span data-ttu-id="97b46-105">Da biste preuzeli aplikaciju iz prodavnice pomoću naloga **posla** , aplikacija mora da se objavi u **privatnom skladištu** vašeg preduzeća.</span><span class="sxs-lookup"><span data-stu-id="97b46-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="97b46-106">Za više informacija pogledajte na [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span><span class="sxs-lookup"><span data-stu-id="97b46-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
+<span data-ttu-id="ee08b-105">Da biste preuzeli aplikaciju iz prodavnice koristeći **poslovni** nalog, aplikacija mora da bude objavljena u **privatnoj prodavnici** vašeg preduzeća.</span><span class="sxs-lookup"><span data-stu-id="ee08b-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="ee08b-106">Za više informacija pogledajte [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span><span class="sxs-lookup"><span data-stu-id="ee08b-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
