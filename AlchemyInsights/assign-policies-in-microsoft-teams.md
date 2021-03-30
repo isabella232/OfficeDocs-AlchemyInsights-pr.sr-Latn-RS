@@ -1,5 +1,5 @@
 ---
-title: Dodeljivanje smernica u Microsoft timovima
+title: Dodelite smernice u aplikaciji Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037115"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401813"
 ---
-# <a name="assign-policies-in-microsoft-teams"></a>Dodeljivanje smernica u Microsoft timovima
+# <a name="assign-policies-in-microsoft-teams"></a>Dodelite smernice u aplikaciji Microsoft Teams
 
-- Da biste lako upravljali smernicama u organizaciji, timovi nude nekoliko načina za dodelu smernica korisnicima. Dodeljivanje smernica direktno korisnicima, pojedinačno ili na skali kroz grupnu dodelu ili grupi koja je korisnik članova.  Dodeljivanje smernica grupama trenutno je dostupno samo za određene tipove smernica. 
-- Korisnik ima jednu efektivnu smernicu za svaku vrstu smernica. Da biste pregledali redosled po kojem se smernice primenjuju na korisnike, pogledajte članak [koje smernice imaju prvenstvo?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Više informacija potražite u članku [dodeljivanje smernica korisnicima u Microsoft timovima](https://docs.microsoft.com/microsoftteams/assign-policies).
+- Da biste lako upravljali smernicama u vašoj organizaciji, Teams nudi nekoliko načina za dodelu smernica korisnicima. Dodelite smernice direktno korisnicima, ili pojedinačno ili proporcionalno kroz paket zadataka, ili grupi kojoj korisnici pripadaju.  Dodela smernica grupama pomoću centra administracije za Microsoft Teams trenutno je dostupna samo za određene tipove smernica. 
+- Korisnik ima jednu važeću smernicu za svaki tip smernica. Da biste pregledali redosled po kojem se smernice primenjuju na korisnike, pogledajte [koje smernice imaju prednost?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Za više informacija, pogledajte članak [Dodela smernica korisnicima u aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
