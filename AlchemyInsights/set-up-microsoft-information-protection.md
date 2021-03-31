@@ -1,5 +1,5 @@
 ---
-title: Podešavanje Microsoft aplikacije za informisanje
+title: Podešavanje Microsoft zaštite informacija
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679342"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440943"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Podešavanje Microsoft aplikacije za informisanje
+# <a name="set-up-microsoft-information-protection"></a>Podešavanje Microsoft zaštite informacija
 
-Nabavite pregled mogućnosti koje možete da primenjujete na strategiju zaštite informacija kako biste mogli da budete uvereni da su osetljive informacije zaštićene. Koristite pristup za životni ciklus u četiri faze u kojem otkrijete, klasifikuje, štiti i nadgleda osetljive informacije. Vodič "Podešavanje Microsoft zaštite informacija" pruža uputstva za dovršavanje svake od ovih faza.
+Steknite pregled mogućnosti koje možete da primenite na strategiju zaštite informacija kako biste mogli da budete sigurni da su osetljive informacije zaštićene. Koristite pristup životnom ciklusu u četiri faze, u kojem otkrivate, klasifikujete, štitite i nadgledate osetljive informacije. Vodič [za podešavanje Microsoft zaštite informacija](https://go.microsoft.com/fwlink/?linkid=2146619) pruža uputstva za dovršavanje svake od ovih faza.
