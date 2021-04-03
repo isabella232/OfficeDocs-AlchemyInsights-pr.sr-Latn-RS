@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685900"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505082"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Pristup BitLocker tasterima za oporavak
+# <a name="accessing-bitlocker-recovery-keys"></a>Pristup BitLocker ključevima za oporavak
 
-Prilikom konfigurisanja smernica zaštite krajnjih tačaka, moguće je definisati da li se informacije o BitLocker oporavku treba uskladištiti u usluzi Azure Active Directory.
+Prilikom konfigurisanja BitLocker postavki Intune smernice za zaštitu krajnje tačke, moguće je definisati da li bitlocker informacije o oporavku treba da budu uskladištene u Azure Active Directory.
 
-Ako je ta postavka konfigurisana, uskladišteni podaci o oporavku treba da budu vidljivi administratorskim administratorom kao deo podataka zapisa uređaja u okviru funkcije "Umetanje uređaja" na dva načina:
+Ako je ta postavka konfigurisana, uskladišteni podaci o oporavku trebalo bi da budu vidljivi Intune adminitaru kao deo podataka zapisa o uređaju u intune uređajima na dva načina:
 
-Uređaji-Azure AD uređaji-> "uređaj" ili uređaji-> svi uređaji-> "uređaj"-> ključeve za oporavak
+Uređaji - Azure AD uređaji - > "Uređaj" ILI uređaji -> Svi uređaji -> "Uređaj" -> za oporavak
 
-Pored toga, ako postoji administrativni pristup samom uređaju, ključ za oporavak (lozinka) se može vidjeti tako što će pokrenuti sledeću komandu sa pune komandne linije:
+Osim toga, ako postoji administrativni pristup samom uređaju, ključ za oporavak (Lozinka) može da se vidi tako što će pokrenuti sledeću komandu sa komandne linije sa punim privilegijama:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Ako je uređaj šifrovan pre nego što se vrati u Intune, ključ za oporavak možda je povezan sa "Microsoft nalogom" (MSA) koji se koristi za prijavljivanje na uređaj tokom OOBE procesa. Ako je to bio slučaj, pristupanjem  https://onedrive.live.com/recoverykey i prijavljivanju sa tom MSA trebalo bi da pokaže uređaje za koje su uskladišteni ključevi za oporavak.
+Ako je uređaj šifrovan pre upisanja u Intune, ključ za oporavak je možda povezan sa "Microsoft nalogom" (MSA) koji se koristi za prijavljivanje na uređaj tokom OOBE procesa. Ako je to slučaj, pristupanje tom MSA uređaju i prijavljivanje sa njim trebalo bi da pokazuje uređaje za koje su uskladišteni  https://onedrive.live.com/recoverykey ključevi za oporavak.
  
-Ako je uređaj šifrovan kao rezultat konfiguracije pomoću smernica grupe zasnovane na domenu, informacije o oporavku mogu se uskladištiti u aktivnom direktorijumu.
- 
+Ako je uređaj šifrovan kao rezultat konfiguracije putem smernica grupe zasnovane na domenu, informacije o oporavku mogu da budu uskladištene u prethodnom sistemu Active Directory.
+
+Ako ste konfigurisali smernice za zaštitu krajnje tačke tako da skladište ključ za oporavak u Azure Active Directory, ali ključ za određeni uređaj nije otpremen, možete da pokrenete otpremanje tako što ćete rotirati ključ za oporavak za taj uređaj sa MEM konzole. Za detalje pogledajte [rotiranje BitLocker ključeva za oporavak.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
