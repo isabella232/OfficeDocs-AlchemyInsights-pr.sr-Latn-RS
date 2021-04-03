@@ -1,5 +1,5 @@
 ---
-title: Otvaranje Microsoft Edge DevTools
+title: Otvorite Microsoft Edge DevTools
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004033"
 - "7103"
-ms.openlocfilehash: 2585bf257525fa346113f0e8822919cd0a9de479
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8296"
+- "9004617"
+ms.openlocfilehash: d9ad762c4c5c50990e94212c9bd00d8a5e8e3cf5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573552"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505724"
 ---
-# <a name="open-microsoft-edge-devtools"></a><span data-ttu-id="c63d4-102">Otvaranje Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="c63d4-102">Open Microsoft Edge DevTools</span></span>
+# <a name="open-microsoft-edge-devtools"></a><span data-ttu-id="380fe-102">Otvorite Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="380fe-102">Open Microsoft Edge DevTools</span></span>
 
-<span data-ttu-id="c63d4-103">Dok korisnici žele brzi pristup razliиitim delovima usluge DevTools, postoje različiti načini za [Otvaranje Microsoft Edge devtools](https://go.microsoft.com/fwlink/?linkid=2135152).</span><span class="sxs-lookup"><span data-stu-id="c63d4-103">As users want fast access to different parts of the DevTools UI, there are different ways to [Open Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).</span></span>
+<span data-ttu-id="380fe-103">Pošto korisnici žele brz pristup različitim delovima UI-ja alatki za devTools, postoje različiti načini za otvaranje [alatki Microsoft Edge DevTools.](https://go.microsoft.com/fwlink/?linkid=2135152)</span><span class="sxs-lookup"><span data-stu-id="380fe-103">As users want fast access to different parts of the DevTools UI, there are different ways to [Open Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).</span></span>
