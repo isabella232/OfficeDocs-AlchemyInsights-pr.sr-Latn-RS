@@ -1,5 +1,5 @@
 ---
-title: Oslobodite prostor za disk jedinicu u operativnom sistemu Windows 10
+title: Oslobađanje prostora na disk jedinici na OS Windows 10
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037947"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505370"
 ---
-# <a name="free-up-drive-space-in-windows-10"></a>Oslobodite prostor za disk jedinicu u operativnom sistemu Windows 10
+# <a name="free-up-drive-space-in-windows-10"></a>Oslobađanje prostora na disk jedinici na OS Windows 10
 
-Evo dve opcije da biste oslobodili prostor za disk jedinicu u operativnom sistemu Windows:
+Ovo su dve opcije za oslobađanje prostora na disk jedinici na OS Windows:
 
-- Oslobodite prostor za disk jedinicu u operativnom sistemu Windows 10.
+- Oslobodite prostor na disk jedinici na OS Windows 10.
 - Oslobodite prostor za Windows 10 ispravke sa spoljnim uređajem za skladištenje.
 
-Ako i dalje imate nizak prostor na disku nakon korišćenja alatke "Čišćenje diska", moguće je da se fascikla temp brzo popunjava sa datotekama aplikacije (. appx) koje koristi Microsoft Store. Da biste rešili ovaj problem, poništite skladište, obrišite keš skladišta, a zatim pokrenite alatku za rešavanje problema sa uslugom Windows Update. Uverite se da je Microsoft prodavnica zatvorena pre nego što nastavite sa ovim koracima.
+Ako i dalje nemate dovoljno prostora na disku nakon čišćenja diska, moguće je da se fascikla privremenih datoteka brzo puni datotekama aplikacija (.appx) koje koristi Microsoft Store prodavnica. Da biste rešili ovaj problem, resetujte Store prodavnicu, obrišite keš memoriju Store prodavnice, a zatim pokrenite rešavanje problema veb lokacije Windows Update. Proverite da li je Microsoft Store prodavnica zatvorena pre nego što nastavite sa ovim koracima.
 
-**1. prvi: poništavanje Microsoft prodavnice**
+**1. korak: Resetujte Microsoft Store**
 
-**Napomena** Ovo trajno briše podatke aplikacije na uređaju, uključujući željene postavke i detalje za prijavljivanje.
+**Napomena** Ovo trajno briše podatke aplikacija na uređaju, uključujući i željene postavke i detalje o prijavljivanju.
 
-1. Izaberite stavke postavke **početnog**  >  **postavki**  >    >  **& funkcijama**.
+1. Izaberite **ekran „Početak“** > **Postavke** > **Aplikacije** > **Aplikacije i funkcije**.
 
-1. Na listi aplikacija pronađite i izaberite stavku Microsoft butik.
+1. Na listi aplikacija pronađite i izaberite Microsoft Store prodavnicu.
 
-1. Izaberite stavku **Napredne opcije**.
+1. Izaberite **Napredne opcije**.
 
-1. Pomerajte se nadole i izaberite stavku **Poništi**, a zatim **potvrdite početne vrednosti**.
+1. Pomerajte se nadole i izaberite stavku **Resetovanje**, a zatim stavku **Potvrdi resetovanje**.
 
-**2.2: Opozovite izbor u okviru keš Microsoft prodavnice**
+**2. korak: Obrišite keš memoriju Microsoft Store prodavnice**
 
-1. Pritisnite taster sa Windows logotipom + R da biste otvorili dijalog "pokreće".
+1. Pritisnite kombinaciju tastera sa Windows logotipom + R da biste otvorili dijalog „Pokretanje“.
 
-1. Otkucajte wsreset.exe i kliknite na **dugme u redu**.
+1. Otkucajte wsreset.exe i izaberite stavku **U redu**.
 
-1. Otvara se prazan prozor komandne linije. Posle 10 sekundi, prozor se zatvara i automatski se otvara.
+1. Otvara se prazan prozor komandne linije. Nakon oko 10 sekundi, prozor se zatvara a Store prodavnica se automatski otvara.
 
-**Treći broj: poništi Windows Update**
+**3. korak: Resetovanje veb lokacije Windows Update**
 
-1. Izaberite stavku **pokretanje**  >  **postavki**  >  **Ažuriranje & bezbednosti**  >  .
+1. Izaberite **ekran „Početak“** > **Postavke** > **Ažuriranje i bezbednost** > **Rešavanje problema**.
 
-1. Pomerajte se nadole i izaberite stavku **Windows Update** sa liste i izaberite stavku **pokrenite alatku za rešavanje problema**.
+1. Krećite se nadole i izaberite stavku **Veb lokacija Windows Update** sa liste, a zatim izaberite stavku **Pokreni rešavanje problema**.
 
-1. Ponovo pokrenite računar i provjerite da li i dalje nailazite na problem.
+1. Ponovo pokrenite računar i proverite da li se problem i dalje javlja.
 
