@@ -5,23 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 5cc160eb3d78f92ffb82cab79db2685fa9aef88f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 2939012f3a3e01106bcf7a44bed14b954005211d
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553536"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505802"
 ---
-# <a name="recording-in-teams"></a><span data-ttu-id="049eb-102">Snimanje u usluzi Teams</span><span class="sxs-lookup"><span data-stu-id="049eb-102">Recording in Teams</span></span>
+# <a name="recording-in-teams"></a><span data-ttu-id="4716d-102">Snimanje u usluzi Teams</span><span class="sxs-lookup"><span data-stu-id="4716d-102">Recording in Teams</span></span>
 
-<span data-ttu-id="049eb-103">Ako ne možete da snimate u usluzi Teams ili vam treba pomoć pri tome, pročitajte neki od sledećih članaka.</span><span class="sxs-lookup"><span data-stu-id="049eb-103">If you are unable to record in Teams or need to understand how to record in Teams, try one of the following articles.</span></span>
+<span data-ttu-id="4716d-103">Snimci sastanaka u usluzi Microsoft Teams od sada se mogu skladištiti u uslugama OneDrive ili SharePoint. Za više informacija i prijavu pogledajte sledeću objavu Centra za poruke: [(Ažurirano) Microsoft Teams: snimci sa sastanaka sačuvani u uslugama OneDrive i SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)</span><span class="sxs-lookup"><span data-stu-id="4716d-103">Microsoft Teams Meeting Recording can now be stored in OneDrive or SharePoint, for more information and to opt-in, see the following Message Center Post: [(Updated) Microsoft Teams: meeting recordings saved to OneDrive and SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)</span></span>
 
-- <span data-ttu-id="049eb-104">Da biste naučili kako da počnete da snimate u usluzi Teams ili koji tip korisnika može da počne ili prestane da snima u usluzi Teams, pregledajte članak [Snimanje sastanka u usluzi Teams](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span><span class="sxs-lookup"><span data-stu-id="049eb-104">To learn how to start a recording in Teams, or the type of users that can start or stop a recording in Teams, please review [Record a meeting in Teams](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span></span>
+<span data-ttu-id="4716d-104">Ako lokaciju skladišta premestite na OneDrive ili SharePoint, uklonićete prethodni zahtev da Stream bude dostupan u vašem regionu.</span><span class="sxs-lookup"><span data-stu-id="4716d-104">Moving your storage location to OneDrive or SharePoint eliminates the previous requirement that Stream be available in your region.</span></span>
 
-- <span data-ttu-id="049eb-105">Da biste saznali kako da onemogućite i konfigurišete funkciju snimanja u usluzi Teams u vašoj organizaciji, pregledajte članak [Snimanje sastanaka u oblaku u usluzi Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).</span><span class="sxs-lookup"><span data-stu-id="049eb-105">To learn how to enable and configure the recording feature in Teams for your organization, please review [Teams cloud meeting recording](https://docs.microsoft.com/microsoftteams/cloud-recording).</span></span>
+<span data-ttu-id="4716d-105">Da biste saznali kako da **omogućite i konfigurišete funkciju snimanja** u usluzi Teams za vašu organizaciju, **uključujući i kontrole za omogućavanje ili onemogućavanje snimanja sastanaka za određene korisnike**, pregledajte [snimanje Teams sastanaka u oblaku](https://docs.microsoft.com/microsoftteams/cloud-recording).</span><span class="sxs-lookup"><span data-stu-id="4716d-105">To learn how to **enable and configure the recording feature** in Teams for your organization, **including controls for enabling or disabling Meeting Recording for specific users**, review [Teams cloud meeting recording](https://docs.microsoft.com/microsoftteams/cloud-recording).</span></span>
+
+<span data-ttu-id="4716d-106">Ako **ne možete da snimate u usluzi Teams ili vam treba pomoć pri tome**, pročitajte neki od sledećih članaka:</span><span class="sxs-lookup"><span data-stu-id="4716d-106">If you are **unable to record in Teams or need to understand how to record** in Teams, try one of the following articles:</span></span>
+
+- <span data-ttu-id="4716d-107">Ako se još niste prijavili za OneDrive ili SharePoint skladište za snimanje Teams sastanaka, ove mogućnosti se oslanjaju na dostupnost usluge Stream prema regionu i zemlji.</span><span class="sxs-lookup"><span data-stu-id="4716d-107">If you haven’t yet opted into OneDrive or SharePoint storage for Teams Meeting Recording, these capabilities rely on Stream regional and country availability.</span></span> <span data-ttu-id="4716d-108">Ako ne možete da snimite sastanak, proverite da li je [Stream dostupan u vašoj zemlji ili vašem regionu](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).</span><span class="sxs-lookup"><span data-stu-id="4716d-108">If you cannot record a meeting check to ensure that [Stream is available in your country or region](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).</span></span> <span data-ttu-id="4716d-109">Za više informacija pregledajte sledeću objavu u Centru za poruke na portalu za administraciju: [Ažurirana funkcija: Microsoft Stream regionalna kontrola skladišta snimaka u oblaku](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)</span><span class="sxs-lookup"><span data-stu-id="4716d-109">For more information be sure to review the following Message Center post in the Admin Portal: [Updated Feature: Microsoft Stream cloud recordings regional storage control](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)</span></span>
+
+- <span data-ttu-id="4716d-110">Snimanje sastanaka u usluzi Teams [zahteva dodelu određenih licenci i smernica](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), uključujući Stream licence za otpremanje ili preuzimanje snimaka sa sastanaka u Microsoft Stream.</span><span class="sxs-lookup"><span data-stu-id="4716d-110">Meeting Recording in Teams [requires specific licenses and policies to be assigned](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), including Stream licenses to upload or download meeting recordings to Microsoft Stream.</span></span>
+
+- <span data-ttu-id="4716d-111">Kada potvrdite da su svi uslovi ispunjeni, uključujući licenciranje, smernice i regionalnu dostupnost usluge Stream, pregledajte članak [Snimanje sastanaka u usluzi Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span><span class="sxs-lookup"><span data-stu-id="4716d-111">Once you’ve confirmed all requirements are met, including licensing, policies and regional availability of Stream, review [Record a meeting in Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span></span>
