@@ -1,5 +1,5 @@
 ---
-title: Ispravka greške 0x8004de40 u usluzi OneDrive
+title: Otklonite 0x8004de40 greške u usluzi OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745144"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649762"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Ispravka greške 0x8004de40 u usluzi OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Otklonite 0x8004de40 greške u usluzi OneDrive
 
-Ako primite grešku 0x8004de40 0 uz OneDrive:
+Ako imate Windows 7 i dobijate ovu grešku, ažurirajte je da biste omogućili [TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)kao podrazumevane bezbedne protokole u operativnom sistemu WinHTTP u operativnom sistemu Windows.
 
-- Ponovo pokrenite računar koji utiče na njega dok ste povezani sa Acitve Domain Domain Directory.
-- Ako ponovno pokretanje ne reši problem, odpridružite se i pridružite se uređaju iz usluge Azure AD. 
+Ako imate Windows 10 i dobijate 0x8004de40 sa OneDrive:
 
-**Napomena**: trebalo bi da budete na mreži preduzeća prilikom izvršavanja ovih koraka. Nemojte vršiti ove korake kada ne možete da se povežete sa korporativnom infrastrukturom (na primer, dok putujete). 
+- Ponovo poništite računar na koji to utiče dok ste povezani sa Acitve Directory domenom.
+- Ako poništavanje ne reši problem, ponovo se pridružite uređaju iz usluge Azure AD i ponovo se pridružite uređaju. 
 
-- Otvorite otvorenu komandnu liniju. 
-- Da biste otvorili povećanu komandnu liniju, kliknite- **Start**, kliknite desnim tasterom miša na **komandnu liniju**, a zatim izaberite stavku **Pokreni kao administrator**.
-- Otkucajte *dsregcmd/ostavi* i pritisnite taster **ENTER**.
-- Kada završite, otkucajte *dsregcmd/JOIN* i pritisnite taster **ENTER**.
-- Kada završite, zatvorite komandnu liniju.
-- Ponovo pokrenite računar i prijavite se u OneDrive.
+**Napomi:** Trebalo bi da budete na mreži preduzeća dok izvršavate ove korake. Nemojte da izvršite ove korake kada niste povezani sa infrastrukturom preduzeća (na primer, prilikom putovanja). 
+
+1. Otvorite komandnu liniju sa punim privilegijama tako što ćete izabrati start **,** kliknite desnim tasterom miša na stavku **Komandna** linija , a zatim izaberite **stavku Pokreni kao administrator**.
+
+1. Otkucajte *dsregcmd /leave* i pritisnite **taster Enter**.
+
+1. Kada završite, *otkucajte dsregcmd /join i* pritisnite **taster Enter.**
+
+1. Kada se dovrše, zatvorite komandnu liniju.
+
+1. Ponovo poništite računar i prijavite se u OneDrive.
