@@ -1,5 +1,5 @@
 ---
-title: Početak korišćenja Microsoft Edge
+title: Početak korišćenja programa Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679822"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692768"
 ---
-# <a name="start-using-microsoft-edge"></a>Početak korišćenja Microsoft Edge
+# <a name="start-using-microsoft-edge"></a>Početak korišćenja programa Microsoft Edge
 
-Microsoft je objavio novu Microsoft Edge, koja je sledeća generacija Veb pregledača. Napravljen je na Hroum otvorenom fondaciji i optimizovan je za rad sa Microsoft proizvodima, kao što su SharePoint i OneDrive.
+Microsoft je objavio novi Microsoft Edge, što je sledeća generacija njegovog veb pregledača. Ugrađena je u Chromium open-source osnovu i optimizovana je za rad sa Microsoft proizvodima, kao što su SharePoint i OneDrive.
 
-Ako imate problema sa Google Chrome, Mozilla Firefox ili safari, preporučujemo vam da koristite Microsoft Edge.
+Ako imate problema sa programom Google Chrome, Mozilla Firefox ili Safari, preporučujemo da koristite Microsoft Edge.
 
-Ako ste administrator velike organizacije, koristite naš [Vodič za Microsoft Edge podešavanje](https://go.microsoft.com/fwlink/?linkid=2142423) da biste počeli.
+Ako ste vi korisnik velike organizacije, koristite vodič za podešavanje programa [Microsoft Edge da](https://go.microsoft.com/fwlink/?linkid=2142423) biste počeli.
 
-Da biste preuzeli Microsoft Edge na jednom uređaju odjednom, idite na [predstavljanje nove Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
+Da biste preuzeli Microsoft Edge na jednom po jednom uređaju, idite na [Uvod u novi Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)

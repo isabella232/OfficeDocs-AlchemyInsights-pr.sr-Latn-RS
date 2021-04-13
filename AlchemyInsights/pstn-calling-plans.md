@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662519"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692480"
 ---
 # <a name="pstn-calling-plans"></a>Planovi PSTN pozivanja
 
@@ -28,4 +28,4 @@ Ako želite da korisnici imaju mogućnost pozivanja standardnih telefona, a još
 
 - Podesite [Kredit za komunikaciju](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) da biste sprečili da korisnicima **ponestane minuta**. Pogledajte cene [ovde](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Za više informacija pogledajte članak [Planove telefonskih sistema i pozivanja](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ili [Šta su krediti za komunikaciju?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Više informacija potražite u članku [Microsoft Teams telefon i Microsoft Teams planovi pozivanja](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ili Šta su [to krediti za komunikaciju?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
