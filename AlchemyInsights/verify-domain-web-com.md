@@ -1,8 +1,8 @@
 ---
-title: Verifikujte domen uz web.com
+title: Verifikacija domena web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b3f87de3657ee5060e91abc76ff64a7e5ba7f5ab
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: a6b20db14f752a3a27970af0318934907ff21083
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815763"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770645"
 ---
-# <a name="verify-your-domain-with-webcom"></a><span data-ttu-id="3edb7-102">Verifikujte domen uz web.com</span><span class="sxs-lookup"><span data-stu-id="3edb7-102">Verify your domain with web.com</span></span>
+# <a name="verify-your-domain-with-webcom"></a><span data-ttu-id="22334-102">Verifikacija domena web.com</span><span class="sxs-lookup"><span data-stu-id="22334-102">Verify your domain with web.com</span></span>
 
-<span data-ttu-id="3edb7-103">Da biste verifikovali domen, moraćete da dodate TXT zapis u registar domena da biste potvrdili da posedujete domen.</span><span class="sxs-lookup"><span data-stu-id="3edb7-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="22334-103">Da biste verifikuli domen, morate da dodate TXT zapis u registar domena da biste potvrdili da ste vlasnik domena.</span><span class="sxs-lookup"><span data-stu-id="22334-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="3edb7-104">Prvo kliknite na dugme [Dodaj čarobnjak za domen](https://admin.microsoft.com/Adminportal#/Domains) tako što ćete izabrati stavke **Postavke** \> **domena**, a zatim **dodati domen**.</span><span class="sxs-lookup"><span data-stu-id="3edb7-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="22334-104">Prvo pratite čarobnjak za dodavanje [domena tako](https://admin.microsoft.com/Adminportal#/Domains) što će izabrati **stavku Postavke domeni** , a \> zatim stavku **Dodavanje domena.**</span><span class="sxs-lookup"><span data-stu-id="22334-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="3edb7-105">Pogledajte članak [Kreiranje DNS zapisa na sajtu Web.com za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) za uputstva "pokoraka".</span><span class="sxs-lookup"><span data-stu-id="3edb7-105">See [Create DNS records at web.com for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) for step-by-step instructions.</span></span>
+<span data-ttu-id="22334-105">Pogledajte [članak Kreiranje DNS zapisa na web.com članku Microsoft 365 za](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) uputstva korak po korak.</span><span class="sxs-lookup"><span data-stu-id="22334-105">See [Create DNS records at web.com for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) for step-by-step instructions.</span></span>
