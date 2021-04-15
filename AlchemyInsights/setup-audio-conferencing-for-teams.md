@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764383"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692696"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Podešavanje zvučnih konferencija za Teams
 
@@ -34,7 +35,7 @@ Da biste proverili da li je korisnik licenciran za audio konferenciju i da li im
 
 3. Potvrdite da je korisnik izabrao licence za **Audio konferencije, Microsoft Teams** i **Skype za posao Online (plan 2)**.
 
-4. U okviru korisničkog **Centra administracije** kliknite na dugme **Prikaži sve**, a zatim**Teams**.
+4. U okviru korisničkog **Centra administracije** kliknite na dugme **Prikaži sve**, a zatim **Teams**.
 
 5. U **Microsoft Teams centru administracije** izaberite stavku **Zastareli portal**.
 
@@ -42,4 +43,4 @@ Da biste proverili da li je korisnik licenciran za audio konferenciju i da li im
 
 7. Izaberite korisnika koji je u pitanju i proverite da li on ima **podrazumevani broj sa naplatom**.
 
-Više informacija potražite u članku [Planovi pozivanja za Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć u vezi sa pitanjima u vezi sa licenciranjem.
+Više informacija potražite u članku [Microsoft Teams planovi pozivanja za Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć u vezi sa pitanjima u vezi sa licenciranjem.

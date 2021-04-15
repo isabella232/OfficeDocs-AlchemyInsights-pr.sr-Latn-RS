@@ -1,8 +1,8 @@
 ---
-title: XLS datoteka se nije otvorila na dvostrukom klikom
+title: XLS datoteka se nije otvorila dvostrukim klikom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796338"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770609"
 ---
 # <a name="excel-file-doesnt-open"></a>Excel datoteka se ne otvara
 
-Isprobajte neke od ovih predloga:
+Isprobajte neki od ovih predloga:
 
-**Odaberite stavku Excel kao podrazumevani**
+**Odaberite Excel kao podrazumevani**
 
-* Kliknite desnim tasterom miša na radni list, odaberite stavku **Otvori sa**, a zatim odaberite stavku **Excel**
+* Kliknite desnim tasterom miša na radni list, odaberite stavku **Otvori u**, a zatim odaberite stavku **Excel**
 
-**Pokreće brzu popravku**
+**Pokretanje brze popravke**
 
-1. Idite na **kontrolnu tablu > programi > programi i funkcije**.
+1. Idite na **kontrolnu tablu > Programi > "Programi i funkcije"**.
 
-2. Izaberite Office proizvod koji želite da popravite, a zatim odaberite stavku **Promeni**.
+2. Izaberite Office proizvod koji želite da popravite, a zatim odaberite **stavku Promeni.**
 
-3. Odaberite opciju **Brza popravka** , a zatim odaberite stavku **Popravi**.
+3. Odaberite **opciju Brza popravka,** a zatim odaberite **stavku Popravi.**
 
-**Deinstaliranje verzija sistema Office koje ne koristite**
+**Deinstalacija verzija sistema Office koje ne koristite**
 
-1. Idite na **kontrolnu tablu > Deinstaliraj program**, a zatim izaberite verziju sistema Office koju želite da uklonite.
+1. Idite na **kontrolnu > Deinstaliranje programa**, a zatim izaberite verziju sistema Office koju želite da uklonite.
 
-2. Kliknite na dugme **Deinstaliraj**.
+2. Izaberite **stavku Deinstalni**.
 
 3. Ponovo pokrenite računar.
 
-**Pokrenite ovaj program za rešavanje problema da biste otvorili Office datoteke za otvaranje u sistemu Office**
+**Pokrenite ovu alatku za rešavanje problema da biste podesili da se oznake tipa Office datoteka otvaraju u programu Office**
 
-1. Pokrenite ovaj program za rešavanje problema: https://aka.ms/diag_officefile .
+1. Pokrenite ovu alatku za rešavanje problema: https://aka.ms/diag_officefile .
 
-2. U zavisnosti od pregledača, **Otvorite** ili **Sačuvajte** alatku za rešavanje problema na radnoj površini, a zatim ga **pokrenite** .
+2. U zavisnosti od pregledača, otvorite **ili sačuvajte alatku** za **rešavanje** problema na radnoj površini, a zatim ga **pokrenite.**

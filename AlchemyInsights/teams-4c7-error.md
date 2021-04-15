@@ -1,8 +1,8 @@
 ---
-title: Greška tima 4c7
+title: Teams 4c7 greška
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 08494b461a24eba8999a5edb99c89af7b17db9b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786683"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>Greška 4c7 u Microsoft timovima
+# <a name="4c7-error-in-microsoft-teams"></a>4c7 greška u aplikaciji Microsoft Teams
 
-Do ove greške dolazi zato što Microsoft zahteva potvrdu identiteta. Kada primenite usluge usluge za Active Directory (AD FS), potvrda identiteta obrazaca se podrazumevano ne omogućava za intranet. Ako Integrisana Windows potvrda identiteta ne uspe, bićete upitani da se prijavite pomoću potvrde identiteta obrazaca.
+Do ove greške dolazi zato što Microsoft Teams zahteva potvrdu identiteta obrasca. Kada primenite Active Directory usluge za ukidanje (AD FS), potvrda identiteta obrazaca nije podrazumevano omogućena za intranet. Ako Windows integrisana potvrda identiteta ne uspe, bićete upitani da se prijavite pomoću potvrde identiteta obrasca.
 
-Da biste rešili ovaj problem, omogućite proveru identiteta obrazaca tako što ćete koristiti proširenje programskog dodatka AD FS Microsoft Management Console (MMC) na računaru koji ima lokalnu kopiju aktivnog direktorijuma. Da biste to uradili, pratite ove korake: 
+Da biste rešili ovaj problem, omogućite potvrdu identiteta obrasca pomoću proširenja konzole AD FS Microsoft Management Console (MMC) na računaru koji ima lokalnu kopiju usluge Active Directory. Da biste to uradio, sledite ove korake: 
 
-1. U oknu za navigaciju potražite smernice za **potvrdu identiteta**.
-2. U okviru **Radnje** u oknu detalji izaberite stavku **Uredi globalnu primarnu potvrdu identiteta**.
-3. Na kartici **intranet** izaberite stavku **potvrda identiteta obrazaca**.
-4. Izaberite stavku **u redu** (ili se **primenjuje**).
+1. U oknu za navigaciju potražite smernice **za potvrdu identiteta.**
+2. U **okviru Radnje** u oknu sa detaljima, izaberite stavku **Uredi globalnu primarnu potvrdu identiteta.**
+3. Na kartici **Intranet** izaberite stavku **Potvrda identiteta obrazaca**.
+4. Izaberite **stavku U** redu (ili **Primeni**).

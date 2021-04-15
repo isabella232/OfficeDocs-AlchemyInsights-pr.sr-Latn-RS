@@ -1,34 +1,35 @@
 ---
-title: Licenca za telefonske sisteme
+title: Licenca za Microsoft Teams telefoniju
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: b4f27df2dbdab5e28f8a12c74a58cd8dba6c0b75
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: b7d68e01456a1a055d975a1d9a3f8bc35f5296c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054006"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692732"
 ---
-# <a name="phone-system-license"></a>Licenca za telefonske sisteme
+# <a name="microsoft-teams-phone-license"></a>Licenca za Microsoft Teams telefoniju
 
-Licenca za **Telefonski sistem** je programski dodatak za **Microsoft Teams**. Licenca je podrazumevano dostupna sa [Office 365 Enterprise E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab) i treba da se kupe kao programski dodatak za [Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software) ili [E3](https://products.office.com/business/office-365-enterprise-e3-business-software) plan.
+**Licenca za Microsoft Teams telefoniju** je programski dodatak za **Microsoft Teams**. Licenca je podrazumevano dostupna sa [Office 365 Enterprise E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab) i treba da se kupe kao programski dodatak za [Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software) ili [E3](https://products.office.com/business/office-365-enterprise-e3-business-software) plan.
 
 1. Prijavljivanje u Microsoft 365 centar administracije.
 
 2. Idite na **Naplata > Usluge kupovine >** Dodatak pretplate. 
 
-3. Videćete programski dodatak "telefon u sistemu". Kliknite na dugme **Kupite odmah**.
+3. Videćete programski dodatak za Teams telefoniju. Kliknite na dugme **Kupi odmah**.
 
-Kada kupite licencu telefonskog sistema, videćete cenu i opciju za kupovinu plana pozivanja.
+Kada kupite licencu za Teams telefoniju, videćete cenu i opciju za kupovinu plana pozivanja.
 
-**Napomena**: Može potrajati od 2 do 24 časa da promene stupe na snagu. Više informacija potražite u članku [Podešavanje telefonskog sistema u organizaciji](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system). 
+**Napomena**: Može potrajati od 2 do 24 časa da promene stupe na snagu. Više informacija potražite u članku [Podešavanje Microsoft Teams telefonije u organizaciji](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system). 
 

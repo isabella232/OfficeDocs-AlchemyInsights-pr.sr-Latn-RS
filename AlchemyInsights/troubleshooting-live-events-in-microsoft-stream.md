@@ -1,8 +1,8 @@
 ---
-title: Rešavanje problema uživo u programu Microsoft stream
+title: Rešavanje problema sa događajima uživo u programu Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: 18ffe57c251db9c36f8c7ab56633fe3772f8aa4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0637bb8f96038c6e9898b5148fe4458358fdc6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749853"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782894"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Rešavanje problema uživo u programu Microsoft stream
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Rešavanje problema sa događajima uživo u programu Microsoft Stream
 
-Postoje razna područja da biste proverili da li se Microsoft stream Live nesmetano pokreću. Više informacija potražite [u članku rešavanje problema sa događajima uživo u programu Microsoft stream](https://docs.microsoft.com/stream/live-event-troubleshooting).
+Postoje različite oblasti koje možete da proverite kako biste obezbedili da se Microsoft Stream live događaji neometano pokreću. Više informacija potražite u članku Rešavanje [problema sa događajima uživo u aplikaciji Microsoft Stream.](https://docs.microsoft.com/stream/live-event-troubleshooting)

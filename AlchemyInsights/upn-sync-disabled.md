@@ -1,8 +1,8 @@
 ---
-title: UPN sinhronizacija je omogućena
+title: UPN sinhronizacija je onemogućena
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749528"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782165"
 ---
-# <a name="upn-sync-disabled"></a>UPN sinhronizacija je omogućena
+# <a name="upn-sync-disabled"></a>UPN sinhronizacija je onemogućena
 
-Ako ste započeli sinhronizaciju sa Azure AD pre 30.2016, uradite sledeće Azure AD PowerShell cmdlet usluge da biste omogućili UPN Meki podudaranje samo za vašu organizaciju:
+Ako ste počeli da sinhronizujete sa uslugom Azure AD pre 30. marta 2016. godine, pokrenite sledeću Azure AD PowerShell cmdlet da biste omogućili UPN uslovno podudaranje samo za organizaciju:
   
- **Funkcija for-Msoldirsyncfunkcije-Enablesoftprovoonupn-omogućavanje $True**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**
   
-UPN meka podudaranje automatski se uključuje za organizacije koje su počele da se sinhronizuju sa uslugom Azure AD ili posle 2016 30.
+UPN meko podudaranje automatski je uključeno za organizacije koje su započele sinhronizaciju sa Azure AD uključene ili posle 30. marta 2016.
   
-Da biste saznali više o omogućavanju mekog podudaranja na UPN i drugim funkcijama sinhronizacije, pogledajte članak [funkcije Azure AD Connect sinhronizacija](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Da biste saznali više o omogućavanju mekih podudaranja u UPN-u i drugim funkcijama sinhronizacije, pogledajte [TPG Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)funkcije usluge sinhronizacije.
   
 

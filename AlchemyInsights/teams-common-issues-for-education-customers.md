@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739450"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692408"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Uobičajeni problemi sa uslugom Teams za klijente iz oblasti obrazovanja
 
@@ -45,7 +46,7 @@ Ako vam je potrebna pomoć u primeni usluge Teams za podršku pri daljinskom uč
     6. U centru administracije za Skype za posao izaberite stavku **Audio konferencija**, a zatim stavku **korisnici**.
     7. Izaberite odgovarajućeg korisnika i proverite da li ima podrazumevani broj sa naplatom.
 
-    Više informacija potražite u članku [Planovi pozivanja](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć sa pitanjima u vezi sa licenciranjem.
+    Više informacija potražite u članku [Microsoft Teams planovi pozivanja](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć u vezi sa pitanjima u vezi sa licenciranjem.
 
     Dodatni resursi
 

@@ -1,25 +1,28 @@
 ---
-title: '2571 nova funkcija: nabavite povratne informacije o spam presudama'
+title: '2571 Nova funkcija: Dobijanje povratnih informacija o rezonima o spam e-pošti'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: e68cda455ddb312be3c1d2e5f37cb77d566de598
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 098dd1d16ea94d99fdfdf9cf760462d3df92eee4
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707689"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767879"
 ---
-# <a name="get-feedback-about-spam-judgments"></a>Nabavite povratne informacije o spam presudama
+# <a name="get-feedback-about-spam-judgments"></a>Dobijanje povratnih informacija o rasućivanju odbegle e-poruke
 
-Kao administrator, možete lako da prijavite sumnjive e-poruke, URL adrese i sadržaj korporaciji Microsoft u programu " [Explorer](https://protection.office.com/reportsubmission)". Možete da ga koristite i da biste razumeli zašto je legitimna poruka bila pogrešno označena zastavicom. Više informacija potražite u ovom [saopštenju](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+> [!NOTE]
+> Možete da pristupite Microsoft 365 centru za bezbednost na [security.microsoft.com.](https://security.microsoft.com)
 
-Da bi bilo lakše, možete da omogućite korisnicima da se prijavljuju direktno korporaciji Microsoft putem [programskog dodatka Message report](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kao dobavljač, u istraživaču prosleđenih poruka lako možete prijaviti sumnjive e-poruke, UL adrese i sadržaj korporaciji [Microsoft.](https://security.microsoft.com/reportsubmission) Možete čak i da je koristite kako biste razumeli zašto je legitimna poruka pogrešno označena. Dodatne informacije potražite u ovoj [objavi.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)
+
+Da biste to olakšali, možete da dozvolite korisnicima da direktno izveštavaju korporaciji Microsoft putem programnog [dodatka Poruka izveštaja.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
