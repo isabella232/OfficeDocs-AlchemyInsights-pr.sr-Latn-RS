@@ -1,8 +1,8 @@
 ---
-title: Nedostaje duplikat
+title: Nedostaje – duplikat
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673764"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793226"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Rešavanje problema sa stavkama koje nedostaju i duplirane kalendarima
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Rešavanje problema sa stavkama kalendara koje nedostaju i dupliranje kalendarskih stavki
 
-Informacije o tome kako da rešite probleme sa obavezama koje nedostaju i duplirane kada koristite Microsoft Outlook i Microsoft Exchange server, potražite u članku [Rešavanje problema sa zakazanim obavezama koje nedostaju i koriste u programu Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).
+Informacije o rešavanju problema sa zakazanim obavezama koje nedostaju i duplirane kada koristite microsoft Outlook i Microsoft Exchange Server potražite u članku Rešavanje problema sa zakazanim obavezama koje nedostaju i duplirane u [programu Outlook.](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)

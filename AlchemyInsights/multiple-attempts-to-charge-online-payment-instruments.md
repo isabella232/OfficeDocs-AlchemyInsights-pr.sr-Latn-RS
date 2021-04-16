@@ -1,8 +1,8 @@
 ---
-title: Više pokušaja naplate online platni instrumenti
+title: Višestruki pokušaji naplate putem instrumenta plaćanja na mreži
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724665"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792722"
 ---
-# <a name="past-due-account"></a>Prošli nalog?
+# <a name="past-due-account"></a>Da li ste prošli sa krajnjim rokom?
 
-Uplata može da se odbije iz nekoliko razloga, uključujući ako je kreditna kartica istekla. Funkciju **Izmirenje zaduženja** možete da koristite bilo kada da biste promenili informacije o kreditnoj kartici i odmah ponovo prosledili plaćanje.
+Uplata može da bude odbijena iz nekoliko razloga, uključujući i to da li je kreditna kartica istekla. Funkciju **Izmirenje zaduženja** možete da koristite bilo kada da biste promenili informacije o kreditnoj kartici i odmah ponovo prosledili plaćanje.
 
-1. U centru administracije idite na **usluge naplata > [proizvodima & uslugama](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-Pronađite pretplatu sa izuzetnom ravnotežom. U odeljku **naplatu** , pored **pretplate postoji prethodna isplata**, izaberite stavku **uravnoteži saldo** da biste platili čitavu ravnotežu.
+1. U centru aktivnosti idite na naplatu u > **[Proizvodi & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Pronađite pretplatu sa neizmenjenim saldom. U **odeljku Naplata,** pored pretplate je zadato  plaćanje sa kašnjenja **,** izaberite stavku Zakaži saldo da biste platili celokupan neizmireni saldo.
 2. Ako posedujete kreditnu karticu, možete da promenite datum isteka, izaberete drugu karticu ili [dodate novu karticu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-3. Ako ne posedujete kreditnu karticu, možete da odaberete drugu kreditnu karticu ili da [dodate novu karticu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-4. Kada dovršite ispravke, kliknite na dugme **Sačuvaj**.
+3. Ako nemate kreditnu karticu, možete da odaberete drugu kreditnu karticu ili [dodate novu karticu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+4. Kada dovršite ažuriranja, kliknite na dugme **Sačuvaj.**
 
-**Napomena**: kada se plati uplata, obaveštenje o krajnjim krajnjim zaslumu može i dalje da bude vidljivo. Sačekajte najmanje **48 časova** pre nego što se kontaktirate.
+**Napom:** Kada se obavi plaćanje, obaveštenje o zakasneloj roku može da bude vidljivo tokom kratkog vremenskog perioda. Sačekajte najmanje **48 sati pre nego što** se obratite podršci.

@@ -1,8 +1,8 @@
 ---
-title: Potrebna vam je pomoć sa mojim Outlook.com nalogom
+title: Potrebna mi je pomoć oko Outlook.com naloga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792398"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Potrebna vam je pomoć sa mojim Outlook.com nalogom
+# <a name="need-help-with-my-outlookcom-account"></a>Potrebna mi je pomoć oko Outlook.com naloga
 
-Ako vam je potrebna pomoć sa uslugom Outlook.com, mi smo posvećeni pomoći da vam pomognemo. Da biste dobili podršku direktno u Veb aplikaciji: 
+Ako vam je potrebna pomoć oko usluge Outlook.com, imamo namenu pomoć koja će vam pomoći. Da biste dobijali podršku direktno na veb aplikaciji: 
 
-1. Kliknite na. ikona na gornjem desnom delu ekrana. 
+1. Kliknite na dugme ? u gornjem desnom redu ekrana. 
 
-2. Otkucajte šta vam je potrebno pomoć u okviru za pomoć prikazano na iskačućem tabli i kliknite na dugme **Prosledi**. 
+2. Otkucajte ono za šta vam je potrebna pomoć u polje za pomoć prikazano na iskačućoj tabli i kliknite na **prosledi.** 
 
-3. Ako se rešenje ne prikazuje, pomerite se nadole u sporednu tablu i kliknite na **e-poruku**.
+3. Ako ne postoji rešenje, pomerite se nadole na bočnu tablu i kliknite na pošaljite **nam e-poruku.**
