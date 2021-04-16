@@ -1,8 +1,8 @@
 ---
-title: Otvori datoteku samo za čitanje
+title: Otvaranje datoteke samo za čitanje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,43 +13,43 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745621"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813198"
 ---
-# <a name="file-open-read-only"></a>Otvori datoteku samo za čitanje
+# <a name="file-open-read-only"></a>Otvaranje datoteke samo za čitanje
 
-Možete otkriti da se one otvaraju samo za čitanje kada otvarate datoteke. U nekom slučaju, ovo je za dodatnu bezbednost, na primer kada otvarate datoteke sa interneta, a drugi put to može da bude zbog podešavanja koja se može promeniti. Evo nekih scenarija kada se datoteka otvara samo za čitanje i neke korake koje možete preduzeti da biste to promenili.
+Možete da otkrijete da se datoteke otvaraju samo za čitanje kada ih otvarate. U nekim slučajevima, ovo je radi dodatne bezbednosti, na primer kada otvarate datoteke sa interneta, a u drugim slučajevima to može biti zbog neke postavke koja se može promeniti. Evo nekih scenarija gde se datoteka otvara kao samo za čitanje, kao i neki koraci koje možete preduzeti da biste to promenili.
   
- **Antivirus me izaziva da otvori samo za čitanje**
+ **Moj antivirusni program uzrokuje otvaranje programa samo za čitanje**
   
-Neki antivirusni programi mogu da vas zaštite od potencijalno nebezbednih datoteka tako što ćete ih otvoriti samo za čitanje. Možda ćete morati da se obratite dobavljaču virusa da biste saznali kako da prilagodite ove postavke. BitDefender, na primer, ima sadržaj na dodavanju isključenja aplikacija ovde: [Kako da dodate isključivanja aplikacije ili procesa u centar za kontrolisanje BitDefender](https://aka.ms/AA6098i).
+Neki antivirusni programi vas možda štite od potencijalno nebezbednih datoteka tako što ih otvaraju samo za čitanje. Možda ćete morati da se vašoj dobavljaču antivirusne zaštite proverite kako da prilagodite ove postavke. BitDefender, na primer, ima sadržaj o dodavanju izuzetka aplikacije ovde: Kako da dodate izuzetke aplikacija ili procesa u [Bitdefender](https://aka.ms/AA6098i)kontrolni centar.
   
- **Da li su svojstva datoteke postavljena samo za čitanje?**
+ **Da li su svojstva datoteke podešena na samo za čitanje?**
   
-Možete da potvrdite svojstva datoteke tako što ćete kliknuti desnim tasterom miša na datoteku i izabrati svojstva. Ako je potvrđen izbor u kom se atribut samo za čitanje proverava, možete da je opozovete i kliknete na dugme u redu.
+Svojstva datoteke možete da proverite tako što ćete kliknuti desnim tasterom miša na datoteku i izabrati stavku Svojstva. Ako je opotrebio atribut "Samo za čitanje", možete da opozivate ga i kliknete na dugme U redu.
   
  **Sadržaj je u zaštićenom prikazu**
   
-Datoteke sa interneta i iz drugih potencijalno nebezbednih lokacija mogu da sadrže viruse, crve ili druge vrste malvera koje mogu da ugroze računar. Ovo je takođe najčešće slučaj sa prilozima e-pošte ili datotekama koje ste preuzeli. Da biste zaštitili računar, datoteke sa ovih potencijalno nebezbednih lokacija otvaraju se u zaštićenom prikazu. Pomoću zaštićenog prikaza možete da pročitate datoteku i vidite njen sadržaj dok umanjujete rizike. Više informacija o zaštićenom prikazu i načinu promene postavki potražite u članku: [Šta je to zaštićeni prikaz?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Datoteke sa interneta i drugih potencijalno nebezbednih lokacija mogu sadržati viruse, crve ili druge vrste malvera koji mogu oštećivati vaš računar. Ovo je takođe često slučaj sa prilozima e-pošte ili preuzetim datotekama. Radi zaštite računara, datoteke sa ovih potencijalno nebezbednih lokacija otvaraju se u zaštićenom prikazu. Pomoću zaštićenog prikaza možete čitati datoteku i videti njen sadržaj umanjujući rizike. Više informacija o zaštićenom prikazu i o tome kako da promenite postavke potražite u ovom članku: [Šta je to zaštićeni prikaz?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Da li je OneDrive pun?**
   
-Ako se datoteka skladišti u usluzi OneDrive i ako je OneDrive prostor za skladištenje pun, nećete moći da sačuvate dokument dok se ne nalazite u okviru dodeljenog prostora. Možete da potvrdite svoj besplatan prostor u usluzi OneDrive tako što ćete kliknuti na ikonu OneDrive na traci obaveštenja i izabrati stavku Upravljanje skladištenjem ili možete otići na [https://onedrive.live.com](https://onedrive.live.com) Prijavljivanje i primetiti količinu korišćenog prostora u donjem levom delu ekrana.
+Ako je datoteka uskladištena u usluzi OneDrive i OneDrive prostor za skladištenje je pun, nećete moći da sačuvate dokument dok ne budete pod prepunjenim prostorom. Možete da proverite slobodan prostor u usluzi OneDrive tako što ćete kliknuti na OneDrive ikonu u centru za obaveštenja i izabrati stavku Upravljanje skladištem, a možete i da odete na , prijavite se i zanemarite količinu iskorišćenog prostora u donjem levom delu [https://onedrive.live.com](https://onedrive.live.com) ekrana.
   
  **Da li je Office aktiviran?**
   
-Ako Office nije aktiviran ili ako je pretplata istekla, možete da budete u režimu umanjenog samo za čitanje. Informacije o tome kako da aktivirate Office potražite u članku: [nelicencirane greške proizvoda i aktivacije u sistemu Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Ako Office nije aktiviran ili ako je pretplata istekla, možda ste u režimu samo za čitanje smanjene funkcionalnosti. Informacije o tome kako da aktivirate Office potražite u: Greške [sa nelicenciranim proizvodom i aktivaciju u programu Office.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
- **Ako sve drugo propadne...**
+ **Ako ništa ne uspe...**
   
 - Pokušajte da ponovo pokrenete računar
     
-- Instaliranje Office ispravki
+- Instaliranje ispravki za Office
     
-- Obavljanje sistema Office na mreži
+- Obavljanje popravke na mreži sistema Office
     
 

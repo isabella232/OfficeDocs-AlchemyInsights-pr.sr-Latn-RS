@@ -1,8 +1,8 @@
 ---
-title: Greška u Pripisanju
+title: Error AttributeValueMustBeUnique
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709165"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813774"
 ---
-# <a name="error-attributevaluemustbeunique"></a>Greška: Autortivaluemustbeunikatna
+# <a name="error-attributevaluemustbeunique"></a>Greška: AttributeValueMustBeUnique
 
-Najčešći razlog za Pripisanjakebrnejedinstvenoj grešci su dva objekta sa različitim vrednostima Sourcesfunkcija (Imunotabenid) imaju istu vrednost za atribute Proklacija i/ili UserPrincipalName. Da biste popravili grešku "Pripisavanje vrednosti"
+Najčešći razlog za AtributValueMustBeUnique grešku je da dva objekta sa različitim SourceAnchor (immutableId) imaju istu vrednost za ProxyAddresses i/ili UserPrincipalName atribute. Da biste popravili grešku AttributeValueMustBeUnique:
   
-1. Identifikujte duplirane Proxyadrese, userPrincipalName ili drugi atribut atributa koji uzrokuje grešku. Takođe identifikuju dva (ili više) objekata koji su uključeni u neusaglašenost. Izveštaj koji generiše Azure AD Connect zdravstvo za sinhronizaciju može vam pomoći da identifikujete dva objekta.
+1. Identifikujte dupliranu vrednost proxyAddresses, userPrincipalName ili drugu vrednost atributa koja izaziva grešku. Takođe identifikujte koji su dva (ili više) objekata uključena u neusaglašenost. Izveštaj koji je generisao Azure AD Connect Health za sinhronizaciju može da vam pomogne da identifikujete dva objekta.
     
-2. Utvrdite koji objekat treba da nastavi da ima duplisanu vrednost i koji objekat ne bi trebalo da bude.
+2. Identifikujte objekat koji bi trebalo da nastavi da ima dupliranu vrednost, a koji objekat ne bi trebalo.
     
-3. Uklonite duplisanu vrednost iz objekta koji ne bi trebalo da ima tu vrednost. Imajte u vidu da bi trebalo da promenite fasciklu u kojoj se nalazi objekat. U nekoliko slučajeva možda ćete morati da izbrišete jedan od objekata koji su neusaglašeni.
+3. Uklonite dupliranu vrednost iz objekta koji NE bi trebalo da ima tu vrednost. Imajte napom da treba da promenite direktorijum u kojem je objekat iz izvora. U nekim slučajevima ćete možda morati da izbrišete jedan od objekata koji su neusaglašeni.
     
-4. Ako ste izvršili promene u lokalnoj REKLAMI, neka Azure AD poveže sinhronizovanje promene za ispravnost.
+4. Ako ste promenili objekat na sajtu AD, dozvolite da Azure AD Connect sinhronizuje promenu kako bi greška bila popravljena.
     
 

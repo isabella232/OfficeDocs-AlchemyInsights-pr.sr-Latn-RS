@@ -1,8 +1,8 @@
 ---
-title: Omogućavanje slanja odmah kada ste povezani
+title: Omogućavanje slanja odmah kada se povežete
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709597"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813990"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Omogućavanje slanja odmah kada ste povezani
+# <a name="enable-send-immediately-when-connected"></a>Omogućavanje slanja odmah kada se povežete
  
-1. Na kartici datoteka izaberite stavku **Opcije**.
+1. Na kartici Datoteka izaberite stavku **Opcije.**
 
-2. U dijalogu opcije programa Outlook izaberite stavku **Više opcija**.
+2. U dijalogu Opcije programa Outlook izaberite stavku **Više opcija.**
 
-3. U odeljku slanje i prijem izaberite stavku omogućavanje **slanja odmah kada se poveže**. Kliknite na dugme **U redu**.
+3. U odeljku Slanje i prijem kliknite da biste **omogućili opciju Pošalji čim se povežete**. Kliknite na dugme **U redu**.
 
-Kompletne detalje potražite u članku:
+Za sve detalje pogledajte:
 - [Video: slanje ili brisanje zaglavljene e-poruke](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
 - [E-pošta ostaje u fascikli Otpremno poštansko sanduče dok ručno ne pokrenete operaciju slanja/prijema u programu Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

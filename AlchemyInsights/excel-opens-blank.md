@@ -1,8 +1,8 @@
 ---
-title: Excel se otvara kao prazan
+title: Excel otvara prazan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783457"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813594"
 ---
-# <a name="excel-opens-blank"></a>Excel se otvara kao prazan
+# <a name="excel-opens-blank"></a>Excel otvara prazan
 
-Ako se Excel pokrene, ali prikazuje prazan ekran gde očekujete da se datoteka pojavi, pogledajte članak [Rešavanje problema sa programom Excel otvaranje prazno kada kliknete dvaput na ikonu datoteke ili ime datoteke](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+Ako se Excel pokrene, ali prikazuje prazan ekran na kom očekujete da se datoteka pojavi, pogledajte rešavanje problema sa otvaranjem praznog programa Excel kada kliknete dvaput na ikonu ili [ime datoteke.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)

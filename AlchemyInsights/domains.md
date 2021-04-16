@@ -2,7 +2,7 @@
 title: Domeni
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815583"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814855"
 ---
 # <a name="domains"></a>Domeni
 
-- **Verifikujte domen** u centru administracije pomoću [čarobnjaka za dodavanje domena](https://admin.microsoft.com/Adminportal#/Domains/Wizard). Za veću pomoć pročitajte čitanje [domena u sistemu Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-- **Domen u upotrebi** – moraćete da se prijavite u drugu organizaciju i da [uklonite domen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide). zatim ga dodajte u ovu organizaciju.
-- **Domen u usluzi "nesmetno/samouslužno"**  -  [Postanite administrator nekompletnog domena](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
+- **Verifikujte** domen u centru aktivnosti pomoću čarobnjaka [za dodavanje domena.](https://admin.microsoft.com/Adminportal#/Domains/Wizard) Dodatnu pomoć možete da [pročitate u temi Dodavanje domena u Office 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
+- **Domen koji se** koristi – morate da se prijavite u drugu organizaciju i [uklonite domen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); a zatim ga dodajte u ovu organizaciju.
+- **Domen u upotrebi nekončavan/ samouslužno**  -  [Pođite od adminimenata koji se ne kontrolžuju](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
 
-U suprotnom, pokušajte ponovo da formuliљe problem. Pogledajte sledeće [najčešća](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) pitanja o člancima ili [rešavanje](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) problema sa domenima.
+U suprotnom, pokušajte da preformulišite problem; pogledajte članke [Najčešća pitanja o domenima](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) ili [Rešavanje problema sa domenima.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)
