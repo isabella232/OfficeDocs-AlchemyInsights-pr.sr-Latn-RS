@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 usluge zdravstvene zaštite
+title: Zdravstveno stanje usluge Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742757"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794486"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 usluge zdravstvene zaštite
+# <a name="microsoft-365-service-health"></a>Zdravstveno stanje usluge Microsoft 365
 
 
-Potvrdite zdravlje usluge bilo koje usluge sa [kontrolne table zdravstvenog usluge](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Ako izaberete **novi centar administracije** u gornjem desnom uglu, videćete nove opcije zdravlja.
+Proverite stanje usluge bilo koje usluge na [kontrolnoj tabli za zdravlje usluge.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Ako izaberete **stavku Novi centar aktivnosti u** gornjem desnom uglu, videćete nove opcije za ispravnost usluge.
 
-- Izaberite stavku **željene postavke** za primanje obaveštenja o zdravstvu **e-pošti**.
+- Izaberite **Željene postavke da biste primili** obaveštenja o zdravstvenom stanju **usluge.**
 
-- Izaberite stavku **prijavi problem** Ako nailazite na problem sa uslugom.
+- Izaberite **stavku Prijavi** problem ako imate problem sa uslugom.
 
-- Izaberite stavku **Istorija** da biste pregledali istoriju zdravstvene usluge u organizaciji. 
+- Izaberite **stavku** Istorija da biste pregledali istoriju zdravstvene usluge organizacije. 
 
-Više informacija potražite u članku pronalaženje [ispravnosti usluge Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Više informacija potražite u članku [Kako da proverite u redu usluge Microsoft 365.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
