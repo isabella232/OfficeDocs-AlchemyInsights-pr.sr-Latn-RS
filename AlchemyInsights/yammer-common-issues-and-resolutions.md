@@ -2,7 +2,7 @@
 title: Uobičajeni problemi i rešenja za Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 4ecd8b34830f53670145068398f28d16e820efd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657578"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805484"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Uobičajeni problemi i rešenja za Yammer
 
@@ -31,11 +31,11 @@ Evo nekih često zahtevanih tema za Yammer:
 
 - **e-Discovery**: pokrenite alatku za poravnavanje u [izvornom režimu](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) da biste se pripremili za [eDiscovery u Yammer mrežama](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery). 
 
-- **Usaglašenost**: podešavanje[smernica za korišćenje](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) za korisnike, [izvoz Yammer podataka](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), razumevanje [kako se upravlja sa GDPR zahtevima](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) za Yammer i [saznajte na koji način se hostuje Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). [Isključite](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Yammer Access ako je obavezno.
+- **Usaglašenost**: podešavanje [smernica za korišćenje](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) za korisnike, [izvoz Yammer podataka](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), razumevanje [kako se upravlja sa GDPR zahtevima](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) za Yammer i [saznajte na koji način se hostuje Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). [Isključite](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Yammer Access ako je obavezno.
 
 - **Spoljna saradnja**: saradnja sa spoljnim korisnicima u [spoljašnjim grupama](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-external-groups)ili host većim zajednicama u [spoljašnjim mrežama](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-an-external-network). [Onemogućite spoljnu razmenu poruka i grupa](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging) ako je to neophodno bezbednosnim smernicama.
 
-- **Nadgledajte**korišćenje: nadgledajte korišćenje pomoću izveštaja [aktivnosti za Yammer](https://docs.microsoft.com/microsoft-365/admin/activity-reports/yammer-activity-report). Administratori zajednice mogu da [pristupe uvidu grupe](https://support.office.com/article/view-group-insights-in-yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab).
+- **Nadgledajte** korišćenje: nadgledajte korišćenje pomoću izveštaja [aktivnosti za Yammer](https://docs.microsoft.com/microsoft-365/admin/activity-reports/yammer-activity-report). Administratori zajednice mogu da [pristupe uvidu grupe](https://support.office.com/article/view-group-insights-in-yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab).
 
 - **Integrišite aplikacije**: Dodavanje [Yammer u SharePoint](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site). Koristite [Yammer ugrađivanje](https://developer.yammer.com/docs/embed) da biste dodavali feedove. 
 

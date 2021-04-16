@@ -1,8 +1,8 @@
 ---
-title: Excel je upao?
+title: Excel pada?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359311"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804827"
 ---
-# <a name="frequent-excel-crashes"></a>Čestim padovima Excel?
+# <a name="frequent-excel-crashes"></a>Često Excel pada?
 
-Česte udese u programu Excel može biti prouzrokovano neispravnog programskog dodatka za. Excel programski dodatak možete onemogućiti tako što ćete pratiti ove instrukcije:
+Često pada u programu Excel može da izazove neispavan programski dodatak. Možete da onemogućite Excel programski dodatak tako što ćete pratiti ova uputstva:
   
-1. Odaberite **datoteku** \> **Opcije**, \> **Programske dodatke**.
+1. Odaberite **opcije** \> **datoteke**, \> **Programski dodaci**.
 
-2. U okviru **Upravljanje** odaberite **COM programski dodaci**, a zatim kliknite na dugme **Idi**.
+2. U polju **Upravljanje** odaberite stavku **COM programski dodaci**, a zatim kliknite na **dugme Idi**.
 
-3. U okviru Dostupni programski dodaci, opozovite izbor u polju za potvrdu pored programskog dodatka koji želite da onemogućite, a zatim kliknite na dugme **u redu**.
+3. U polju Add-Ins dostupno opozovite izbor u polju za potvrdu pored programski dodatak koji želite da onemogućite, a zatim kliknite na dugme U **redu.**
 
 > [!NOTE]
-> Ako dolazi do pada programa Excel tokom pokretanja, pokrenite ga u sigurnom načinu rada pritiskajući i držeći taster Ctrl dok pokrećete program.
+> Ako Excel pada tokom pokretanja, pokrenite ga u bezbednom režimu tako što ćete pritisnuti i držati taster Ctrl dok pokrećete program.
   
 Ako i dalje imate problema, pogledajte sledeće članke:
   
-- [Dobijam grešku „zastao rad” prilikom pokretanja Office 2016 ili 2013 aplikacije na moj PC](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Dobijam grešku "prestao sa radom" kada pokrenem Office 2016 ili 2013 aplikacije na računaru](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Kako da rešite probleme rusenje i ne odaziva pomoću programa Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Rešavanje problema sa padom programa Excel i ne odazivanje na](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel ne odaziva, zastaje, zamrzava ili prestaje da radi](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel se ne odaziva, prekida, zamrzava ili prestaje sa radom](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
