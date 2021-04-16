@@ -1,8 +1,8 @@
 ---
-title: Nije moguće dodati prilog u obrazac koji se prikazuje spoljno
+title: Nije moguće dodati prilog u spoljni obrazac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749420"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797339"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Nije moguće dodati prilog u obrazac koji se prikazuje spoljno
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Nije moguće dodati prilog u spoljni obrazac
 
-Ako pokušavate da dodate prilog spoljnim Microsoft obrascima anketu, ta funkcija još nije dostupna. Da biste pratili status te funkcije, idite na [ovu stavku UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)i dodajte glasove.
+Ako pokušavate da dodate prilog u spoljnu Microsoft Forms anketu, ta funkcija još nije dostupna. Da biste pratili status tog zahteva za funkciju, idite na ovaj [UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)i dodajte glasanje.
