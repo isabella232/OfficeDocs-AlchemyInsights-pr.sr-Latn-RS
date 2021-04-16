@@ -1,8 +1,8 @@
 ---
-title: Kreiranje automatskih natpisa i transkripta u programu Microsoft stream
+title: Generiši automatske natpise i transkripte u programu Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812433"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a><span data-ttu-id="368fb-102">Kreiranje automatskih natpisa i transkripta u programu Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="368fb-102">Generate automatic captions and a transcript in Microsoft Stream</span></span>
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a><span data-ttu-id="75f86-102">Generiši automatske natpise i transkripte u programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="75f86-102">Generate automatic captions and a transcript in Microsoft Stream</span></span>
 
-<span data-ttu-id="368fb-103">Tok može automatski da generiše naslove pomoću automatske tehnologije prepoznavanja govora i možete da prikažete prozor za premeštanje transkripta da biste se lako kretali i sledili pored izgovorenog sadržaja video zapisa.</span><span class="sxs-lookup"><span data-stu-id="368fb-103">Stream can automatically generate captions using Automatic Speech Recognition technology, and you can view a scrolling transcript window to easily navigate and follow along with the spoken content of a video.</span></span>
+<span data-ttu-id="75f86-103">Strim može automatski da generiše natpise pomoću tehnologije automatskog prepoznavanja govora i možete da prikažete prozor prepiske pomeranja da biste se lako kretali i pratili, kao i govorni sadržaj video zapisa.</span><span class="sxs-lookup"><span data-stu-id="75f86-103">Stream can automatically generate captions using Automatic Speech Recognition technology, and you can view a scrolling transcript window to easily navigate and follow along with the spoken content of a video.</span></span>
 
-- [<span data-ttu-id="368fb-104">Generisanje automatskih natpisa i transkript za video zapise Microsoft toka</span><span class="sxs-lookup"><span data-stu-id="368fb-104">Generate automatic captions and a transcript for your Microsoft Stream videos</span></span>](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [<span data-ttu-id="75f86-104">Generišite automatske natpise i transkripte za Microsoft Stream video zapise</span><span class="sxs-lookup"><span data-stu-id="75f86-104">Generate automatic captions and a transcript for your Microsoft Stream videos</span></span>](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [<span data-ttu-id="368fb-105">Prikazivanje prozora "pomeranje" za video zapis u programu Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="368fb-105">Show a scrolling transcript window for a video in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [<span data-ttu-id="75f86-105">Prikaz prozora prepiska pomeranja za video zapis u programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="75f86-105">Show a scrolling transcript window for a video in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
