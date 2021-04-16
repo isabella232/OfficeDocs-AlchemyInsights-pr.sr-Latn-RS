@@ -1,8 +1,8 @@
 ---
-title: Pregled licence za Microsoft stream
+title: Pregled Microsoft Stream licenciranja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675348"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794234"
 ---
-# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="e96af-102">Pregled licence za Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="e96af-102">Microsoft Stream Licensing overview</span></span>
+# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="ccbfb-102">Pregled Microsoft Stream licenciranja</span><span class="sxs-lookup"><span data-stu-id="ccbfb-102">Microsoft Stream Licensing overview</span></span>
 
-<span data-ttu-id="e96af-103">Microsoft stream je usluga u oblaku licencirana na osnovu pretplate na korisnike.</span><span class="sxs-lookup"><span data-stu-id="e96af-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="e96af-104">Dostupan je kao deo pristupačnih Microsoft 365 pretplata.</span><span class="sxs-lookup"><span data-stu-id="e96af-104">It is available as part of eligible Microsoft 365 subscriptions.</span></span> <span data-ttu-id="e96af-105">Pogledajte Microsoft 365 cenovnik za informacije o svakom tipu pretplate.</span><span class="sxs-lookup"><span data-stu-id="e96af-105">See Microsoft 365 pricing for information on each subscription type.</span></span>
+<span data-ttu-id="ccbfb-103">Microsoft Stream je usluga u oblaku licencirana na osnovu pretplate po korisniku.</span><span class="sxs-lookup"><span data-stu-id="ccbfb-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="ccbfb-104">Dostupan je u sklopu prihvaćenih Microsoft 365 pretplata.</span><span class="sxs-lookup"><span data-stu-id="ccbfb-104">It is available as part of eligible Microsoft 365 subscriptions.</span></span> <span data-ttu-id="ccbfb-105">Informacije o svakom tipu pretplate potražite u članku Microsoft 365 cene.</span><span class="sxs-lookup"><span data-stu-id="ccbfb-105">See Microsoft 365 pricing for information on each subscription type.</span></span>
 
-- [<span data-ttu-id="e96af-106">Pregled licence za Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="e96af-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)
+- [<span data-ttu-id="ccbfb-106">Pregled Microsoft Stream licenciranja</span><span class="sxs-lookup"><span data-stu-id="ccbfb-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)
