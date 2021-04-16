@@ -2,7 +2,7 @@
 title: Domeni
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815583"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814855"
 ---
-# <a name="domains"></a><span data-ttu-id="4f43c-102">Domeni</span><span class="sxs-lookup"><span data-stu-id="4f43c-102">Domains</span></span>
+# <a name="domains"></a><span data-ttu-id="89ffc-102">Domeni</span><span class="sxs-lookup"><span data-stu-id="89ffc-102">Domains</span></span>
 
-- <span data-ttu-id="4f43c-103">**Verifikujte domen** u centru administracije pomoću [čarobnjaka za dodavanje domena](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span><span class="sxs-lookup"><span data-stu-id="4f43c-103">**Verify your domain** in the admin center by using the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span></span> <span data-ttu-id="4f43c-104">Za veću pomoć pročitajte čitanje [domena u sistemu Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="4f43c-104">For more help, read [Add a domain to Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span></span>
-- <span data-ttu-id="4f43c-105">**Domen u upotrebi** – moraćete da se prijavite u drugu organizaciju i da [uklonite domen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide). zatim ga dodajte u ovu organizaciju.</span><span class="sxs-lookup"><span data-stu-id="4f43c-105">**Domain in use** - you will need to log in to the other organization and [remove the domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); then add it to this organization.</span></span>
-- <span data-ttu-id="4f43c-106">**Domen u usluzi "nesmetno/samouslužno"**  -  [Postanite administrator nekompletnog domena](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span><span class="sxs-lookup"><span data-stu-id="4f43c-106">**Domain in use unmanaged / self-service** - [Become an admin of the unmanaged domain](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span></span>
+- <span data-ttu-id="89ffc-103">**Verifikujte** domen u centru aktivnosti pomoću čarobnjaka [za dodavanje domena.](https://admin.microsoft.com/Adminportal#/Domains/Wizard)</span><span class="sxs-lookup"><span data-stu-id="89ffc-103">**Verify your domain** in the admin center by using the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard).</span></span> <span data-ttu-id="89ffc-104">Dodatnu pomoć možete da [pročitate u temi Dodavanje domena u Office 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="89ffc-104">For more help, read [Add a domain to Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).</span></span>
+- <span data-ttu-id="89ffc-105">**Domen koji se** koristi – morate da se prijavite u drugu organizaciju i [uklonite domen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); a zatim ga dodajte u ovu organizaciju.</span><span class="sxs-lookup"><span data-stu-id="89ffc-105">**Domain in use** - you will need to log in to the other organization and [remove the domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); then add it to this organization.</span></span>
+- <span data-ttu-id="89ffc-106">**Domen u upotrebi nekončavan/ samouslužno**  -  [Pođite od adminimenata koji se ne kontrolžuju](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span><span class="sxs-lookup"><span data-stu-id="89ffc-106">**Domain in use unmanaged / self-service** - [Become an admin of the unmanaged domain](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).</span></span>
 
-<span data-ttu-id="4f43c-107">U suprotnom, pokušajte ponovo da formuliљe problem. Pogledajte sledeće [najčešća](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) pitanja o člancima ili [rešavanje](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) problema sa domenima.</span><span class="sxs-lookup"><span data-stu-id="4f43c-107">Otherwise, try rephrasing your problem; see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) or [Troubleshoot Domains Issues](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) articles.</span></span>
+<span data-ttu-id="89ffc-107">U suprotnom, pokušajte da preformulišite problem; pogledajte članke [Najčešća pitanja o domenima](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) ili [Rešavanje problema sa domenima.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="89ffc-107">Otherwise, try rephrasing your problem; see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) or [Troubleshoot Domains Issues](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) articles.</span></span>
