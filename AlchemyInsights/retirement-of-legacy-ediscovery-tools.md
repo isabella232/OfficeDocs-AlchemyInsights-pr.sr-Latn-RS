@@ -1,8 +1,8 @@
 ---
-title: Penzija nasleđenih alatki za eDiscovery
+title: Retirement of Legacy eDiscovery Tools
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798563"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Penzija nasleđenih alatki za eDiscovery
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Retirement of Legacy eDiscovery Tools
 
-Kao rezultat nove i poboljšane funkcionalne funkcionalnosti u Microsoft 365 centru za usaglašenost, sledeće zastarele alatke za eDiscovery i zapovesti će se vratiti u narednih nekoliko meseci:
+Kao rezultat nove i poboljšane funkcionalnosti e-discovery u Microsoft 365 centru za usaglašenost, sledeće zakupne alatke za e-discovery i komande će biti poništene u sledećim mesecima:
 
-- U [mestu eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) i [na](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) mestu se nalazi u Exchange centru administracije.
+- [Čuvanje čuvanja e-čuvanja](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) na mestu u Exchange centru adminitre. [](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)
 
-- Exchange online PowerShell cmdlet komande koji podržavaju funkcije ediscovery i na mestu će ga čuvati. (Ovi cmdlet zapisi kolektivno su identifikovani kao *-mailboxsearch cmdlet komande.) To uključuje sledeće cmdlet sledeće:
+- Exchange Online PowerShell cmdlet In-Place e-discovery i čuvanje In-Place čuvanja podataka. (Ove cmdletlet menije su kolektivno identifikovane kao *-MailboxSearch cmdlets.) To uključuje sledeće cmdlet mišove:
 
-    - [Novo-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop-pošta Boxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Scenofor-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Pretraga – poštansko sanduče](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet usluge Exchange online PowerShell.
-- Sledeće operacije u usluzi Exchange Veb Services:
-    - [Getsearchablemailbox](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [Setholdone sandučići](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [Getholdone sandučići](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- Cmdlet [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) u programu Exchange Online PowerShell.
+- Sledeće operacije u API-u Exchange veb usluga:
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Napredno eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Vremenska osa za penziju**:
-- **1. jul, 2020** Više ne možete da kreirate nove pretrage i zadržavanje, ali možete da pokrećete, uređujete i brišete postojeće pretrage po sopstvenom riziku. Microsoft Support više ne podržava na mjestu eDiscovery & čuva u EAC-u.
+**Vremenska linija za penzionje:**
+- **1. jul 2020.** Više ne možete da kreirate nove pretrage i zadrške, ali možete da pokrećete, uređujete i brišete postojeće pretrage na sopstveni rizik. Microsoft podrška više ne podržava čuvanje In-Place e-& u EAC-u.
     
-- **1 oktobar, 2020** Funkcija "eDiscovery &" u EAC-u biće postavljena u režimu samo za čitanje, tako da možete da uklonite samo postojeće pretrage i zadrške.
+- **1. oktobar 2020.** In-Place funkcionalnost & čuvanja čuvanja u EAC-u biće postavljena u režim samo za čitanje, tako da možete da uklonite samo postojeće pretrage i zadrške.
 
-**Više informacija potražite u članku**:
+**Dodatne informacije potražite u:**
 
- - [Migriranje zastarelih eDiscovery pretraga i držanje u Microsoft 365 centru za usaglašenost](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Penzija nasleđenih alatki za eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Najčešća pitanja o otkrivanju na mestu koje se nalazi na sajtu i održavaju se na mestu](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Migrirane zakasnele pretrage i zadrške u Microsoft 365 centru za usaglašenost](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Retirement of legacy eDiscovery tools](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [FaQs about In-Place e-discovery and In-Place Holds](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
