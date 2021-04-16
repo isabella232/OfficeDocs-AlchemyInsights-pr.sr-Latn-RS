@@ -1,8 +1,8 @@
 ---
-title: Podrazumevane postavke bezbednosti
+title: Podrazumevane vrednosti bezbednosti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740344"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809201"
 ---
-# <a name="security-defaults"></a>Podrazumevane postavke bezbednosti
+# <a name="security-defaults"></a>Podrazumevane vrednosti bezbednosti
 
-Za informacije o podrazumevanim postavkama, pogledajte [Šta su to podrazumevane vrednosti bezbednosti?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Informacije o podrazumevanim vrednostima bezbednosti potražite u [temi Šta su bezbednosne podrazumevane vrednosti?.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
-Podrazumevane vrednosti bezbednosti u usluzi Azure Active Directory (Azure AD) olakšavaju bezbednost i zaštitu organizacije. Podrazumevane vrednosti bezbednosti sadrže unapred podešene bezbednosne postavke za uobičajene napade.
+Bezbednosne podrazumevane vrednosti u Azure Active Directory (Azure AD) olakšavaju zaštitu i zaštitu vaše organizacije. Podrazumevane vrednosti bezbednosti sadrže unapred konfigurisane bezbednosne postavke za uobičajene napade.
 
-Microsoft daje podrazumevane podrazumevane vrednosti bezbednosti svima. Cilj je da se osigura da sve organizacije imaju omogućen osnovni nivo bezbednosti bez dodatnog troška. Uključujete podrazumevane postavke bezbednosti na Azure portal.
+Microsoft sve podrazumevane vrednosti bezbednosti čini dostupnim svima. Cilj je da se osigura da sve organizacije imaju osnovni nivo bezbednosti omogućen bez dodatnih troškova. Podrazumevane vrednosti bezbednosti uključite na Azure portalu.

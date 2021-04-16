@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 za neprofitnu
+title: Microsoft 365 za neprofitne sisteme – u toku je pregled
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e8f12b390240e85742efa441fb09a4ecd6f11c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779750"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810642"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 za neprofitnu
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 za neprofitne sisteme – u toku je pregled
 
-Vaša podobnost kao Microsoft kvalifikovana neprofitna **organizacija se razmatra**. Možete da očekujete da primite obaveštenje o određivanju vaše podobnosti **48 sati** od vremena prosleđivanja. Molimo pričekajte najmanje **48 časova** da primite ovo obaveštenje pre nego što otvorite zahtev za uslugu. 
+Razmatramo da li ispunjavate uslove za neprofitnu organizaciju koja je kvalifikovana za Microsoft **proizvode.** Možete da očekujete da primite obaveštenje o određivanju vaše podobnosti **48 sati** od vremena prosleđivanja. Molimo pričekajte najmanje **48 časova** da primite ovo obaveštenje pre nego što otvorite zahtev za uslugu. 
 
-Više informacija potražite u članku [Microsoft 365 za neprofitno](https://www.microsoft.com/nonprofits/microsoft-365). 
+Dodatne informacije potražite u [članku Microsoft 365 za neprofitne korporacije](https://www.microsoft.com/nonprofits/microsoft-365). 

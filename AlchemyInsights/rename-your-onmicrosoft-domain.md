@@ -1,8 +1,8 @@
 ---
-title: Preimenovanje omicrosoft domena
+title: Preimenovanje domena onmicrosoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701333"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810246"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Preimenovanje onmicrosoft.com domena
 
- **Ne možete da preimenujete onmicrosoft Domain posle prijavljivanja.** Na primer, ako je početni domen koji ste izabrali  *fourthcoffee.onmicrosoft.com*, ne možete da ga promenite tako da bude  *Fabrikam.onmicrosoft.com*. Da biste koristili drugačiji onmicrosoft.com domen, morate da započnete novu pretplatu pomoću programa Microsoft 365.
+ **Ne možete da preimenujete onmicrosoft domen posle upisujete.** Na primer, ako je početni domen koji ste *odabrali fourthcoffee.onmicrosoft.com*, ne možete da ga promenite u *fabrikam.onmicrosoft.com.* Da biste koristili onmicrosoft.com domen, morate da započnete novu pretplatu sa uslugom Microsoft 365.
   
-Ako želite da koristite prilagođeni domen kao što je  *contoso.com*  , možete da [dodate jedan koji posedujete ili da](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) [ga kupite od korporacije Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Ako želite da koristite prilagođeni domen kao *što contoso.com* , možete da dodate onaj koji [posedujete](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) ili da [ga kupite kod korporacije Microsoft.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
   

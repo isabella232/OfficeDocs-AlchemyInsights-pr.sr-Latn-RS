@@ -1,8 +1,8 @@
 ---
-title: Kako identifikovati naplaćivanje na kreditnoj kartici ili u izjavi banci
+title: Kako da prepoznate troškove na kreditnoj kartici ili izvodu iz banke
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8bafbb57aae358df04332a6c5a6d00ce523c810
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810858"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Kako identifikovati naplaćivanje na kreditnoj kartici ili u izjavi banci
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Kako da prepoznate troškove na kreditnoj kartici ili izvodu iz banke
 
-Opis naplate za pretplatu na Microsoft 365 izgleda ovako:
+Opis naknada za Microsoft 365 pretplatu izgleda ovako:
   
-MSFT \* E012345ABC $10,000-MSBILL.info, WA
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-10 znakova Alfa-numeričke niske pored stavke MSFT \* je broj fakture na koji se trošak nalazi. Da biste pronašli fakturu, idite na stranicu "računi za **naplatu** \> [& uplate](https://go.microsoft.com/fwlink/p/?linkid=848039) " da biste prikazali nedavne fakture. Broj fakture je blizu desnog ugla dokumenta o fakturi.
+Alfanumeriska niska od 10 znakova koja sledi posle MSFT je broj fakture na koji se \* naplaćuje. Da biste pronašli fakturu, idite na **stranicu Naplata** \> [& stranicu "Plaćanja"](https://go.microsoft.com/fwlink/p/?linkid=848039) da biste videli nedavne fakture. Broj fakture je blizu desnog ugla dokumenta fakture.

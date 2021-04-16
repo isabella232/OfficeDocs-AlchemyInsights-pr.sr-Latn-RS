@@ -2,7 +2,7 @@
 title: Poništavanje ili promena lozinki
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692165"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810210"
 ---
 # <a name="reset-or-change-passwords"></a>Poništavanje ili promena lozinki
 
-Korisnik može da promeni sopstvenu lozinku iz bezbednosti **mog naloga**  >  [& privatnost](https://portal.office.com/account/#security).
+Korisnik može da promeni lozinku iz **"Bezbednost mog naloga"**  >  [& privatnost.](https://portal.office.com/account/#security)
   
-Ako je korisnik zaboravio svoju lozinku, administrator može da poništi lozinku tako što će otići na **korisnike**  >  [aktivne korisnike](https://portal.office.com/adminportal/home#/users), izabrati korisnike i izabrati stavku **Poništi lozinku**.
+Ako korisnik zaboravi lozinku, administuje lozinku, može da je poništi tako što će na korisnicima koji su aktivni korisnici izabrati korisnike i kliknuti na dugme  >  [](https://portal.office.com/adminportal/home#/users) **Poništi lozinku.**
   
-[Kliknite ovde da biste saznali više](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ili da biste dozvolili korisnicima da resetuju sopstvene lozinke.
+[Kliknite ovde da biste saznali više](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ili da biste korisnicima dozvolili da resetuju svoje zaboravljene lozinke.

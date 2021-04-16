@@ -1,8 +1,8 @@
 ---
-title: Promena veličine i Prilaganje slika na Android uređaju
+title: Resize and attach images on Android
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795690"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809525"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Promena veličine i Prilaganje slika na Android uređaju
+# <a name="resize-and-attach-images-on-android"></a>Resize and attach images on Android
 
-Kada jednu veličinu priložite sliku na e-poruku, imate opciju da komprimujete/promenite veličinu slika u poruci.
+Kada e-poruci priložite sliku veličine više od 1 MB, imate opciju da komprimujete slike na poruci ili da im resizete.
  
-- Ako odaberete da zadržite original, sve slike u poruci će biti poslate u punoj veličini.
+- Ako odaberete da zadržite original, onda se sve slike na poruci šalju u punoj veličini.
  
-- Ako odaberete da promenite veličinu, sve slike u poruci će biti kombinovane.  To obuhvata slike koje se kasnije dodaju dok i dalje uređuju taj nacrt.
+- Ako odaberete da poništite veličinu, sve slike u poruci se komprimuju.  To uključuje slike dodate kasnije dok i dalje uređujete tu radnu verziju.
  
-- Ako sačuvate nacrt i kasnije se vratite, a dodate još jednu veliku sliku, bićete ponovo upitani i izbor će se primeniti na sve radne verzije tokom te sesije uređivanja.
+- Ako sačuvate radnu verziju i vratite se kasnije, a dodate još jednu veliku sliku, bićete upitani ponovo, a vaš izbor će se primeniti na sve radne verzije tokom te sesije uređivanja.
  
