@@ -1,40 +1,41 @@
 ---
-title: Korištenje MIP SKD-a
+title: Korišćenje SDK za MZI
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358690"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770969"
 ---
-# <a name="using-mip-skd"></a>Korištenje MIP SKD-a
+# <a name="using-mip-skd"></a>Korišćenje SDK za MZI
 
-Da biste koristili MIP SDK, postoji nekoliko koraka potrebnih za instalaciju i konfiguraciju vaše Office 365 pretplate i radne stanice klijenta. U ove korake spadaju:
+Da biste koristili SDK za MZI, postoji nekoliko koraka za podešavanje i konfigurisanje Office 365 pretplate i radne stanice klijenta. Ti koraci su sledeći:
 
-- Prijavite se za pretplatu na Office 365.
+- Prijavite se za Office 365 pretplatu.
 - Konfigurišite oznake osetljivosti.
 - Konfigurišite radnu stanicu klijenta.
-- Registrujte klijentsku aplikaciju sa Azure aktivnim direktorijumom.
-- Zahtevanje sporazuma o integrisanosti o zaštiti informacija (IPIA).
-- Uverite se da aplikacija ima potrebno vreme izvršavanja.
+- Registrujte klijentsku aplikaciju u Azure Active Directory.
+- Zatražite sporazum o integraciji zaštite informacija (IPIA).
+- Proverite da li aplikacija ima zahtevano standardno vreme izvršavanja.
 
-Za više informacija o ovim koracima pogledajte odeljak [Podešavanje i konfigurisanje MIP SDK-a](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+Za više informacija o tim koracima pogledajte članak [Podešavanje i konfigurisanje SDK za MZI](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
 Za dodatne resurse pogledajte:
 
-- [SDK dokumentacija Microsoft informativne zaštite](https://docs.microsoft.com/information-protection/develop/)
-- [Vodič za projektante za zaštitu informacija u programu Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Preuzmite komplet za razvoj softvera Microsoft Information Protection](https://www.microsoft.com/download/details.aspx?id=57392)
-- [SDK instalacija i konfiguracija za Microsoft Information Protection (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [Uzorci za Azure kodove za MIP SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [SDK dokumentacija za podešavanje Microsoft zaštite informacija](https://docs.microsoft.com/information-protection/develop/)
+- [Vodič za projektante za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Preuzimanje SDK za Microsoft zaštitu informacija](https://www.microsoft.com/download/details.aspx?id=57392)
+- [SDK za podešavanje i konfigurisanje Microsoft zaštite informacija (MZI)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Azure uzorci kodova za SDK za MZI](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
