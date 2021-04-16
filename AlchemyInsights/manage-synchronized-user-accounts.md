@@ -2,7 +2,7 @@
 title: Upravljanje sinhronizovanim korisničkim nalozima
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777833"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802901"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Upravljanje sinhronizovanim korisničkim nalozima
 
-Obično koristite Microsoft 365 centar administracije za dodavanje i promenu korisničkih naloga. Međutim, ne možete da ga koristite ako su omogućena syhronoacija ili SSO. Umesto toga, Upravljajte korisnicima pomoću programa Windows PowerShell kao što je opisano u okviru [konfigurisanja svojstava korisničkog naloga sa sistemom Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+Obično koristite Microsoft 365 centar administacije da biste dodali i promenili korisničke naloge. Međutim, ne možete da ga koristite ako su omogućene sinhronizacija direktorijuma ili SSO. Umesto toga, upravljajte korisnicima pomoću programa Windows PowerShell kao što je opisano u članku Konfigurisanje svojstava korisničkog naloga pomoću programa [Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 
