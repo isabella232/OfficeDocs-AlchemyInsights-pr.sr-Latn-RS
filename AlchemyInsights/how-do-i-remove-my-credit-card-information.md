@@ -2,7 +2,7 @@
 title: Kako da uklonim informacije o kreditnoj kartici?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: d1772c8060adf49f39269198e169e56b53bb8cca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: da6089404550d8025e4a4df3689f73f382603d65
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781837"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811218"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kako da uklonim informacije o kreditnoj kartici?
 
 1. U Microsoft 365 centru administracije, idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Na stranici **metode plaćanja** izaberite kreditnu karticu ili račun u banci da biste je izbrisali.
+2. Na stranici **Načini plaćanja** izaberite kreditnu karticu ili račun u banci koje želite da izbrišete.
 
-3. Da biste uklonili kreditnu karticu ili račun u banci, izaberite stavku **Izbriši metod plaćanja.**
+3. Da biste uklonili kreditnu karticu ili račun u banci, izaberite **stavku Izbriši način plaćanja.**
 
 > [!NOTE]
-> Nećete moći da uklonite kreditnu karticu ili račun u banci ako se trenutno koristi za plaćanje pretplate.
+> Ne možete da uklonite kreditnu karticu ili račun u banci ako se trenutno koriste za plaćanje pretplate.
 
-4. U oknu " **Brisanje načina plaćanja** " izaberite stavku **Izbriši**.
+4. U oknu **Brisanje načina plaćanja** izaberite **stavku Izbriši.**
 
-Da biste saznali više, pogledajte članak [Upravljanje metodama plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Da biste saznali više, pogledajte [upravljanje načinima plaćanja.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

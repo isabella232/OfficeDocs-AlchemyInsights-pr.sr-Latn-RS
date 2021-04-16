@@ -1,8 +1,8 @@
 ---
-title: Kako da pretražim e-poštu?
+title: Kako da potražim e-poruku?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781693"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811110"
 ---
-# <a name="how-do-i-search-for-an-email"></a>Kako da pretražim e-poštu?
+# <a name="how-do-i-search-for-an-email"></a>Kako da potražim e-poruku?
 
-E-poruku možete da pretražite tako što ćete potražiti kontakt koji vam je poslao e-poruku ili tražiti ključnu reč u e-poruci.
+E-poruku možete da potražite tako što ćete potražiti kontakt koji vam je poslao e-poruku ili tako što ćete potražiti ključnu reč sadržanu u okviru e-poruke.
 
-Dodirnite lupu na donjem traci za navigaciju. Zatim otkucajte zahtev za pretragu u polje na vrhu ekrana. 
+Dodirnite lupu na dnu trake za navigaciju. Zatim otkucajte zahtev za pretragu u polje na vrhu ekrana. 
 
-**Savet:** Možete da dodirnete lupu da biste doveli fokus na polje za pretragu. Rezultati će se pojaviti dok kucate zahtev. 
+**Savet:** Možete dvaput da dodirnete lupu da biste fokusirali fokus na polje za pretragu. Rezultati će se pojaviti dok kucate zahtev. 

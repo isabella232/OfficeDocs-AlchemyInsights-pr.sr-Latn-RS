@@ -2,7 +2,7 @@
 title: Kako da podesim emitovanje Skype sastanka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781477"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811038"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ne možete da pokrenete emitovanje Skype sastanka ili da se pridružite njima?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ne možete da pokrenete emitovanje Skype sastanka ili da se pridružite sastanku?
 
-Ako imate problema pri pokretanju ili pristupu emitovanju Skype sastanka kao član tima događaja (producent sastanka), obavezno dvaput proverite konfiguraciju. Emitovanje Skype sastanka zahteva neke korake za ručno podešavanje. Slijedite korake iz ovog članka da biste se uverili da su mrežni i Skype za posao online portal korektno konfigurisani i da korisnik koji utiče na to ne blokira neusaglašenu licencu:
+Ako imate problema pri započinjanju emitovanja Skype sastanka ili pridruživanju ulogom člana tima događaja (producent sastanka), uverite se da ste dvaput proverili konfiguraciju. Emitovanje Skype sastanka zahteva neke korake za ručno podešavanje. Pratite korake u ovom članku da biste se uverili da su mreža i Skype za posao Online portal ispravno konfigurisani i da korisnik na koji to utiče ne blokira neusaglašena licenca:
 
 [Podešavanje mreže za emitovanje Skype sastanka](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
