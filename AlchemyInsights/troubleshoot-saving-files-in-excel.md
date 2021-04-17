@@ -2,7 +2,7 @@
 title: Rešavanje problema sa čuvanjem datoteka u programu Excel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 71de9a0fced18d90468da4c103e1707c506590c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 809774fd5a8c1fea087d1c9f000f24f3d56175b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664868"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832180"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a><span data-ttu-id="7327e-102">Kako da rešite probleme prilikom čuvanja Excel radnih svezaka</span><span class="sxs-lookup"><span data-stu-id="7327e-102">How to troubleshoot errors when you save Excel workbooks</span></span>
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a><span data-ttu-id="30410-102">Kako da rešite probleme sa greškama prilikom čuvanja Excel radnih svezaka</span><span class="sxs-lookup"><span data-stu-id="30410-102">How to troubleshoot errors when you save Excel workbooks</span></span>
 
-<span data-ttu-id="7327e-103">Ako imate problema prilikom čuvanja radne sveske u programu Excel, pogledajte članak [ Kako da rešite probleme prilikom čuvanja Excel radnih svezaka](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span><span class="sxs-lookup"><span data-stu-id="7327e-103">If you're having trouble saving a workbook in Excel, see [ How to troubleshoot errors when you save Excel workbooks](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span></span>
+<span data-ttu-id="30410-103">Ako imate problema sa čuvanjem radne sveske u programu Excel, pogledajte kako da otklonite greške [prilikom čuvanja Excel radnih svezaka.](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)</span><span class="sxs-lookup"><span data-stu-id="30410-103">If you're having trouble saving a workbook in Excel, see [ How to troubleshoot errors when you save Excel workbooks](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).</span></span>
