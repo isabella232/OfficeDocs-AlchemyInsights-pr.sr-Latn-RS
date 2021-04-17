@@ -1,8 +1,8 @@
 ---
-title: Nedostaje Beležnica
+title: Beležnica koja nedostaje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667172"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831676"
 ---
-# <a name="recover-missing-notebook"></a>Oporavak nestale beležnice
+# <a name="recover-missing-notebook"></a>Oporavak beležnice koja nedostaje
 
-Ako je Beležnica na usluzi OneDrive slučajno izbrisana, možete da je spasete tako što ćete pratiti korake u odeljku [Vraćanje izbrisanih datoteka ili fascikli u usluzi OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Ako je beležnica u usluzi OneDrive slučajno izbrisana, možete da je oporavite tako što ćete pratiti korake iz vraćanja izbrisanih datoteka ili fascikli u [usluzi OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Možete da oporavite beležnicu na izbrisanom usluzi OneDrive po podrazumevanoj vrednosti u roku od 30 dana tako što ćete nastaviti da pratite korake u odeljku [Vraćanje izbrisane OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Možete podrazumevano da oporavite beležnicu u izbrisanom usluzi OneDrive u roku od 30 dana tako što ćete pratiti korake u okviru Vraćanje izbrisane [oneDrive datoteke](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) u prethodno stanje
 
-OneNote možda koristi drugačiji nalog nego što očekujete. Ako imate nalog koji vam je dodeljen ili posao, pored ličnog Microsoft naloga, moraćete da dodate drugi nalog da biste prikazali sve beležnice (pogledajte uputstva o tome kako da [dodate nalog u programu OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+OneNote možda koristi drugačiji nalog od očekivanog. Ako imate poslovni ili školski nalog pored ličnog Microsoft naloga, morate da dodate drugi nalog da biste prikazali sve beležnice (pogledajte uputstva o tome kako da dodate nalog u programu [OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).

@@ -2,21 +2,22 @@
 title: Rešavanje problema sa štampačem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 42125b5103f429c1287400c3c1dc659cfa2067b7
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034411"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830488"
 ---
 # <a name="troubleshoot-your-printer"></a>Rešavanje problema sa štampačem
 
@@ -28,7 +29,7 @@ Prvo pokušajte da koristite energetski ciklus za **štampač**. Sledite ove kor
 
 3. Ponovo priključite i uključite štampač.
 
-Ako to ne reši problem, pokrenite alatku za rešavanje problema sa štampačem tako što ćete otići na **Start > Postavke > Ažuriranje i bezbednost > Rešavanje problema**. Kliknite na stavku**Štampač**, a zatim kliknite **Pokretanje alatke za rešavanje problema**.
+Ako to ne reši problem, pokrenite alatku za rešavanje problema sa štampačem tako što ćete otići na **Start > Postavke > Ažuriranje i bezbednost > Rešavanje problema**. Kliknite na stavku **Štampač**, a zatim kliknite **Pokretanje alatke za rešavanje problema**.
 
 **Ako je štampač povezan sa računarom pomoću mrežne veze** (ako ste u žurbi, možda ćete moći brzo da uradite da biste dobili štampač pomoću USB kabla da biste štampač priključili direktno na računar):
 
@@ -42,7 +43,7 @@ Ako to ne reši problem, pokrenite alatku za rešavanje problema sa štampačem 
 
     - Kliknite na dugme **Start > Postavke > Mreža i Internet**.
 
-    - U okviru stavke **Status umrežavanja**pronađite ime mreže. Ovo mora da se tačno poklapa sa imenom veze štampača.
+    - U okviru stavke **Status umrežavanja** pronađite ime mreže. Ovo mora da se tačno poklapa sa imenom veze štampača.
 
     - Ako ove dve veze ne budu iste, promenite vezu računara da bi se poklapao sa mrežom štampača.
 

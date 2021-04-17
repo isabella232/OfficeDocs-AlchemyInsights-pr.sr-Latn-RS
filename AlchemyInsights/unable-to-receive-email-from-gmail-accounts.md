@@ -1,8 +1,8 @@
 ---
-title: Nije moguće primiti e-poštu sa gmail naloga
+title: Nije moguće primiti e-poštu sa Gmail naloga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735465"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830407"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nije moguće primiti e-poštu sa gmail naloga
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nije moguće primiti e-poštu sa Gmail naloga
 
-**SPOR**
+**PROBLEM**
 
-Svesni smo da neki korisnici možda neće moći da primaju e-poštu sa gmail naloga. Istražujemo mogući problem.
+Svesni smo da neki korisnici možda neće moći da primaju e-poštu sa Gmail naloga. Istražujemo mogući problem.
 
-**PRIVREMENO rešenje**
+**ZAODNOSI SE**
 
-Potvrdite da niste slučajno blokirali domen gmail kada blokirate jednog gmail korisnika.
+Proverite da niste slučajno blokirali Gmail domen prilikom blokiranja jednog Gmail korisnika.
 
-1. Otvorite [listu blokiranih pošiljalaca](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Otvorite listu [blokiranih pošiljalaca](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Ako je Gmail.com na listi, kliknite na ikonu za otpatke pored stavke stavka i pritisnite **Sačuvaj**.
+2. Ako Gmail.com nalazite na listi, kliknite na ikonu korpe za otpatke pored stavke i pritisnite dugme **Sačuvaj**.
