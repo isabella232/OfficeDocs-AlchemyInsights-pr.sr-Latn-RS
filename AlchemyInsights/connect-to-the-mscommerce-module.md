@@ -2,7 +2,7 @@
 title: Povezivanje sa MSCommerce modulom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713252"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817042"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Povezivanje sa MSCommerce modulom
 
-Morate biti povezani sa MSCommerce modulom da biste mogli da prikažete ili zapostavljate usluge Allowself.  
+Morate biti povezani sa modulom MSCommerce da biste mogli da prikažete ili podesite smernice AllowSelfServicePurchase.  
 
-Da biste se povezali sa MSCommerce modulom, na PowerShell upitu (PS C: \) Unesite sledeću komandu:
+Da biste se povezali sa modulom MSCommerce, u odzivu PowerShell (PS C: \) unesite sledeću komandu:
 
 `Connect-MSCommerce`
 
-Otvoriće se dijalog za prijavljivanje. Unesite korisničko ime i lozinku za prijavljivanje.
+Tako ćete otvoriti dijalog za prijavljivanje. Unesite korisničko ime i lozinku da biste se prijavili.
 
-**Napomena:** &nbsp; &nbsp; Nalog koji se koristi za prijavljivanje mora biti administrator ili administrator naplate.
+**NAPOMOGUĆENO:** &nbsp; &nbsp; Nalog koji se koristi za prijavljivanje mora da bude preduzeće ili administrator naplate.

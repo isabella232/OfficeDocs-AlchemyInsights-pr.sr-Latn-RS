@@ -1,8 +1,8 @@
 ---
-title: Zahtjev za status odobrenja
+title: Zahtev za status provere kredita
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: a39d58a8957879e28c6308936d7323e09edf8db9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b183f344af3e4f26c3da2e134223e14ee111787
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746449"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815953"
 ---
-# <a name="credit-check-status-request"></a>Zahtjev za status odobrenja
+# <a name="credit-check-status-request"></a>Zahtev za status provere kredita
 
-Vaš redosled čeka na kreditnu proveru. Ovo se obično popunjava za manje od 24 časa, ali može da potraje do 48 časova. Kada završite, status pretplate će se promeniti sa čekanja na Active i usluge će biti dostupni za upotrebu.
+Vaš nalog čeka kreditnu verifikaciju. To se obično završi za manje od 24 časa, ali može da proteže do 48 sati. Kada se dovrši, status pretplate će se promeniti iz "Na čekanju" u "Aktivno" i usluge će biti dostupne za korišćenje.
 
-Više informacija potražite u članku [kada se zahteva kreditna kartica](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).
+Više informacija potražite u [članku kada može biti potrebna provera kredita.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft)

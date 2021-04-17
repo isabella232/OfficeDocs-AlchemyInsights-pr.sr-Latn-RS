@@ -1,8 +1,8 @@
 ---
-title: Saradnja
+title: Upravljanje koautonom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896809"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817726"
 ---
-# <a name="co-management"></a>Saradnja
+# <a name="co-management"></a>Upravljanje koautonom
 
-**Preduslovi za migraciju iz programa config Manager u programu config**
+**Preduslovi za migriranje iz hibridnog upravljača konfigom u Intune**
 
-- Pregledajte [Ovaj članak](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
+- Pregledajte [ovaj članak.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
 - [Dodajte Intune licencu korisnicima](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Koristite [Edge pregledač](https://www.microsoft.com/edge) prilikom konfigurisanja koupravljanja.
+- Koristite [pregledač Edge](https://www.microsoft.com/edge) prilikom konfigurisanja upravljanja koautonjem.
 
-[Ovde](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)se može pronaći vođeno iskustvo podešavanja koupravljanja po koracima.
+Ovde možete da nađete vođeno iskustvo podešavanja za ko-upravljanje korak po [korak.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**Kako da instaliram klijenta programa config na Intune-upravljani uređaji**
+**Kako da instaliram klijent upravljača konfigima na uređajima koje upravlja Intune**
 
-Pogledajte članak [Intune MDM-upravljanje Windows uređajima](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Pogledajte [Windows uređaje koje upravlja Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
 **Šta ako samo želim da promenim MDM autoritet?**
 
-MDM podrška se može promeniti bez otvaranja slučaja podrške. Pregledajte sledeću dokumentaciju da biste pomogli u promeni MDM autoriteta:
+MDM Authority može da se promeni bez otvaranja predmeta podrške. Pregledajte sledeću dokumentaciju da biste pomogli u promeni MDM autoriteta:
 
-- [Promena MDM autoriteta iz upravljača konfiguracije u Intune samostalnu](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [Promena MDM autoriteta iz usluge Intune samostalnog upravljača konfiguracije](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Promena MDM autoriteta za konfigurisanje iz Upravljača konfiguracijom u Intune standalone](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Promena MDM autoriteta za domen iz intune standalone u Upravljač konfiguracije](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

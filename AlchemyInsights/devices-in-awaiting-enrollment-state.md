@@ -1,8 +1,8 @@
 ---
-title: Uređaji se nalaze u stanju za prijavljivanje
+title: Uređaji su u stanju "Čeka se uklonjanje"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730749"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815368"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Uređaji se nalaze u državi "prijavljivanje čeka"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Uređaji su u stanju "Čeka se uklonjanje"
 
-Radna površina radne površine nema dijagnostičke podatke za ovaj uređaj. 
+Desktop Analytics nema dijagnostične podatke za ovaj uređaj. 
 
-Do ovog problema može doći zato što ste nedavno dodali uređaj u ciljnu kolekciju i još uvek nije poslato. To takođe može da znači da uređaj ne komunicira ispravno sa uslugom, a da su najnoviji dijagnostički podaci stari više od 28 dana.
+Do ovog problema može doći zato što ste nedavno dodali uređaj u ciljnu kolekciju, a on još uvek nije poslat. To takođe znači da uređaj ne komunicira ispravno sa uslugom, a najnoviji dijagnostički podaci stariji od 28 dana.
 
-Uverite se da uređaj može da komunicira sa uslugom. Više informacija potražite u članku [krajnje tačke](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Uverite se da uređaj može da komunicira sa uslugom. Dodatne informacije potražite u [temi Krajnje tačke](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Više informacija o statusu za prijavljivanje čekanja potražite u članku [nadgledanje stanja veze](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Dodatne informacije o statusu u vezi sa unošenjem podataka koji vas čekaju potražite u temi [Nadgledanje zdravstvenog stanja veze.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

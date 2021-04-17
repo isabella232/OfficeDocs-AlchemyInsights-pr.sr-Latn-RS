@@ -2,7 +2,7 @@
 title: Rezultat usaglašenosti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785473"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817330"
 ---
 # <a name="compliance-score"></a>Rezultat usaglašenosti
 
-Microsoft rezultat usaglašenosti (Preview) je funkcija u sistemu Microsoft 365 koja vam pomaže da izmerite drћanje usaglašenosti organizacije. Koristi ocenu zasnovanu na riziku na osnovu napretka u sprovođenju radnji povezanih sa usaglašenošću.   Rezultat usaglašenosti je pojednostavljena verzija [Menadžera usaglašenosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) i pruža lakši način da ispitate svoj stav o usaglašenosti i da primenite radnje da biste je poboljšali. 
+Microsoft ocena o usaglašenosti (pregled) je funkcija u programu Microsoft 365 koja vam pomaže da izmerite podržavanje usaglašenosti organizacije. Ona koristi ocenu zasnovanu na riziku na osnovu vašeg napretka u primeni radnji vezanih za usaglašenost.   Rezultat usaglašenosti je [](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) pojednostavena verzija upravljača usaglašenosti i pruža lakši način da ispitate usaglašenost i primenite radnje kako biste ga poboljšali. 
 
-Globalni administrator treba da podesi odgovarajuće [dozvole](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) u Microsoft centru za usaglašenost za pristup rezultatu usaglašenosti.  Sve dozvole koje se prethodno konfigurišu za upravljača usaglašenosti neće se prenositi na rezultat usaglašenosti.
+Globalni dobavljač će morati da podesi odgovarajuće dozvole u Microsoft centru za usaglašenost kako bi pristupio rezultatu usaglašenosti. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center)  Dozvole koje su prethodno konfigurisane za upravljač usaglašenosti neće preneti na ocenu usaglašenosti.
 
-**Pristup rezultatu usaglašenosti**
+**Da biste pristupili rezultatu usaglašenosti**
 
-1. Idite na Microsoft 365 centar za usaglašenost i **Prijavite se** pomoću Microsoft 365 globalnog administratorskog naloga.
+1. Idite u Microsoft 365 centar  za usaglašenost i prijavite se sa Microsoft 365 nalogom globalnog dobavljača.
 
-2. Izaberite stavku **usaglašenost** u levom oknu za navigaciju. Trebalo bi da vidite [kontrolnu tablu sa rezultatom usaglašenosti sa rezultatom](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Izaberite **Rezultat usaglašenosti** u levom oknu za navigaciju. Zatim bi trebalo da vidite na [tabli "Ocena usaglašenosti" sa rezultatom](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
-**Više informacija o**:
+**Dodatne informacije o:**
 
-- Podešavanje dozvola za pristup za rezultat usaglašenosti pogledajte članak [dajte korisnicima pristup bezbednosnim centrima za Microsoft 365 Security & centrima za usaglašenost](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Rad sa radnjama poboljšanja u rezultatom usaglašenosti potražite u članku  [rad sa rezultatom usaglašenosti](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Kako se izračunava ocena usaglašenosti, pogledajte [metodologiju rezultata usaglašenosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Rezultat usaglašenosti sa upravljačem usaglašenosti potražite [u članku relacija prema menadžeru usaglašenosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Podešavanje Dozvola za pristup za ocenu usaglašenosti možete da vidite u članku Omogućavanje korisnicima pristup [Microsoft 365 centrima & za usaglašenost.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Rad sa radnjama poboljšanja u oceni usaglašenosti, pogledajte Rad sa ocenom [usaglašenosti.](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)
+- Kako se izračunava rezultat usaglašenosti, pogledajte [metodologiju ocene usaglašenosti.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)
+- Ocene o usaglašenosti [](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)nas očekuje u odnosu na Upravljač usaglašenosti.
 

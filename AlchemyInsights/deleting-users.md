@@ -2,7 +2,7 @@
 title: Brisanje korisnika
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b1de72c37e53ed91000b2c7fc95fc27c5b9a8942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679896"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815449"
 ---
 # <a name="deleting-users"></a>Brisanje korisnika
 
-Ako želite da odmah blokirate pristup korisniku i treba da zadržite njihove informacije, pogledajte članak [blokiranje pristupa bivšem zaposlenom za Microsoft 365 podatke](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).
+Ako želite da odmah blokirate korisnički pristup i morate da zadržite njihove informacije, pročitajte članak Blokiranje pristupa bivšeg zaposlenog [Microsoft 365 podacima.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)
   
-Ako jednostavno želite da izbrišete korisnika i ne brinete se oko podataka, pročitajte članak [Brisanje korisnika iz organizacije](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). To će odmah osloboditi licencu.
+Ako samo želite da izbrišete korisnika i niste zabrinuti za njihove podatke, pogledajte tp Brisanje [korisnika iz organizacije.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) To će odmah osloboditi njihovu licencu.
   

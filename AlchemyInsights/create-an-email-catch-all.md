@@ -1,8 +1,8 @@
 ---
-title: Kreiranje e-poruke
+title: Napravite e-poruku koja se hvata sve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713000"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816214"
 ---
-# <a name="create-an-email-catch-all"></a>Kreiranje e-poruke
+# <a name="create-an-email-catch-all"></a>Napravite e-poruku koja se hvata sve
 
-Upotreba hvatanja je odlučno obeshrabrena. Bolje je da se ponovo vratite na pošiljalac koji omogućava pošiljaoce da saznaju da poruka nije mogla da se dostavi kao adresirana kako bi mogla da preduzme radnju. Praćenom poštanskom sandučetu možete da ograničite samo da biste imali važeće e-adrese. 
+Upotreba zahladanja je veoma odsutan. Bolje je da obezbedite odskok pošiljaocu i tako ga pustite da zna da nije moguće isporučiti poruku kako bi mogli da preduzme radnju. Takođe možete da ograničite nadgledano poštansko sanduče tako da prima samo ranije važeće e-adrese. 
 
-Bilo koji ulov sve poštansko sanduče dobiće dobar deo bezvredne pošte i može na kraju popuniti ako se pažljivo ne nadgleda. (Postoje ograničenja za primanje.) 
+Svako hvatanje svakog poštanskog sandučeta dobiće dobru ponudu bezb. I na kraju ih može popuniti ako se ne nadgleda pažljivo. (Postoje ograničenja za prijem.) 
 
 Ako odlučite da nastavite, pratite ove korake:
 
-1. Kreirajte dinamičku grupu za distribuciju & uključujete "sve tipove primalaca".
+1. Kreiranje dinamičke grupe za distribuciju & "Svi tipovi primalaca".
 
-2. Kreiranje namenskog poštanskog sandučeta za hvatanje e-poruka, na primer, catchall@domain.com.
+2. Kreirajte namenski poštansko sanduče da biste hvatali e-poruke, na primer catchall@domain.com.
 
-3. Za određeni domen, postavljanje domena za domen "Inter". Ako kasnije uklonite sve hvatanje, obavezno ponovo konfigurišete domen za autoritativno.
+3. Za određeni domen podesite DomainType na "InternalRelay". Ako kasnije uklonite sve stavke, uverite se da ste domen vratili na "Ovlašćeno".
 
-4. Kreirajte pravilo transporta Pošilka na sledeći način:
+4. Kreirajte pravilo za prenos toka pošte na sledeći način:
 
-    - Ako je pošiljalac "izvan organizacije"
-    - Preusmeravanje poruke na Catchall@domain.com
-    - Osim ako je primalac član allusers@domain.com (grupna raspodela sadrži sve članove)
-    - Uverite se da su novi poštanski sandučići dodati u grupu za dinamiku distribucije
+    - Ako pošiljalac ima "Izvan organizacije"
+    - Preusmerite poruku na Catchall@domain.com
+    - Osim ako je primalac član grupe allusers@domain.com (grupa za distribuciju sadrži sve članove)
+    - Proverite da li je provera valjanosti novih poštanskih sandučića dodata u dinamičkoj grupi za distribuciju
