@@ -1,8 +1,8 @@
 ---
-title: Office 365 za Enterprise plan
+title: Office 365 plan za velika preduzeća
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 37fee31a4c2fa0dcf9661376533dfbf7b1035971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c07782c97f527564a0d0e804a855e142fc40dac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729453"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829570"
 ---
-# <a name="office-365-for-enterprise-plan"></a>Office 365 za Enterprise plan
+# <a name="office-365-for-enterprise-plan"></a>Office 365 plan za velika preduzeća
 
-Postoji nekoliko raznih planova dostupnih u sistemu Office 365 za Enterprise. [Uporedite Office 365 za planove za Enterprise i cenovnik](https://products.office.com/business/compare-more-office-365-for-business-plans).  
+Dostupno je nekoliko različitih planova uz Office 365 za velika preduzeća. [Uporedite planove i cene usluge Office 365 za velika preduzeća](https://products.office.com/business/compare-more-office-365-for-business-plans).  

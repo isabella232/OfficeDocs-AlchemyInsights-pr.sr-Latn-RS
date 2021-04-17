@@ -1,8 +1,8 @@
 ---
-title: Proxy Yaddress nije ispravan
+title: ProxyAddress netačno
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801522"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828952"
 ---
-# <a name="proxyaddress-incorrect"></a>Proxy Yaddress nije ispravan
+# <a name="proxyaddress-incorrect"></a>ProxyAddress netačno
 
-Kada je objekat sinhronizovan sa uslugom Azure AD, vrednosti koje su navedene u atributu Proxy-adresa u programu Active Directory upoređuju se sa pravilima Azure oglasa, a zatim se atribut Prokelaadrese popunjava u usluzi Azure AD. Stoga, vrednosti atributa Prokyadresama za objekat u aktivnom direktorijumu možda neće biti iste kao vrednosti atributa Prokyadresama u usluzi Azure AD.
+Kada se objekat sinhronizuje sa uslugom Azure AD, vrednosti navedene u atributu proxyAddresses u aktivnom direktorijumu porede se sa Azure AD pravilima, a zatim se atribut proxyAddressesmova u Azure AD. Stoga, vrednosti atributa proxyAddresses za objekat u programu Active Directory možda neće biti iste kao vrednosti atributa proxyAddresses u Azure AD.
   
-Da biste saznali više o tome kako je prokyaddress popunjena, pogledajte članak [Kako se atribut proxyAddress popunjava u usluzi Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Da biste saznali više o tome kako se proxyaddress upisuje, pogledajte kako se atribut [proxyAddress](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)upisuje u Azure AD.
   
 

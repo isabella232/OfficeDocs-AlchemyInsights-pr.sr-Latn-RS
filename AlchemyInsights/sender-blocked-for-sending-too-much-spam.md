@@ -1,10 +1,12 @@
 ---
-title: Pošiljalac je blokiran zbog preteranog slanja bezvredne e-pošte
+title: Pošiljalac je ograničen zbog preteranog slanja bezvredne e-pošte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+manager: scotv
+ms.date: 04/14/2021
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,15 +14,17 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a35c235efc4571d465c6d6a375866e6570152164
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709169"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829534"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Nalog je blokiran zbog preteranog slanja bezvredne e-pošte
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Nalog je ograničen zbog preteranog slanja bezvredne e-pošte
 
-Kao administrator, ako nekom od vaših korisnika bude onemogućeno slanje e-pošte, možete [sami da deblokirate nalog](https://protection.office.com/?hash=/restrictedusers) **bez otvaranja slučaja podrške**. Korisnik će moći da pošalje e-poštu u roku od sat vremena nakon što ukloni ograničenje.
+**Napomena** Microsoft 365 centru za bezbednost možete pristupiti putem [https://security.microsoft.com](https://security.microsoft.com).
 
-Usluga sprečava korisnika da šalje e-poštu nakon otkrivanja dokaza o ugroženom računu i/ili odlazne bezvredne pošte. Kao predostrožnost sledite korake za [odgovaranje na ugroženi nalog e-pošte](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) za korisnika.
+Kao administrator, ako nekom od vaših korisnika bude onemogućeno slanje e-pošte, možete [sami da deblokirate nalog](https://security.microsoft.com/?hash=/restrictedusers) **bez otvaranja slučaja podrške**. Korisnik će moći da pošalje e-poštu u roku od sat vremena nakon što ukloni ograničenje.
+
+Usluga sprečava korisnika da šalje e-poštu nakon otkrivanja dokaza o ugroženom računu i/ili odlazne bezvredne pošte. Kao predostrožnost sledite korake za [odgovaranje na ugroženi nalog e-pošte](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) za korisnika.
