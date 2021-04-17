@@ -1,8 +1,8 @@
 ---
-title: Zašto dugme "Dodaj budžet" bude omogućeno za mene?
+title: Zašto je dugme "Dodaj budžet" onemogućeno za mene?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,85 +12,85 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807668"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822649"
 ---
-# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Zašto dugme "Dodaj budžet" bude omogućeno za mene?
+# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Zašto je dugme "Dodaj budžet" onemogućeno za mene?
 
 Da biste kreirali budžet, potrebna vam je jedna od sledećih dozvola:
 
-- Grupa za upravljanje, pretplata, opsezi grupe resursa
-- Saradnik za upravljanje troškovima
-- La
-- Donator
-- Samo za klijente klijenta: prijavljivanje, odeljenje, opsezi naloga
-- Administrator upisivanja (podešava budžet na opsegu upisivanja)
-- Administrator odseka (Podesi budžet na opsegu odseka)
-- Vlasnik naloga (Podesi budžet na opsegu naloga)
-- Samo savremeni ugovor o klijentu: nalog naplate, profil naplate, opsege odeljka fakture
-- Azure kreator pretplate
+- Management Group, Subscription, Resource Group Scopes
+- Saradnik u upravljanju troškovima
+- Vlasnik
+- Saradnik
+- Samo klijenti iz preduzeća: Ugostite, Sektor, Opseza naloga
+- Adminposte za unošenje (postavljen budžet u opsez uklonjanja)
+- Adminitar sektora (podešen budžet u čijoj su dimenziji sektora)
+- Vlasnik naloga (podešen budžet u čijoj su dimenziji naloga)
+- Samo moderni korisnički ugovor: Nalog za naplatu, profil naplate, niski odeljka fakture
+- Autor pretplate na Azure
 
-**Kreirao sam budžet kada je trošak trenutnog meseca već bio iznad budžeta. Zašto nisam primio obaveštenje?**  
-Ako ste već premašili navedeni cenzus cost kada kreirate budžet koji upozorenje neće biti ispaljeno. Kada počne novi ciklus, ako prekršite cenzus, upozorenje će se zapaliti.
+**Napravio sam budžet kada je moj trošak za trenutni mesec već bio preko budžeta. Zašto nisam primio obaveštenje?**  
+Ako ste već prekoračili dati prag troška kada napravite budžet koji se ne oslobada. Kada počne novi ciklus, ako kršite prag, upozorenje će se otpustiti.
 
-**Kada treba da očekujem da ću dobiti obaveštenje nakon što premašim određeno ograničenje budžetskog obaveštenja o budžetu?**  
-Budžeti se procenjuju na svakih 4 sata. Potrebno je minimalno 8 časova da bi se podaci o korišćenju budžetom dostigli sistem. S obzirom na ovo, obaveštenja će možda potrajati dok ne prekoračite cenzus od 12 časova.
+**Kada treba da očekujem da primam obaveštenje nakon što premašim jednu od definisanih praga upozorenja o budžetu?**  
+Budžeti se procenjuju svaka 4 časa. Potrebno je najmanje 8 sati da bi podaci o korišćenjem dostigli sistem budžeta. S obzirom na to, upozorenja mogu da traju i do 12 sati nakon što premašite ograničenje.
 
-**Zašto se dugme "Datum početka" Onemogući kada izaberem mesečni period ponovnog fakturisanja?**  
-Budžeti su poravnati sa trenutnim mesečnim kalendarima ili trenutnim periodom naplate (u slučaju kada je potvrđen izbor u mesecu fakturisanja). Zbog toga ćemo unapred popuniti ovu vrednost za vas.
+**Zašto je dugme "Datum početka" onemogućeno kada izaberem period poništavanja meseca ili meseca naplate?**  
+Budžeti su usklađeni sa trenutnim kalendarski mesecom ili trenutnim periodom naplate (u slučaju kada je izabrana stavka Mesec naplate). Stoga ovu vrednost unapred popunimo za vas.
 
-**Zašto ne vidim grafikon troškova prilikom iskustva prilikom kreiranja budžeta?**  
-Treba nam minimum 2 meseca troškova podataka pre nego što možemo da ukaћemo grafikon kako bi vam pomogao pri kreiranju budžeta.
+**Zašto ne vidim grafikon troškova u iskustvu sa kreiranjem budžeta?**  
+Potrebno nam je najmanje 2 meseca troškova podataka da bismo mogli da kreiramo grafikon koji će vam pomoći pri kreiranju budžeta.
 
-**Zašto ne mogu da podesim budžet sa pretplatom koju sam upravo kreirao?**  
-Nakon kreiranja pretplate, podaci treba 24-48 sati da se obrade pre nego što postavite budžet protiv njega.
+**Zašto ne mogu da podesim budžet za pretplatu koju sam upravo kreirao/rs?**  
+Nakon kreiranja pretplate, obrada podataka od 24 do 48 sati pre postavljanja budžeta za njega.
 
-**Resursi za budžet budžeta**
+**Budžet API resursa**
 
-- [BUDŽETI API V12](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): pruža operacije za kreiranje i ažuriranje budžeta. Pomoću API-ja budžeta možete da podesite cenzus budžeta i konfigurišete više obaveštenja da biste pucali dok ste priљli tom pragu. Obaveštenja mogu da aktiviraju e-poruku ili Azure radnju za obavljanje automatizacije. Napomena: filtriranje za ovaj API ne poravnava sa API-om filtriranja/dimenzija.
-- [BUDŽETI API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): Kreirajte budžete sa većim sposobnostima filtriranja troškova od V1. Filtriranje se poravnava sa ugovorom korišćenim u upitu i API-Jima. Ovo je preporučeni budžet API za kretanje dalje.
-- [Dimenzije](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): pruža operacija da biste dobili podržane dimenzije za upotrebu ispod raznih opsega. Pomoću API dimenzije možete da preuzmete listu dimenzija koje mogu da se koriste kao ulaske za kreiranje upita pomoću API upita.
-- [Query](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): pruža operacije da biste dobili agregirani trošak i podatke o korišćenju na osnovu upita koji snabdevas. Pomoću API upita možete da navedete željeno filtriranje, sortiranje i grupisanje u svim dostupnim dimenzijama (kojima se pristupa iz upite dimenzije).
+- [API budžeta v1:](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support)Obezbeđuje operacije za pravljenje i ažuriranje budžeta. Pomoću API-ja budžeta možete da postavite prag budžeta i da konfigurišete više obaveštenja za upozorenja kada se približite tom pragu. Upozorenja mogu aktivirati e-poruku ili Azure grupu radnji radi automatizacije. Napomi: Filtriranje za ovaj API ne poravnava se sa API filtriranjem/dimenzijama upita.
+- [API budžeta v2:](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json)Kreirajte budžete sa većim mogućnostima filtriranja troškova od v1. Filtriranje je uravnoteženo sa ugovorom koji se koristi u AP-jem upita i dimenzija. Ovo je preporučeni API budžeta za korišćenje pomeranja unapred.
+- [Dimenzije:](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support)Obezbeđuje operacije za dobijanje podržanih dimenzija za korišćenje u okviru različitih oblasti. Pomoću API-ja dimenzija možete preuzeti listu dimenzija koje se mogu koristiti kao unosi za generisanje upita pomoću API-ja upita.
+- [Upit:](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support)Obezbeđuje operacije za dobijanje agregiranih troškova i podataka o korišćenjem na osnovu upita koji nabavljate. Pomoću API-ja upita možete da navedete željeno filtriranje, sortiranje i grupisanje po svim dostupnim dimenzijama (kojima se pristupa iz API-ja dimenzija).
 
-**Predviđene troškove**
+**Prognozirani troškovi**
 
-**Zašto ne vidim predviđanja za moje troškove u analizi troška?**  
-Postoji više razloga zbog kojih možda postoji projekcija predviđanja u okviru analiza troškova, a neka od njih su sledeća:
+**Zašto ne vidim prognozme za svoje troškove u analizi troškova?**  
+Postoji više razloga zbog kojih vam predviđanje možda nedostaje u analizi troškova, neki od njih su sledeći:
 
-1. Ako je trošak podataka star manje od 10 dana, grafikon predviđanja se neće učitavati. Model zahteva najmanje 10 dana nedavnih podataka o troškovima za tačne projekcije
-2. Ako ste izabrali istorijske datume, grafikon predviđanja neće biti vidljiv. Izaberite opseg datuma sa budućim datumima za predviđenu opciju
-3. Ako vaš nalog ima više valuta, grafikon predviđanja će samo projektovati troškove za ' sve troškove u USD '
+1. Ako su podaci o troškovima stariji od 10 dana, neće se učitati grafikon prognoza. Model zahteva najmanje 10 dana nedavnih troškova za precizne projekcije
+2. Ako ste izabrali istorijske datume, grafikon prognoza neće biti vidljiv. Izaberite opseg datuma sa budućim datumima za prikazivanje grafikona sa prognozama
+3. Ako vaš nalog ima više valuta, grafikon predviđanja će imati samo troškove projekta za "Sve troškove u USD"
 
-**Zašto se predviđanje ne menja kada promenim resurse?**  
-Model predviđanja zahteva nekoliko dana za nalog za promene na nalogu i ne pravi momentalne projekcije na osnovu promene resursa  
-Za veće korake povećanja ili smanjenja resursa, model će potrajati malo duže da bi se prilagodio ovim promenama u nalogu za anomalije
+**Zašto se prognoza ne menja kada napravim promene u resursima?**  
+Model predviđanja zahteva par dana da bi se nalozile promene u nalogu i ne pravi trenutne projekcije na osnovu promene u resursima  
+Za veće korake za povećanje ili smanjenje resursa, modelu će biti malo duže da se prilagodi ovim promenama kako bi uneo nepravilnosti
 
-**Zašto se moje predviđanje povećava kada rezervišem kupovinu ili Marketplace?**  
-Model predviđanja smatra da su to "Stvarni troškovi" i da se ne računa za upotrebu i nabavku zasebno. Za jednokratnu kupovinu, model će smanjiti projekcije posle 10 dana da bi se uključilo nagli porast troškova
+**Zašto se moje prognoza povećava kada napravim rezervaciju ili kupovinu na tržištu?**  
+Model prognoza uzima u obzir "stvarni trošak" i ne uzima u obzir korišćenje i kupovinu posebno. Za jednodnevnu kupovinu model će smanjiti projekcije nakon 10 dana da bi se oglašavati iznenada povećavanje troškova
 
-**Želim da vidim prognoze za jednu dimenziju (npr. Centimetra**  
-Prognoza trenutno podržava ukupne projekcije troškova i ne za pojedinačne Merete. Stoga, kada je "grupisana po" dimenziji, projekcije će biti za ukupan broj svih stavki u dimenziji
+**Želim da vidim prognozione za jednu dimenziju (npr. metar)**  
+Predviđanje trenutno podržava projekcije ukupnih troškova, a ne za pojedinačne metraže. Zato, kada se dimenzija "Grupiše po", projekcije će biti za ukupne vrednosti svih stavki u dimenziji
 
 **Preporučeni dokumenti**
 
-- [Šta je to Azure upravljanje troškovima?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Najbolje prakse Azure upravljanja troškovima](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Analizirajte troškove i potrošnju](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Istražite i analizirajte troškove pomoću analize troška](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure upravljanje troškovima: cenovnik](https://azure.microsoft.com/services/cost-management/#pricing)
-- [Pregled troškova u analizi troška](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
-- [Uputstvo za video: kreiranje budžeta na Azure portalu](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
-- [Preduslovi za pregled i prilagođavanje budžete](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
-- [Kreiranje budžeta i upravljanje njima](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
-- [Konfigurisanje automatizacije sa Azure akcionim grupama i budžetom API-Jima](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
-- [Koristite obaveštenja o troškovima da biste nadgledali upotrebu i potrošnju](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Najbolje prakse upravljanja troškovima](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Šta je to upravljanje Azure troškovima?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Najbolje prakse za upravljanje Azure troškovima](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Analiziranje troškova i potrošnje](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Istraživanje i analiziranje troškova uz analizu troškova](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Upravljanje Azure troškovima: Cene](https://azure.microsoft.com/services/cost-management/#pricing)
+- [Pregled troškova u analizi troškova](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
+- [Video uputstvo: Kreiranje budžeta na Azure portalu](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
+- [Preduslovi za prikazivanje i prilagođavanje budžeta](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
+- [Kreiranje budžeta i upravljanje budžetom](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
+- [Konfigurisanje automatizacije sa Azure grupama radnji i API-jem budžeta](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
+- [Korišćenje obaveštenja o troškovima za nadgledanje korišćenja i potrošnje](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Najbolje prakse za upravljanje troškovima](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Uputstvo za uputstvo**
+**Video uputstva**
 
 - [Kreiranje budžeta na Azure portalu](https://go.microsoft.com/fwlink/?linkid=2146761)
-- [Upravljanje troškovima uz API i akcione grupe](https://go.microsoft.com/fwlink/?linkid=2147038)
+- [Upravljanje troškovima uz API budžeta i grupe radnji](https://go.microsoft.com/fwlink/?linkid=2147038)

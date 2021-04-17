@@ -2,7 +2,7 @@
 title: Dodavanje SharePoint kalendara
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4a0dd39bbb1215008220f7c15fc77a7d7216cfe4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687628"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822361"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Dodavanje SharePoint kalendara
 
-SharePoint kalendari su klasični tipovi lista koji se ponekad pomešavaju sa kalendarima Microsoft 365 grupama.
+SharePoint kalendari su klasični tipovi liste koji se ponekad mešaju sa kalendarima Microsoft 365 grupa.
  
-Da biste kreirali SharePoint kalendar, slijedite ove korake:
+Da biste kreirali SharePoint kalendar, pratite ove korake:
  
-1.  Izaberite ikonu " **Postavke** ", a zatim izaberite stavku **Dodaj aplikaciju**.
-2.  U polju **Pronađi pretragu aplikacije** otkucajte **Kalendar** i pritisnite taster ENTER.
-3.  Izaberite kalendar koji se zove **Kalendar**, a zatim unesite ime za kalendar.
+1.  Izaberite **ikonu** zupčanik Postavke, a zatim **izaberite stavku Dodaj aplikaciju**.
+2.  U polju **za pretragu Pronađi aplikaciju** otkucajte Kalendar **i** pritisnite taster Enter.
+3.  Izaberite aplikaciju pod **imenom Kalendar**, a zatim unesite ime za kalendar.
 
-Više informacija o Microsoft 365 grupama potražite u članku [Saznajte više o microsoft 365 grupama](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Više informacija o Microsoft 365 grupama potražite u [članku Saznajte više o Microsoft 365 grupama.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 

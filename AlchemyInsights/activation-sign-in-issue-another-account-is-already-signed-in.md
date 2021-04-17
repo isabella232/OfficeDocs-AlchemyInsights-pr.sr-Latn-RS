@@ -1,8 +1,8 @@
 ---
-title: Problem aktivacije/prijavljivanja – drugi nalog je već prijavljen
+title: Problem sa aktivaciju/prijavljivanjem - drugi nalog je već prijavljen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 28cab94af5c3e57bce5a41d36c20a57ebfa825ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76eef6f89cc1cb4c26e9022c7048d23937e5af59
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697751"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822937"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Popravka Microsoft 365 aplikacija "Žao nam je, drugi nalog iz vaše organizacije je već prijavljen"
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Popravljanje Microsoft 365 aplikacije u kojoj je poruka "Žao nam je, drugi nalog vaše organizacije je već prijavljen"
 
 Da biste ispravili ovu grešku, pokušajte sledeće:
 
-1. Otvorite aplikaciju Office i [odjavite se](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) sa bilo kog postojećeg korisničkog naloga.   
-2. Korišćenje Windows **Settings**  >  **korisničkih naloga**za postavke  >  **& nalozima**, uklanjanje svih poslovnih naloga osim naloga koji je uticao. 
-3. Korišćenje Windows **postavki**  >  **naloga**za  >  **pristup radu ili škola**, prekid veze sa svim nalozima za rad osim na nalogu koji je uticao. 
-4. Resetovanje stanja aktivacije sistema Office. [Saznajte kako](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-).
-5. [Prijavite](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) se koristeći korisnik koji utiče na njega. 
+1. Otvorite Office aplikaciju i [odjavite se](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) sa bilo kog postojećeg korisničkog naloga.   
+2. Korišćenjem Windows **postavki**  >  **naloga**  >  **e-&** uklonite sve radne naloge osim naloga na koje ovo utiče. 
+3. Korišćenjem Windows **postavki**  >  **Nalozi**  >  **Pristup poslovnim ili školskim računarima** prekidajte vezu sa svim poslovnim nalozima osim naloga na koji to utiče. 
+4. Resetovanje stanja aktivacije sistema Office. [Saznajte kako.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+)
+5. [Prijavite se](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) pomoću korisničkog naloga na koji ovo utiče. 
 
-Više informacija potražite u članku ["Žao nam je, drugi nalog iz vaše organizacije je već prijavljen na ovom računaru" u sistemu Office 2013](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Dodatne informacije potražite u temi "Žao nam je, drugi nalog vaše organizacije je već prijavljen na ovom [računaru" u sistem Office 2013.](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
 
 Za Mac računar pročitajte članak [Nije moguće prijaviti se u Office 2016 za Mac aplikaciju](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
