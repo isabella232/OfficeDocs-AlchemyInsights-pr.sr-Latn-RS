@@ -1,8 +1,8 @@
 ---
-title: Promena imena korisnika i e-adrese
+title: Promena korisničkog imena i adrese e-pošte
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "7601"
 - "4"
-ms.openlocfilehash: dec26ee6c3266feedc39a1c1a6af0b3f1a7a2413
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 2aacb53781640580380d0227185639ab026f1973
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692298"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819346"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Promena imena korisnika i e-adrese
+# <a name="change-a-users-name-and-email-address"></a>Promena korisničkog imena i adrese e-pošte
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SJuc?autoplay=false]
 
-Promena imena i e-adrese korisnika u usluzi Microsoft 365 je lako. Idite na stranicu **Korisnici** \> [aktivni korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822) i izaberite korisnika da biste uredili svoje informacije. Ovaj članak možete da koristite i za uputstva u okviru koraka po koraka:
+Promena korisničkog imena i e-adrese u programu Microsoft 365 je laka. Idite na  stranicu \> [Aktivni korisnici korisnika](https://go.microsoft.com/fwlink/p/?linkid=834822) i izaberite korisnika da biste uredili informacije o svojim informacijama. Ovaj članak možete da koristite i za uputstva korak po korak:
   
-[Promena korisničkog imena i e-adrese u usluzi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[Promena korisničkog imena i adrese e-pošte u sistemu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **Napomena**: Ako promenite glavnu e-adresu korisnika, njihova stara e-adresa će i dalje biti važeća za primanje e-pošte (to se dešava automatski). Takođe, ako je vaša organizacija u hibridno stanje, sve promene e-pošte i korisničkih imena moraju da se obave u lokalnom programu Active Directory, a zatim da se sinhronizuju sa oblakom.
+ **Napomi:** Ako promenite glavnu adresu e-pošte korisnika, stara adresa e-pošte će i dalje važiti za primanje e-pošte (to se događa automatski). Isto tako, ako je vaša organizacija u hibridnom stanju, sve promene e-pošte i korisničkog imena treba da se odrađe u povezanoj sa uslugom Active Directory, a zatim sinhronizovane sa oblakom.

@@ -2,7 +2,7 @@
 title: Nije moguće pristupiti javnim fasciklama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812561"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819526"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ne može da se poveže sa javnim fasciklama
 
-Ako pristup javnoj fascikli ne radi za neke korisnike, Isprobajte sledeće:
+Ako pristup javnoj fascikli ne funkcioniše za neke korisnike, pokušajte sledeće:
 
-Povežite se sa EXO PowerShell i konfigurišite parametar Defaultpublicfolfoldersanduče na problem korisničkog naloga da bi se podudarao sa parametrima na radnom korisničkom nalogu.
+Povežite se sa EXO PowerShell i konfigurišite DefaultPublicFolderMailbox parametar na problemnom korisničkom nalogu da bi se podudarao sa parametarom na radnom korisničkom nalogu.
 
-Primer
+Primer:
 
-Rešenje "Uzmi-poštansko sanduče" | FT Defaultpublicfolfolderpoštansko sanduče, efikasno iskorišćenost poštanskog sandučeta
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Komplet-problem sa poštanskim sandučetom-Defaultpublicfoldersanduče \<value from previous command>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-Sačekajte najmanje jedan sat da bi promena stupila na snagu.
+Sačekajte najmanje jedan čas da bi promena stupila na snagu.
 
-Ako problem ostane, pratite [ovu proceduru](https://aka.ms/pfcte) da biste rešili probleme sa pristupom javnoj fascikli pomoću programa Outlook.
+Ako problem ostane, pratite ovu proceduru da biste rešili [probleme](https://aka.ms/pfcte) sa pristupom javnoj fascikli pomoću programa Outlook.
  
-**Da biste kontrolisali koji korisnici mogu da pristupe javnim fasciklama pomoću programa Outlook**:
+**Da biste kontrolisali koji korisnici mogu da pristupe javnim fasciklama pomoću programa Outlook:**
 
-1.  Koristite setu- <mailboxname> Kaskadepoštansko sanduče-publicfolderclientaccess $TRUE ili $FALSE  
+1.  Koristite Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ili $false  
       
-    $true: Omogućavanje korisnicima da pristupaju javnim fasciklama u programu Outlook  
+    $true: Dozvoljavanje korisnicima da pristupe javnim fasciklama u programu Outlook  
       
-    $false: sprečite korisnički pristup javnim fasciklama u programu Outlook. Ovo je podrazumevana vrednost.  
+    $false: Sprečite korisnički pristup javnim fasciklama u programu Outlook. Ovo je podrazumevana vrednost.  
         
-2.  Scenokonfiguracija – Publicfoldershow$TRUE   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Napomena** Ova procedura može da kontroliše veze samo sa Outlook klijentima za računare za Windows. Korisnik može da nastavi pristup javnim fasciklama pomoću aplikacije OWA ili Outlook za Mac.
+**Napomišite** Ova procedura može da kontroliše veze samo sa Outlook klijentima za računare za Windows. Korisnik može da nastavi da pristupa javnim fasciklama koristeći program OWA ili Outlook za Mac.
  
-Više informacija potražite u članku [Najavljujemo podršku za kontrolisane veze ka javnim fasciklama u programu Outlook](https://aka.ms/controlpf).
+Više informacija potražite u [članku Najavljivanje podrške za kontrolisane veze sa javnim fasciklama u programu Outlook.](https://aka.ms/controlpf)

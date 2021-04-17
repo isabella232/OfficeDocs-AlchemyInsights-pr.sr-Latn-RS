@@ -1,8 +1,8 @@
 ---
-title: Promena alternativne e-adrese za obaveštenje o plaćanju
+title: Promena alternativne adrese e-pošte za obaveštenja o naplati
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4409c8ac765b2c9933d85e5d94e519ec85f8466f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2169f65cda6386aad5c061d38aaf7890a5a0c0a2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714727"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818410"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Promena alternativne e-adrese za obaveštenje o plaćanju
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Promena alternativne adrese e-pošte za obaveštenja o naplati
 
-Promena alternativne e-adrese za obaveštenje o plaćanju je jednostavna. Samo slijedite ove korake:
+Promena alternativne adrese e-pošte za obaveštenja o naplati je laka. Samo sledite ove korake:
   
-1. U Microsoft 365 centru administracije, idite na stranicu obaveštenja **o** \> [naplati](https://go.microsoft.com/fwlink/p/?linkid=853212) naplate.  
+1. U Microsoft 365 centru za administaciju idite na stranicu Obaveštenja  \> [o naplati.](https://go.microsoft.com/fwlink/p/?linkid=853212)  
 
 2. Izaberite ime sa liste.
 
-3. U polju **Alternativna e-adresa** otkucajte alternativnu e-adresu.
+3. U polju **Alternativna adresa e-pošte** otkucajte alternativnu adresu e-pošte.
 
-4. Izaberite stavku **Sačuvaj** i završili ste!
+4. Kliknite **na** dugme Sačuvaj i završili ste!
 
-Više detalja i koraka sa snimcima ekrana potražite u članku [Promena adresa fakturisanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+Za više detalja i korake za snimcima ekrana pogledajte [Promena adresa fakturiše.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
   
