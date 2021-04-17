@@ -2,7 +2,7 @@
 title: Rešavanje problema sa zvukom u operativnom sistemu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750357"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833305"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Rešavanje problema sa zvukom u operativnom sistemu Windows 10
 
-**Pokrenite alatku za rešavanje problema sa zvukom**
+**Pokretanje alatke za rešavanje problema sa zvukom**
 
-1.  Otvorite [Postavke rešavanja problema](ms-settings:troubleshoot).
+1.  Otvorite postavke [Rešavanje problema](ms-settings:troubleshoot).
 
-2.  Izaberite stavku **reprodukovanje zvuka**  >  **pokrenite alatku za rešavanje problema**.
+2.  Izaberite **reprodukuj zvuk**  >  **Pokreni alatku za rešavanje problema**.
 
-**Postavljanje podrazumevanog uređaja**
+**Podešavanje podrazumevanog uređaja**
 
-Ako se povezujete sa audio uređajem koristeći USB ili HDMI, možda ćete morati da ga konfigurišete kao podrazumevanog:
+Ako se povezujete sa audio uređajem pomoću USB ili HDMI veze, možda ćete morati da podesite taj uređaj kao podrazumevani:
 
-1. Otvorite **početni**  >  **zvuk**, a zatim izaberite stavku **zvuk zvuka** ili **promenite zvukove sistema** sa liste rezultata.
+1. U **listi rezultata** izaberite stavku Pokreni zvuk, a  >  zatim izaberite stavku Zvuk ili Promena sistemskih zvukova.  
 
-2.  Na kartici **Reprodukcija** izaberite uređaj, izaberite stavku **Postavi podrazumevano**, a zatim kliknite na **dugme u redu**.
+2.  Na kartici **Reprodukcija izaberite** uređaj, izaberite stavku Postavi **podrazumevano**, a zatim kliknite na dugme **U redu.**
 
-**Proveravanje kablova, volumena, zvučnika i slušalica**
+**Proverite kablove, jačinu zvuka, zvučnike i slušalice**
 
-1. Proverite veze govornika i slušalice za labavu kablove i uverite se da su povezani sa ispravnim konektorom.
+1. Proverite da li kablovi zvučnika i slušalica nisu priključeni kablovi i proverite da li su povezani sa odgovarajućim konektorom.
 
-2. Potvrdite izbor u polju za funkciju Power i volumen i Isprobajte sve kontrole volumena.
+2. Proverite nivo napajanja i jačine zvuka i pokušajte da povećate jačinu zvuka.
 
-3. Neki zvučnici i aplikacije imaju sopstvene kontrole volumena; Možda ćete morati da ih proverite da biste se uverili da su na pravom nivou.
+3. Neki zvučnici i aplikacije imaju sopstvene kontrole zvuka; možda ćete morati da ih sve proverite da biste se uverili da su na pravom nivou.
 
-4. Pokušajte da se povežete pomoću drugog USB porta.
+4. Pokušajte da se povežete koristeći drugi USB port.
 
-**Napomena**: Imajte na umu da zvučnici možda neće raditi kada su slušalice priključeni.
+**Naznaka:** Ne zaboravite da zvučnici možda neće raditi kada su slušalice priključene.
 
-**Proveravanje upravljača uređajima**
+**Provera u upravljaču uređajima**
 
-Da biste se uverili da su upravljački programi ažurni:
+Da biste se uverili da su upravljački programi aženjeni:
 
-1. Izaberite stavku **Start**, otkucajte **Upravljač uređajima**, a zatim izaberite **Upravljač uređajima** sa liste rezultata.
+1. Izaberite **start**, **otkucajte Upravljač uređajima**, a zatim **sa** liste rezultata izaberite stavku Upravljač uređajima.
 
-2. U okviru Excel **, video i upravljači za igre**izaberite zvučnu karticu, otvorite je, izaberite karticu **upravljački program** i izaberite stavku **Ažuriraj upravljački program**.
+2. U **okviru Upravljači zvukom, videom** i igrom  izaberite zvučnu karticu, otvorite je, izaberite karticu Upravljački program i izaberite stavku **Ažuriraj** upravljački program .
 
-**Napomena**: Ako Windows ne pronađe novi upravljački program, potražite ga na Veb lokaciji proizvođača uređaja i slede uputstva.
+**Napomi:** Ako Windows ne pronađe novi upravljački program, pronađite ga na veb lokaciji proizvođača uređaja i pratite njihova uputstva.
 
-**Ponovno instaliranje upravljačkog programa**
+**Ponovo instalirajte upravljački program**
 
-Ako ne možete da ažurirate pomoću upravljača uređajima ili pronađete novi upravljački program na Veb lokaciji proizvođača, isprobajte ove korake:
+Ako ne možete da ažurirate putem upravljača uređajima ili pronađete novi upravljački program na veb lokaciji proizvođača, isprobajte ove korake:
 
-1. U upravljaču uređajima kliknite desnim tasterom miša (ili pritisnite i držite) audio upravljački program i izaberite stavku **Deinstaliraj**. Ponovo pokrenite uređaj i Windows će pokušati da ponovo instalira upravljački program.
+1. U upravljaču uređajima kliknite desnim tasterom miša na (ili pritisnite i držite) upravljački program za zvuk i izaberite **stavku Deinstaliranje**. Ponovo pokrenite uređaj i Windows će pokušati da ponovo instalira upravljački program.
 
-2. Ako ponovna instalacija upravljačkog programa ne radi, pokušajte da koristite generički audio upravljački program koji se dobija uz Windows. U upravljaču uređajima, kliknite desnim tasterom miša na stavku (ili ga pritisnite i zadržite) > upravljački program za **Ažuriranje softvera za upravljačke**programe  >  **Pregledajte računar za softver upravljačkog programa**  >  **Dozvoli mi da izaberem sa liste upravljačkih programa uređaja na računaru**, izaberite stavku **audio uređaj visoke definicije**, izaberite stavku **dalje**i praćenje uputstava za instaliranje.
+2. Ako poništavanje instalacije upravljačkog programa ne funkcioniše, pokušajte da koristite generički upravljački program za zvuk koji se dolazi uz Windows. U upravljaču uređajima kliknite desnim tasterom miša na upravljački program za zvuk (ili ga pritisnite i držite) > Ažuriraj softver upravljačkog programa Potraži softver upravljačkog programa Na računaru pronađi softver upravljačkog programa Dozvolite mi da izaberem sa liste upravljačkih programa uređaja na računaru, izaberite stavku Audio uređaj  >  **visoke definicije,** kliknite na dugme Dalje i pratite uputstva da biste ga  >  instalirali.  

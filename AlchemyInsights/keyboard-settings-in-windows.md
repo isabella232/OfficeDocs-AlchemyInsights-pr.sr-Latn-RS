@@ -2,7 +2,7 @@
 title: 'Postavke tastature u operativnom sistemu Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772817"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832981"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Postavke tastature u operativnom sistemu Windows 10
 
-**Postavke za kucanje**
+**Postavke tipa**
 
-Da biste promenili postavke operativnog sistema Windows koje se odnose na proveru grešaka, automatsko ispravljanje, predloge i druge aspekte hardverske i Touch tastature, **Izaberite stavku postavke > uređajima > kucanje**. 
+Da biste promenili Windows postavke u vezi sa proverom pravopisa, automatskom ispravljanjem, predlozima i drugim aspektima hardvera i tastature na ekranu osetljivom na dodir, idite na Postavke > Uređaji **>** kucanje. 
 
 **Postavke jezika i tastature**
 
-Da biste promenili postavke koje se odnose na tastaturu ili metodu unosa za Windows, izaberite stavku **postavke > vreme & jeziku > jeziku**. Izaberite stavku Jezici na listi **željenih jezika** i izaberite stavku **Opcije** da biste dodali/uklonili tastature ili metode unosa (ime).
+Da biste promenili postavke u vezi sa kojim tastaturom ili metodom unosa da biste ga koristili za jezik operativnog sistema Windows, idite na Postavke **> Vreme & jezik > jezik.** Izaberite jezike sa liste **Željeni jezici** i izaberite stavku Opcije da biste dodali/uklonili tastature ili metode unosa (IM). 

@@ -1,8 +1,8 @@
 ---
-title: Problemi sa Apple satom
+title: Problemi sa programom Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700037"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832288"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Problemi sa Apple satom
+# <a name="trouble-with-the-apple-watch"></a>Problemi sa programom Apple Watch
 
-Ako imate problema prilikom korišćenja programa Outlook u programu Apple watch, evo nekih koraka za rešavanje problema: 
+Ako imate problema pri korišćenju programa Outlook na Apple Watch uređaju, evo nekih koraka za rešavanje problema: 
 
-1. Idite na aplikaciju praćenje na iPhone uređaju.
+1. Idite u aplikaciju za gledanje na iPhone uređaju.
 
-2. Pomerajte se do Outlook aplikacije.
+2. Pomerite se do aplikacije Outlook.
 
-3. Preklopnik "Prikaži aplikaciju na Apple watch" na " **Isključeno** " da biste ga deinstalirali.
+3. Preklopnik "Prikaži aplikaciju u prodavnici Apple Watch" **na ISKLJUČENO** da biste ga deinstal pitali.
 
-4. Preklopnik "Prikaži aplikaciju na Apple watch" **za ponovno instaliranje u programu** watch.
+4. Da biste ponovo instalirali aplikaciju "Prikaži aplikaciju u prodavnici Apple Watch", ponovo instalirajte aplikaciju Watch. 
 
-5. Pokrenite Outlook aplikaciju na Apple watch i sačekajte da se podaci sinhronizuju sa najnovijim. 
+5. Pokrenite aplikaciju Outlook u prodavnici Apple Watch i sačekajte da se podaci sinhronizuju sa najnovijom verzijom. 
 
-Ako problem nije rešen, tim za podršku će biti srećan da pomogne. Idite na **postavke > pomoć & povratne informacije > obratite se podršci**. 
+Ako se problem ne reši, tim podrške bi vam pomogao. Izaberite postavke **u e> Pomoći & za povratne informacije > Obratite se podršci.** 
