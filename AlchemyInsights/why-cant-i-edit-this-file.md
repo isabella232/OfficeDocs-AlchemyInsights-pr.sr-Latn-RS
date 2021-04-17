@@ -1,8 +1,8 @@
 ---
-title: Zašto ne mogu da uređujem ovu datoteku?
+title: Zašto ne mogu da uredim ovu datoteku?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6597a0665b165eafe92baca99b0061111f333e6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664580"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824161"
 ---
-# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="95c3b-102">Zašto ne mogu da uređujem ovu datoteku?</span><span class="sxs-lookup"><span data-stu-id="95c3b-102">Why can’t I edit this file?</span></span>
+# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="1b73e-102">Zašto ne mogu da uredim ovu datoteku?</span><span class="sxs-lookup"><span data-stu-id="1b73e-102">Why can’t I edit this file?</span></span>
 
-<span data-ttu-id="95c3b-103">Ako je dokument, radni list ili prezentacija zaključan za uređivanje i ne mogu da se uređuju u Windows aplikacijama za računare, to može da bude da je datoteka uređivana od strane nekog drugog ili da je datoteka odjavljena.</span><span class="sxs-lookup"><span data-stu-id="95c3b-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
+<span data-ttu-id="1b73e-103">Ako su dokument, radni list ili prezentacija zaključani za uređivanje i ne mogu da se uređuju u Windows aplikacijama za računare, možda neko drugi uređuje datoteku ili je ta datoteka odjavila.</span><span class="sxs-lookup"><span data-stu-id="1b73e-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
 
-<span data-ttu-id="95c3b-104">Brzo pogledajte neke razloge [zbog kojih možda nećete moći da uredite datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="95c3b-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="1b73e-104">Pogledajte neke od razloga iz kojih [možda ne možete da uredite datoteku.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)</span><span class="sxs-lookup"><span data-stu-id="1b73e-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
