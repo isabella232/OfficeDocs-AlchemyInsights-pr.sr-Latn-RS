@@ -1,8 +1,8 @@
 ---
-title: Nije moguće primiti e-poštu sa gmail naloga
+title: Nije moguće primiti e-poštu sa Gmail naloga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735465"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830407"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a><span data-ttu-id="05f49-102">Nije moguće primiti e-poštu sa gmail naloga</span><span class="sxs-lookup"><span data-stu-id="05f49-102">Unable to receive email from Gmail accounts</span></span>
+# <a name="unable-to-receive-email-from-gmail-accounts"></a><span data-ttu-id="8d4f2-102">Nije moguće primiti e-poštu sa Gmail naloga</span><span class="sxs-lookup"><span data-stu-id="8d4f2-102">Unable to receive email from Gmail accounts</span></span>
 
-<span data-ttu-id="05f49-103">**SPOR**</span><span class="sxs-lookup"><span data-stu-id="05f49-103">**ISSUE**</span></span>
+<span data-ttu-id="8d4f2-103">**PROBLEM**</span><span class="sxs-lookup"><span data-stu-id="8d4f2-103">**ISSUE**</span></span>
 
-<span data-ttu-id="05f49-104">Svesni smo da neki korisnici možda neće moći da primaju e-poštu sa gmail naloga.</span><span class="sxs-lookup"><span data-stu-id="05f49-104">We are aware that some users may not be able to receive email from Gmail accounts.</span></span> <span data-ttu-id="05f49-105">Istražujemo mogući problem.</span><span class="sxs-lookup"><span data-stu-id="05f49-105">We are investigating a possible problem.</span></span>
+<span data-ttu-id="8d4f2-104">Svesni smo da neki korisnici možda neće moći da primaju e-poštu sa Gmail naloga.</span><span class="sxs-lookup"><span data-stu-id="8d4f2-104">We are aware that some users may not be able to receive email from Gmail accounts.</span></span> <span data-ttu-id="8d4f2-105">Istražujemo mogući problem.</span><span class="sxs-lookup"><span data-stu-id="8d4f2-105">We are investigating a possible problem.</span></span>
 
-<span data-ttu-id="05f49-106">**PRIVREMENO rešenje**</span><span class="sxs-lookup"><span data-stu-id="05f49-106">**WORKAROUND**</span></span>
+<span data-ttu-id="8d4f2-106">**ZAODNOSI SE**</span><span class="sxs-lookup"><span data-stu-id="8d4f2-106">**WORKAROUND**</span></span>
 
-<span data-ttu-id="05f49-107">Potvrdite da niste slučajno blokirali domen gmail kada blokirate jednog gmail korisnika.</span><span class="sxs-lookup"><span data-stu-id="05f49-107">Check that you have not accidentally blocked the Gmail domain when blocking one Gmail user.</span></span>
+<span data-ttu-id="8d4f2-107">Proverite da niste slučajno blokirali Gmail domen prilikom blokiranja jednog Gmail korisnika.</span><span class="sxs-lookup"><span data-stu-id="8d4f2-107">Check that you have not accidentally blocked the Gmail domain when blocking one Gmail user.</span></span>
 
-1. <span data-ttu-id="05f49-108">Otvorite [listu blokiranih pošiljalaca](https://go.microsoft.com/fwlink/?linkid=2121010).</span><span class="sxs-lookup"><span data-stu-id="05f49-108">Open your [Blocked Senders list](https://go.microsoft.com/fwlink/?linkid=2121010).</span></span>
+1. <span data-ttu-id="8d4f2-108">Otvorite listu [blokiranih pošiljalaca](https://go.microsoft.com/fwlink/?linkid=2121010).</span><span class="sxs-lookup"><span data-stu-id="8d4f2-108">Open your [Blocked Senders list](https://go.microsoft.com/fwlink/?linkid=2121010).</span></span>
 
-2. <span data-ttu-id="05f49-109">Ako je Gmail.com na listi, kliknite na ikonu za otpatke pored stavke stavka i pritisnite **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="05f49-109">If Gmail.com is in the list, click the trash icon next to the entry and press **Save**.</span></span>
+2. <span data-ttu-id="8d4f2-109">Ako Gmail.com nalazite na listi, kliknite na ikonu korpe za otpatke pored stavke i pritisnite dugme **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="8d4f2-109">If Gmail.com is in the list, click the trash icon next to the entry and press **Save**.</span></span>
