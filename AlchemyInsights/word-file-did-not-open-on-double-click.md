@@ -1,8 +1,8 @@
 ---
-title: Word datoteka se nije otvorila na dvostrukom klikom
+title: Word datoteka se nije otvorila dvostrukim klikom miša
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794817"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834133"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word dokument je otvoren u pogrešnoj aplikaciji ili se nije otvorio
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word dokument otvoren u pogrešnoj aplikaciji ili se nije otvorio
 
-Isprobajte neke od ovih predloga:
+Isprobajte neki od ovih predloga:
 
-**Izbor reči kao podrazumevanog**
+**Odaberite stavku "Word" kao podrazumevanu**
 
-- Kliknite desnim tasterom miša na dokument, odaberite stavku **Otvori sa**, a zatim odaberite stavku **Word**
+- Kliknite desnim tasterom miša na dokument, odaberite stavku **Otvori u**, a zatim odaberite stavku **Word**
 
-**Pokreće brzu popravku**
+**Pokretanje brze popravke**
 
-1. Idite na **kontrolnu tablu > programi > programi i funkcije**.
+1. Idite na **kontrolnu tablu > Programi > "Programi i funkcije"**.
 
-2. Izaberite Office proizvod koji želite da popravite, a zatim odaberite stavku **Promeni**.
+2. Izaberite Office proizvod koji želite da popravite, a zatim odaberite **stavku Promeni.**
 
-3. Odaberite opciju **Brza popravka** , a zatim odaberite stavku **Popravi**.
+3. Odaberite **opciju Brza popravka,** a zatim odaberite **stavku Popravi.**
 
-**Deinstaliranje verzija sistema Office koje ne koristite**
+**Deinstalacija verzija sistema Office koje ne koristite**
 
-1. Idite na **kontrolnu tablu > Deinstaliraj program**, a zatim izaberite verziju sistema Office koju želite da uklonite.
+1. Idite na **kontrolnu > Deinstaliranje programa**, a zatim izaberite verziju sistema Office koju želite da uklonite.
 
-2. Kliknite na dugme **Deinstaliraj**.
+2. Izaberite **stavku Deinstalni**.
 
 3. Ponovo pokrenite računar.
 
-**Pokrenite ovaj program za rešavanje problema da biste otvorili Office datoteke za otvaranje u sistemu Office**
+**Pokrenite ovu alatku za rešavanje problema da biste podesili da se oznake tipa Office datoteka otvaraju u programu Office**
 
-1. Pokrenite ovaj program za rešavanje problema: https://aka.ms/diag_officefile .
+1. Pokrenite ovu alatku za rešavanje problema: https://aka.ms/diag_officefile .
 
-2. U zavisnosti od pregledača, **Otvorite** ili **Sačuvajte** alatku za rešavanje problema na radnoj površini, a zatim ga **pokrenite** .
+2. U zavisnosti od pregledača, otvorite **ili sačuvajte alatku** za **rešavanje** problema na radnoj površini, a zatim ga **pokrenite.**

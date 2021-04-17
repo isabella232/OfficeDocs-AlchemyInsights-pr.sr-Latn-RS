@@ -1,8 +1,8 @@
 ---
-title: Rešavanje problema sa e-poštom
+title: Rešavanje problema sa događajima iz e-pošte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658748"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834853"
 ---
-# <a name="troubleshooting-events-from-email"></a>Rešavanje problema sa e-poštom
+# <a name="troubleshooting-events-from-email"></a>Rešavanje problema sa događajima iz e-pošte
 
-1. Potvrdite da je funkcija omogućena za poštansko sanduče: **da biste dobili-Eventsfromemail Configuration <mailbox> – identitet**
+1. Provera da li je funkcija omogućena za poštansko sanduče: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Zatim pogledajte "događaji iz e-pošte" evidentira **Export-Mailboxdijagnostičke zapise <mailbox> – vremenski profil komponente**
+2. Zatim pogledajte evidenciju "Događaji iz **e-pošte" evidencije Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. U evidenciji "događaji iz e-pošte" Pronađite aplikaciju Internegeid koja se podudara sa stavkom u poštanskom sandučetu.  
+3. U evidencijama "Događaji iz e-pošte" pronađite InternetMessageId koji se podudara sa stavkom u poštanskom sandučetu.  
 
-4. Vrednost "pouzdanost" određuje da li se stavka dodaje ili ne. Događaji će biti dodati samo ako je vrednost "Pouzdani" = "pouzdan".
+4. TrustScore određuje da li je stavka dodata ili ne. Događaji će se dodati samo ako je TrustScore = "Trusted".
 
-Vrednost "pouzdanost" određuje SPF, Dkim ili Dmark svojstva koja se nalaze u zaglavlju poruke.
+Svojstva TrustScore određuju SPF, Dkim ili Dmarc svojstva koja se nalazi u zaglavlju poruke.
 
 Da biste prikazali ova svojstva:
 
 **Outlook za stone računare**
 
 - Otvaranje stavke
-- Svojstva >-> Internet zaglavlja
+- Svojstva datoteke > -> internet zaglavljima
 
-Jer
+ili
 
 **MFCMapi**
 
-- Idite do stavke u prijemnom poštanskom sandučetu
-- Potražite PR_TRANSPORT_MESSAGE_HEADERS_W
+- Prelaženje do stavke u prijemnom poštanskom sandučetu
+- Potraži PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Ova svojstva su rešena i snimljena tokom transporta i proizvodnog postupka. Da biste mogli da rešite problem, možda ćete morati da izvršite pretraživanje sa podrškom za transport o neuspesima u programu SPF, DKIM i. ili DMARK.
+Ova svojstva se određuju i zapisuju tokom prenosa i usućivanja. Da biste dodatno rešavali probleme, možda ćete morati da pratite podršku za prenos o greškama u spF, DKIM i.ili DMARC-u.

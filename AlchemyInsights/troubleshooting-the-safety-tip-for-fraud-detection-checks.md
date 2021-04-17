@@ -1,8 +1,8 @@
 ---
-title: Rešavanje problema sa savetom za bezbednost za proveru otkrivanja prevara
+title: Rešavanje problema sa savetom za bezbednost za provere otkrivanja prevara
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658424"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834745"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Rešavanje problema sa savetom za bezbednost za proveru otkrivanja prevara
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Rešavanje problema sa savetom za bezbednost za provere otkrivanja prevara
 
-Ako dobijate sigurnosnu napojnicu na kojoj piše "Pošiljalac nije uspeo za otkrivanje otkrivanja prevara i možda nije ono što izgleda", pošiljalac nije uspeo da prosledi DKIM ili SPF proveru identiteta. Najbolji način da se ovo reši je da pošiljalac sama sebe dozvoli. Ako pošiljalac šalje u vaše ime, morate da im dozvolite tako što ćete dodati IP adresu pošiljaoca u SPF zapis.
+Ako dobijate bezbednosni savet u kome piše "Pošiljalac nije uspeo da proveri otkrivanje prevare i možda nije onaj ko izgleda kao da jeste", pošiljalac nije uspeo da prosledi DKIM ili SPF provere identiteta. Najbolji metod da to rešite jeste da pošiljalac ovlasti sebe. Ako pošiljalac šalje u vaše ime, morate da ga ovlastite tako što ćete dodati IP adresu pošiljaoca u SPF zapis.
   
-Pogledajte članak [Rešavanje problema sa crvenom bojom (sumnjiva) za proveru prevare](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) za više informacija.
+Više [informacija potražite u članku Rešavanje problema sa crvenom (sumnjivom)](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) bezbednosnom savetom za provere otkrivanja prevare.
   
-Evo još neke veze koje vam mogu pomoći:
+Evo još nekih veza koje vam mogu pomoći:
   
-- [Kako Microsoft koristi okvir "smernice za pošiljaoca" (SPF) da bi sprečio lažno pojavljivanje](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
+- [Kako Microsoft koristi spominjanje smernica za pošiljaoca (SPF) za sprečavanje predstavljanja](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [Podešavanje SPF tako da sprečite lažno pojavljivanje](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Podešavanje spF-a da biste sprečili da se šalju iskažu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
