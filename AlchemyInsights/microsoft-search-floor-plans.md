@@ -1,8 +1,8 @@
 ---
-title: Planovi sprata
+title: Planovi spratova
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836401"
 ---
-# <a name="floor-plans"></a><span data-ttu-id="3bafc-102">Planovi sprata</span><span class="sxs-lookup"><span data-stu-id="3bafc-102">Floor Plans</span></span>
+# <a name="floor-plans"></a><span data-ttu-id="fcda9-102">Planovi spratova</span><span class="sxs-lookup"><span data-stu-id="fcda9-102">Floor Plans</span></span>
 
-<span data-ttu-id="3bafc-103">Informacije o planovima za **Microsoft Search**  planiraju da pregledaju sledeće članke podrške:</span><span class="sxs-lookup"><span data-stu-id="3bafc-103">For information on **Microsoft Search**  floor plans, review following support articles:</span></span>
-- [<span data-ttu-id="3bafc-104">Najbolje prakse za Microsoft pretrage</span><span class="sxs-lookup"><span data-stu-id="3bafc-104">Best practices for Microsoft Search floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [<span data-ttu-id="3bafc-105">Upravljanje planovima sprata</span><span class="sxs-lookup"><span data-stu-id="3bafc-105">Manage floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- <span data-ttu-id="3bafc-106">Informacije o tome kako da napravite plan sprata u programu  **visio**, pregledajte članak [Kreiranje plana sprata](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span><span class="sxs-lookup"><span data-stu-id="3bafc-106">For information on how to create a floor plan in  **Visio**, review [Create a floor plan](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span></span>
+<span data-ttu-id="fcda9-103">Informacije o **planovima Microsoft Search**  spratova potražite u sledećim člancima podrške:</span><span class="sxs-lookup"><span data-stu-id="fcda9-103">For information on **Microsoft Search**  floor plans, review following support articles:</span></span>
+- [<span data-ttu-id="fcda9-104">Najbolje prakse za planove microsoft Search spratova</span><span class="sxs-lookup"><span data-stu-id="fcda9-104">Best practices for Microsoft Search floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [<span data-ttu-id="fcda9-105">Upravljanje planovima spratova</span><span class="sxs-lookup"><span data-stu-id="fcda9-105">Manage floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- <span data-ttu-id="fcda9-106">Informacije o tome kako da napravite plan sprata u  **programu Visio** potražite u temi [Pravljenje plana sprata](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span><span class="sxs-lookup"><span data-stu-id="fcda9-106">For information on how to create a floor plan in  **Visio**, review [Create a floor plan](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span></span>
