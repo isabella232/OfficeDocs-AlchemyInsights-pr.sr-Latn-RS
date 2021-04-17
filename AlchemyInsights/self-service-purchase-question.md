@@ -1,8 +1,8 @@
 ---
-title: Pitanje samouslužnog kupovine
+title: Pitanje o samouslužnoj kupovini
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740019"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835645"
 ---
 # <a name="self-service-purchase"></a>Samouslužna kupovina
 
-**Koje mogućnosti administrator ima za samouslužne kupovine?**
+**Koje mogućnosti ima administent za samouslužne kupovine?**
 
-Administratori mogu da prikažu sve samouslužne kupovine napravljene u organizaciji u Microsoft 365 centru administracije. One mogu da vide proizvod, ime referenta nabavke, pretplate koje ste kupili, datum isteka, istoriju porudžbina, kupovnu cenu i dodeljene korisnike za svaku samouslužnu kupovinu.  Ako je potrebno za organizaciju, administratori će moći da isključuju samouslužnu kupovinu na osnovu proizvoda pomoću PowerShell.  Administratori imaju iste upravljanje podacima i Access smernice preko proizvoda kupljenih putem samouslužnog kupovine ili centralnog.
+Adminitari mogu da prikaže sve samouslužne kupovine napravljene u organizaciji u Microsoft 365 centru za administaciju. Oni mogu da vide ime proizvoda, kupca, pretplate kupljene, datum isteka, istoriju porudžbina, cenu kupovine i dodeljene korisnike za svaku samouslužnu kupovinu.  Ako je to neophodno za organizaciju, administranici će moći da isključe samouslužnu kupovinu po proizvodu putem usluge PowerShell.  Administracije imaju isto upravljanje podacima i smernice za pristup putem proizvoda kupljenih putem samouslužne kupovine ili u centralnom delu.
 
-[Najčešća pitanja o nabavci usluge](https://aka.ms/self-service-purchase-faq)
+[Samouslužna kupovina – pitanja](https://aka.ms/self-service-purchase-faq)
 
