@@ -2,7 +2,7 @@
 title: Kupovina pretplate na Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662366"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835897"
 ---
 # <a name="purchase-visio-subscription"></a>Kupovina pretplate na Visio
 
-Administratori mogu da kupuju visio pretplatu za svoju organizaciju iz **Microsoft 365 centra administracije**.
+Adminitari mogu da kupe pretplatu na Visio za svoju organizaciju **iz Microsoft 365 centra za adminizolaciju.**
 
-1. Idite na stranicu **Billing**  >  **[usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433)** naplate da biste videli dostupne pretplate za kupovinu za organizaciju.
+1. Idite na **stranicu**  >  **[Usluge kupovine naplate](https://go.microsoft.com/fwlink/p/?linkid=868433)** da biste videli dostupne pretplate za kupovinu za svoju organizaciju.
 
 2. Pronađite planove za Visio tako što ćete obaviti pretragu koristeći reč „Visio“.
 

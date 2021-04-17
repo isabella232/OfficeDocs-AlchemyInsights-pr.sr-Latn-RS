@@ -1,8 +1,8 @@
 ---
-title: Vlasnik ne može da kreira potfasciklu pomoću programa Outlook
+title: Vlasnik ne može da kreira potfasciku pomoću programa Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665732"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836149"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlasnik ne može da kreira potfasciklu pomoću programa Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlasnik ne može da kreira potfasciku pomoću programa Outlook
 
-**Postoji problem sa postojećim fasciklama sa vlasnicima koji kreiraju potfascikle pomoću programa Outlook. Problem će uskoro biti popravljen.**
+**Postoji tekući problem sa vlasnicima javnih fascikli koji prave potfascikle pomoću programa Outlook. Problem će uskoro biti rešen.**
 
-U međuvremenu, koristite jedno od sledećih rešenja:
+U međuvremenu koristite neko od sledećih zaokreta:
 
-1. Korišćenje programa Outlook za MAC za kreiranje potfascikle dok problem utiče samo na Outlook za stone računare (sve verzije)
-2. Neka administrator kreira potfasciklu koristeći EXZO Shell ili EAC
-3. Promena Defaultpublicfolfoldersanduče/efikasnog poštanskog poštanskog sandučeta u drugom poštanskom sandučetu nego poštansko sanduče sadržaja za problem sa fasciklom  
-    - *Scenofor-poštansko sanduče User1 Defaultpublicfoldersanduče PubMBX3*
-4. Sačekajte sat, ponovo pokrenite Outlook klijent
+1. Korišćenje programa Outlook za MAC za kreiranje potfascikle jer problem utiče samo na Outlook za windows računare (sve verzije)
+2. Kreiranje potfascikle pomoću programa EXO Shell ili EAC
+3. Promena defaultPublicFolderMailbox/EffectivePublicFolderMailbox korisnika u drugo poštansko sanduče nego poštansko sanduče sadržaja za fasciklu koja uzrokuje problem  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
+4. Sačekajte sat vremena, ponovo pokrenite Outlook klijent

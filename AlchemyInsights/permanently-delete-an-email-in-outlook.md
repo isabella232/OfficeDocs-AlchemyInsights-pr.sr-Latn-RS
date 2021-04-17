@@ -2,7 +2,7 @@
 title: Trajno brisanje e-poruke u programu Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771699"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836113"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Trajno brisanje e-poruke u programu Outlook
 
-- U prikazu prijemno poštansko sanduče dugo pritisnite poruku i videćete ikonu korpa za otpatke. Dodirnite ovu ikonu da biste izbrisali poruku.
+- U prikazu prijemnog poštanskog sandučeta dugo pritisnite poruku i videćete ikonu korpe za otpatke. Dodirnite ovu ikonu da biste izbrisali poruku.
 
-- Možete i da postavljate stavku "Izbriši" kao opciju za prevlačenje (**Postavke-> prevlačenja** zatim koristite prst da biste brzo brzo koristili poštu koju želite da izbrišete. 
+- Takođe možete da postavite "izbriši" kao opciju brzog prevlaljenja ( Postavke **-> Opcije brzog prevlavanja**); a zatim prevucite prstom po pošti koji želite da izbrišete. 
 
-- Da biste izbrisali poruku iz otvorenog prikaza e-pošte, dodirnite ikonu "Korpa za otpatke" na vrhu ekrana. Izbrisane poruke će biti premeštene u fasciklu za smeće. 
+- Da biste izbrisali poruku iz otvorenog prikaza e-pošte, dodirnite ikonu korpe za otpatke na vrhu ekrana. Izbrisane poruke se premeštaju u fasciklu Korpa za otpatke. 
 
-**Da biste trajno izbrisali e-poruku**
+**Trajno brisanje e-poruke**
 
-- Pristupite fascikli za smeće iz prikaza "Pošta", dodirnite ikonu "(3 linije) naloga", a zatim dodirnite stavku fascikla za otpatke.
+- Pristupite fascikli za otpatke iz prikaza pošte, dodirnite ikonu naloga (3 reda) i dodirnite fasciklu za otpatke.
 
-- Brisanje pojedinačnih e-poruka ili označavanje više e-poruka i brisanje odavde. one će biti trajno izbrisane.
+- Izbrišite pojedinačne e-poruke ili označite više e-poruka i izbrišite ih odavde; biće trajno izbrisane.
