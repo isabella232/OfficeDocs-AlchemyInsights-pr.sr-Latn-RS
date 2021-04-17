@@ -1,8 +1,8 @@
 ---
-title: Rešavanje problema sa opcijama za prijavljivanje Microsoft Intune
+title: Rešavanje problema sa opcijama u vezi sa unošenjem podataka u Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: 3eef7a6e94e1f12ea681448392f20ccdf4eaf061
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 544308c909490fb8398e43cbc25fc8e41af79c84
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708868"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826249"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="9434d-102">Rešavanje problema sa opcijama za prijavljivanje Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="9434d-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="87e94-102">Rešavanje problema sa opcijama u vezi sa unošenjem podataka u Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="87e94-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
 
-<span data-ttu-id="9434d-103">Pregledajte resurse navedene ispod da biste odmah rešili problem.</span><span class="sxs-lookup"><span data-stu-id="9434d-103">Review the resources listed below to resolve your issue now.</span></span> <span data-ttu-id="9434d-104">Ako ovi resursi ne pomažu, obratite se podršci tako što ćete kliknuti [ovde](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) i izabrati stavku "Kreiraj zahtev za podršku".</span><span class="sxs-lookup"><span data-stu-id="9434d-104">If these resources don't help, contact support by clicking [here](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) and choosing "Create a support request."</span></span> 
+<span data-ttu-id="87e94-103">Pregledajte resurse navedene ispod da biste odmah rešili problem.</span><span class="sxs-lookup"><span data-stu-id="87e94-103">Review the resources listed below to resolve your issue now.</span></span> <span data-ttu-id="87e94-104">Ako vam ovi resursi ne pomognu, obratite se podršci tako što ćete kliknuti [ovde](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) i izabrati stavku "Kreirajte zahtev za podršku".</span><span class="sxs-lookup"><span data-stu-id="87e94-104">If these resources don't help, contact support by clicking [here](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) and choosing "Create a support request."</span></span> 
   
-- <span data-ttu-id="9434d-105">[Pregledajte Office TechNet da biste pronašli odgovore i rešenja za uobičajene probleme](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="9434d-105">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
+- <span data-ttu-id="87e94-105">[Pregledajte Intune TechNet da biste pronašli odgovore i rešenja za uobičajene probleme.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)</span><span class="sxs-lookup"><span data-stu-id="87e94-105">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
     
-- <span data-ttu-id="9434d-106">Koristite [portal za rešavanje problema sa Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnostikovali i rešili uobičajene greške unosa.</span><span class="sxs-lookup"><span data-stu-id="9434d-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="9434d-107">Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja.</span><span class="sxs-lookup"><span data-stu-id="9434d-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+- <span data-ttu-id="87e94-106">Koristite [Intune portal za rešavanje problema da](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) biste dijagnostikovali i rešili uobičajene greške u vezi sa unošenjem.</span><span class="sxs-lookup"><span data-stu-id="87e94-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="87e94-107">Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja.</span><span class="sxs-lookup"><span data-stu-id="87e94-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-- <span data-ttu-id="9434d-108">Pregledajte [ovaj dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) za listu uobičajenih grešaka koje sprečavaju upis i rezoluciju na svaki.</span><span class="sxs-lookup"><span data-stu-id="9434d-108">Review [this document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
+- <span data-ttu-id="87e94-108">Pregledajte [ovaj](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) dokument da biste videli listu uobičajenih grešaka koje sprečavaju unošenje i rešenja za svaku od njih.</span><span class="sxs-lookup"><span data-stu-id="87e94-108">Review [this document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
     
-- <span data-ttu-id="9434d-109">[Saznajte više o opcijama Upisanja u Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="9434d-109">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
+- <span data-ttu-id="87e94-109">[Saznajte više o opcijama u sistemu Microsoft Intune u sistemu .](https://docs.microsoft.com/intune/enrollment-options)</span><span class="sxs-lookup"><span data-stu-id="87e94-109">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
     
 
