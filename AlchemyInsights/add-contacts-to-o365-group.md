@@ -2,7 +2,7 @@
 title: Dodavanje kontakata u O365 grupu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 649a299fa03453c5255e938017ab53b578a05037
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 315ea0fd00da68210175bb21510bea4cb35386fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822541"
 ---
-# <a name="add-contacts-to-a-microsoft-365-group"></a><span data-ttu-id="b6982-102">Dodavanje kontakata u Microsoft 365 grupu</span><span class="sxs-lookup"><span data-stu-id="b6982-102">Add contacts to a Microsoft 365 Group</span></span>
+# <a name="add-contacts-to-a-microsoft-365-group"></a><span data-ttu-id="80d44-102">Dodavanje kontakata u Microsoft 365 grupu</span><span class="sxs-lookup"><span data-stu-id="80d44-102">Add contacts to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="b6982-103">Vlasnici grupe mogu da dodaju spoljne korisnike i e-poštu u Outlook praćenjem ovih uputstava: [Dodavanje i uklanjanje članova grupe u programu Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="b6982-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
+<span data-ttu-id="80d44-103">Vlasnici grupa mogu da dodaju spoljne korisnike i poštanske kontakte u Outlook tako što će pratiti ova uputstva: [Dodavanje i uklanjanje članova grupe u programu Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="80d44-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
   
-<span data-ttu-id="b6982-104">Možete da dodate ili uklonite članove grupe na portalu administracije: [Dodavanje ili uklanjanje članova iz microsoft 365 grupa pomoću microsoft 365 centra administracije](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span><span class="sxs-lookup"><span data-stu-id="b6982-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Microsoft 365 groups using the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span></span>
+<span data-ttu-id="80d44-104">Članove grupe možete da dodate ili uklonite i na portalu za administracije: Dodavanje ili uklanjanje članova iz Microsoft 365 grupa pomoću [Microsoft 365 centra za administracije](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span><span class="sxs-lookup"><span data-stu-id="80d44-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Microsoft 365 groups using the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span></span>
