@@ -1,8 +1,8 @@
 ---
-title: Hvatanje svih problema sa sinhronizacijom
+title: Zahladnite sve probleme sa sinhronizacijom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757062"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819418"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="3f3d5-102">Osnovna rešavanje problema sa Outlook sinhronizacijom</span><span class="sxs-lookup"><span data-stu-id="3f3d5-102">Basic Outlook sync troubleshooting</span></span>
+# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="6ddda-102">Osnovno rešavanje problema sa sinhronizacijom u programu Outlook</span><span class="sxs-lookup"><span data-stu-id="6ddda-102">Basic Outlook sync troubleshooting</span></span>
 
-<span data-ttu-id="3f3d5-103">Ako imate problema sa sinhronizacijom, Isprobajte sledeće:</span><span class="sxs-lookup"><span data-stu-id="3f3d5-103">If you're having sync issues, try the following:</span></span>
+<span data-ttu-id="6ddda-103">Ako imate problema sa sinhronizacijom, pokušajte sledeće:</span><span class="sxs-lookup"><span data-stu-id="6ddda-103">If you're having sync issues, try the following:</span></span>
 
-- <span data-ttu-id="3f3d5-104">Vodite [ovu dijagnostičku alatku](https://aka.ms/sara-outlooksendreceive) na pogođene mašine.</span><span class="sxs-lookup"><span data-stu-id="3f3d5-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
-- <span data-ttu-id="3f3d5-105">Smanjite broj fascikli u primarnom ili deljenom poštanskom sandučetu.</span><span class="sxs-lookup"><span data-stu-id="3f3d5-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="3f3d5-106">Pogledajte [probleme sa performansama u programu Outlook kada ima previše stavki ili fascikli u fascikli keširani režim. ost ili. pst](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span><span class="sxs-lookup"><span data-stu-id="3f3d5-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span></span>
-- <span data-ttu-id="3f3d5-107">Onemogućavanje keširanja svih deljenih fascikli.</span><span class="sxs-lookup"><span data-stu-id="3f3d5-107">Disable caching of all shared folders.</span></span>
-- <span data-ttu-id="3f3d5-108">Promena konfiguracije sekundarnog Exchange poštanskog sandučeta u drugi Exchange nalog u profilu.</span><span class="sxs-lookup"><span data-stu-id="3f3d5-108">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
-- <span data-ttu-id="3f3d5-109">Uverite se da korisnik može da se poveže sa Internetom.</span><span class="sxs-lookup"><span data-stu-id="3f3d5-109">Make sure the user can connect to the Internet.</span></span> 
-- <span data-ttu-id="3f3d5-110">[Proverite da li ste na mreži](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="3f3d5-110">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
-- <span data-ttu-id="3f3d5-111">[Utvrdite da li je primenjeno pravilo](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="3f3d5-111">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
-- <span data-ttu-id="3f3d5-112">Proverite da li je omogućeno **Preuzimanje deljenih fascikli** tako što **File**ćete otići na postavke naloga postavke naloga za datoteke  >  **Account Settings**  >  **Account Settings**  >  **više**  >  **opcija "Napredno**".</span><span class="sxs-lookup"><span data-stu-id="3f3d5-112">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
+- <span data-ttu-id="6ddda-104">Pokrenite [ovu dijagnostiku na](https://aka.ms/sara-outlooksendreceive) uređaju na koji to utiče.</span><span class="sxs-lookup"><span data-stu-id="6ddda-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
+- <span data-ttu-id="6ddda-105">Smanjite broj fascikli u primarnom ili deljenom poštanskom sandučetu.</span><span class="sxs-lookup"><span data-stu-id="6ddda-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="6ddda-106">Pogledajte problemi sa performansama programa Outlook kada postoji previše stavki ili fascikli u [keščenom režimu .ost ili .pst fascikli datoteke.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span><span class="sxs-lookup"><span data-stu-id="6ddda-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span></span>
+- <span data-ttu-id="6ddda-107">Onemogućite kešing svih deljenih fascikli.</span><span class="sxs-lookup"><span data-stu-id="6ddda-107">Disable caching of all shared folders.</span></span>
+- <span data-ttu-id="6ddda-108">Promenite konfiguraciju sekundarnog Exchange poštanskog sandučeta u drugi Exchange nalog u svom profilu.</span><span class="sxs-lookup"><span data-stu-id="6ddda-108">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
+- <span data-ttu-id="6ddda-109">Uverite se da korisnik može da se poveže sa internetom.</span><span class="sxs-lookup"><span data-stu-id="6ddda-109">Make sure the user can connect to the Internet.</span></span> 
+- <span data-ttu-id="6ddda-110">[Proverite da li ste na mreži](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="6ddda-110">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
+- <span data-ttu-id="6ddda-111">[Utvrdite da li je pravilo primenjeno](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="6ddda-111">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
+- <span data-ttu-id="6ddda-112">Potvrdite **da je omogućena opcija** "Preuzmi deljene fascikle" tako što ćete ići na Postavke naloga datoteke Postavke naloga Više   >    >    >    >  **naprednih postavki.**</span><span class="sxs-lookup"><span data-stu-id="6ddda-112">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>

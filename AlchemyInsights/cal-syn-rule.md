@@ -1,8 +1,8 @@
 ---
-title: Cal-Syn-pravilo
+title: Cal-syn-rule
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3416"
 - "9001435"
-ms.openlocfilehash: 7d11fd7ea352bcc49774921fa11bc8b479da0b48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b1880a220fb49a99e0d28d3c322f15c70f01f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684676"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820012"
 ---
-# <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a><span data-ttu-id="9984e-102">Problemi sa sinhronizovanjem kalendara i kontakata na telefonu ili tablet računaru</span><span class="sxs-lookup"><span data-stu-id="9984e-102">Problems syncing calendar and contacts on phone or tablet</span></span>
+# <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a><span data-ttu-id="e07af-102">Problemi sa sinhronizacijom kalendara i kontakata na telefonu ili tabletu</span><span class="sxs-lookup"><span data-stu-id="e07af-102">Problems syncing calendar and contacts on phone or tablet</span></span>
 
-<span data-ttu-id="9984e-103">Da biste rešili probleme pri sinhronizaciji kalendara i kontakata sa mobilnim uređajima, pogledajte članak [nije moguće sinhronizovanje kalendara i kontakata sa mojim telefonom ili tablet](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f)uređajem.</span><span class="sxs-lookup"><span data-stu-id="9984e-103">To troubleshoot problems syncing your calendar and contacts with mobile devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
+<span data-ttu-id="e07af-103">Da biste rešili probleme prilikom sinhronizovanja kalendara i kontakata sa mobilnim uređajima, pogledajte tj. Ne mogu da sinhronizujem kalendar i kontakte [sa telefonom ili tabletom.](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f)</span><span class="sxs-lookup"><span data-stu-id="e07af-103">To troubleshoot problems syncing your calendar and contacts with mobile devices, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
