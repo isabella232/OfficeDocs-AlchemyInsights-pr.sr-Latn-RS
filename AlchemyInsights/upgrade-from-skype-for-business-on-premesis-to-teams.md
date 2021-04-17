@@ -1,8 +1,8 @@
 ---
-title: Nadogradnja sa usluge Skype za posao na objektima za timove
+title: Nadogradnja sa sistema Skype za posao iz prostorije na Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734781"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827374"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Nadogradnja sa usluge Skype za posao na objektima za timove
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Nadogradnja sa sistema Skype za posao iz prostorije na Teams
 
-Ako ste rasporedili Skype za posao ili Microsoft Lync u lokalnoj organizaciji, a organizacija želi da se nadogradi u timove, idite u članku uputstva u članku ispod. Moraćete da podesite hibridnu vezu sa zakupcem, a zatim da premestite korisnike u timove i dodelite im odgovarajući koegzistenciju i režim nadogradnje. 
+Ako ste primenili Skype za posao ili Microsoft Lync na lokaciji i vaša organizacija želi da izvrši nadogradnju na Teams, pratite uputstva u ovom članku. Potrebno je da podesite hibridno povezivanje sa zakupcima, a zatim premestite korisnike u Teams i dodelite im odgovarajuće vreme rada i režim nadogradnje. 
 
-[Nadogradnja sa usluge Skype za posao lokalno za timove](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Nadogradnja sa mesne nadogradnje iz sistema Skype za posao na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

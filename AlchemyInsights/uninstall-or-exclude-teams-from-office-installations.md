@@ -1,8 +1,8 @@
 ---
-title: Deinstaliraj ili isključi timove iz Office instalacija
+title: Deinstalacija ili isključite Teams iz Office instalacija
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d96d54cb479f5f52cc707d4307cf9cf1e891a01
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658235"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827806"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Deinstaliranje ili isključivanje timova iz novih ili postojećih Office instalacija
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Deinstalacija ili isključivanje teams iz novih ili postojećih Office instalacija
 
-Microsoft 365 će biti uključen u Microsoft aplikacije za Enterprise, Microsoft 365 aplikacije za preduzeća i Office za Mac.
+Microsoft Teams je uključen u Microsoft 365 aplikacije za velika preduzeća, Microsoft 365 aplikacije za preduzeća i Office za Mac.
 
-- Koristite [alatku za primenu sistema Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) da biste isključili timove iz novih instalacija sistema Office.
-- Da biste *deinstalirali* timove sa uređaja koji ima Windows, pogledajte članak [Deinstaliranje Microsoft timova](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Da biste očistili Microsoft timove iz više ciljnih mašina ili korisnika, pogledajte članak [raspoređivanje Microsoft tima](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-- Koristite opciju [Preventteamsinstal](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
-) da biste sprečili Microsoft timove da se automatski instaliraju pomoću sistema Office.
-- Koristite opciju [Preventprva Peričainstalacija](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) , *pre nego što se instaliraju timovi*da bi se Microsoft timovi mogli automatski pokrenuti posle instalacije.
+- Koristite [alatku za primenu programskog paketa](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) Office da biste izuzeli Teams iz novih instalacija sistema Office.
+- Da *biste deinstalacija aplikacije* Teams sa uređaja sa operativnim sistemom Windows, pogledajte članak [Deinstalacija usluge Microsoft Teams.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Da biste očistili Microsoft Teams sa više ciljnih računara ili korisnika, pogledajte članak [Čišćenje Microsoft Teams primene.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+- Koristite [opciju "PreventTeamsInstall"](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+) da biste sprečili Microsoft Teams da se automatski instalira sa sistemom Office.
+- Koristite [opciju PreventFirstLaunchAfterInstall,](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) pre instaliranja usluge *Teams* kako biste sprečili Microsoft Teams da se automatski pokreće nakon instalacije.
 
-Ako koristite Office za Mac, pogledajte [Microsoft instalacije na Mac računaru](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Ako koristite Office za Mac, pogledajte [članak Microsoft Teams instalacije na Mac računaru.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)

@@ -1,8 +1,8 @@
 ---
-title: Skype
+title: Skype tema – sve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726933"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826501"
 ---
-# <a name="skype-for-business-common-issues-and-resolutions"></a>Uobičajeni problemi i rezolucije Skype za posao 
+# <a name="skype-for-business-common-issues-and-resolutions"></a>Uobičajeni problemi i rešenja za Skype za posao 
 
-Za određena pitanja o programu Skype za posao, nakratko Preformulišite pitanje da biste opisali problem, uključujući greške, funkcije koje koristite itd. 
+Za konkretna pitanja o programu Skype za posao, ukratko preformulišite pitanje da biste opisali svoj problem, uključujući greške, funkcije koje koristite itd. 
 
-Evo nekih često zahtevanih tema:
+Evo nekih tema koje se često traže:
 
-**Rešavanje problema sa prijavljivanjem u programu Skype za posao:** Prvo se uverite da je [usluga Skype za posao](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) zdrava. Ako jeste, pregledajte [Rešavanje problema sa prijavljivanjem na Skype za posao online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) da biste eliminisali uobičajene uzroke težine za prijavljivanje.
+**Rešavanje problema sa prijavljivanjem u Skype za posao:** Prvo proverite da li [je usluga Skype za](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) posao zdrava. Ako jeste, pregledajte rešavanje problema sa greškama pri prijavljivanjem u [program Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) za posao Online da biste uklonili uobičajene uzroke poteškoća pri prijavljivanjem.
  
-**Rešavanje problema sa zvukom i video programom Skype za posao:** Pregledajte [rešenja za uobičajene probleme sa zvukom i video zapisima u usluzi Skype za posao](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc). 
+**Rešavanje problema sa zvukom i video zapisom u programu Skype za posao:** Pregledajte [rešenja za uobičajene probleme sa zvukom i video zapisima u programu Skype za posao.](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
 
-**Rešavanje problema sa povezivanjem u usluzi Skype za posao:** Pregledajte [rešenja za uobičajene probleme sa vezom u usluzi Skype za posao](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771).
+**Rešavanje problema sa vezom u programu Skype za posao:** Pregledajte [rešenja za uobičajene probleme sa vezom u programu Skype za posao.](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
 
-**Komunicirajte sa spoljnim Skype za poslovne kontakte (Federacija):** [podesite Skype za posao da bi se kontaktirali spoljni korisnici Skype za posao](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+**Komunikacija sa spoljnim Skype za posao kontaktima (Spoljni pristup): Podesite** Skype za posao da se obrati spoljnim korisnicima lokacije [Skype za posao.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-**Komunicirajte sa Skype kontaktima:** [Dozvolite Skype za posao da dodaju Skype kontakte](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
+**Komunikacija sa Skype kontaktima: Dozvolite** [korisnicima skype za posao da dodaju Skype kontakte.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
 
-**Nadogradite Skype za posao u Microsoft timove:** Pregledajte [Prvi koraci uz Microsoft timove za nadogradnju](https://docs.microsoft.com/microsoftteams/upgrade-start-here) i Saznajte više o [koegzistenciju](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) sa Microsoft timovima dok usvajate timove u organizaciji. 
+**Nadogradite Skype za posao na Microsoft Teams:** Pregledajte [članak Koraci uz nadogradnju usluge Microsoft Teams](https://docs.microsoft.com/microsoftteams/upgrade-start-here) i saznajte više o istovremenu saradnji sa uslugom Microsoft Teams dok usvajate Teams u svojoj organizaciji. [](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) 

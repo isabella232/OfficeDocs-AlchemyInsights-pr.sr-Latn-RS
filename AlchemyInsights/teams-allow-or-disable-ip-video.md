@@ -1,8 +1,8 @@
 ---
-title: Timovi omogućite ili onemogućite IP video
+title: Teams dozvoljavaju ili onemogućava IP video zapis
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670198"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826357"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Timovi omogućite ili onemogućite IP video
+# <a name="teams-allow-or-disable-ip-video"></a>Teams dozvoljavaju ili onemogućava IP video zapis
 
 **Promena ili kreiranje smernica za sastanak**
 
-Da biste promenili ili kreirali smernice sastanka, idite u **Microsoft centar administracije > sastanci > smernicama za sastanke**. Izaberite smernice sa liste ili kliknite na dugme **Dodaj**. Ako pravite nove smernice, dodajte ime i opis. Ime ne može da sadrži specijalne znakove ni da bude duže od 64 znaka. Odaberite postavke i kliknite na dugme **Sačuvaj**.
+Da biste promenili ili kreirali smernice za sastanke, idite u **Microsoft Teams centar > "Sastanci> smernice za sastanke.** Izaberite smernice sa liste ili kliknite na dugme **Dodaj**. Ako pravite nove smernice, dodajte ime i opis. Ime ne može da sadrži specijalne znakove ni da bude duže od 64 znaka. Odaberite postavke i kliknite na dugme **Sačuvaj**.
 
-Na primer, recimo da imate mnogo korisnika i želite da ograničite količinu propusnog opsega koji će im biti potreban. Napravićete nove prilagođene smernice pod imenom „Ograničeni propusni opseg“ i onemogućiti sledeće postavke:
+Na primer, recimo da imate mnogo korisnika i želite da ograničite količinu propusnog propusnog ograničenja koji bi njihov sastanak zahtevao. Napravićete nove prilagođene smernice pod imenom „Ograničeni propusni opseg“ i onemogućiti sledeće postavke:
 
 U okviru **Audio i video**:
 
@@ -38,6 +38,6 @@ Zatim dodelite smernice korisnicima.
 
 1. U levom okviru za navigaciju u Microsoft Teams centru administracije izaberite stavku **Korisnici** i kliknite na korisnika.
 2. Izaberite korisnika tako što ćete kliknuti sa leve strane korisničkog imena, a zatim izaberite stavku **Uredi postavke**.
-3. U okviru **smernice za sastanak**izaberite smernice koje želite da dodelite, a zatim kliknite na dugme **Prijavi**se.
+3. U **okviru Smernice za** sastanke izaberite smernice koje želite da dodelite, a zatim kliknite na **dugme Primeni**.
 
-Više informacija potražite u članku [Upravljanje smernicama za sastanke u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Dodatne informacije potražite u [temi Upravljanje smernicama za sastanke u timovima.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

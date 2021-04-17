@@ -2,7 +2,7 @@
 title: Teams centar administracije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670378"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826393"
 ---
 # <a name="teams-admin-center"></a>Teams centar administracije
 
@@ -32,5 +32,5 @@ Ako se korisnici ne pojavljuju u Teams centru administracije, proverite sledeće
 
 - Da li ste kreirali korisnike ili dodeljivali licence u protekla 24 časa? Uverite se da ste sačekali najmanje 24 časa pre otvaranja tiketa za podršku.
 - Proverite da li ste dodelili odgovarajuće licence?
-- Ako imate aktivni direktorijum na lokalnom računaru, proverite da li je [vrednost usluge Msrtsip-PrimaryUserAddress ili adresa za gutljaj u polju "Prokyaddress" u lokalnom aktivnom direktorijumu jedinstvena i da format daje](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**korisničko ime** korisnika iz [Microsoft 365 centra administracije](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ako nameravate da održite primenu Skype za posao server i da korisnici traže stavku lokalno i na mreži: pratite **"Podesi hibrid sa timovima i Skype za posao online"** na kontrolnoj tabli Skype za posao i premeštanje korisnika na mreži.
+- Ako imate lokalnu uslugu Active Directory, proverite da li je vrednost [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) ili SIP adrese u polju ProxyAddresses u lokalnoj sistemu Active Directory jedinstvena, a format se podudara sa sip: Korisničko ime korisnika iz [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)centra za adminitre.
+- Ako nameravate da zadržite primenu sistema Skype za posao Server i imate korisnike koji koriste kućnu primenu i na mreži: pratite **"Podešavanje hibridne** primene sa uslugama Teams i Skype za posao Online" na kontrolnoj tabli sistema Skype za posao Server i premestite korisnike na mrežu.

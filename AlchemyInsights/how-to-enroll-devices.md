@@ -1,8 +1,8 @@
 ---
-title: Kako da Upisite uređaje
+title: Kako da uklončite uređaje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: 8fe73750296cb163789e3b7639f6b2404252bc44
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089228"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825673"
 ---
-# <a name="how-to-enroll-devices"></a>Kako da Upisite uređaje
+# <a name="how-to-enroll-devices"></a>Kako da uklončite uređaje
 
-Prate se osnove prijavljivanja:
+Ovo su osnove unošenja:
 
-- Da biste saznali više o Intune prijavljivanju, pogledajte članak [Šta je to prijavljivanje na uređaje u Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
+- Da biste saznali više o Intune unošenja, pogledajte šta je to ugostivanje uređaja [u intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Detaljnije informacije o prijavljivanju za određene platforme, vođice i uputstva, potražite [u članku prijavljivanje uređajima na Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portal.
+- Detaljnije informacije o učenicima za određene platforme, uputstva i uputstva potražite u članku Unošenje uređaja u [Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portal.
 
-**Rešavanje problema sa povezivanjem uređaja**
+**Rešavanje problema sa unošenjem uređaja**
 
-- [Rešavanje problema sa prijavljivanjem uređaja u Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [Rešavanje problema sa unošenjem uređaja u Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [Rešavanje problema sa iOS/iPadOS uređajem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Rešavanje problema sa unošenjem iOS/iPadOS uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Rešavanje problema sa povezivanjem Windows uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Rešavanje problema sa unošenjem Windows uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Rešavanje problema sa operativnim sistemom Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Rešavanje problema sa Windows 10 automatskim unošenjem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Rešavanje problema sa Android poslovnim uređajem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Rešavanje problema sa Android Enterprise uređajem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 

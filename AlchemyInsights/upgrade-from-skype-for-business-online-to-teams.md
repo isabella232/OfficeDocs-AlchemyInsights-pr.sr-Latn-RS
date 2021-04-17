@@ -1,8 +1,8 @@
 ---
-title: Nadogradnja sa usluge Skype za posao Online na timove
+title: Nadogradnja sa usluge Skype za posao Online na Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: ade3a20530a30ca5a703ce5a22af883cb827aecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734745"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827338"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Nadogradnja sa usluge Skype za posao Online na timove  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Nadogradnja sa usluge Skype za posao Online na Teams  
 
-Izvršite uputstva u članku ispod ako ste rasporedili Skype za posao Online i želite da nadogradite korisnike sa usluge Skype za posao u timove. Možete da nadogradite korisnike u fazama ili sve to odjednom, na osnovu putovanja nadogradnjom koju je vaša organizacija odabrala tako što ćete korisnicima dodeliti odgovarajuću koegzistenciju i režim nadogradnje.
+Pratite uputstva u ovom članku ako ste primenili Skype za posao Online i želite da nadogradite korisnike sa Skype za posao na Teams. Možete da nadogradite korisnike u fazama ili sve istovremeno, na osnovu putovanja nadogradnje koje je odabrala vaša organizacija, tako što ćete korisnicima dodeliti odgovarajući režim istovremenog rada i nadogradnje.
 
-[Nadogradnja sa usluge Skype za posao Online na timove](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Nadogradnja sa usluge Skype za posao Online na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

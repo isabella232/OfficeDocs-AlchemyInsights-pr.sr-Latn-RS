@@ -1,8 +1,8 @@
 ---
-title: Ažurirajte DNS zapise da biste zadržali Veb lokaciju sa trenutnim dobavljačem hostinga
+title: Ažuriranje DNS zapisa da bi se zadržao veb sajt sa trenutnim dobavljačem usluge hostinga
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827546"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažurirajte DNS zapise da biste zadržali Veb lokaciju sa trenutnim dobavljačem hostinga
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažuriranje DNS zapisa da bi se zadržao veb sajt sa trenutnim dobavljačem usluge hostinga
 
-1. U Microsoft 365 centru administracije idite na stranicu **Podešavanje**  >  [domena](https://admin.microsoft.com/Adminportal#/Domains) i na listi domena izaberite domen koji koristite za Veb lokaciju.
+1. U Microsoft 365 centru administacije idite na stranicu Podešavanje domena i na listi domena izaberite domen koji koristite za   >  [](https://admin.microsoft.com/Adminportal#/Domains) veb lokaciju.
 
-2. Izaberite stavku **+ novi prilagođeni zapis** i unesite sledeće:
+2. Izaberite **+ Novi prilagođeni** zapis i unesite sledeće:
 
-  - Za **tip DNS** unesite: **A (adresa)**
+  - Za **tip DNS unesite:** **A (Adresa)**
 
-  - Za **ime hosta ili pseudonim**, otkucajte sledeće: **@**
+  - Za **polje Ime hosta ili pseudonim** otkucajte sledeće: **@**
 
-  - Za **IP adresu**otkucajte STATIČNU IP adresu za Veb lokaciju na kojoj se trenutno nalazi (na primer,: 172.16.140.1).
+  - Za **IP** adresu otkucajte statičnu IP adresu na kojoj se veb lokacija trenutno hostuje (na primer, 172.16.140.1).
 
-    Ovo mora biti  *statična*  IP adresa za Veb lokaciju, a ne  *dinamična*  IP adresa. Proverite sa lokacijom na kojoj se vaša Veb lokacija nalazi kako biste se uverili da možete da dobijete statičnu IP adresu za javnu Veb lokaciju.
+    To mora biti  *statička*  IP adresa za veb lokaciju, a ne  *dinamička*  IP adresa. Proverite na lokaciji na kojoj se vaša veb lokacija hostuje da biste se uverili da možete da dobijete statičnu IP adresu za javnu veb lokaciju.
 
-3. Izaberite stavku **Sačuvaj**.
+3. Izaberite **Sačuvaj**.
 
-Pored toga, možete da kreirate CNAME zapis da biste pomogli korisnicima da pronađu Veb lokaciju.
+Pored toga, možete da kreirate CNAME zapis da biste pomogli klijentima da pronađu vašu veb lokaciju.
   
-1. Izaberite stavku **+ novi prilagođeni zapis** i unesite sledeće:
+1. Izaberite **+ Novi prilagođeni** zapis i unesite sledeće:
 
-  - Za **tip DNS** unesite: **CNAME (pseudonim)**
+  - Za **tip DNS unesite:** **CNAME (pseudonim)**
 
-  - Za **ime hosta ili pseudonim**, otkucajte sledeće: **www**
+  - Za **polje Ime hosta ili pseudonim** otkucajte sledeće: **www**
 
-  - Za **adresu na adresu**otkucajte potpuno određeno ime domena (FQDN) za Veb lokaciju (na primer, contoso.com).
+  - Za **polje Upućuje** na adresu otkucajte potpuno kvalifikovano ime domena (FQDN) za veb lokaciju (na primer, contoso.com).
 
-2. Izaberite stavku **Sačuvaj**.
+2. Izaberite **Sačuvaj**.
