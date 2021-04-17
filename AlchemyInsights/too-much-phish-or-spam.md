@@ -11,17 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767951"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824629"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Da li primate previše phish ili spam poruka u poštanskom sandučetu?
 
-> [!NOTE]
-> Možete da pristupite Microsoft 365 centru za bezbednost na [security.microsoft.com.](https://security.microsoft.com)
+**Napomišite** Možete da pristupite Microsoft 365 centru za bezbednost na [https://security.microsoft.com](https://security.microsoft.com) lokaciji .
 
 Kao Microsoft 365 administrat, najbolji način da odredite zašto je phishing ili spam poruka isporučena jeste da prosledite uzorak korporaciji Microsoft u istraživaču [prosleđivanja.](https://security.microsoft.com/reportsubmission) Odmah ćete dobiti povratne informacije u vezi sa filtriranjem poruka i zašto postoje problemi.
 

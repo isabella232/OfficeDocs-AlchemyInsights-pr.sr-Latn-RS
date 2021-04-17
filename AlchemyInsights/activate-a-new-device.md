@@ -2,7 +2,7 @@
 title: Aktiviranje novog uređaja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668396"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823297"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Aktiviranje novog uređaja koji radi pod operativnim sistemom Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>Aktivacija novog uređaja koji radi pod operativnim sistemom Windows 10
 
-Ako ste kupili novi uređaj koji radi pod operativnim sistemom Windows 10, on se automatski aktivira kada povežete uređaj sa Internetom. Ako su serveri za aktiviranje zauzeti, možda ćete morati da sačekate dok se Windows ne aktivira.
+Ako ste kupili novi uređaj sa operativnim sistemom Windows 10, on će se automatski aktivirati kada povežete uređaj sa internetom. Ako su serveri za aktivaciju zauzeti, možda ćete morati da sačekate dok se Windows ne aktivira.
 
-Da biste provjerili status aktivacije, odaberite stavku **Započni** **Postavke**  >  **Ažuriraj & bezbednosti**  >  **Activation**.
+Da biste proverili status aktivacije, odaberite **stavku Pokreni postavke**   >  **Ažuriranje &**  >  **aktivacije.**
 
-**Napomena:** U nekoliko slučajeva možda ćete morati da unesete šifru proizvoda koja se nalazi na Windows 10 koju ste dobili uz pakovanje uređaja ili da ste uključeni kao kartica ili na certifikat o autentičnosti (COA) priloženom na uređaju.
+**Napomogućeno:** U nekim slučajevima ćete možda morati da unesete Windows 10 šifru proizvoda koju ste dodali uz pakovanje uređaja ili da je uključena kao kartica ili certifikat o autentičnosti (COA) povezan sa uređajem.
 
 [Saznajte više o aktivaciji u operativnom sistemu Windows 10](https://support.microsoft.com/help/12440)

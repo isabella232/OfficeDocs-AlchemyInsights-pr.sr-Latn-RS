@@ -1,8 +1,8 @@
 ---
-title: Aktiviranje i dodela licenci za softverske aplikacije softvera
+title: Aktiviranje i dodela licenci za aplikaciju software-as-a-service
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698588"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823225"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktiviranje i dodela licenci za softverske aplikacije softvera 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktiviranje i dodela licenci za aplikaciju software-as-a-service 
 
-## <a name="to-activate-apps"></a>Aktiviranje aplikacija
+## <a name="to-activate-apps"></a>Da biste aktivirali aplikacije
 
-1. U centru administracije idite na stranicu " **naplatu**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", a zatim odaberite karticu " **aplikacije** ".
+1. U centru aktivnosti, idite na stranicu Naplata  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** proizvoda, a zatim odaberite **karticu Aplikacije.**
 
 2. Pronađite i izaberite aplikaciju koju želite da upravljate.
 
-3. U okviru **licence**izaberite stavku **Podešavanje naloga**.  
+3. U **okviru Licence** izaberite **stavku Podešavanje naloga**.  
 
-## <a name="to-assign-app-licenses"></a>Da biste dodelili licence za aplikaciju
+## <a name="to-assign-app-licenses"></a>Da biste dodelili licence za aplikacije
 
-1. U centru administracije idite na stranicu " **naplatu**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", a zatim odaberite karticu " **aplikacije** ".
+1. U centru aktivnosti, idite na stranicu Naplata  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** proizvoda, a zatim odaberite **karticu Aplikacije.**
 
 2. Pronađite i izaberite aplikaciju koju želite da upravljate.  
 
-3. U okviru **stavke postavke & radnje**, izaberite stavku **Upravljanje na portalu izdavača**.
+3. U **okviru stavke & radnje** izaberite vezu **Upravljaj na portalu izdavača**.

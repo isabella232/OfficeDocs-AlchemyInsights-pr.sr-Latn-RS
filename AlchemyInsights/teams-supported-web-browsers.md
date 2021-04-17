@@ -1,8 +1,8 @@
 ---
-title: Veb pregledači koji podržavaju timove
+title: Teams podržani veb pregledači
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750537"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824701"
 ---
-# <a name="teams-supported-web-browsers"></a>Veb pregledači koji podržavaju timove
+# <a name="teams-supported-web-browsers"></a>Teams podržani veb pregledači
 
-Timovi u potpunosti podržavaju Internet pregledače navedene u članku, [ograničenja i specifikacije za Microsoft timove](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), sa primećenih izuzetaka za pozivanje i sastanke.
+Teams u potpunosti podržava internet pregledače navedene u članku Ograničenja i specifikacije za [Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), uz navedene izuzetke za pozivanje i sastanke.

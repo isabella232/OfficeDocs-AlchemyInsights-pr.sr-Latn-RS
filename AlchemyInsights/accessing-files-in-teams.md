@@ -1,8 +1,8 @@
 ---
-title: Pristupanje datotekama u timovima
+title: Pristup datotekama u programu Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: a00a39954737287b4888b833b66d98e9b5e711b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668541"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823369"
 ---
-# <a name="accessing-files-in-microsoft-teams"></a>Pristupanje datotekama u Microsoft timovima
+# <a name="accessing-files-in-microsoft-teams"></a>Pristup datotekama u aplikaciji Microsoft Teams
 
-Ako korisnici imaju poteškoća da pristupe datoteci u Microsoft timovima, prvo odredite da li je datoteka priložena za privatno ćaskanje kanala. Kanali tima su mesta na kojima svi u timu mogu otvoreno da imaju razgovore. Private ćaskanje je vidljivo samo osobama u ćaskanju (i datoteke koje delite na ćaskanju se skladište u usluzi OneDrive for Business).
+Ako korisnici imaju poteškoća pri pristupu datoteci u aplikaciji Microsoft Teams, prvo utvrdite da li je datoteka priložena privatnom ćaskanju ili razgovoru na kanalu. Kanali tima su mesta na kojima svi u timu mogu otvoreno da imaju razgovore. Privatna ćaskanja su vidljiva samo tim osobama u ćaskaju (a datoteke koje delite u ćaskaju skladište se u usluzi OneDrive for Business).
 
-Kada korisnici razmenjuju datoteke u privatnim razgovorima, datoteka se skladišti na OneDrive for Business korisnika. Ako je korisnik dodat u postojeći privatni ćaskanje, neće moći da pristupe datotekama, osim ako originalni vlasnik ponovo ne deli datoteku.    
+Kada korisnici dele datoteke u privatnim ćaskanjem, datoteka se skladišti u usluzi OneDrive for Business korisnika za deljenje. Ako je korisnik dodat u postojeće privatno ćaskanje, neće moći da pristupi datotekama ako originalni vlasnik ne podeli datoteku ponovo.    
 
-**Za razgovore o kanalu:**
+**Za razgovore na kanalu:**
 
-- [Deljenje datoteka u Microsoft timovima](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) zasnovano je na postavkama konfigurisanim u sistemu SharePoint ili OneDrive. 
-- Pregledajte [saradnju na datotekama sa timom](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) da biste saznali više o tome kako timovi omogućavaju organizaciji da deli i sarađuje na datotekama. 
-- Ako članovi novog tima doživljaju odlaganje pristupa datotekama, sačekajte najmanje **4 sata** pre nego što otvorite ulaznicu za podršku da biste dovršili kopiranje. 
+- [Deljenje datoteka u usluzi Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) zasnovano je na postavkama konfigurisanim u sistemu SharePoint ili usluzi OneDrive. 
+- Pregledajte [saradnju na datotekama sa timom](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) da biste saznali više o tome na koji način Teams omogućava vašoj organizaciji da deli i sarađuje na datotekama. 
+- Ako novi članovi tima doživljavaju kašnjenje pri pristupu datotekama, sačekajte najmanje **4** časa pre nego što otvorite tiket za podršku da biste dozvolili da se replikacija dovrši. 
 
-Ako su korisnici prethodno pristupili datotekama pomoću kartice "datoteke" na kanalu tima i dobijete "ove datoteke više nisu dostupne", potvrdite izbor u polju za proveru da li se SharePoint lokacija ili biblioteka dokumenata preimenuje. Preimenovanje SharePoint lokacija i biblioteka dokumenata za timove još uvek nije podržano. Da biste rešili ovaj problem, otvorite sajt tima koji se koristi za ovaj tim i ponovo preimenujte biblioteku u "Deljeni dokumenti".
+Ako su korisnici prethodno mogli da pristupe datotekama putem kartice Datoteke na kanalu tima i dobijete grešku "ove datoteke više nisu dostupne", proverite da li je Preimenovana SharePoint lokacija ili biblioteka dokumenata. Preimenovanje SharePoint lokacija i biblioteka dokumenata za Teams još nije podržano. Da biste rešili ovaj problem, otvorite lokaciju tima koja se koristi za ovaj tim i preimenujte biblioteku nazad u "Deljeni dokumenti".

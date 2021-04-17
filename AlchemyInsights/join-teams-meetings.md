@@ -1,8 +1,8 @@
 ---
-title: Pridruživanje timovima sastancima
+title: Pridruživanje Teams sastancima
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772925"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824017"
 ---
-# <a name="join-a-meeting-in-teams"></a>Pridruživanje sastanku u timovima
+# <a name="join-a-meeting-in-teams"></a>Pridružite se sastanku u teams
 
-Da biste se pridružili sastanku timova, prvo postavljanje smernica za sastanke, a zatim direktne korisnike da se pridruže sa željenih uređaja:
+Da biste se pridružili Teams sastanku, prvo podesite smernice za sastanke, a zatim usmerite korisnike da se pridruže sa svojih željenih uređaja:
 
-- Postavljanje smernica sastanka koji kontrolišu ko će moći da se pridruži sastanku kao [učesnici ili gosti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Podesite smernice za sastanak koje kontrolišu ko će moći da se pridruži sastanku kao [učesnici ili gosti.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Koristite Microsoft tima [PowerShell cmdlet](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) sistema da biste izvršili promene smernica.    
+- Koristite Microsoft Teams [PowerShell cmdlet cmdlet da](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) biste promenili smernice.    
 
-**Napomena:** Promena smernica može potrajati do 24 časa.
+**Napomogućeno:** Može proći i do 24 časa dok promene smernica ne stupi na snagu.
