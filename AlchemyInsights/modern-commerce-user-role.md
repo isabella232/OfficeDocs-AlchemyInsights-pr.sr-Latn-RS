@@ -1,8 +1,8 @@
 ---
-title: Moderna uloga korisnika
+title: Moderna uloga korisnika trgovine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667028"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833629"
 ---
-# <a name="modern-commerce-user-role"></a><span data-ttu-id="52012-102">Moderna uloga korisnika</span><span class="sxs-lookup"><span data-stu-id="52012-102">Modern Commerce User role</span></span>
+# <a name="modern-commerce-user-role"></a><span data-ttu-id="e6a45-102">Moderna uloga korisnika trgovine</span><span class="sxs-lookup"><span data-stu-id="e6a45-102">Modern Commerce User role</span></span>
 
-<span data-ttu-id="52012-103">Uloga moderne trgovinske trgovine pruža određenim korisnicima dozvolu da pristupe Microsoft 365 centru administracije i vide leve stavke navigacije za **kuću**, **naplatu**i **podršku**.</span><span class="sxs-lookup"><span data-stu-id="52012-103">The Modern Commerce User role gives certain users permission to access Microsoft 365 admin center and see the left navigation entries for **Home**, **Billing**, and **Support**.</span></span> <span data-ttu-id="52012-104">Sadržaj dostupan u ovim oblastima kontrolišu uloge koje su dodeljene korisnicima za upravljanje proizvodima koje su kupili za sebe ili za vašu organizaciju.</span><span class="sxs-lookup"><span data-stu-id="52012-104">The content available in these areas is controlled by commerce-specific roles assigned to users to manage products that they bought for themselves or your organization.</span></span> <span data-ttu-id="52012-105">To može da ima zadatke kao što su plaćanje ili pristup nalozima za naplatu i profilima za naplatu.</span><span class="sxs-lookup"><span data-stu-id="52012-105">This might include tasks like paying bills, or for access to billing accounts and billing profiles.</span></span>
+<span data-ttu-id="e6a45-103">Uloga modernog korisnika u trgovini određenim korisnicima daje dozvolu za pristup Microsoft 365 centru trgovine i levih stavki navigacije za stavke "Kuća", "Naplata" i podrška **.**  </span><span class="sxs-lookup"><span data-stu-id="e6a45-103">The Modern Commerce User role gives certain users permission to access Microsoft 365 admin center and see the left navigation entries for **Home**, **Billing**, and **Support**.</span></span> <span data-ttu-id="e6a45-104">Sadržaj dostupn u ovim oblastima kontrolišu uloge specifične za trgovinu dodeljene korisnicima za upravljanje proizvodima koje su kupili za sebe ili organizaciju.</span><span class="sxs-lookup"><span data-stu-id="e6a45-104">The content available in these areas is controlled by commerce-specific roles assigned to users to manage products that they bought for themselves or your organization.</span></span> <span data-ttu-id="e6a45-105">To može da obuhvata zadatke kao što su plaćanje računa ili pristup nalozima naplate i profilima naplate.</span><span class="sxs-lookup"><span data-stu-id="e6a45-105">This might include tasks like paying bills, or for access to billing accounts and billing profiles.</span></span>
 
-<span data-ttu-id="52012-106">Korisnici sa savremenim korisničkim ulogom imaju administrativne dozvole u drugim Microsoft nabavnim sistemima, ali nemaju globalni administrator ili administratorske privilegije naplate.</span><span class="sxs-lookup"><span data-stu-id="52012-106">Users with the Modern Commerce User role typically have administrative permissions in other Microsoft purchasing systems, but don't have Global administrator or Billing administrator privileges.</span></span>
+<span data-ttu-id="e6a45-106">Korisnici sa ulogom modernog korisnika trgovine obično imaju administrativne dozvole u drugim Microsoft sistemima za kupovinu, ali nemate privilegije globalnog administratora ili administratora naplate.</span><span class="sxs-lookup"><span data-stu-id="e6a45-106">Users with the Modern Commerce User role typically have administrative permissions in other Microsoft purchasing systems, but don't have Global administrator or Billing administrator privileges.</span></span>
 
-<span data-ttu-id="52012-107">Da biste saznali više o ovoj i drugim administratorskim ulogama, pogledajte članak [dozvole za administratorske uloge u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).</span><span class="sxs-lookup"><span data-stu-id="52012-107">To learn more about this and other administrative roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).</span></span>
+<span data-ttu-id="e6a45-107">Da biste saznali više o ovoj i drugim administrativnim ulogama, pogledajte [dozvola za uloge administratora u Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)</span><span class="sxs-lookup"><span data-stu-id="e6a45-107">To learn more about this and other administrative roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).</span></span>

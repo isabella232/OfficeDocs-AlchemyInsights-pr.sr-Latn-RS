@@ -1,8 +1,8 @@
 ---
-title: Rešavanje problema sa Osveži scenarijima
+title: Rešavanje problema sa scenarijima osvežavanja – greške pločice
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690689"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834925"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="2d470-102">Rešavanje problema sa Osveži scenarijima</span><span class="sxs-lookup"><span data-stu-id="2d470-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="f4e02-102">Rešavanje problema sa scenarijima osvežavanja – greške pločice</span><span class="sxs-lookup"><span data-stu-id="f4e02-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
 
-<span data-ttu-id="2d470-103">Ako doživite greške osvežavanja pločica u Power BI usluzi, sačekajte oko 10-15 minuta da bi se osvežavanje odrazilo na pločice kontrolne table.</span><span class="sxs-lookup"><span data-stu-id="2d470-103">If you experience tile refresh errors  within the Power BI service, please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="2d470-104">Ako se i dalje ne pojavljuje, ponovo zakačite vizuelizaciju na kontrolnu tablu.</span><span class="sxs-lookup"><span data-stu-id="2d470-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
+<span data-ttu-id="f4e02-103">Ako se u okviru usluge Power BI pojavi greške prilikom osvežavanja pločica, sačekajte oko 10 do 15 minuta da se osvežavanje odrazi na pločicama table.</span><span class="sxs-lookup"><span data-stu-id="f4e02-103">If you experience tile refresh errors  within the Power BI service, please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="f4e02-104">Ako se ona i dalje ne pojavljuje, ponovo zakačite vizuelizaciju na dasku.</span><span class="sxs-lookup"><span data-stu-id="f4e02-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
 
-<span data-ttu-id="2d470-105">Za više informacija: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="2d470-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
+<span data-ttu-id="f4e02-105">Za više informacija: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="f4e02-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>

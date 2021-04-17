@@ -1,8 +1,8 @@
 ---
-title: Migriranje e-pošte iz G paketa u Microsoft 365
+title: Migriranje e-pošte iz usluge G Suite u Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,14 +14,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: bb550e259d2acb3456d32f496e678ec6ac071e63
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2940a9667a52b50a502497b716480c50fa3850ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754893"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833737"
 ---
-# <a name="migrate-email-from-g-suite-to-microsoft-365"></a><span data-ttu-id="7941e-102">Migriranje e-pošte iz G paketa u Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="7941e-102">Migrate email from G Suite to Microsoft 365</span></span>
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a><span data-ttu-id="07b99-102">Migriranje e-pošte iz usluge G Suite u Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="07b99-102">Migrate email from G Suite to Microsoft 365</span></span>
 
-<span data-ttu-id="7941e-103">Da biste migrirali e-poštu iz G paketa u Microsoft 365, koristite naše alatke za migraciju za Migriranje e-pošte, kalendara i kontakata: [obavljanje migracije G programskog paketa](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="7941e-103">To migrate email from G Suite to Microsoft 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="07b99-103">Da biste migriraju e-poštu iz usluge G Suite u Microsoft 365, koristite alatke za migraciju za migriranje e-pošte, kalendara i kontakata: Izvršite [G Suite migraciju](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="07b99-103">To migrate email from G Suite to Microsoft 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   
