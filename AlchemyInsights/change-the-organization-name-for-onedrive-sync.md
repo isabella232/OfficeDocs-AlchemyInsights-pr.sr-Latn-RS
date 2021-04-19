@@ -1,30 +1,31 @@
 ---
-title: Promena imena organizacije za OneDrive klijent sinhronizacije
+title: Promena imena organizacije za OneDrive klijent za sinhronizaciju
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 5e4531d2d2a1ca78f8bc81a9246072dd6f3bd852
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708759"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818338"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Promena imena organizacije za OneDrive klijent sinhronizacije
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Promena imena organizacije za OneDrive klijent za sinhronizaciju
 
-OneDrive koristi ime organizacije koje je postavio administrator tenanta.  Možete da [promenite adresu organizacije, tehničku kontakt i još mnogo toga](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Kada se ta promena izvrši za tenanta, u usluzi OneDrive Sync Client neće biti odražen novi naziv dok korisnik ne Raskini vezu i ponovo poveže svoj OneDrive nalog.
+OneDrive koristi ime organizacije koje je postavio administrator zakuca.  Možete da [promenite adresu organizacije, tehnički kontakt i još mnogo toga.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Kada se ta promena izvrši za zakupca, OneDrive klijent za sinhronizaciju neće odražavati novo ime dok korisnici ne osnuju novo ime i ponovo ne prevedu svoj OneDrive nalog.
 
-Da biste opozvali vezu sa nalogom:
+Da biste razvezali nalog:
 
-1. Izaberite plavu OneDrive ikonu u oblaku na krajnjoj desnoj strani trake zadataka, a zatim izaberite **više > postavki > nalog**.
-2. Pronađite nalog za koji želite da raskinete vezu i izaberite stavku **Raskini vezu sa računarom**, a zatim **uklonite vezu sa nalogom**.
+1. Izaberite plavu OneDrive ikonu oblaka sa desne strane trake zadataka, a zatim  **izaberite** stavku Još > Postavke > Nalog .
+2. Pronađite nalog koji želite da raščistite i  **izaberite** stavku "Otkloni", a zatim stavku "Prekloni  **sa nalogom"**.
 
-Da biste ponovo povezali nalog, izaberite opciju **Dodaj nalog** sa kartice " **nalog** " u okviru "Postavke" i ponovo se prijavite u OneDrive.
+Da biste ponovo označili nalog,  izaberite stavku Dodaj **nalog** na kartici Nalog u e-pošti Postavke i ponovo se prijavite u OneDrive.

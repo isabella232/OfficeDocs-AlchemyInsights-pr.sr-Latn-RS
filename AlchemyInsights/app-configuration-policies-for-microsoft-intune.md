@@ -1,25 +1,36 @@
 ---
-title: Smernice za konfiguraciju aplikacija za Microsoft Intune
+title: Smernice za konfiguraciju aplikacije za Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423973"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821344"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Smernice za konfiguraciju aplikacija za Microsoft Intune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Smernice za konfiguraciju aplikacije za Microsoft Intune
 
-Smernice za konfiguraciju aplikacija u programu Microsoft Intune obezbeđuju postavke konfiguracije za iOS ili Android aplikacije. Ove postavke konfiguracije omogućavaju da se aplikacija prilagodi. Podrška za smernice konfiguracije ograničava verzije i aplikacije operativnog sistema.
+Smernice za konfiguraciju aplikacije u aplikaciji Microsoft Intune koriste se za obezbeđivanje postavki konfiguracije za iOS ili Android aplikacije. Ove postavke konfiguracije omogućavaju aplikaciji da se prilagodi. Imajte na umu da postoje ograničenja u pogledu verzija operativnog sistema i aplikacija koje podržavaju korišćenje smernica za konfiguraciju.
 
-Više detalja potražite u članku [smernice za konfiguraciju aplikacija za Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Detalje potražite u sledećoj dokumentaciji
+
+[Smernice za konfiguraciju aplikacije za Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Dodavanje smernica za konfiguraciju aplikacije za kontrolisane iOS uređaje](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Dodavanje smernica za konfiguraciju aplikacije za kontrolisane Android uređaje](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Dodavanje smernica za konfiguraciju aplikacije za kontrolisane aplikacije bez uređivanja uređaja](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

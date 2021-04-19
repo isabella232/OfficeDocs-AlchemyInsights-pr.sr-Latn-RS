@@ -2,22 +2,23 @@
 title: Dodavanje korisnika
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: f6fd4a20aefc52b54f28c830d535d84631a34ab2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671327"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822253"
 ---
 # <a name="add-a-user"></a>Dodavanje korisnika
 
@@ -27,4 +28,4 @@ ms.locfileid: "43671327"
 
 3. Popunite informacije za korisnika. Kada završite izaberite **Završetak dodavanja**.
 
-Da biste saznali više, pogledajte [Dodavanje korisnika pojedinačno ili masovno](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Da biste saznali više, pogledajte [Dodavanje korisnika pojedinačno ili masovno](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).

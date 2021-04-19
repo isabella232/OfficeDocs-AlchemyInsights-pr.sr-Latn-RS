@@ -1,8 +1,8 @@
 ---
-title: Azure fakturisanje e-pošte
+title: Invoicing za Azure e-poštu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922131"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820804"
 ---
-# <a name="azure-email-invoicing"></a>Azure fakturisanje e-pošte
+# <a name="azure-email-invoicing"></a>Invoicing za Azure e-poštu
 
-Morate imati ulogu administratora administratora na pretplati ili plan podrške da biste se opremali za primanje fakture putem e-pošte. Fakture e-pošte su dostupne samo za planove pretplate i podrške, a ne za rezervacije ili Azure Marketplace kupovine. Kada se odlučite, u mogućnosti ste da dodate još primalaca, koji primaju i e-poštu. Pratite ove korake.
+Morate imati ulogu adminimenata naloga za pretplatu ili plan podrške da biste se opredeili za dobijanje fakture putem e-pošte. Fakture e-pošte su dostupne samo za pretplate i planove podrške, ne i za rezervacije ili kupovine u prodavnici Azure Marketplace. Kada date sa slaganje, možete da dodate još primalaca koji će fakturu dobiti i putem e-pošte. Sledite ove korake.
 
-1. Prijavite se na [Azure portal](https://portal.azure.com/).
-2. Potražite **Upravljanje troškovima + naplata**.
-3. Izaberite stavku **fakture** sa leve strane.
-4. Izaberite Azure pretplatu ili plan podrške, a zatim izaberite stavku **primi fakturu putem e-pošte**.
-5. Izaberite stavku **faktura e-pošte** i prihvatite uslove.
-6. Faktura se šalje u željenu e-poštu za komunikacije. Izaberite stavku **Ažuriraj profil** da biste ažurirali e-poruku.  
+1. Prijavite se na [Azure portal.](https://portal.azure.com/)
+2. Potražite **Upravljanje cenom + Naplata**.
+3. Izaberite **stavku Fakture** sa leve strane.
+4. Izaberite pretplatu na Azure ili plan podrške, a zatim izaberite Primanje **fakture putem e-pošte.**
+5. Izaberite **stavku Pošalji fakturu** e-poštom i prihvatite uslove.
+6. Faktura se šalje na željenu e-poruku za komunikaciju. Izaberite **stavku Ažuriraj profil da** biste ažurirali e-poruku.  
 
-    Možda ćete želeti da delite fakture za pretplatu i plan za podršku svakog meseca pomoću računovodstvene tima ili da ih pošaljete na neku od drugih e-adresa.  
+    Možda ćete želeti da delite fakture za pretplatu i plan podrške svakog meseca sa svojim računovodstvenim timom ili da ih pošaljete na jednu od drugih e-adresa.  
 
-7. Slijedite korake gorenavedenog za prvo omogućavanje fakture putem e-pošte, a zatim izaberite stavku  **Konfigurisanje primalaca.**
-8. Unesite e-adresu, a zatim izaberite stavku **Dodaj primalac**. Možete da dodate više e-adresa.
-9. Kada dodate sve e-adrese, izaberite stavku **gotovo** sa dna ekrana.
+7. Pratite gorenavedene korake da biste prvo omogućili fakturu e-poštom, a zatim  **izaberite stavku Konfiguriši primaoce.**
+8. Unesite adresu e-pošte, a zatim **izaberite stavku Dodaj primaoca**. Možete da dodate više e-adresa.
+9. Kada dodate sve adrese e-pošte, izaberite **stavku Gotovo** u dnu ekrana.

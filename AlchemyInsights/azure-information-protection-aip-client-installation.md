@@ -2,21 +2,22 @@
 title: 'Azure Information Protection: instalacija AIP klijenta'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944548"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820768"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: instalacija AIP klijenta
 
@@ -33,4 +34,8 @@ Ako instalirate AIP klijent, pratite ove preporučene korake:
 
 4. Ako nailazite na probleme prilikom instalacije samog klijenta i nakon pokretanja gorenavedene alatke, pronađite fasciklu **%temp%** i obezbedite datoteke evidencije instaliranja klijenta koje počinju sa Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-5. Ako je instalacija uspela, ali i dalje nailazite na probleme prilikom korišćenja AIP klijenta, izaberite odgovarajuću temu podrške da biste pronašli relevantna rešenja.
+Za više informacija:
+
+- Pregledajte [dokumentaciju za Azure Information Protection(AIP),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)zahteve za [podešavanje](https://docs.microsoft.com/azure/information-protection/get-started/requirements) i lokaciju za preuzimanje [AIP klijenta.](https://www.microsoft.com/download/details.aspx?id=53018)
+
+- Informacije o pretplati na Azure potražite u temi Pretplate i funkcije za [Azure Information Protection.](https://azure.microsoft.com/pricing/details/information-protection)

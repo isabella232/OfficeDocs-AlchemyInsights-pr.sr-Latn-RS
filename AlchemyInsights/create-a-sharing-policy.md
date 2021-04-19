@@ -1,44 +1,45 @@
 ---
-title: Kreirajte smernice za deljenje da biste dozvolili korisnicima da dele svoj kalendar sa osobama van vaše organizacije
+title: Kreiranje smernica za deljenje da bi se korisnicima omogućilo da dele kalendar sa osobama izvan vaše organizacije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: cb2c0af55f4f8833709b6952d3a6e2ac258ce5fc
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862206"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816286"
 ---
-# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Kreirajte smernice za deljenje da biste dozvolili korisnicima da dele svoj kalendar sa osobama van vaše organizacije
+# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Kreiranje smernica za deljenje da bi se korisnicima omogućilo da dele kalendar sa osobama izvan vaše organizacije
 
-1. Sa kontrolne table Microsoft 365 admin Center idite na lokaciju **admin**  >  **Exchange**.
-2. Idite na **organization**  >  **Deljenje**organizacije.
-3. U prikazu liste, u okviru **pojedinačne deljenja**kliknite na dugme **novo** .
-4. U **novim smernicama za deljenje**otkucajte prepoznatljivo ime za smernice za deljenje u okviru " **ime smernice** ".
-5. Kliknite na dugme " **Dodaj** " da biste definisali pravila deljenja za smernice.
-6. U okviru **pravilo za deljenje**izaberite jednu od sledećih opcija da biste naveli domene sa kojima želite da delite:
+1. Na microsoft 365 lokaciji za admin center da biste išli na **exchange server za administ** da biste  >  **išli** na exchange server.
+2. Idite na deljenje **u**  >  **organizaciji**.
+3. U prikazu liste, u okviru **Pojedinačno deljenje** izaberite **stavku Novo.**
+4. U **novoj smernici za** deljenje, u polju Ime smernica otkucajte prijateljsko ime za **smernice za** deljenje.
+5. Kliknite **na dugme**  Dodaj da biste definisali pravila deljenja za smernice.
+6. U **pravilu za** deljenje izaberite jednu od sledećih opcija da biste naveli domene sa kojih želite da delite:
     - **Deljenje sa svim domenima**
     - **Deljenje sa određenim domenom**
-8. Ako izaberete opciju **Deljenje sa određenim domenom**, otkucajte ime domena sa kojim želite da delite sadržaj. Ako je potrebno da unesete više od jednog domena za ove smernice za deljenje, sačuvajte postavke za prvi domen, a zatim uredite pravila deljenja da biste dodali još domena.
-9. Da biste naveli informacije koje se mogu deliti, potvrdite izbor u polju za potvrdu **deli fasciklu sa kalendarom** , a zatim izaberite jednu od sledećih opcija:
-    - **Kalendarska informacija o zauzetosti sa vremenom**
-    - **Informacije o zauzetosti u kalendaru sa vremenom, temom i lokacijom**
-    - **Sve informacije o sastanku kalendara, uključujući vreme, temu, lokaciju i naslov**
-11. Kliknite na dugme **Sačuvaj** da biste podesili pravila za smernice za deljenje.
-12. Ako želite da podesite ove smernice za deljenje kao nove podrazumevane smernice za deljenje za sve korisnike u vašoj organizaciji, potvrdite izbor u polju za potvrdu **napravi ovu smernicu "moja podrazumevana smernica deljenja** ".
-13. Kliknite na dugme **Sačuvaj** da biste kreirali smernice za deljenje.  
+8. Ako izaberete **stavku Deljenje sa određenim domenom,** otkucajte ime domena sa njim koji želite da delite. Ako treba da unesete više domena za ove smernice za deljenje, sačuvajte postavke za prvi domen, a zatim uredite pravila za deljenje da biste dodali više domena.
+9. Da biste naveli informacije  koje se mogu deliti, potvrdite izbor u polju za potvrdu Deli fasciklu kalendara, a zatim izaberite jednu od sledećih opcija:
+    - **Informacije o zauzetosti iz kalendara samo sa vremenom**
+    - **Informacije o zauzetosti iz kalendara sa vremenom, temom i lokacijom**
+    - **Sve informacije o zakazanoj obavezi u kalendaru, uključujući vreme, temu, lokaciju i naslov**
+11. Kliknite **na dugme** sačuvaj da biste postavili pravila za smernice za deljenje.
+12. Ako ove smernice za deljenje želite da postavite kao nove podrazumevane smernice za deljenje za sve korisnike u organizaciji, potvrdite izbor u polju za potvrdu Postavi ove smernice za podrazumevane **smernice** za deljenje.
+13. Kliknite na **dugme sačuvaj** da biste kreirali smernice za deljenje.  
 
-**Za potpuno razumevanje ove teme molimo vas da pročitate:**
+**Da biste potpuno razumeli ovu temu, pročitajte:**
 
-- [Kreiranje smernica za deljenje u programu Exchange online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Primena smernica za deljenje na Poštanske sandučiće u programu Exchange online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Izmena, onemogućavanje ili uklanjanje smernica za deljenje u programu Exchange online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Kreiranje smernica za deljenje u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
+- [Primena smernica za deljenje na poštanske sandučiće u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Izmena, onemogućavanje ili uklanjanje smernica za deljenje u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

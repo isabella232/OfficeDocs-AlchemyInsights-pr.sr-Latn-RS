@@ -1,24 +1,25 @@
 ---
-title: Obaveštenje o istekloj pretplati u Office aplikacijama
+title: Obaveštenje o isteku pretplate u Microsoft 365 aplikacijama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789280"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823585"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Obaveštenje „Pretplata je istekla“ u Office aplikacijama
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Obaveštenje "Pretplata je istekla" u Microsoft 365 aplikacijama
 
 - Posetite [stranicu ispravnosti sistema](https://docs.microsoft.com/office365/enterprise/view-service-health) da biste videli da li postoje poznati problemi sa uslugom.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789280"
 
 - Pokrenite [alatku za rešavanje problema sa aktivacijom](https://aka.ms/SARA-OfficeActivation-Alchemy), a zatim ponovo pokrenite računar.
 
-- Na računaru na koji ovo utiče [poništite stanje Office aktivacije](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Na računaru na koji ovo utiče [poništite stanje Office aktivacije](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Detaljna uputstva potražite u članku: 
 

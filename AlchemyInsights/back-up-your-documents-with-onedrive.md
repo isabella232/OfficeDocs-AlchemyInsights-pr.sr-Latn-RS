@@ -1,25 +1,26 @@
 ---
-title: Pravljenje rezervne kopije dokumenata, slika i fascikli radne površine u usluzi OneDrive
+title: Da biste pomoću usluge OneDrive vratili u prethodno stanje fascikle "Dokumenti", "Slike" i "Radna površina".
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 9c092f729bbd36f5b34aa983edb2d18583e4a04c
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708490"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820660"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Pravljenje rezervne kopije dokumenata, slika i fascikli radne površine u usluzi OneDrive
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Da biste pomoću usluge OneDrive vratili u prethodno stanje fascikle "Dokumenti", "Slike" i "Radna površina".
 
-Možete da [napravite rezervne kopije važnih fascikli](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) (fascikle "radna površina", "Dokumenti" i "slike") na Windows računaru pomoću usluge OneDrive "rezervna kopija fascikle", tako da su one zaštićene i dostupne na drugim uređajima. Ova funkcija još uvek nije dostupna za Mac.  
+Možete [](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) da napravite rezervne kopije važnih fascikli (fascikli "Radna površina", "Dokumenti" i "Slike") na Windows računaru pomoću rezervne kopije fascikli za računare u usluzi OneDrive kako bi one bili zaštićene i dostupne na drugim uređajima. Ova funkcija još uvek nije dostupna za Mac.  
 
-Ako ste IT administrator koji želi da upravlja pravljenjem rezervnih kopija važnih fascikli za neku organizaciju, postoji Vodič za [kretanje kroz OneDrive premeštanje fascikle](https://docs.microsoft.com/onedrive/redirect-known-folders).
+Ako ste IT korisnik koji želi da upravlja sa kreiranim datotekama važnih fascikli za organizaciju, postoji uputstvo za uvođenje oneDrive premeštenja poznate [fascikle.](https://docs.microsoft.com/onedrive/redirect-known-folders)
