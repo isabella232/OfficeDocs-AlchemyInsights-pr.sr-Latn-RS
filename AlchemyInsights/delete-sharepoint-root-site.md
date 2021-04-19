@@ -2,7 +2,7 @@
 title: Brisanje SharePoint osnovne lokacije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713824"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815485"
 ---
 # <a name="delete-the-sharepoint-root-site"></a>Brisanje SharePoint osnovne lokacije
 
-Brisanje SharePoint Root sajta nije  **podržano.**
+Brisanje SharePoint osnovne lokacije nije  **podržano.**
 
-1.  Ako je osnovna lokacija već izbrisana, korisnici će iskusiti 404 datoteku koja nije pronađena kada pokušava da pristupi sajtu.
-2.  Da biste rešili, vratite lokaciju sa novog SharePoint centra administracije tako što ćete otići na stranicu "  [Izbrisane lokacije](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  ", izaberite stavku osnovna lokacija i kliknite na dugme vrati u prethodno stanje.
-3.  Umesto brisanja osnovne lokacije, koristite [sajt zameni](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  iz novog SharePoint centra administracije kada se osnovna lokacija vrati.
+1.  Ako je osnovni sajt već izbrisan, korisnici će naići na grešku "Datoteka 404 nije pronađena" prilikom pokušaja pristupa lokaciji.
+2.  Da biste rešili problem, vratite sajt u prethodno stanje [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) iz novog SharePoint centra administratora tako što ćete otvoriti stranicu Izbrisani sajtovi, izabrati osnovni sajt i kliknuti na dugme Vrati u prethodno stanje.
+3.  Umesto brisanja osnovne lokacije, koristite zameni sajt iz novog SharePoint centra administratora kada se osnovni sajt vrati u prethodno stanje. [](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)
 
-Više informacija potražite u članku [modernizuje osnovnu sajt](https://docs.microsoft.com/sharepoint/modern-root-site)
+Više informacija potražite u članku [Modernizovanje osnovnog sajta](https://docs.microsoft.com/sharepoint/modern-root-site)

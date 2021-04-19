@@ -1,8 +1,8 @@
 ---
-title: Zašto se softverske ispravke ne raspoređuju?
+title: Zašto se softverske ispravke ne primenuju?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461858"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805700"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>Zašto se softverske ispravke ne raspoređuju?
+# <a name="why-software-updates-are-not-being-deployed"></a>Zašto se softverske ispravke ne primenuju?
 
-Pregledajte sledeće ako ste konfigurisali softverske ispravke pomoću ringa Windows 10 Update, ali se ispravke ne raspoređuju:  
+Pregledajte sledeće ako ste konfigurisali softverske ispravke putem kruga ispravki za Windows 10, ali ispravke nisu primenjene:  
 
-- Razmotrite promene Windows servisiranja iz  **polugodišnjeg**  tipa objavljivanja kanala na striktniju, češće tip objavljivanja  
-- Potvrdite deferralan period radi  **ažuriranja kvaliteta**  i  **ispravke funkcije**. Period odlaganja može dovesti do odlaganja u ispravkama za 180 dana.
+- Razmotrite promenu Windows servisiranje iz tipa izdanja  **polugodišnji**  kanal u stroži, čest tip izdanja  
+- Proverite period odloženja za ažuriranje **kvaliteta i** **ispravku funkcije.** Period odlaganja može dovesti do odlaganja u ažuriranju za do 180 dana.
