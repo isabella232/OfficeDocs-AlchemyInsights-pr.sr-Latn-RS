@@ -1,25 +1,26 @@
 ---
-title: Blokiraj preuzimanje pri deljenju veza
+title: Blokiraj preuzimanje na vezama za deljenje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 8cb53754125cedf4a3d0426d6c3bf70297eb3d74
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358514"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820264"
 ---
-# <a name="block-download-on-sharing-links"></a><span data-ttu-id="a798b-102">Blokiraj preuzimanje pri deljenju veza</span><span class="sxs-lookup"><span data-stu-id="a798b-102">Block download on sharing links</span></span>
+# <a name="block-download-on-sharing-links"></a><span data-ttu-id="314d6-102">Blokiraj preuzimanje na vezama za deljenje</span><span class="sxs-lookup"><span data-stu-id="314d6-102">Block download on sharing links</span></span>
 
-<span data-ttu-id="a798b-103">**Preuzimanje blokova** je dostupno za **veze** do Office dokumenata samo za prikaz.</span><span class="sxs-lookup"><span data-stu-id="a798b-103">**Block download** is available for **view-only links** to Office documents.</span></span> <span data-ttu-id="a798b-104">Kada izaberete ovu opciju, osobe koje pristupaju datoteci preko veze koju ste kreirali neće videti opcije za preuzimanje, štampanje ili kopiranje datoteke.</span><span class="sxs-lookup"><span data-stu-id="a798b-104">When you select this option, people who gain access to the file via the link you created will not see options to download, print, or copy the file.</span></span>
+<span data-ttu-id="314d6-103">Kada delite stavke sa drugima u usluzi OneDrive ili sharePoint, možete im dati pristup prikazu, ali ne i preuzimanju.</span><span class="sxs-lookup"><span data-stu-id="314d6-103">When you share items with others in OneDrive or SharePoint, you can give them access to view, but not download.</span></span>
 
-<span data-ttu-id="a798b-105">Administratori mogu kontrolisati da li se postavka "Blokiraj preuzimanje" pojavljuje samo za Office datoteke ili ne promenom `BlockDownloadLinksFileType` postavke u " [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) " ili " [Set-sposit](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell".</span><span class="sxs-lookup"><span data-stu-id="a798b-105">Administrators can control whether the "block download" setting appears only for Office files or not by changing the `BlockDownloadLinksFileType` setting in the [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) or [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell cmdlets.</span></span>
+<span data-ttu-id="314d6-104">Više informacija potražite u: [Blokiranje preuzimanja za datoteke samo za prikaz u uslugama SharePoint i OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)</span><span class="sxs-lookup"><span data-stu-id="314d6-104">For more information, see: [Block downloads for view-only files in SharePoint and OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)</span></span>
