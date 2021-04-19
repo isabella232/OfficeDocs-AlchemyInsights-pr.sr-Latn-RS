@@ -1,24 +1,25 @@
 ---
-title: Poruka o Office aplikacijama – Žao nam je, neki drugi nalog iz vaše organizacije je već prijavljen
+title: Poruka za Microsoft 365 aplikacije – Žao nam je, drugi nalog vaše organizacije je već prijavljen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182919"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836257"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Poruka o Office aplikacijama – Žao nam je, neki drugi nalog iz vaše organizacije je već prijavljen
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Poruka za Microsoft 365 aplikacije – Žao nam je, drugi nalog vaše organizacije je već prijavljen
 
 Da biste ispravili ovu grešku, pokušajte sledeće:
 
@@ -31,6 +32,8 @@ Da biste ispravili ovu grešku, pokušajte sledeće:
 - Kliknite na ikonu **+** da biste dodali ili povezali nalog. Unesite akreditive i sačekajte da se proces dovrši.
 
 - Ponovo pokrenite Office aplikaciju i ponovo se prijavite ako je potrebno. 
+
+**Savet** Na računarima sa operativnim sistemom Windows, možemo da dijagnostikujemo nekoliko uobičajenih problema sa prijavljivanjem u Office i da ih automatski otklonimo za vas. Preuzmite i pokrenite aplikaciju  **[Microsoft pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili našu automatizovanu alatku.
 
 Ako problem potraje, isprobajte sledeći korak: 
 

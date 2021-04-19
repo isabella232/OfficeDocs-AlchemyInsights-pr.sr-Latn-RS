@@ -2,41 +2,42 @@
 title: Pokretanje Windows dijagnostike memorije u operativnom sistemu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: 3fedc52d02f1f70743429d0313eda0361306c3f3
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357783"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826681"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>Pokretanje Windows dijagnostike memorije u operativnom sistemu Windows 10
 
-Ako se prozori i aplikacije na RAČUNARU pojave, zamrzavaju ili deluju na nestabilan način, možda imate problem sa memorijom računara (RAM). Windows dijagnostika memorije možete pokrenuti da biste proverili da li ima problema sa RAM-om računara.
+Ako Windows i aplikacije na računaru padnu, zamrznu se ili se ponašaju nestabilno, možda ćete naići na problem sa memorijom računara (RAM). Možete da pokrenete Windows dijagnostiku memorije da biste proverili da li ima problema sa RAM memorijom računara.
 
-U polju za pretragu na traci zadataka otkucajte **dijagnostiku memorije**, a zatim izaberite **Windows dijagnostika memorije**. 
+U polje za pretragu na traci zadataka ukucajte **dijagnostika memorije**, a zatim izaberite **stavku Windows dijagnostika memorije**. 
 
-Da biste pokrenuli dijagnostiku, potrebno je ponovo pokrenuti računar. Imate opciju da odmah ponovo pokrenete računar (Sačuvajte svoj rad i zatvorite otvorene dokumente i e-poruke) ili planirajte da se dijagnostika automatski pokreće sledeći put kada se računar ponovo pokrene:
+Da biste pokrenuli dijagnostiku, računar mora ponovo da se pokrene. Imate opciju da odmah ponovo pokrenete (sačuvajte to što ste naveli i prvo zatvorite otvorene dokumente i e-poruke) ili da zakažete da se dijagnostika pokreće automatski kada se računar sledeći put pokrene:
 
 ![Windows dijagnostika memorije](media/windows-memory-diagnostic.png)
 
-Kada se računar ponovo pokrene, **Windows alatka za dijagnostiku memorije** će se automatski pokrenuti. Status i napredak će biti prikazani u toku dijagnostike, a vi imate opciju otkazivanja dijagnostike tako što ćete na tastaturi udarati taster **Esc** .
+Kada se računar ponovo pokrene, Windows alatka za **dijagnostiku memorije** će se automatski pokrenuti. Status i napredak prikazuju se dok se dijagnostika pokreće, a vi možete da otkažete dijagnostiku tako što ćete pritisnuti taster **ESC** na tastaturi.
 
-Kada se dijagnostika dovrši, Windows će se normalno pokrenuti.
-Odmah nakon ponovnog pokretanja, kada se pojavi radna površina, pojaviće se obaveštenje (pored ikone **centra aktivnosti** na traci zadataka) da biste označili da li su pronađene greške u memoriji. Na primer:
+Kada se dijagnostika završi, Windows će početi normalno.
+Odmah nakon ponovnog pokretanja, kada se radna  površina pojavi, pojaviće se obaveštenje (pored ikone centra za obaveštenja na traci zadataka) koje ukazuje na to da li su pronađene bilo kakve greške u memoriji. Na primer:
 
-Evo ikone Centra aktivnosti: ![Ikona centra aktivnosti](media/action-center-icon.png) 
+Evo ikone centra aktivnosti: ![Ikona centra aktivnosti](media/action-center-icon.png) 
 
-I uzorak obaveštenja: ![Nema grešaka u memoriji](media/no-memory-errors.png)
+I probno obaveštenje: ![Nema grešaka u memoriji](media/no-memory-errors.png)
 
-Ako ste propustili obaveštenje, možete da izaberete ikonu **centra aktivnosti** na traci zadataka da biste prikazali **Centar aktivnosti** i videli listu obaveštenja koja se može pomerati.
+Ako ste propustili obaveštenje, možete da izaberete ikonu  centra za obaveštenja na traci zadataka da biste prikazali centar za obaveštenja i videli listu obaveštenja koja se može pomerati. 
 
-Da biste pregledali detaljne informacije, otkucajte **događaj** u polje za pretragu na traci zadataka, a zatim izaberite stavku " **Prikazivač događaja**". U oknu sa leve strane **prikazivača događaja**Krećite se do **Windows evidencije > sistem**. U oknu sa desne strane Skenirajte listu dok pregledate **izvornu** kolonu, dok ne vidite događaje sa izvornom vrednošću **memorisdijagnostike-rezultati**. Ističete svaki takav događaj i vidite informacije o rezultatu u okviru ispod kartice " **Opšte postavke** " ispod liste.
+Da biste pregledali detaljne informacije, **otkucajte događaj u** polje za pretragu na traci zadataka, a zatim izaberite **stavku Prikazivač događaja**. U **oknu "Prikazivač** događaja" sa leve strane, izaberite stavke **Windows evidencije > Sistem**. U desnom oknu pregledajte listu dok  gledate kolonu Izvor dok ne vidite događaje sa izvornom vrednošću **MemoryDiagnostics-Results.** Istaknite svaki takav događaj i pogledajte informacije o rezultatima u okviru ispod **kartice** Opšte ispod liste.

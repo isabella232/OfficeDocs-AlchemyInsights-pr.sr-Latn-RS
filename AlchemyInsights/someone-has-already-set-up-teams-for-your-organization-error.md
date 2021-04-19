@@ -1,29 +1,30 @@
 ---
-title: Neko je već podesio timove za grešku u organizaciji
+title: Neko je već podesio Teams za vašu grešku u organizaciji
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44283063"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835321"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>"Neko je već podesio timove za vašu organizaciju" Greška
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Greška "Neko je već podesio Teams za vašu organizaciju"
 
-Ako vidite poruku "neko je već podesio timove za vašu organizaciju" u timovima, to može biti zbog:
+Ako vidite grešku "Neko je već podesio Teams za vašu organizaciju" u vašoj organizaciji, to može biti zbog:
 
-1. Neko je već podesio timove za vas. Proverite e-poštu za poziv ili pokušajte da se prijavite u timove u privatnom/inkoito Web pregledaču sa akreditivima domena [https://teams.microsoft.com](https://teams.microsoft.com) .
+1. Neko je već podesio Teams za vas. Proverite e-poruku sa pozivom ili pokušajte da se prijavite u Teams u privatnom/incognito veb pregledaču sa akreditivima domena na [https://teams.microsoft.com](https://teams.microsoft.com) lokaciji .
 
-2. Pokušavate da se prijavite sa vašom e-adresom koja je povezana sa poslovnim i ličnim nalogom. Na primer, Contoso.com se koristi i za vaš Microsoft nalog usluge (Live ID) i vaš radni nalog (aktivni direktorijum). U tom slučaju, pokušajte da kreirate timove u novom prozoru pregledača "privatno/inkoito" i izaberete verziju "posao ili školu" umesto ličnog prijavljivanja. Ako to ne uspe, moraćete da ih razdvojite da biste pravilno kreirali besplatan nalog za timove. Da biste to uradili, sledite korake pod opcijom "Želim da koristim drugu adresu ili broj telefona za prijavljivanje" na stranici, [promenite e-adresu ili telefonski broj za Microsoft nalog](https://support.microsoft.com/help/12407).
+2. Pokušavate da se prijavite sa e-adresom koja je vezana za poslovni i lični nalog. Na primer, Contoso.com se za vaš Microsoft service nalog (Live ID) i za poslovni nalog (Active Directory). Ako je to slučaj, pokušajte da kreirate Teams u novom privatnom/incognito prozoru pregledača i izaberite verziju "Posao ili škola" za prijavljivanje umesto lično. Ako to ne uspe, trebalo bi da ih preklončite da biste ispravno kreirali besplatan Teams nalog. Da biste to mogli da uradite, pratite korake u okviru "Želim da koristim drugu adresu ili broj telefona za prijavljivanje" na stranici Promena e-adrese ili broja telefona [za Microsoft](https://support.microsoft.com/help/12407)nalog.
 
-3. Pokušavate da prijavite trenutnu adresu na poslu bez posla. Ako je to slučaj, očekuje se da će ovo propasti ovde i moraćete da koristite tenantu vaše organizacije sa ovom adresom. U mogućnosti ste da kreirate besplatne timove sa ličnom e-adresom za bilo koju ličnu [upotrebu.](https://products.office.com/microsoft-teams/group-chat-software)
+3. Pokušavate da upisujete trenutnu radnu adresu u besplatnog zakupca. Ako je to slučaj, očekuje se da ovo neće uspeti i trebalo bi da koristite zakupca organizacije sa ovom adresom. Možete da kreirate besplatan Teams nalog sa ličnom adresom e-pošte za bilo koju ličnu [upotrebu ovde.](https://products.office.com/microsoft-teams/group-chat-software)

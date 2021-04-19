@@ -2,21 +2,22 @@
 title: Teams klijent otkazuje?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354067"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826285"
 ---
 # <a name="teams-client-crashing"></a>Teams klijent otkazuje?
 
@@ -24,21 +25,21 @@ Ukoliko Teams klijent otkazuje, pokušajte sledeće:
 
 - Ako koristite Teams aplikaciju za stone računare, [ uverite se da je aplikacija potpuno ažurirana](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Uverite se da su sve [Microsoft 365 URL adrese i opsezi adresa](https://docs.microsoft.com/microsoftteams/connectivity-issues) dostupni.
+- Uverite se da su [svi Microsoft 365 UL adrese i opsezi](https://docs.microsoft.com/microsoftteams/connectivity-issues) adresa pristupačni.
 
-- Prijavite se koristeći svoj nalog za administraciju i proverite da li postoji usluga [zdravstvenog stanja usluge](https://docs.microsoft.com/office365/enterprise/view-service-health) da biste proverili da li postoji nebrojanje ili degradacija usluge.
+- Prijavite se na nalog zakupca [](https://docs.microsoft.com/office365/enterprise/view-service-health) i proverite kontrolnu tablu za zdravstveno stanje usluge kako biste potvrdili da ne postoji preklovanje ili degradacija usluge.
 
-- Deinstalirajte i ponovo instalirajte aplikaciju "timovi" (veza)
-    - Potražite fasciklu "%appdata%\Microsoft\teams\" na računaru i izbrišite sve datoteke u tom direktorijumu.
-    - [Preuzmite i instalirajte aplikaciju "timovi](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)" i ako je moguće, instalirajte timove kao administrator (kliknite desnim tasterom miša na instalator timova i izaberite opciju "Pokreni kao administrator" Ako je dostupan).
+- Deinstalacija i poništite instaliranje Teams aplikacije (veza)
+    - Potražite fasciklu %appdata%\Microsoft\teams\ na računaru i izbrišite sve datoteke iz tog direktorijuma.
+    - Preuzmite i [instalirajte Aplikaciju Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)i, ako je moguće, instalirajte Teams kao administrator (kliknite desnim tasterom miša na Teams instalacioni program i izaberite stavku "Pokreni kao administrator" ako je dostupno).
 
-Ako se vaši timovi još uvek nalaze u sporu, možete li da ga ponovo reprodukujete? Ako je tako:
+Ako Teams klijent i dalje pada, možete li ponovo da predstavite problem? Ako je tako:
 
-1. Koristite zapisivač koraka da biste hvatali korake.
-    - Zatvorite sve nepotrebne ili poverljive aplikacije.
-    - Pokretanje zapisivača za korake i reprodukovanje problema prilikom prijavljivanja pomoću korisničkog naloga koji je pogođen.
-    - [Prikupite zapisnike timova koji hvatate zapisne REPRO korake](https://docs.microsoft.com/microsoftteams/log-files). **Napomena**: uverite se da ste uhvatili adresu za prijavljivanje koje je uticala korisnik.
-    - Prikupite informacije o promeni stanja memorije i/ili u vezi sa podacima o kvarovima (Windows). Pokrenite Windows PowerShell na računaru na kom se pojavljuje nesreća i pokrenite sledeće komande:
+1. Koristite zapisivač koraka da biste uhvatili korake.
+    - Zatvorite SVE nepotrebne ili poverljive aplikacije.
+    - Pokrenite program za snimanje koraka i ponovo predstavite problem dok ste prijavljeni sa korisničkim nalogom na koji to utiče.
+    - [Prikupljajte evidencije timova koje snimaju snimljene korake repropro.](https://docs.microsoft.com/microsoftteams/log-files) **Naznaka:** Proverite da li ste zabeležili adresu za prijavljivanje upečenog korisnika.
+    - Prikupite informacije o neiskladu i/ili neispravnoj kontejnneru (Windows). Pokrenite Windows PowerShell na računaru na kom je došlo do pada i pokrenite sledeće komande:
 
         `
         PS C:\Users\user01> cd $env:temp
@@ -46,4 +47,4 @@ Ako se vaši timovi još uvek nalaze u sporu, možete li da ga ponovo reprodukuj
         PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
         `
     
-2. Priložite datoteku u kućište podrške.
+2. Priložite datoteku na slučaj podrške.

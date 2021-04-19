@@ -1,27 +1,28 @@
 ---
-title: Spasi izbrisane stavke u cmddozvoli
+title: Oporavak izbrisanih stavki uz cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493431"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835825"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>Spasi izbrisane stavke u cmddozvoli
+# <a name="recover-deleted-items-with-cmdlet"></a>Oporavak izbrisanih stavki uz cmdlet
 
-- Koristite [stavku "Preuzmi](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) i ponovo oporavak" cmddozvoli prikaz izbrisanih stavki u poštanskim sandučićima. Nakon što pronađete izbrisane stavke, za vraćanje u prethodno stanje koristite [nepovratno stavke za oporavak](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) .
+- Koristite cmdlet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) da biste prikazali izbrisane stavke u poštanskim sandučićima. Kada pronađete izbrisane stavke, koristite cmdlet [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) da biste ih vratili.
 
-- Pogledajte sve detalje u okviru [stavke "Get-oporavak](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)".
+- Pogledajte sve detalje u [temi Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
-- Treba da budete dodeljeni ulozi izvoza za poštansko sanduče da biste mogli da pokrenete ovu cmddozvoli. Za više informacija pogledajte [stavke za oporavak](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) .
+- Da biste mogli da pokrenete ovu cmdlet, mora da vam se dodelite uloga uvoza i izvoza poštanskog sandučeta. Više informacija [potražite u temi Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)
