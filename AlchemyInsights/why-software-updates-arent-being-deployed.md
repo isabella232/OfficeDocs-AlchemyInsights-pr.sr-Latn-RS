@@ -1,8 +1,8 @@
 ---
-title: Zašto se softverske ispravke ne raspoređuju?
+title: Zašto se softverske ispravke ne primenuju?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461858"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805700"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="a5d72-102">Zašto se softverske ispravke ne raspoređuju?</span><span class="sxs-lookup"><span data-stu-id="a5d72-102">Why software updates are not being deployed?</span></span>
+# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="70db8-102">Zašto se softverske ispravke ne primenuju?</span><span class="sxs-lookup"><span data-stu-id="70db8-102">Why software updates are not being deployed?</span></span>
 
-<span data-ttu-id="a5d72-103">Pregledajte sledeće ako ste konfigurisali softverske ispravke pomoću ringa Windows 10 Update, ali se ispravke ne raspoređuju:</span><span class="sxs-lookup"><span data-stu-id="a5d72-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
+<span data-ttu-id="70db8-103">Pregledajte sledeće ako ste konfigurisali softverske ispravke putem kruga ispravki za Windows 10, ali ispravke nisu primenjene:</span><span class="sxs-lookup"><span data-stu-id="70db8-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
 
-- <span data-ttu-id="a5d72-104">Razmotrite promene Windows servisiranja iz  **polugodišnjeg**  tipa objavljivanja kanala na striktniju, češće tip objavljivanja</span><span class="sxs-lookup"><span data-stu-id="a5d72-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
-- <span data-ttu-id="a5d72-105">Potvrdite deferralan period radi  **ažuriranja kvaliteta**  i  **ispravke funkcije**.</span><span class="sxs-lookup"><span data-stu-id="a5d72-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="a5d72-106">Period odlaganja može dovesti do odlaganja u ispravkama za 180 dana.</span><span class="sxs-lookup"><span data-stu-id="a5d72-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
+- <span data-ttu-id="70db8-104">Razmotrite promenu Windows servisiranje iz tipa izdanja  **polugodišnji**  kanal u stroži, čest tip izdanja</span><span class="sxs-lookup"><span data-stu-id="70db8-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
+- <span data-ttu-id="70db8-105">Proverite period odloženja za ažuriranje **kvaliteta i** **ispravku funkcije.**</span><span class="sxs-lookup"><span data-stu-id="70db8-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="70db8-106">Period odlaganja može dovesti do odlaganja u ažuriranju za do 180 dana.</span><span class="sxs-lookup"><span data-stu-id="70db8-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
