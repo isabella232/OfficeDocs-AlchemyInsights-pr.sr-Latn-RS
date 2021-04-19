@@ -1,27 +1,26 @@
 ---
-title: Prvi put koristite Microsoft Teams
+title: Podešavanje usluge Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
-ms.translationtype: HT
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509159"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786215"
 ---
-# <a name="new-to-microsoft-teams"></a>Prvi put koristite Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Podešavanje usluge Microsoft Teams
 
-Pogledajte [Prvi koraci uz Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Obavezno pogledajte Microsoft Teams za video treninge, palube i druge informacije.
+[Microsoft Teams](https://aka.ms/teamsguidance) vodič za podešavanje pruža vašoj organizaciji vodič za podešavanje radnih prostora tima koji hostuje razgovore u realnom vremenu putem razmene poruka, poziva i audio ili video sastanaka i za timske i za privatnu komunikaciju. Primićete uputstva za odlučivanje mrežnih zahteva organizacije pomoću alatke Planer mreže i Teams savetnika u okviru Teams centra administratora. Kada se primena dovrši, vodič sadrži korisne resurse da biste počeli da koristite Teams.
 
-Ako vam je potrebna pomoć za raspoređivanje usluge Teams za podršku Radnika na daljinu (WFH) zbog COVID-19, pregledajte [Podrška radnicima na daljinu pomoću aplikacije Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Takođe, možda ćete biti podobni za pomoć u raspoređivanju iz programa Microsoft 365 FastTrack – posetite [FastTrack centar](https://www.microsoft.com/fasttrack) da biste prosledili zahtev.
-
-**Važno**: Zbog nedavnog povećanja korišćenja usluge Teams, kada dodelite Teams licencu korisniku možda će proći oko 24 sata pre nego što bude potpuno podešena. Do tada nećete moći da im dodelite Teams smernice i možda neće imati pristup nekim Teams funkcijama poput pozivanja i audio konferencije.
+Dodatne informacije potražite u [članku Prvi koraci uz Microsoft Teams.](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)

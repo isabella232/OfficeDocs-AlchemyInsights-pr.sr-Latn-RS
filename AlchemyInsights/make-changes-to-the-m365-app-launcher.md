@@ -1,29 +1,30 @@
 ---
-title: Izvršite promene u pokretač aplikacija Microsoft 365
+title: Menjanje Microsoft 365 pokretanja aplikacija
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: adb59243b9d5abd6629848917fa99236b9d5e365
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650444"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794918"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Izvršite promene u pokretač aplikacija Microsoft 365
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Menjanje Microsoft 365 pokretanja aplikacija
 
-Možete da dodate sopstvene prilagođene pločice u pokretač aplikacije koji ukazuju na SharePoint lokacije, spoljne lokacije, zastarele aplikacije i još mnogo toga.
+U pokretanje aplikacija možete da dodate sopstvene prilagođene pločice koje upućuju na SharePoint lokacije, spoljne sajtove, zatamnjene aplikacije i još mnogo toga.
 
-1. [Dodavanje prilagođene pločice u pokretač aplikacija](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) u okviru administratorskog centra tako što ćete otići na **podešavanja postavki > org** i odaberite karticu " **profil organizacije** ".
-2. [Promovišite pločicu do pokretanja aplikacije](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) tako što ćete **je zakačiti** na pokretač.
-3. [Uređivanje ili brisanje prilagođene pločice](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) ako je nešto promenjeno za aplikaciju.
+1. [Dodajte prilagođenu pločice](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) u pokretanje aplikacija u centru organizacije tako što ćete otvoriti postavke **>** Postavke organizacije i odaberite karticu Profil **organizacije.**
+2. [Podići pločciju na pokretanje](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) aplikacija tako što će **zakačiti aplikaciju** za pokretanje.
+3. [Uredite ili izbrišite prilagođenu pločku](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) ako se nešto promenilo u aplikaciji.
 
-Više informacija potražite u članku [Prilagođavanje pokretač aplikacije](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).
+Dodatne informacije potražite u [članku Prilagođavanje pokretanja aplikacija](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).
