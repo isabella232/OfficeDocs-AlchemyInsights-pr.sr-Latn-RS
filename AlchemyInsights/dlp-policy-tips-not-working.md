@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
+ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952206"
+ms.locfileid: "51958716"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemi sa savetima u vezi sa DLP smernicama
 
@@ -28,8 +28,8 @@ Da biste konfigurisali savete za smernice za DLP u centru za & bezbednosti u pun
 
 - Uverite se da su saveti **za smernice omogućeni** u DLP pravilu. Korake možete da vidite u [temi Slanje obaveštenja e-poštom i prikaz saveta za smernice za DLP smernice.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Uverite se da se sadržaj podudara sa ono što je potrebno za aktiviranje pravila ojačeno u definicijama entiteta [osetljivih tipova informacija.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- Uverite se da se sadržaj podudara sa ono što je potrebno za aktiviranje pravila ojačeno u definicijama entiteta [osetljivih tipova informacija.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-Saveti za smernice se prikazuju u programima OWA i Outlook. Međutim, kada koristite Outlook 2013 ili kasnije, saveti za smernice prikazuju se samo pod određenim uslovima. Za listu određenih uslova, pogledajte [Podržani uslovi za Outlook 2013 ili kasnije da biste prikazali savete za smernice.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Saveti za smernice se prikazuju u programima OWA i Outlook. Međutim, kada koristite Outlook 2013 ili kasnije, saveti za smernice prikazuju se samo pod određenim uslovima. Za listu određenih uslova, pogledajte [Podržani uslovi za Outlook 2013 ili kasnije da biste prikazali savete za smernice.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
 Informacije o savetima za DLP smernice potražite u savetima o [smernicama DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) i Matrici podrške za [savete za DLP smernice.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
