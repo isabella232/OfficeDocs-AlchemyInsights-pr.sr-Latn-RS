@@ -1,5 +1,5 @@
 ---
-title: Tips smernica za smernice ne funkcionišu
+title: Saveti za DLP smernice ne rade
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679599"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952206"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problemi sa programom DLP smernica
+# <a name="dlp-policy-tip-issues"></a>Problemi sa savetima u vezi sa DLP smernicama
 
 **Važno**: Tokom ovih jedinstvenih vremena, preduzimamo sve korake da bismo se uverili da će usluge SharePoint Online i OneDrive ostati dostupne u najvećoj meri – više informacija potražite u članku [Privremena prilagođavanja funkcija u usluzi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Saveti za DLP smernice**
+Da biste konfigurisali savete za smernice za DLP u centru za & bezbednosti u punom režimu sprovođenja, uradite sledeće:
 
-Kada koristite **Dlp smernice**, korisnici mogu da obaveštavaju o narušavanju smernica pomoću **Saveta za smernice**. Administratori mogu da konfigurišu savete za smernice za prikaz dok testiraju smernice za DLP ili kada se smernice nalaze u režimu potpunog sprovođenja.
-  
-Da biste konfigurisali savete za smernice na stranici DLP u centru za bezbednost i usaglašenost u režimu potpune primene, uradite sledeće:
-  
-- Uverite se da su saveti za smernice **omogućeni** u okviru dlp pomoću koraka [ovde](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Uverite se da su saveti **za smernice omogućeni** u DLP pravilu. Korake možete da vidite u [temi Slanje obaveštenja e-poštom i prikaz saveta za smernice za DLP smernice.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Uverite se da se **sadržaj podudara** sa onim što je **potrebno** da biste aktivirali pravilo izneto u [ovom članku.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Uverite se da se sadržaj podudara sa ono što je potrebno za aktiviranje pravila ojačeno u definicijama entiteta [osetljivih tipova informacija.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Saveti za smernice se prikažu u OWA i u programu Outlook. Međutim, kada koristite **Outlook 2013 ili noviju verziju**, saveti za smernice se prikazuju samo pod određenim uslovima. Ovi uslovi su navedeni ovde: [podržani uslovi za Outlook 2013 ili noviji za prikazivanje Saveta za smernice](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Saveti za smernice se prikazuju u programima OWA i Outlook. Međutim, kada koristite Outlook 2013 ili kasnije, saveti za smernice prikazuju se samo pod određenim uslovima. Za listu određenih uslova, pogledajte [Podržani uslovi za Outlook 2013 ili kasnije da biste prikazali savete za smernice.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Dodatne informacije o domeni smernica za DLP potražite u članku: [Prikazivanje saveta za smernice za DLP smernice](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Informacije o savetima za DLP smernice potražite u savetima o [smernicama DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) i Matrici podrške za [savete za DLP smernice.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
