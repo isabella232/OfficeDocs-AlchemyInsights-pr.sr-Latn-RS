@@ -1,5 +1,5 @@
 ---
-title: Otkazujete pretplatu?
+title: Otkazuje pretplatu?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896881"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261606"
 ---
-# <a name="canceling-your-subscription"></a>Otkazujete pretplatu?
+# <a name="canceling-your-subscription"></a>Otkazuje pretplatu?
 
-Žao nam je što idete, ali ako želite da otkažete pretplatu, Evo vaših opcija:
+Žao nam je što odlazite, ali ako želite da otkažete pretplatu, evo opcija:
   
-- Ako imate manje od 25 dodeljenih licenci, možete otkazati pretplatu na mreži. Idite na stranicu **naplate** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** i pronađite pretplatu koju želite da otkažete. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Otkaži pretplatu**.
-- Ako imate više od 25 licenci koje su dodeljene korisnicima, [Pozovite podršku da biste otkazali pretplatu](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Ako imate manje od 25 dodeljenih licenci, možete da otkažete pretplatu na mreži. Idite na **stranicu** \> **[Naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** i pronađite pretplatu koju želite da otkažete. Izaberite **stavku Još** radnji (tri tače), a zatim **izaberite Otkaži pretplatu.**
+- Ako imate više od 25 licenci dodeljenih korisnicima, pozovite [podršku da biste otkazali pretplatu.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Povraćaj kredita: bilo koji proporcionalni kredit će vam biti vraćen u okviru sledećeg ciklusa naplate.**
+**Refundnica: Bilo koji proporciran kredit će vam biti vraćen u sledećem ciklusu naplate.**
 
 > [!NOTE]
-> Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U odeljku **Postavke pretplate i plaćanja** izaberite stavku **Otkaži pretplatu**.
+> Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U **odeljku Postavke pretplate i plaćanja izaberite** stavku **Otkaži pretplatu.**
 
-Da biste saznali više, pogledajte članak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Da biste saznali više, [pogledajte otkazivanje pretplate.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: O bezbednosnim ispravkama za Exchange Server
+title: O Exchange server ispravkama
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726541"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233476"
 ---
-# <a name="about-exchange-server-security-updates"></a>O bezbednosnim ispravkama za Exchange Server
+# <a name="about-exchange-server-updates"></a>O Exchange server ispravkama
 
-Microsoft je objavio seriju ključnih bezbednosnih ispravki za Exchange server. Verzije sa pogođene serverom su nivoi ažuriranja Exchange servera 2010, 2013, 2016 i 2019. Exchange online nije uključen, ali ako imate neke lokalne Exchange servere zbog hibridne konfiguracije, oni su potencijalno ranjivi.
+Microsoft obično objavljuje Exchange server ispravkama u utorak (bezbednosne ispravke) ili kvartalnim (kumulativne ispravke). Da biste videli objave najnovijih objavljenih ispravki, pogledajte blog [Exchange tima.](https://aka.ms/ehlo)
 
-Pogledajte sledeću objavu za lokaciju ispravki: [Izdato: mart 2021 Exchange Server Security Update](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Da biste zalihe u Exchange serverima, koristite Exchange server skriptu "Provera zdravlja" (GitHub, koristite [najnovije izdanje).](https://aka.ms/ExchangeHealthChecker) Pokretanje ove skripte vam govori ako neki od Exchange servera koristi ispravke (CUs i SUs).
 
-**Važne beleške:**
+- Da biste ažurirali na najnoviju kumulativnu ispravku, idite Exchange Čarobnjak za ažuriranje i odaberite trenutno pokrenut CU i ciljni CU. [](https://aka.ms/ExchangeUpdateWizard) Izaberite **stavku Recite mi korake** da biste nabavili putokaze za okruženje.
 
-Ako ručno instalirate ispravke, pročitajte odeljak "poznati problemi" u člancima ispravki baze znanja za važne informacije. Bezbednosne ispravke moraju da se pokrenu sa poviљene CMD/PowerShell odziv!
-
-Ovde možete da [pronađete](https://aka.ms/exupdatefaq)informacije o rešavanju problema.
+- Ako naiđete na greške tokom ili posle instaliranja ispravki, pogledajte Exchange server Popravka neuspešnih instalacija ispravki sistema [Exchange kumulativne i bezbednosne ispravke.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

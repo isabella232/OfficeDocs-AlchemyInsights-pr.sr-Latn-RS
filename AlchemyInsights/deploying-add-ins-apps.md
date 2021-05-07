@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125684"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233548"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Primena programski dodatak za Microsoft 365 aplikacije
 
 Centralizovana primena je preporučeni način za primenu Kancelarija za korisnike i grupe u organizaciji. Da biste primenili programski dodatak, pratite sledeće korake:
 
-**Napomogućeno:** Da biste instalirali programske Kancelarija kao pojedinačni korisnik, pogledajte prikaz programskih dodatak, upravljanje i instaliranje programskih dodatak u [Kancelarija programima.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Takođe se uverite da je omogućena pojedinačna Kancelarija prodavnice programski dodaci. 
+**Napomogućeno:** Da biste instalirali programske Kancelarija kao pojedinačni korisnik, pogledajte prikaz programskih dodatak, upravljanje i instaliranje programskih dodatak u [Kancelarija programima.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Takođe se uverite da je omogućena pojedinačna Kancelarija prodavnice programski dodaci. Za detalje pogledajte [sprečavanje preuzimanja programski](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)dodataka tako što Kancelarija prodavnicu Store za sve klijente (osim Outlook) .
 
 1. Uverite se da okruženje ispunjava zahteve za primenu programski dodatka pomoću centralizovane primene. Za detalje pogledajte [Zahtevi.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. Idite na **Postavke** integrisane aplikacije Nabavite aplikacije u Microsoft 365 centra za  >    >   administaciju da biste primenili programski dodatak. 
