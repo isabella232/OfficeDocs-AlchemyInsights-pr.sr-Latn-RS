@@ -1,5 +1,5 @@
 ---
-title: Pokreće Microsoft Edge u terminalu
+title: Pokretanje Microsoft Edge u režimu kiosk
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708544"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312418"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="20edb-102">Pokreće Microsoft Edge u terminalu</span><span class="sxs-lookup"><span data-stu-id="20edb-102">Run Microsoft Edge in kiosk mode</span></span>
+# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="4f3b2-102">Pokretanje Microsoft Edge u režimu kiosk</span><span class="sxs-lookup"><span data-stu-id="4f3b2-102">Run Microsoft Edge in kiosk mode</span></span>
 
-<span data-ttu-id="20edb-103">Terminal možete da konfigurišete u Microsoft Edge verzijama 77 i novije verzije, kao i u zastarele 45 verzije Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="20edb-103">You can configure kiosk mode in Microsoft Edge versions 77 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span>
+<span data-ttu-id="4f3b2-103">Režim kiosk možete da konfigurišete u Microsoft Edge verzijama 87 i novijim verzijama, kao i u verzijama Zastarela verzija pregledača Microsoft Edge 45 i starije verzije.</span><span class="sxs-lookup"><span data-stu-id="4f3b2-103">You can configure kiosk mode in Microsoft Edge versions 87 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span> <span data-ttu-id="4f3b2-104">Dodatne informacije potražite u [Microsoft Edge režima kiosk-a.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)</span><span class="sxs-lookup"><span data-stu-id="4f3b2-104">For more information, see [Configure Microsoft Edge kiosk mode](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode).</span></span>
 
-<span data-ttu-id="20edb-104">Uređaje koji se pokreću u operativnom sistemu Windows 10 možete da konfigurišete da se [pokrenu u okviru jednokratne ili multi-App kiosk sa više aplikacija](https://go.microsoft.com/fwlink/?linkid=2133659).</span><span class="sxs-lookup"><span data-stu-id="20edb-104">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
+<span data-ttu-id="4f3b2-105">Uređaje koji se pokreće na uređajima Windows 10 možete da pokrenete u režimu pojedinačne aplikacije ili [kiosk aplikacije.](https://go.microsoft.com/fwlink/?linkid=2133659)</span><span class="sxs-lookup"><span data-stu-id="4f3b2-105">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
 
-<span data-ttu-id="20edb-105">Više informacija o podešavanju kioskog režima u najnovijoj verziji Microsoft Edge stabilne televizije i u zaostavštini Microsoft Edge potražite u članku:</span><span class="sxs-lookup"><span data-stu-id="20edb-105">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
+<span data-ttu-id="4f3b2-106">Dodatne informacije o podešavanju režima kiosk u najnovijoj verziji Microsoft Edge stabilnog kanala i u Zastarela verzija pregledača Microsoft Edge pogledajte:</span><span class="sxs-lookup"><span data-stu-id="4f3b2-106">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
 
-- [<span data-ttu-id="20edb-106">Microsoft Edge sa dodeljenim pristupom</span><span class="sxs-lookup"><span data-stu-id="20edb-106">Microsoft Edge with assigned access</span></span>](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [<span data-ttu-id="20edb-107">Microsoft Edge "--kiosk" parametar komandne linije</span><span class="sxs-lookup"><span data-stu-id="20edb-107">Microsoft Edge “--kiosk” command line parameter</span></span>](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [<span data-ttu-id="20edb-108">Podrška za Microsoft Edge terminal</span><span class="sxs-lookup"><span data-stu-id="20edb-108">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [<span data-ttu-id="4f3b2-107">Microsoft Edge sa dodeljenim pristupom</span><span class="sxs-lookup"><span data-stu-id="4f3b2-107">Microsoft Edge with assigned access</span></span>](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [<span data-ttu-id="4f3b2-108">Microsoft Edge "--kiosk" parametar komandne linije</span><span class="sxs-lookup"><span data-stu-id="4f3b2-108">Microsoft Edge “--kiosk” command line parameter</span></span>](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [<span data-ttu-id="4f3b2-109">Podrška za Zastarela verzija pregledača Microsoft Edge režimu kiosk</span><span class="sxs-lookup"><span data-stu-id="4f3b2-109">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
