@@ -1,5 +1,5 @@
 ---
-title: Uvoz omiljenih lokacija iz programa Google Chrome ili Mozilla Firefox u Microsoft Edge
+title: Uvoz omiljenih lokacija iz usluge Google Chrome ili Mozilla Firefox u Microsoft Edge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,19 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9447"
+- "11023"
 - "9005491"
-ms.openlocfilehash: 056e9b2c4d60a7f15eed26c8a38d3c50cc81aecd
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+- "9006474"
+ms.openlocfilehash: a4636532111248d91a2e2b3d52fcc2e896aa7cd5
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492262"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470280"
 ---
-# <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Uvoz omiljenih lokacija iz programa Google Chrome ili Mozilla Firefox u Microsoft Edge
+# <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Uvoz omiljenih lokacija iz usluge Google Chrome ili Mozilla Firefox u Microsoft Edge
 
-1. Otvorite Microsoft Edge, a zatim **izaberite Postavke i još mnogo toga...**  >  **Postavke**  >  **Uvoz podataka iz pregledača**.
+1. Otvorite Microsoft Edge, a zatim izaberite stavku **Postavke i još mnogo toga...**  >  **Postavke**  >  **Uvoz podataka iz pregledača**.
 
 1. U **meniju Uvoz iz** izaberite **stavku Google Chrome** ili **Mozilla Firefox**, a zatim izaberite stavku **Uvezi**.
 
