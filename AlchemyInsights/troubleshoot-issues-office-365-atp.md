@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa programom Microsoft Defender za Office 365 (ATP)
+title: Rešavanje problema sa programom Microsoft zaštitnik za Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801421"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544772"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a><span data-ttu-id="5574d-102">Rešavanje problema sa sistemom Office 365 ATP</span><span class="sxs-lookup"><span data-stu-id="5574d-102">Troubleshoot issues with Office 365 ATP</span></span>
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a><span data-ttu-id="7e63c-102">Rešavanje problema sa programom Microsoft zaštitnik za Office 365</span><span class="sxs-lookup"><span data-stu-id="7e63c-102">Troubleshoot issues with Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="5574d-103">**Primetite kašnjenje sa isporukom e-poruke** ?</span><span class="sxs-lookup"><span data-stu-id="5574d-103">**Notice delays with email message delivery** ?</span></span> <span data-ttu-id="5574d-104">Pokušajte da koristite opciju dinamičko isporučivanje za ATP smernice bezbednih priloga.</span><span class="sxs-lookup"><span data-stu-id="5574d-104">Try using the Dynamic Delivery option for your ATP Safe Attachments policies.</span></span> <span data-ttu-id="5574d-105">To će izbeći da dolazi do kašnjenja e-poruke prilikom zaštite primalaca iz zlonamernog datoteka.</span><span class="sxs-lookup"><span data-stu-id="5574d-105">This will avoid email message delivery delays while protecting recipients from malicious files.</span></span>
-- <span data-ttu-id="5574d-106">Da li **želite da prijavite lažne pozitivne ili lažne** negativne?</span><span class="sxs-lookup"><span data-stu-id="5574d-106">**Do you want to report false positives or false negatives** ?</span></span> <span data-ttu-id="5574d-107">Koristite ovu povezanost da biste prosledili datoteku za analizu: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span><span class="sxs-lookup"><span data-stu-id="5574d-107">Use this link to submit your file for analysis: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span></span>
-- <span data-ttu-id="5574d-108">Da **li ste znali da možete da omogućite ATP vezu bezbedne veze za e-poštu koje šalju osobe u organizaciji** ?</span><span class="sxs-lookup"><span data-stu-id="5574d-108">**Did you know that you can enable ATP Safe Links protection for email sent between people in your organization** ?</span></span> <span data-ttu-id="5574d-109">Sledite ove korake:</span><span class="sxs-lookup"><span data-stu-id="5574d-109">Follow these steps:</span></span>
-    1. <span data-ttu-id="5574d-110">Idite na i https://protection.office.com Prijavite se.</span><span class="sxs-lookup"><span data-stu-id="5574d-110">Go to https://protection.office.com, and sign in.</span></span>
-    2. <span data-ttu-id="5574d-111">Smernice za **Upravljanje pretnjama**  >  **Policy**  >  **potražite bezbednim vezama** .</span><span class="sxs-lookup"><span data-stu-id="5574d-111">Go to **Threat management** > **Policy** > **Safe Links** .</span></span>
-    3. <span data-ttu-id="5574d-112">U okviru **smernice koje se primenjuju na određene primaoce** , uredite (ili dodajte) smernice.</span><span class="sxs-lookup"><span data-stu-id="5574d-112">Under **Policies that apply to specific recipients** , edit (or add) a policy.</span></span>
-    4. <span data-ttu-id="5574d-113">Izaberite stavku **primenite bezbedne veze ka porukama poslatih unutar organizacije** .</span><span class="sxs-lookup"><span data-stu-id="5574d-113">Select **Apply safe links to messages sent within the organization** .</span></span>
-    5. <span data-ttu-id="5574d-114">Sačuvajte smernice i omogućite oko 30 minuta da promene prolaze kroz vaš put.</span><span class="sxs-lookup"><span data-stu-id="5574d-114">Save your policy, and allow about 30 minutes for your changes to work their way through your datacenter.</span></span>
-- <span data-ttu-id="5574d-115">Da biste dobili veću pomoć za ATP, pogledajte članak [Microsoft zaštitnik za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span><span class="sxs-lookup"><span data-stu-id="5574d-115">To get more help with ATP, see [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span></span>
+- <span data-ttu-id="7e63c-103">**Obaveštenje o kašnjenju isporuke e-poruke?**</span><span class="sxs-lookup"><span data-stu-id="7e63c-103">**Notice delays with email message delivery**?</span></span> <span data-ttu-id="7e63c-104">Probajte da koristite opciju Dinamička isporuka za Microsoft zaštitnik za Office 365 Sef smernice za priloge.</span><span class="sxs-lookup"><span data-stu-id="7e63c-104">Try using the Dynamic Delivery option for your Microsoft Defender for Office 365 Safe Attachments policies.</span></span> <span data-ttu-id="7e63c-105">To će izbegli kašnjenje isporuke e-poruke dok štitite primaoce od zlonamernih datoteka.</span><span class="sxs-lookup"><span data-stu-id="7e63c-105">This will avoid email message delivery delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="7e63c-106">**Da li želite da prijavite pozitivne ili netačne negativne vrednosti?**</span><span class="sxs-lookup"><span data-stu-id="7e63c-106">**Do you want to report false positives or false negatives**?</span></span> <span data-ttu-id="7e63c-107">Koristite [Istraživač prosleđivanja](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="7e63c-107">Use [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span>
+- <span data-ttu-id="7e63c-108">Da li ste znali da možete da omogućite Microsoft zaštitnik za Microsoft zaštitnik za zaštitu Office 365 Sef Links za e-poštu poslau između osoba **u vašoj organizaciji?**</span><span class="sxs-lookup"><span data-stu-id="7e63c-108">**Did you know that you can enable Microsoft Defender for Microsoft Defender for Office 365 Safe Links protection for email sent between people in your organization**?</span></span> <span data-ttu-id="7e63c-109">Sledite ove korake:</span><span class="sxs-lookup"><span data-stu-id="7e63c-109">Follow these steps:</span></span>
+    1. <span data-ttu-id="7e63c-110">Idite na https://protection.office.com i prijavite se.</span><span class="sxs-lookup"><span data-stu-id="7e63c-110">Go to https://protection.office.com, and sign in.</span></span>
+    2. <span data-ttu-id="7e63c-111">Idite do veze  >  **smernica za**  >  **Sef pretnjama**.</span><span class="sxs-lookup"><span data-stu-id="7e63c-111">Go to **Threat management** > **Policy** > **Safe Links**.</span></span>
+    3. <span data-ttu-id="7e63c-112">U **okviru Smernice koje se primenjuju na određene primaoce** uredite (ili dodajte) smernicu.</span><span class="sxs-lookup"><span data-stu-id="7e63c-112">Under **Policies that apply to specific recipients**, edit (or add) a policy.</span></span>
+    4. <span data-ttu-id="7e63c-113">Izaberite **stavku Primeni bezbedne veze na poruke poslate u okviru organizacije.**</span><span class="sxs-lookup"><span data-stu-id="7e63c-113">Select **Apply safe links to messages sent within the organization**.</span></span>
+    5. <span data-ttu-id="7e63c-114">Sačuvajte smernice i dozvolite do 30 minuta da se promene primene.</span><span class="sxs-lookup"><span data-stu-id="7e63c-114">Save your policy, and allow up to 30 minutes for your changes to apply.</span></span>
+
+- <span data-ttu-id="7e63c-115">Da biste nabavili dodatnu pomoć za Microsoft zaštitnik za Office 365, pogledajte [članak Microsoft zaštitnik za Office 365.](/microsoft-365/security/office-365-security/office-365-atp)</span><span class="sxs-lookup"><span data-stu-id="7e63c-115">To get more help with Microsoft Defender for Office 365, see [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp).</span></span>
