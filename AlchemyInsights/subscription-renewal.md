@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286864"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539982"
 ---
-# <a name="subscription-recurring-billing"></a>Obračunski obračun pretplate
+# <a name="subscription-recurring-billing"></a>Periodična naplata pretplate
 
-Ako želite da znate kada se mesečna ili godišnja pretplata naplaćuju (ako je **periodična naplata** uključena) ili kada istekne (ako je **periodična naplata** isključena), koristite sledeće korake:
+Ako želite da znate kada se naplaćuje mesečna  ili godišnja pretplata (ako je uključena  periodična naplata) ili kada je ona istekla (ako je periodična naplata isključena), koristite sledeće korake:
   
-1. U centru administracije idite na stranicu " **Billing** \> [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** pronađite pretplatu za koju želite da saznate više. Kolona **status pretplate** prikazuje datum isteka ili rok važenja.
-3. Da biste napravili promenu, izaberite **više radnji** (tri tačke), a zatim izaberite stavku **Uredi periodičnu naplatu**.
-4. U oknu **Uređivanje periodičnih naplate** izaberite stavku **na**, **uključeno, obnavljanje jednom**ili **Isključeno**.
-5. Izaberite stavku **Sačuvaj**.
+1. U centru za administaciju idite na **stranicu** \> [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici** Proizvodi pronađite pretplatu o koju želite da saznate više. Kolona **Status pretplate** prikazuje datum obnove ili isteka.
+3. Da biste izmenili ovu opciju, izaberite tri stavke (još radnji), a zatim izaberite **stavku Uredi periodičnu naplatu.**
+4. U **oknu Uređivanje periodične naplate izaberite** stavku On , **On,** **renew once**, or **Off**.
+5. Izaberite **Sačuvaj**.
 
-Da biste saznali više, pogledajte članak [Isključivanje ili uključivanje periodične naplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Da biste saznali više, pogledajte članak [Isključivanje ili uključivanje periodične naplate](/microsoft-365/commerce/subscriptions/renew-your-subscription).

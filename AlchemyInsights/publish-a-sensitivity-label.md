@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233800"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539658"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kako da objavite oznaku osetljivosti
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233800"
 
 1. Ponovite ove korake ako su vam potrebne različite postavke smernica za različite korisnike ili lokacije. Na primer, želite dodatne oznake za grupu korisnika ili drugu podrazumevanu oznaku za podskup korisnika.
 
-1. Ako kreirate više smernica za oznake koje mogu dovesti do neusaglašenosti korisnika ili lokacije, pregledajte redosled smernica i, ako je potrebno, premestite ih na gore ili dole. Da biste promenili redosled smernica za nalepnice, izaberite **stavku ...** **za** Više radnji , a zatim izaberite stavku **Premesti nadole** ili **Premesti nadole.**
+1. Ako kreirate više smernica za oznake koje mogu dovesti do neusaglašenosti korisnika ili lokacije, pregledajte redosled smernica i, ako je potrebno, premestite ih na gore ili dole. Da biste promenili redosled smernica za nalepnice, izaberite tri stavke (više radnji), a zatim izaberite **stavku Premesti nadole** ili **Premesti nadole.**
 
 Dovršavanje čarobnjaka automatski objavljuje smernice za nalepnice.
