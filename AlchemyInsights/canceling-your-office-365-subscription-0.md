@@ -1,5 +1,5 @@
 ---
-title: Otkazujete pretplatu na Microsoft 365?
+title: Otkazuje pretplatu Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416358"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543303"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Otkazujete pretplatu na Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Otkazuje pretplatu Microsoft 365?
 
 Žao nam je što odlazite!
   
-Na osnovu podataka organizacije smatramo da sve trenutne pretplate imaju manje od 25 mandata. Da biste otkazali pretplatu na mreži, idite na stranicu " **naplatu** \> [svojih proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ". Na kartici **proizvodi** pronađite pretplatu koju želite da otkažete, izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Otkaži pretplatu**.
+Na osnovu podataka vaše organizacije, mislimo da sve vaše trenutne pretplate imaju manje od 25 mesta. Da biste otkazali pretplatu na  mreži, idite na stranicu \> [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054) Na **kartici Proizvodi** pronađite pretplatu koju želite da otkažete, izaberite tri stavke (još radnji), a zatim izaberite stavku **Otkaži pretplatu.**
   
-**Povraćaj:** Bilo koji proporcionalni kredit će vam biti vraćen u okviru sledećeg ciklusa naplate.
+**Refundja:** Bilo koji odobreni kredit će vam biti vraćen u sledećem ciklusu naplate.
 
-Da biste saznali više, pogledajte članak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Da biste saznali više, [pogledajte otkazivanje pretplate.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

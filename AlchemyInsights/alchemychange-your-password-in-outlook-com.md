@@ -1,5 +1,5 @@
 ---
-title: Alhemimy – promena lozinke u Outlook.com
+title: Alchemy – Promena lozinke u e-Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 7f7713b53a6758713bc77f3f427fb36a97a2de6e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 717fe6aa486ed0a6fb0014338c13da9e122e2c8a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718887"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542871"
 ---
 # <a name="change-your-password"></a>Promena lozinke
 
-Ako ste zaboravili lozinku Outlook.com, idite na [stranicu poništavanje lozinke Microsoft naloga](https://go.microsoft.com/fwlink/p/?linkid=841909). U suprotnom, slede uputstva ispod.
+Ako ste zaboravili lozinku Outlook.com, idite na stranicu Microsoft naloga za [poništavanje lozinke.](https://go.microsoft.com/fwlink/p/?linkid=841909) U suprotnom, pratite uputstva u nastavku.
   
-1. Izaberite ime ili sliku profila u gornjem desnom uglu i izaberite stavku **moj nalog**. 
+1. Izaberite svoje ime ili sliku profila u gornjem desnom uglu i izaberite **stavku Moj nalog**. 
     
-2. U okviru vaše ime izaberite stavku **još radnji**  >  **Promeni lozinku**. 
+2. Ispod imena izaberite tri stavke (više radnji) i > **lozinku.** 
     
-3. Slijedite korake za potpisivanje i izbor nove lozinke. 
+3. Pratite korake da biste se potpisali i odabrali novu lozinku. 
     
-Da biste saznali više, pogledajte članak [Promena lozinke u Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+Da biste saznali više, pogledajte [promena lozinke na Outlook.com.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)
   
 

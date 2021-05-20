@@ -1,5 +1,5 @@
 ---
-title: Otkazujete pretplatu na Microsoft 365?
+title: Otkazuje pretplatu Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
-ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
+ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50931662"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543267"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Otkazujete pretplatu na Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Otkazuje pretplatu Microsoft 365?
 
-Žao nam je što idete, evo koraka za otkazivanje pretplate:
+Žao nam je što odlazite, evo koraka za otkazivanje pretplate:
 
-1. U centru administracije idite na stranicu " **naplatu**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", a zatim izaberite karticu **proizvodi** .
-2. Pronađite pretplatu koju želite da otkažete. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Otkaži pretplatu**.
-3. U oknu **Otkaži pretplatu** odaberite razlog za otkazivanje. Opcionalno, obezbedite povratne informacije.
-4. Izaberite stavku **Sačuvaj**.
+1. U centru aktivnosti, idite na stranicu Naplata proizvoda, **a**  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** zatim izaberite karticu **Proizvodi.**
+2. Pronađite pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
+3. U **oknu Otkazivanje pretplate** odaberite razlog otkazivanja. Opcionalno, pružite povratne informacije.
+4. Izaberite **Sačuvaj**.
 
-Da biste saznali više o otkazivanju pretplate ili opcijama, pogledajte članak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Da biste saznali više o otkazivanja pretplate ili opcija, pogledajte [otkazivanje pretplate.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Ako želite da nastavite da koristite pretplatu za trajanje probne fakture, možete isključiti periodičnu naplatu pretplate. Da biste saznali kako, pogledajte članak obnova [Microsoft 365 za preduzeća](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Ako želite da nastavite da koristite pretplatu tokom probnog perioda, možete da isključite periodičnu naplatu pretplate. Da biste saznali kako, pogledajte [Microsoft 365 za preduzeća.](/microsoft-365/commerce/subscriptions/renew-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Otkazivanje visio pretplate
+title: Otkazivanje Visio pretplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416389"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543375"
 ---
-# <a name="cancel-visio-subscription"></a>Otkazivanje visio pretplate
+# <a name="cancel-visio-subscription"></a>Otkazivanje Visio pretplate
 
-Administratori mogu da otkažu visio pretplatu za svoju organizaciju u Microsoft 365 centru administracije.
+Pretplatu na Visio za svoju organizaciju mogu da otkažu u Microsoft 365 centru za adminisku organizaciju.
 
-1. Idite na stranicu **Billing** " \> [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** pronađite visio pretplatu koju želite da otkažete. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Otkaži pretplatu**.
-3. U oknu **Otkaži pretplatu** odaberite razlog za otkazivanje. Opcionalno, obezbedite povratne informacije.
-4. Izaberite stavku **Sačuvaj**.
+1. Idite na **stranicu "Naplata** \> [proizvoda".](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici Proizvodi** pronađite Visio pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
+3. U **oknu Otkazivanje pretplate** odaberite razlog otkazivanja. Opcionalno, pružite povratne informacije.
+4. Izaberite **Sačuvaj**.
 
-**Povraćaj:** Bilo koji proporcionalni kredit će vam biti vraćen u okviru sledećeg ciklusa naplate.
+**Refundja:** Bilo koji odobreni kredit će vam biti vraćen u sledećem ciklusu naplate.
 
-Da biste saznali više, pogledajte članak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Da biste saznali više, [pogledajte otkazivanje pretplate.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

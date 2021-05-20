@@ -1,5 +1,5 @@
 ---
-title: Otkaži Power BI
+title: Otkazivanje power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 321ce2fa2d40aafc040a1b3232474b108d0501f4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287188"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543447"
 ---
-# <a name="cancel-power-bi"></a>Otkaži Power BI
+# <a name="cancel-power-bi"></a>Otkazivanje power BI
 
-Power BI se može otkazati u Microsoft 365 centru administracije.
+Power BI možete da otkažete u Microsoft 365 centru za administaciju.
 
-1. U centru administracije idite na stranicu " ** [naplata > proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ** ".
-2. Na kartici **proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Otkaži pretplatu**.
-3. U oknu **Otkaži pretplatu** odaberite razlog za otkazivanje. Opcionalno, obezbedite povratne informacije.
-4. Izaberite stavku **Sačuvaj**.
+1. U centru aktivnosti idite na stranicu Naplata > **[Stranicu Vaši proizvodi.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na **kartici Proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
+3. U **oknu Otkazivanje pretplate** odaberite razlog otkazivanja. Opcionalno, pružite povratne informacije.
+4. Izaberite **Sačuvaj**.
 
-**Povraćaj kredita: bilo koji proporcionalni kredit će vam biti vraćen u okviru sledećeg ciklusa naplate.**
+**Refundnica: Bilo koji proporciran kredit će vam biti vraćen u sledećem ciklusu naplate.**
 
 > [!NOTE]
-> Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U odeljku **Postavke pretplate i plaćanja** izaberite stavku **Otkaži pretplatu**.
+> Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U **odeljku Postavke pretplate i plaćanja izaberite** stavku **Otkaži pretplatu.**
 
-Da biste saznali više, pogledajte članak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Da biste saznali više, [pogledajte otkazivanje pretplate.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

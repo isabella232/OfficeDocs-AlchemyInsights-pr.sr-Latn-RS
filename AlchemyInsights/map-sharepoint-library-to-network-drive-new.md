@@ -1,5 +1,5 @@
 ---
-title: Mapiranje SharePoint biblioteke na mrežnu disk jedinicu
+title: Mapiranje SharePoint biblioteke na mrežnoj disk jedinici
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806197"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542835"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapiranje SharePoint biblioteke na mrežnu disk jedinicu
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapiranje SharePoint biblioteke na mrežnoj disk jedinici
 
-Mapiranje biblioteke kao mrežne disk jedinice je privremeno i podržano je samo pomoću programa Internet Explorer. Povremeno morate da otvorite SharePoint sajt u programu Internet Explorer i izaberite stavku **ostanite prijavljeni** da biste sprečili da se sesija isteči. Umesto toga, [sinhronizujte SharePoint datoteke sa novim OneDrive klijentom za sinhronizaciju](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> koji pruža [datoteke na zahtev](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Pristupite svim datotekama u usluzi OneDrive bez korišćenja lokalnog prostora za skladištenje.
+Umesto mapiranja mrežnog diska, sinhronizuj SharePoint datoteke pomoću novog OneDrive klijenta za sinhronizaciju koji obezbeđuje datoteke na zahtev. Pristupite svim datotekama u OneDrive bez korišćenja lokalnog prostora za skladištenje. Više informacija potražite u SharePoint sinhronizacija SharePoint i [Teams](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) datoteka sa računarom i Ušteda prostora na disku sa uslugom OneDrive Datoteke [na zahtev Windows 10.](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)
 
-Ako odaberete da mapirate disk jedinicu umesto da [Koristite novi OneDrive klijent za sinhronizaciju](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), uverite se da ste sledili korake u članku ispod. 
+Ako odaberete da mapirate disk jedinicu umesto da koristite novi klijent [OneDrive](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)za sinhronizaciju, pratite ove korake:
 
+- [Rešavanje problema samačenim mrežnim disk jedinicama koje se povezuju sa uslugom SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Kako se konfigurišu i rešavaju Mapirani mrežni diskovi**
+- [Greške u potvrdi identiteta se javljaju kada klijent nema TLS 1.2 podršku](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Pogledajte članak [Rešavanje problema sa mapiranim mrežnim diskovima koje se povezuju sa sistemom SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-Napomena: Ako koristite Internet Explorer 10 sa operativnim sistemom Windows 8 ili Windows 7 i primite **Access** , ili **Putanja nije pristupačna kada mapira** disk jedinicu, instalirajte [ovu hitnu ispravku](https://support.microsoft.com/help/2846960) da biste rešili ovaj problem. 
+**NAPOMOGUĆENO:** Ako koristite Internet Explorer 10 sa uslugom Windows 8 ili Windows 7,  a primite  pristup odbijen ili "Putanja" nije dostupna prilikom mapiranja disk jedinice, rešite ovaj problem tako što ćete instalirati ovu hitnu ispravku. [](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)

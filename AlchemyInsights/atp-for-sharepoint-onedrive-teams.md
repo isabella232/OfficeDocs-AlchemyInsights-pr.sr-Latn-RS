@@ -1,5 +1,5 @@
 ---
-title: ATP za SharePoint, OneDrive i Microsoft timove
+title: Microsoft zaštitnik za Office 365 za SharePoint, OneDrive, i Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715575"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543591"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP za SharePoint, OneDrive i Microsoft timove
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft zaštitnik za Office 365 za SharePoint, OneDrive, i Microsoft Teams
 
-Slijedite ove korake da biste omogućili dodatnu zaštitu pretnje:
+Pratite ove korake da biste omogućili program Microsoft zaštitnik Office 365:
 
-1. Idite na stavku [https://protection.office.com](https://protection.office.com) i prijavite se pomoću opšteg administratora ili administratorskog naloga.
+1. Idite na nalog globalnog administratora ili administratora bezbednosti i [https://protection.office.com](https://protection.office.com) prijavite se sa njim.
 
-2. U levom oknu za navigaciju u okviru stavke **Upravljanje pretnjama** **Odaberite stavku** \> **sigurnosni prilozi**.
+2. U levom oknu za navigaciju, **u okviru Upravljanje pretnjama** **odaberite stavku** \> **Smernice Sef Prilozi.**
 
-3. Izaberite stavku **UKLJUČI ATP za SharePoint, OneDrive i Microsoft timove**.
+3. Izaberite **stavku Uključi zaštitnik za Office 365 za SharePoint, OneDrive i Microsoft Teams.**
 
-4. [Kreirajte smernice za obaveštenje o aktivnostima](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) za primanje obaveštenja kada detektujemo zlonamerne datoteke.
+4. [Kreirajte smernice za obaveštenja o](/microsoft-365/compliance/create-activity-alerts) aktivnostima da biste primali obaveštenja kada otkrijemo zlonamerne datoteke.
 
-Za kompletna uputstva pogledajte ovu [temu](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Kompletna uputstva možete da vidite u ovom Sef Uključivanje priloga [za SharePoint, OneDrive i Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Napomena**: ATP ne skenira svaku datoteku u usluzi SharePoint online, OneDrive for Business ili Microsoft timove. Datoteke se inhrono skeniraju pomoću procesa koji koristi znakove za deljenje aktivnosti deljenja, aktivnost gosta i pretnje za identifikovanje zlonamernih datoteka. Više informacija potražite u članku ova [Tema](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Naznaka:** Po dizajnu, Microsoft zaštitnik za Office 365 ne skenira svaku datoteku u uslugama SharePoint Online, OneDrive for Business ili Microsoft Teams. Datoteke skenira proces koji koristi aktivnost deljenja, aktivnost gosta i signale pretnji za identifikovanje zlonamernih datoteka. Dodatne informacije potražite [u Sef Prilozi za SharePoint, OneDrive i Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

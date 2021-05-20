@@ -1,5 +1,5 @@
 ---
-title: 9001220 napredne prilagođene opcije za lov
+title: 9001220 napredno prilagođeno otkrivanje pretrage
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801529"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543015"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Napredne prilagođene opcije za lov
+# <a name="advanced-hunting-custom-detections"></a>Napredno prilagođeno otkrivanje vođenja pretrage
 
-Možete da naučite kako da kreirate i upravljate prilagođenim pravilima za stavke "napredni lovaиki upiti". Sa prilagođenim odbivanjima, možete da nadzirete i odgovarate na razne događaje i sistemske države, uključujući sumnjivu aktivnost krљenja i pogrešno konfigurisane uređaje. To možete da uradite sa prilagodljivim pravilima otkrivanja koja automatski aktiviraju radnje obaveštenja i odziva
+Možete saznati kako da kreirate prilagođena pravila za otkrivanja i upravljate im na osnovu naprednih upita za potragu. Prilagođenim otkrivanjima možete proaktivno da nadgledate razne događaje i stanja sistema, uključujući aktivnost kršenja za koje sumnja da su kršenje i uređaje koji nisu konfigurisani. To možete da uradite sa pravilima za otkrivanje koja automatski pokrećaju upozorenja i radnje odgovora
   
-Ako koristite ATP Microsoft Defender, pogledajte sledeće teme za detalje: 
-- [Pregled prilagođenih kontrola](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Kreiranje prilagođenih pravila otkrivanja](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Prikaz i upravljanje prilagođenim pravilima otkrivanja](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+Ako koristite ATP za Microsoft zaštitnik, pogledajte sledeće teme za detalje: 
+- [Pregled prilagođenih otkrivanja](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Pravljenje prilagođenih pravila za otkrivanje](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Prikaz pravila za prilagođeno otkrivanje i upravljanje](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Ako koristite Microsoft 365 Defender, pogledajte sledeće teme za detalje: 
-- [Pregled prilagođenih kontrola](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Kreiranje pravila za prilagođene propise i upravljanje njima](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Ako koristite Microsoft 365 zaštitnik, pogledajte sledeće teme za detalje: 
+- [Pregled prilagođenih otkrivanja](/microsoft-365/security/mtp/custom-detections-overview)
+- [Pravljenje pravila za prilagođena otkrivanja i upravljanje e-pošti](/microsoft-365/security/mtp/custom-detection-rules)

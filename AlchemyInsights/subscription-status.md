@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286972"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542799"
 ---
 # <a name="subscription-status"></a>Status pretplate
 
-Status pretplate, datum isteka i broj licenci mogu se pronaći na stranici " **proizvodi** " Microsoft 365 centra administracije.
+Status pretplate, datum isteka i broj licenci možete  pronaći na stranici Vaši proizvodi u Microsoft 365 centru za administarciju.
 
-1. U centru administracije idite na stranicu " **Billing**  >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** , podrazumevano možete da vidite sve pretplate i njihov status (aktivno, istekle, onemoguće ili izbrisane). Da biste videli podskup svih pretplata, izaberite ikonu filtera, a zatim izaberite **status pretplate** koji želite da vidite.
-3. Da biste ponovo aktivirali isteklu ili hendikepiranu pretplatu, izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Ponovo aktiviraj ovu pretplatu**.
-4. Stranica " **proizvodi** " takođe prikazuje sledeće informacije:
-    - Broj licenci koje su dodeljene korisnicima prikazuje se u koloni **dodeljene licence** .
-    - Ukupan broj licenci uključenih u pretplatu prikazuje se u koloni " **nabavljena količina** ".
-    - Datum isteka roka ili obnove u koloni **status pretplate** .
-    - Način plaćanja koji se koristi za plaćanje svake pretplate prikazuje se u koloni " **plaćeni sa** ".
-    - Konto naplate povezan sa svakom pretplatom prikazuje se u koloni **Konto naplate** .
-5. Da biste dodali ili uklonili kolone, izaberite stavku **Odaberi kolone**.
+1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici Proizvodi** podrazumevano vidite sve pretplate i njihov status (Aktivan, Isteklo, Onemogućeno ili Izbrisano). Da biste videli podskup svih pretplata, izaberite ikonu filtera, a zatim izaberite **status** pretplate koji želite da vidite.
+3. Da biste ponovo aktivirali pretplatu koja je istekla ili onemogućena, izaberite tri stavke (još radnji), a zatim izaberite stavku Ponovo **aktiviraj ovu pretplatu.**
+4. Stranica **Vaši proizvodi** takođe prikazuje sledeće informacije:
+    - Broj licenci dodeljenih korisnicima prikazuje se u **koloni Dodeljene licence.**
+    - Ukupan broj licenci uključenih u pretplatu prikazuje se u **koloni Kupljena količina.**
+    - Datum isteka ili obnove u **koloni Status pretplate.**
+    - Način plaćanja koji se koristi za plaćanje svake pretplate prikazuje se u **koloni Plaćeno sa.**
+    - Nalog za naplatu povezan sa svakom pretplatom prikazan je u koloni Nalog **za naplatu.**
+5. Da biste dodali ili uklonili kolone, **izaberite stavku Odaberi kolone**.
