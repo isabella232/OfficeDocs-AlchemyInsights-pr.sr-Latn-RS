@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748262"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539730"
 ---
 # <a name="publish-sensitivity-labels"></a>Objavljivanje oznaka osetljivosti
 
-Da biste objavili Oznake poverljivosti, obavite sledeće korake:
+Da biste objavili oznake osetljivosti, izvršite sledeće korake:
 
-1. Odaberite stavku **Office 365 Security & centar za usaglašenost > klasifikacija >**.
-2. Na stranici **oznake poverljivosti** izaberite karticu smernice za **oznake** .
-3. Izaberite stavku **Objavi oznake**.
-4. Izaberite stavku **Odaberite oznake osećajnosti za objavljivanje**. 
-5. Izaberite oznake koje želite da učinite dostupnim u aplikacijama i uslugama, a zatim kliknite na dugme **Dodaj**.
+1. Odaberite **Office 365 za & za usaglašenost > oznake > osetljivosti.**
+2. Na stranici **Oznake osetljivosti izaberite** karticu **Smernice za oznake.**
+3. Izaberite **stavku Objavi nalepnice.**
+4. Izaberite **stavku Odaberite oznake osetljivosti da biste objavili**. 
+5. Izaberite nalepnice koje želite da učinite dostupnim u aplikacijama i uslugama, a zatim kliknite na dugme **Dodaj**.
 > [!IMPORTANT]
-> Ako izaberete sublabel, uverite se da ste izabrali i njenu nadređenu nalepnicu.
-6. Pregledajte izabrane nalepnice. Da biste izvršili promene, kliknite na dugme **Uredi**; u suprotnom kliknite na dugme **dalje**.
-7. Izvršite odzive da biste konfigurisali postavke smernica.
-8. Ponovite ove korake ako su vam potrebne razne postavke smernica za druge korisnike ili lokacije. Na primer, želite dodatne nalepnice za grupu korisnika ili novu podrazumevanu oznaku za podskup korisnika.
-9. Ako kreirate više smernica za nalepnice koje mogu uzrokovati neusaglašenost korisnika ili lokacije, pregledajte redosled smernica i ako je potrebno, premestite ih nagore ili nadole. Da biste promenili redosled smernica za nalepnice, izaberite **...** za **više radnji**, a zatim izaberite stavku **Premesti nagore** ili **Premesti nadole**.
+> Ako izaberete podređenu oznaku, uverite se da ste izabrali i njenu nadređenu oznaku.
+6. Pregledajte izabrane nalepnice. Da biste promenili nešto, izaberite stavku **Uredi**; u suprotnom, kliknite **na dugme Dalje**.
+7. Pratite uputstva da biste konfigurisali postavke smernica.
+8. Ponovite ove korake ako su vam potrebne različite postavke smernica za različite korisnike ili lokacije. Na primer, želite dodatne oznake za grupu korisnika ili drugu podrazumevanu oznaku za podskup korisnika.
+9. Ako kreirate više smernica za oznake koje mogu dovesti do neusaglašenosti korisnika ili lokacije, pregledajte redosled smernica i, ako je potrebno, premestite ih na gore ili dole. Da biste promenili redosled smernica za nalepnice, izaberite tri stavke (više radnji), a zatim izaberite **stavku Premesti nadole** ili **Premesti nadole.**
 
 Dovršavanje čarobnjaka automatski objavljuje smernice za nalepnice.
 
