@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747025"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569761"
 ---
 # <a name="create-user"></a>Kreiranje korisnika
 
-**ЉTEN**
+**OBJAVA:**
 
-- [Ukidanje podrške za prijavljivanje na WebView iz Google 2021-a počevši od 4](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . Testiranje da li utiču na aplikacije tako što ćete pratiti [Google Google](https://go.microsoft.com/fwlink/?linkid=2157323) da bi testirao kompatibilnost.
-- Uverite se da koristite sistemski Veb prikaz ili pregledač sistema kada prijavljivanjem korisnicima koristite Google Google naloge. Više informacija potražite u članku [problemi sa prijavljivanjem u aplikacije pomoću samo pregledača](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- [Ukidanje podrške za prijavljivanje na WebView iz usluge Google od 4. januara 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testirajte da li aplikacija može da utiče tako što ćete pratiti [uputstva](https://go.microsoft.com/fwlink/?linkid=2157323) google za testiranje kompatibilnosti.
+- Uverite se da koristite veb pregled sistema ili pregledač sistema kada se prijavljujte korisnicima sa korisničkim Google nalozima. Više informacija potražite u [temi Problemi sa prijavljivanjem u aplikacije samo pomoću pregledača Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
-**Ne mogu da kreiram novog korisnika u Azure katalogu oglasa**
+**Ne mogu da kreiram novog korisnika u Azure AD direktorijumu**
 
-1. Uverite se da ste ovlašćeni da kreirate novi standardni korisnik. Samo uloga globalnog administratora ili administratora u usluzi Azure Active Directory (AD) može da kreira novi standardni korisnik. Ako niste na jednoj od ovih uloga, zamolite administratora da vas doda na jednu od ovih uloga ili da kreira novi korisnički nalog.
-1. Uverite se da je korisničko ime u domenu koji je verifikovan u Azure AD. Ako nemate nijedna verifikovana prilagođena imena domena u Azure AD, možete da koristite Azure AD AD početno domen koji se završava *. onmicrosoft.com.
-1. Uverite se da je korisničko ime u domenu koje nije vezano za Azure AD iz lokalnog oglasa. Korisnici ne mogu da se dodaju u oblaku sa imenima domena koje su u lokalnoj organizaciji.
-1. Uverite se da nijedan drugi korisnik ili kontakt već nema korisničko ime koje želite da dodelite novom korisniku. Korisnička imena moraju biti jedinstvena u okviru Azure AD.
-1. Pogledajte [AZURE AD uloge i administratore](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) za Azure oglas.
-1. Pogledajte [imena domena](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) za AZURE oglas.
-1. Pregledajte [evidenciju nadzora](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) da biste videli detaljnije informacije o nedavno kreiranom ili izbrisanom korisniku kao ko je izvršio radnju i kada.
-1. Više informacija o dodavanju novih korisnika potražite u članku [Korišćenje Azure portala za kreiranje novog korisnika u AZURE AD](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [AZURE AD administrativne uloge](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): dozvole za administratorske uloge u usluzi Azure Active Directory
-1. Možete da [koristite Azure AD PowerShell da biste kreirali novi korisnik](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).
+1. Uverite se da ste ovlašćeni za kreiranje novog standardnog korisnika. Samo uloga globalnog administratora ili administratora Azure Active Directory (AD) može da kreira novog standardnog korisnika. Ako niste u jednoj od ovih uloga, zatražite od administratora da vas doda u jednu od ovih uloga ili da vam kreira novi korisnički nalog.
+1. Uverite se da se korisničko ime nalazi u domenu koji je verifikovan u vašoj Azure AD. Ako nemate verifikovana prilagođena imena domena u Azure AD, možete da koristite početni domen Azure AD koji se završava sa *.onmicrosoft.com.
+1. Uverite se da se korisničko ime nalazi u domenu koji nije federan za Azure AD iz vaše bele AD mreže. Korisnici ne mogu da se dodaju u oblak sa imenima domena koja su sačinjena iz izvora iz izvora.
+1. Uverite se da nijedan drugi korisnik ili kontakt već nema korisničko ime koje želite da dodelite novom korisniku. Korisnička imena moraju biti jedinstvena u Azure AD- u.
+1. Pogledajte [Azure AD uloge i administratore](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) za Azure AD.
+1. Pogledajte imena [domena](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) za Azure AD.
+1. Pregledajte [evidenciju nadzora](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) da biste videli detaljnije informacije o nedavno kreiranom ili izbrisanom korisniku kao što su ko je izvršio radnju i kada.
+1. Više informacija o dodavanju novih korisnika potražite u temi Korišćenje Azure portala za kreiranje novog korisnika [u Azure AD- u](/azure/active-directory/active-directory-users-create-azure-portal).
+1. [Azure AD administrativne uloge:](/azure/active-directory/active-directory-assign-admin-roles)Administratorske dozvole za uloge u Azure Active Directory
+1. Možete da [koristite i Azure AD PowerShell da biste kreirali novog korisnika.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
