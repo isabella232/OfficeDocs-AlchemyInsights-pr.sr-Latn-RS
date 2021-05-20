@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 464efadcfa0a80efecad107199e669dbadfbae39
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261780"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544808"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – audio konferencija
 
-Potrebna vam je pomoć oko uključivanja ili podešavanja [audio konferencije za Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Da li je korisnik nedavno kreiran? Ako je tako, biće potrebno nekoliko časova da bi postavke stupile na snagu.
+Potrebna vam je pomoć oko uključivanja ili podešavanja [audio konferencije za Microsoft Teams?](/microsoftteams/set-up-audio-conferencing-in-teams)  Da li je korisnik nedavno kreiran? Ako je tako, biće potrebno nekoliko časova da bi postavke stupile na snagu.
 
-Ako [su licence kupljene](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), proverite da li je korisnik licenciran za Microsoft 365 audio konferenciju i da ima podrazumevani broj za naplatu.
+Ako [su licence kupljene](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), proverite da li je korisnik licenciran za Microsoft 365 audio konferenciju i da ima podrazumevani broj za naplatu.
 
 1. Izaberite stavku [Aktivni korisnici](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) i izaberite korisnika koji je u pitanju.
 
 2. U zavisnosti od verzije centra administracije, odaberite stavku **Licence i aplikacije** ili kliknite na dugme **Uredi** u okviru **Licence proizvoda**.
 
-3. Potvrdite da korisnik ima izabrane **licence za Microsoft 365 Audio konferenciju, Microsoft Teams** i **Skype za posao Online (Plan 2).** Ako **licenca Microsoft 365 audio konferencija** nema, prvo ćete morati da kupite [dodatak u licence.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. Potvrdite da korisnik ima izabrane **licence za Microsoft 365 Audio konferenciju, Microsoft Teams** i **Skype za posao Online (Plan 2).** Ako **licenca Microsoft 365 audio konferencija** nema, prvo ćete morati da kupite [dodatak u licence.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. U okviru korisničkog **Centra administracije** kliknite na dugme **Prikaži sve**, a zatim **Teams**.
 
@@ -40,4 +40,4 @@ Ako [su licence kupljene](https://docs.microsoft.com/microsoftteams/set-up-audio
 
 7. Izaberite korisnika koji je u pitanju i proverite da li on ima **podrazumevani broj sa naplatom**.
 
-Ako vam je potrebna dodatna pomoć za kupovinu licenci za **Microsoft audio konferenciju,** pozovite [Podršku za Microsoft naplatu.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)
+Ako vam je potrebna dodatna pomoć za kupovinu licenci za **Microsoft audio konferenciju,** obratite se [Microsoft podršci za naplatu.](https://go.microsoft.com/fwlink/p/?linkid=518322)

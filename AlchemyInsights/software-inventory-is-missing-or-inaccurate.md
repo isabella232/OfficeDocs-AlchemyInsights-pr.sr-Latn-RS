@@ -1,5 +1,5 @@
 ---
-title: Zaliha softvera nedostaje ili nije tačna
+title: Zalihe softvera nedostaju ili su netačni
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665300"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543978"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Zaliha softvera nedostaje ili nije tačna
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Zalihe softvera nedostaju ili su netačni
 
-Sadržaj softvera u ATP usluzi Microsoft zaštitnik pruža ime proizvoda ili dobavljača, najnoviji broj verzije i otkrivene slabosti i ranjivosti. Dodatne informacije potražite u članku Upravljanje informacijama o korišćenju [pretnje i ranjivost](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Zalihe softvera u ATP za Microsoft zaštitnik pruža ime ili prodavca proizvoda, broj najnovije verzije i otkrivene slabosti i ranjivosti. Više informacija potražite u članku [Zalihe softvera – Upravljanje pretnjama i ranjivim mestima.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
-Možete da prijavite nejasne ili nepotpune informacije, netačne brojeve verzija ili informacije o inventaraciji softvera tako što ćete pratiti ove korake.  
+Tako što ćete pratiti ove korake, možete prijaviti nejasne ili nepotpune informacije, netačne brojeve verzija ili remeditovane informacije o zalihama softvera.  
 
-1. Otvorite karticu softver i izaberite aplikaciju na stranici inventar softvera.
-2. Izaberite stavku **Prijava netačnost**i iz okna za otpuštanje izaberite kategoriju iz padajućeg menija.
-3. Popunite e-adresu i detalje o netačnosti.
-4. Izaberite stavku **Prosledi**.</br>
-    Vaše povratne informacije se odmah šalju u pretnju & ekspertima za upravljanje ranjivosti.
+1. Otvorite iskačeći prozor softvera i izaberite aplikaciju na stranici Zalihe softvera.
+2. Izaberite **stavku Izveštaj o netačnosti**, a zatim u oknu izaberite kategoriju iz padajućeg menija.
+3. Popunite adresu e-pošte i detalje netačnosti.
+4. Izaberite **stavku Prosledi**.</br>
+    Vaše povratne informacije se odmah šalju Stručnjacima & za upravljanje ranjivošću.

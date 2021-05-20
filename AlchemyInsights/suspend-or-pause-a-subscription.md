@@ -1,5 +1,5 @@
 ---
-title: Suspenduje ili pauzira pretplatu
+title: Obustavljanje ili pauziranje pretplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469100"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544520"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>Suspenduje ili pauzira pretplatu
+# <a name="suspend-or-pause-a-subscription"></a>Obustavljanje ili pauziranje pretplate
 
-Da biste privremeno suspendovali ili pauzirali pretplatu, možete otkazati pretplatu u Microsoft 365 centru administracije.
+Da biste privremeno obustavili ili pauzovali pretplatu, možete da otkažete pretplatu u Microsoft 365 centru za administaciju.
 
-1. U centru administracije idite na stranicu "   >  **[naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
-2. Na kartici **proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Otkaži pretplatu**.
-3. Status pretplate se prikazuje kao **Onemogući** i prikazuje datum otkazivanja pretplate. Pretplata ostaje u onemogućenom stanju za 90 dana i smanjila je funkcionalnost dok se ne izbriše ili [ponovo aktivira](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+1. U centru za administaciju idite na **stranicu**  >  **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na **kartici Proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
+3. Status pretplate se prikazuje  kao Onemogućeno i prikazuje datum kada je pretplata otkazana. Pretplata ostaje u onemogućenom stanju 90 dana i smanjena funkcionalnost dok se ne izbriše ili [ponovo aktivira.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Više informacija potražite u članku [Šta se dešava kada otkažete pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) i [sačuvate podatke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Više informacija potražite u članku [Šta se dešava kada otkažete pretplatu i](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Sačuvate podatke.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

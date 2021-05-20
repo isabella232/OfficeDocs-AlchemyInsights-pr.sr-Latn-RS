@@ -1,5 +1,5 @@
 ---
-title: Istekla pretplata
+title: Pretplata je istekla
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "456"
 - "1500020"
-ms.openlocfilehash: 39ac3c49e6d065cef3d40f7dffeaa66027045b62
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416159"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544196"
 ---
-# <a name="expired-subscription"></a>Istekla pretplata
+# <a name="expired-subscription"></a>Pretplata je istekla
 
-Izgleda da imate neke istekle pretplate. Ako želite da nastavite sa uslugama, morate ponovo da aktivirate pretplatu ili da napravite novu kupovinu.
+Izgleda da imate jednu ili više pretplata koje su istekle. Ako želite da nastavite uslugu, morate ponovo da aktivirate pretplatu ili da kupite novu.
   
 **Ponovo aktiviraj**
   
-1. U centru administracije idite na stranicu " **Billing** \> [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** pronađite pretplatu koju želite ponovo da aktivirate. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Ponovo aktiviraj ovu pretplatu**.
+1. U centru za administaciju idite na **stranicu** \> [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici** Proizvodi pronađite pretplatu koju želite ponovo da aktivirate. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Ponovo aktiviraj ovu pretplatu.**
     > [!NOTE]
-    > Ako ne vidite **ponovo aktivirajte ovu pretplatu**, pozovite podršku.
-3. U oknu **ponovo aktivirajte ovu pretplatu** izaberite način plaćanja sa padajuće liste ili izaberite stavku **Dodaj metodu plaćanja**.
-4. Izaberite stavku **Sačuvaj**.
+    > Ako ne vidite tekst Ponovo **aktiviraj ovu pretplatu, pozovite** podršku.
+3. U **oknu Ponovo aktiviraj ovu pretplatu** izaberite način plaćanja sa padajuće liste ili izaberite stavku **Dodaj način plaćanja.**
+4. Izaberite **Sačuvaj**.
 
-Da biste saznali više, pogledajte članak [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Da biste saznali više, pogledajte članak [Ponovno aktiviranje pretplate](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-**Pravljenje nove kupovine**
+**Unošenje nove kupovine**
   
-1. U centru administracije idite na **Billing** \> stranicu [usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate.
-2. Odaberite pretplatu koju želite da kupite, a zatim odaberite stavku **kupi**.
-3. Unesite broj licenci koje su vam potrebne i odaberite da li želite da plaćate svakog meseca ili za celu godinu. Odaberite da li želite da automatski dodeljujete licence svima koji nemaju licencu. Zatim odaberite stavku **odmah odjavljivanje**.
-4. Pratite preostale korake da biste dovršili odjavljivanje.
+1. U centru za administaciju idite na **stranicu** \> [Kupovina usluga naplate.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. Odaberite pretplatu koju želite da kupite, a zatim odaberite stavku **Kupi .**
+3. Unesite broj licenci koji vam je potreban i odaberite da li želite da plaćate svakog meseca ili za celu godinu. Odaberite da li želite da automatski dodelite licence svim osobama koje trenutno ne imaju licence. Zatim **odaberite stavku Odjavi se odmah**.
+4. Pratite preostale korake da biste dovršili odjavu.
 
-Da biste saznali više, pogledajte članak [kupovina druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+Da biste saznali više, [pogledajte kupovinu druge pretplate.](/microsoft-365/commerce/buy-another-subscription)

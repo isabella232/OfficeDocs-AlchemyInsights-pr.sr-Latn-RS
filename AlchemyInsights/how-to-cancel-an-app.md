@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 2006de9e9789dd080a45fa4962109690eb41d923
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488859"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544628"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Kako da otkažete aplikacije softverskih aplikacija
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Otkazivanje aplikacija software-as-a-service
 
-1. U centru administracije, na stranici **naplate**  >  [Vaše proizvode](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na stranici **proizvodi** , pomerajte se nadole do odeljka **aplikacije** i pronađite pretplatu koju želite da otkažete. 
-3. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **Otkaži pretplatu**.
-4. U oknu **Otkaži pretplatu** odaberite razlog za otkazivanje. Opcionalno, obezbedite povratne informacije.
-5. Izaberite stavku **Sačuvaj**.
+1. U centru aktivnosti, na stranici  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na stranici **Proizvodi** pomerite se nadole **do odeljka Aplikacije** i pronađite pretplatu koju želite da otkažete. 
+3. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
+4. U **oknu Otkazivanje pretplate** odaberite razlog otkazivanja. Opcionalno, pružite povratne informacije.
+5. Izaberite **Sačuvaj**.

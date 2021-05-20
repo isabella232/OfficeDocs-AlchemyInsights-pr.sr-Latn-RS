@@ -1,5 +1,5 @@
 ---
-title: Kako da kupite licence za Microsoft 365 aplikacije za aplikaciju za preduzeća
+title: Kupovina licenci za Microsoft 365 aplikacije za posao pretplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232345"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545354"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kako da kupite licence za Microsoft 365 aplikacije za aplikaciju za preduzeća
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kupovina licenci za Microsoft 365 aplikacije za posao pretplatu
 
 Prilikom dodeljivanja licenci korisnicima, možda ćete morati da kupite dodatne licence.
 
-**Pogledajte video** koji prikazuje kako se to radi: [kupovina novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**POGLEDAJTE video koji** pokazuje kako da to uradite: [Kupovina novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-1. U centru administracije idite na stranicu "   >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** pronađite pretplatu koju želite da ažurirate. Izaberite stavku **još radnji** (tri tačke), a zatim izaberite stavku **kupi licence**.
-3. U oknu " **kupovina licenci** ", u okviru **Nova količina** u polju **Ukupna licence** Unesite ukupan broj licenci koje želite za ovu pretplatu. Na primer, ako imate 100 licence i želite da dodate još 25, unesite 125.
-4. Izaberite stavku **Sačuvaj**.
+1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici** Proizvodi pronađite pretplatu koju želite da ažurirate. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Kupi licence**.
+3. U **oknu Kupovina** licenci, u  okviru Nova **količina** u polje Ukupan broj licenci unesite ukupan broj licenci koje želite za ovu pretplatu. Na primer, ako imate 100 licenci i želite da dodate još 25, unesite 125.
+4. Izaberite **Sačuvaj**.
 
-Da biste saznali više, pogledajte članak [kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Da biste saznali više, pogledajte [kupovinu ili uklanjanje licenci.](/microsoft-365/commerce/licenses/buy-licenses)

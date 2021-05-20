@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa programom Microsoft Defender za Office 365 (ATP)
+title: Rešavanje problema sa programom Microsoft zaštitnik za Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801421"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544772"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Rešavanje problema sa sistemom Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Rešavanje problema sa programom Microsoft zaštitnik za Office 365
 
-- **Primetite kašnjenje sa isporukom e-poruke** ? Pokušajte da koristite opciju dinamičko isporučivanje za ATP smernice bezbednih priloga. To će izbeći da dolazi do kašnjenja e-poruke prilikom zaštite primalaca iz zlonamernog datoteka.
-- Da li **želite da prijavite lažne pozitivne ili lažne** negativne? Koristite ovu povezanost da biste prosledili datoteku za analizu: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- Da **li ste znali da možete da omogućite ATP vezu bezbedne veze za e-poštu koje šalju osobe u organizaciji** ? Sledite ove korake:
-    1. Idite na i https://protection.office.com Prijavite se.
-    2. Smernice za **Upravljanje pretnjama**  >  **Policy**  >  **potražite bezbednim vezama** .
-    3. U okviru **smernice koje se primenjuju na određene primaoce** , uredite (ili dodajte) smernice.
-    4. Izaberite stavku **primenite bezbedne veze ka porukama poslatih unutar organizacije** .
-    5. Sačuvajte smernice i omogućite oko 30 minuta da promene prolaze kroz vaš put.
-- Da biste dobili veću pomoć za ATP, pogledajte članak [Microsoft zaštitnik za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- **Obaveštenje o kašnjenju isporuke e-poruke?** Probajte da koristite opciju Dinamička isporuka za Microsoft zaštitnik za Office 365 Sef smernice za priloge. To će izbegli kašnjenje isporuke e-poruke dok štitite primaoce od zlonamernih datoteka.
+- **Da li želite da prijavite pozitivne ili netačne negativne vrednosti?** Koristite [Istraživač prosleđivanja](https://protection.office.com/reportsubmission).
+- Da li ste znali da možete da omogućite Microsoft zaštitnik za Microsoft zaštitnik za zaštitu Office 365 Sef Links za e-poštu poslau između osoba **u vašoj organizaciji?** Sledite ove korake:
+    1. Idite na https://protection.office.com i prijavite se.
+    2. Idite do veze  >  **smernica za**  >  **Sef pretnjama**.
+    3. U **okviru Smernice koje se primenjuju na određene primaoce** uredite (ili dodajte) smernicu.
+    4. Izaberite **stavku Primeni bezbedne veze na poruke poslate u okviru organizacije.**
+    5. Sačuvajte smernice i dozvolite do 30 minuta da se promene primene.
+
+- Da biste nabavili dodatnu pomoć za Microsoft zaštitnik za Office 365, pogledajte [članak Microsoft zaštitnik za Office 365.](/microsoft-365/security/office-365-security/office-365-atp)
