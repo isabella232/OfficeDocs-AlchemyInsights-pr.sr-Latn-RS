@@ -1,5 +1,5 @@
 ---
-title: Kreiranje oznake poverljivosti
+title: Kreiranje oznake osetljivosti
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747883"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543771"
 ---
-# <a name="create-a-sensitivity-label"></a>Kreiranje oznake poverljivosti
+# <a name="create-a-sensitivity-label"></a>Kreiranje oznake osetljivosti
 
-Da biste kreirali oznaku poverljivosti, obavite sledeće korake:
+Da biste kreirali oznaku osetljivosti, izvršite sledeće korake:
 
-1. Idite na **[Office 365 Security & centar za usaglašenost](https://sip.protection.office.com/) > klasifikaciju >**.
-2. Kliknite na dugme izaberite stavku **Kreiraj oznaku** da biste pokrenuli novi čarobnjak za **etiketu senzitivnosti** . Više informacija o postavkama šifrovanja i automatskom označavanja potražite u članku [ograničavanje pristupa sadržaju pomoću šifrovanja u oznakama osećajnosti](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) i [Automatsko primenu oznake poverljivosti na sadržaj](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
-3. Ponovite ove korake da biste kreirali još nalepnica. Međutim, ako želite da kreirate sublabel, prvo Izaberite nadređeni oznaku, kliknite na **...** za **više radnji**, a zatim kliknite na dugme **Dodaj sub**.
-4. Kada kreirate sve nalepnice koje su vam potrebne, pregledajte ih i ako je potrebno, premestite ih nagore ili nadole. Da biste promenili redosled nalepnice, kliknite na **...** za **više radnji**, a zatim kliknite na dugme **Premesti nagore** ili **Premesti nadole**. 
+1. Idite u Office 365 centra za **[& usaglašenost](https://sip.protection.office.com/) > za klasifikaciju > osetljivosti.**
+2. Kliknite **na dugme + Kreiraj nalepnicu** da biste pokrenuli čarobnjak za **oznake Nova osetljivost.** Više informacija o postavkama šifrovanja i [](/microsoft-365/compliance/encryption-sensitivity-labels) automatskom označavanju potražite u temi Ograničavanje pristupa sadržaju pomoću šifrovanja u oznakama osetljivosti i Primena oznake osetljivosti na sadržaj [automatski,](/microsoft-365/compliance/apply-sensitivity-label-automatically)tim.
+3. Ponovite ove korake da biste kreirali još oznaka. Međutim, ako želite da kreirate podređenu oznaku, prvo izaberite nadređenu oznaku, izaberite tri stavke (više radnji), a zatim izaberite stavku Dodaj **podznaku**.
+4. Kada napravite sve neophodne nalepnice, pregledajte njihovu porudžbinu, a ako je potrebno, premestite ih na gore ili dole. Da biste promenili redosled oznake, izaberite tri stavke (još radnji), a zatim izaberite stavku **Premesti nadole ili** **Premesti nadole.** 
