@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821128"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626091"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Dodela
 
 Da biste dodelili nov broj telefona u audio konferenciju za mostove:
 
-1. Prijavite se u Office 365 pomoću vašeg poslovnog naloga.
-2. Idite u **Microsoft 365 centar administracije > Centri administracije > Teams & Skype > Zastareli portal > Glas > Brojevi telefona**.
-3. Izaberite broj telefona sa liste i u oknu **Radnje** kliknite na stavku **Dodela**.
-4. Na stranici **Dodela** kliknite na stavku **Sačuvaj**.
+1. Idite u Microsoft Teams za administaciju.
+1. U levom oknu za navigaciju idite na **Sastanci**  >  **konferencijski mostovi**.
+1. Istaknite broj naplatne vrednosti koju želite da konfigurišete kao podrazumevani.
+1. Izaberite stavku **Postavi kao podrazumevanu vrednost**.
 
-Za više informacija pogledajte članak [Promena brojeva telefona na mostu audio konferencije](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Za više informacija pogledajte članak [Promena brojeva telefona na mostu audio konferencije](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
