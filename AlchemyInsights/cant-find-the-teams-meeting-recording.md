@@ -1,5 +1,5 @@
 ---
-title: Ne možete da pronađete snimanje sastanka timova
+title: Ne možete da pronađete snimak Teams sastanka
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294255"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696950"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Ne možete da pronađete snimanje sastanka timova
+# <a name="cant-find-the-teams-meeting-recording"></a>Ne možete da pronađete snimak Teams sastanka
 
-Ako ne možete da pronađete snimanje sastanka timova ili pronađete, pogledajte sledeću dokumentaciju za rešavanje problema:
+Ako ne možete da pronađete ni pronađete snimak Teams **sastanka,** najpre pokrenite dijagnostiku snimanja sastanka koji nedostaje tako što ćete u polje iznad postaviti dijagnostiku koja nedostaje. 
 
-[Rešavanje problema sa snimanjem snimanja timova – Microsoft timovi | Microsoft docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Snimci se mogu naći u uslugama Stream, OneDrive ili SharePoint u zavisnosti od toga kako je konfigurisan zakuca i da li je snimak bio za sastanak kanala. Uputstva o tome kako da ručno pronađete snimak sastanka možete da pronađete u: 
 
-Snimanje sastanka će se nalaziti u programu Stream, OneDrive ili SharePoint u zavisnosti od toga kako je vaš stanar konfigurisan.
+[2. problem: Veza za snimanje sastanka nije vidljiva u prozoru za ćaskanje](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Uputstva o tome kako da pronađete snimak sastanka potražite u članku:
-
-**[Problem 2: povezivanje snimanja sastanka nije vidljivo u prozoru za ćaskanje](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Više informacija potražite u [temi Problemi sa snimcima sastanaka.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)

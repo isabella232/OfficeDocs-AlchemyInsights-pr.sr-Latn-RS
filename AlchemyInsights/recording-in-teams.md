@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809777"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697044"
 ---
 # <a name="recording-in-teams"></a>Snimanje u usluzi Teams
 
-Snimci sastanaka u usluzi Microsoft Teams od sada se mogu skladištiti u uslugama OneDrive ili SharePoint. Za više informacija i prijavu pogledajte sledeću objavu Centra za poruke: [(Ažurirano) Microsoft Teams: snimci sa sastanaka sačuvani u uslugama OneDrive i SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Ako je dugme  Započni snimanje korisnika zasivljeno ili nedostaje na Teams sastanku, pokušajte da pokrenete dijagnostiku snimanja sastanka tako što će u polje iznad ukucati Dijag: Snimanje **sastanka.** 
 
-Ako lokaciju skladišta premestite na OneDrive ili SharePoint, uklonićete prethodni zahtev da Stream bude dostupan u vašem regionu.
+Microsoft Teams snimci sastanka sada mogu da se skladište u OneDrive Sharepoint. Premeštanje lokacije skladišta OneDrive i SharePoint rešava problem gde snimci sastanaka nisu radili zato što striming nije dostupan u vašem regionu. Dodatne informacije potražite u članku [Microsoft Stream najčešća pitanja.](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
-Da biste saznali kako da **omogućite i konfigurišete funkciju snimanja** u usluzi Teams za vašu organizaciju, **uključujući i kontrole za omogućavanje ili onemogućavanje snimanja sastanaka za određene korisnike**, pregledajte [snimanje Teams sastanaka u oblaku](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Za više informacija o čuvanju snimaka sastanaka pogledajte objavu u centru za poruke: [(Ažurirano) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)snimci sastanaka sačuvani u uslugama OneDrive i SharePoint .
 
-Ako **ne možete da snimate u usluzi Teams ili vam treba pomoć pri tome**, pročitajte neki od sledećih članaka:
+Da biste saznali kako da omogućite i konfigurišete funkciju snimanja u programu Teams za organizaciju, uključujući kontrole za omogućavanje ili onemogućavanje snimanja sastanaka za određene korisnike, pogledajte [Teams](/microsoftteams/cloud-recording)snimanje sastanaka u oblaku. 
 
-- Ako se još niste prijavili za OneDrive ili SharePoint skladište za snimanje Teams sastanaka, ove mogućnosti se oslanjaju na dostupnost usluge Stream prema regionu i zemlji. Ako ne možete da snimite sastanak, proverite da li je [Stream dostupan u vašoj zemlji ili vašem regionu](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Za više informacija pregledajte sledeću objavu u Centru za poruke na portalu za administraciju: [Ažurirana funkcija: Microsoft Stream regionalna kontrola skladišta snimaka u oblaku](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Ako i dalje ne možete da snimate u Teams ili treba da razumete kako da snimate u Teams, pogledajte: 
 
-- Snimanje sastanaka u usluzi Teams [zahteva dodelu određenih licenci i smernica](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), uključujući Stream licence za otpremanje ili preuzimanje snimaka sa sastanaka u Microsoft Stream.
+[Ažurirana funkcija: Regionalna kontrola skladišta u oblaku za Microsoft Stream snimke u oblaku](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Kada potvrdite da su svi uslovi ispunjeni, uključujući licenciranje, smernice i regionalnu dostupnost usluge Stream, pregledajte članak [Snimanje sastanaka u usluzi Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Snimanje sastanka u programu Teams zahteva određene licence i smernice, uključujući Stream licence za otpremanje ili preuzimanje snimaka sastanaka u Microsoft Stream. Za detalje pogledajte [preduslove za Teams snimanja sastanaka u oblaku.](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+Kada potvrdite da su svi zahtevi ispunjeni, uključujući licenciranje, smernice i regionalnu dostupnost usluge Stream, pregledajte pregled sastanka u [programu Teams.](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) 

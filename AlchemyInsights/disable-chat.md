@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573760"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696900"
 ---
 # <a name="disable-chat"></a>Onemogući ćaskanje
 
@@ -26,7 +26,7 @@ Da biste omogućili ili onemogućili ćaskanje za organizaciju, možete da kreir
 
 - **Sastanak:** U Teams centra za administance idite na Smernice za sastanke [–](https://admin.teams.microsoft.com/) postavka za ćaskanje je Dozvoli **ćaskanje na sastancima**. Više informacija o kreiranju prilagođenih smernica za sastanke potražite u temama Upravljanje smernicama za sastanke u [programu Teams](/microsoftteams/meeting-policies-in-teams) i Dozvoli [ćaskanje na sastancima.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **M*suvišne** poruke: U Teams centru za administaciju idite na Smernice za razmenu poruka [i](https://admin.teams.microsoft.com/)preklopnik **Ćaskanje je** isključeno ili **Isključeno.** Dodatne informacije o prilagođenim smernicama za razmenu poruka i o tome kako da dodelite smernice korisnicima potražite u temi Upravljanje smernicama za razmenu [poruka u Teams.](/microsoftteams/messaging-policies-in-teams)
+- **Razmena poruka:** U Teams centru za administaciju idite na Smernice za razmenu poruka [i](https://admin.teams.microsoft.com/)preklopnik **Ćaskanje je isključeno** ili **Isključeno.** Dodatne informacije o prilagođenim smernicama za razmenu poruka i o tome kako da dodelite smernice korisnicima potražite u temi Upravljanje smernicama za razmenu [poruka u Teams.](/microsoftteams/messaging-policies-in-teams)
 
 - **Studenti:** Da biste onemogućili ćaskanje za studenta, pogledajte opcije za omogućavanje ćaskanja na sastancima i omogućavanje 1:1 ćaskanja u Teams smernicama i paketima smernica za [obrazovanje.](/microsoftteams/policy-packages-edu)
 

@@ -1,5 +1,5 @@
 ---
-title: 1:1 snimanje poziva
+title: 1:1 snimak poziva
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733863"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696972"
 ---
-# <a name="11-call-recording"></a>1:1 snimanje poziva
+# <a name="11-call-recording"></a>1:1 snimak poziva
 
-Administratori sada treba da preduzmu korake da bi nastavili da omogućavaju korisnicima da snimaju 1:1 pozive.
- 
-Počevši od 2012, 2021, počinjemo da sprovodimo nove timove koji pozivaju *na opciju* 
+Ako je **dugme Započni** snimanje zasivo u pozivu 1:1, morate da promenite postavke smernica za korisnika na koje ovo utiče.   
 
-Trenutno 1:1 mogućnosti snimanja poziva kontroliše se opcija *Allowda Drekording* u smernicama timova za sastanak. Ako je korisnicima dozvoljeno da snimaju sastanke tima, takođe mogu da snime 1:1 pozive.
+Počejući od 31. maja 2021. počećemo da nalažemo nove smernice za Teams smernica za pozivanje *AllowCloudRecordingForCalls.* Pre ove promene, snimanje poziva 1:1 kontroliše *AllowCloudRecording* Teams za sastanke. Ova promena je dokumentovana u objavi centra za poruke: [(Ažurirano) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)Uvod u smernice za snimanje poziva .  
 
-Ako želite da blokirate sve korisnike da snimaju 1:1 pozive, ne morate da preduzimate nikakve radnje. Opcija *Allowza Drecordingforpozivi* će podrazumevano biti $FALSE.
+*AllowCloudRecordingForCalls*   opcija smernica pozivanja je **podrazumevano $False** podešena na vrednost . Ako biste radije da blokirate svim korisnicima snimanje 1:1 poziva, ne morate ništa da preduzmete.  
 
-Ova promena je dokumentovana u sledećem objavljenoj centru za poruke: [(ažurirano) 1:1 Call smernice za zapisivanje smernica](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) za postavljanje opcije "timovi za pozivanje" morate da koristite [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+Da biste omogućili snimanje poziva za sve korisnike u 1:1 pozivima koristite Teams PowerShell da biste pokrenite sledeću cmdlet Teams 
 
-**Da biste omogućili snimanje poziva u 1:1 pozivima:** Set-CsTeamsCallingPolicy-opšti identitet $TRUE
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**Da biste onemogućili snimanje poziva u 1:1 pozivima:** $FALSE Set-CsTeamsCallingPolicy
+Druga mogućnost je da kreirate nove smernice i postavite **-AllowCloudRecordingForCalls** **da $true** te smernice dodelili korisnicima. 
 
+Više informacija potražite u 1:1 Kontrole smernica za snimanje poziva [su (Gotovo!) Ovde](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).
