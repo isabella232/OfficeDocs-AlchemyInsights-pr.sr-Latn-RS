@@ -1,5 +1,5 @@
 ---
-title: Korišćenje Microsoft Intune za upravljanje Veb pristupom u usluzi Microsoft Edge za iOS i android
+title: Korišćenje usluge Microsoft Intune za upravljanje veb pristupom u pregledaču Microsoft Edge za iOS i Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679606"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989688"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Korišćenje Microsoft Intune za upravljanje Veb pristupom u usluzi Microsoft Edge za iOS i android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Korišćenje usluge Microsoft Intune za upravljanje veb pristupom u pregledaču Microsoft Edge za iOS i Android
 
-Microsoft Edge za iOS i Android omogućava korisniku da potraži Veb iz više zasebnih profila.
+Microsoft Edge za iOS i Android korisnicima mogu da pregledaju veb iz više potpuno odvojenih profila.
 
-Najbolje usluge zaštite za Microsoft 365 podaci postaju dostupne kada se pretplatite na Enterprise mobilnost + bezbednosni paket, što obuhvata Microsoft Intune i Azure Active Directory Premium funkcije, kao što je uslovno pristup. U najmanju ruku, želite da primenite uslovno pristupačne smernice koje (1) omogućava korisnicima da se povežu sa mobilnim uređajima na Microsoft Edge za iOS i Android i da (2) sprovodi smernice za zaštitu u aplikaciji Microsoft.
+Najšire mogućnosti zaštite za Microsoft 365 podatke postaju dostupne kada se pretplatite na Enterprise Mobility + Security paket, koji obuhvata Microsoft Intune i Azure Active Directory Premium funkcije, kao što su uslovni pristup. Primena smernica za uslovni pristup koja (1) omogućava korisnicima da se povežu sa mobilnih uređaja na Microsoft Edge za iOS i Android i da (2) primenjuje Microsoft Intune smernice za zaštitu aplikacija koje pružaju zaštićeno iskustvo pregledanja.
 
-Da biste razumeli kako možete da koristite uslovno pristup i smernice, pogledajte članak:
+Da biste razumeli kako možete da koristite uslovni pristup i smernice, pogledajte:
 
-[Primenjivanje Azure Active Directory uslovnog Access smernica](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Primena smernica za uslovni pristup za Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
 
 [Kreiranje smernica za zaštitu aplikacije Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Korišćenje jedinstvenog prijavljivanja za Azure Active Directory – povezane Veb aplikacije u pregledačima zaštićenim smernicama](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Koristite jedinstveno prijavljivanje za veb aplikacije povezane sa uslugom Azure Active Directory u pregledačima zaštićenim smernicama](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Korišćenje konfiguracije aplikacije za upravljanje iskustvom pregledanja](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Omogućavanje korišćenja samo poslovnih i školskih naloga](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Dozvoli korišćenje samo poslovnih i školskih naloga](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Primena smernica za konfiguraciju opštih aplikacija](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Primena opštih smernica za konfiguraciju aplikacije](https://go.microsoft.com/fwlink/?linkid=2132653)
 
 [Primena smernica za konfiguraciju aplikacije za zaštitu podataka](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Korišćenje Microsoft krajnjeg Pointa za primenu smernica konfiguracije aplikacija](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Korišćenje programa Microsoft Endpoint Manager za primenu smernica za konfiguraciju aplikacije](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Da biste saznali kako da pristupite kontrolisanim evidenciji aplikacija, pogledajte članak [Korišćenje Microsoft Edge za iOS i Android za pristup kontrolisanim evidenciji aplikacija](https://go.microsoft.com/fwlink/?linkid=2132578).
+Da biste saznali kako da pristupite evidencijama kontrolisanih aplikacija, pogledajte članak Korišćenje programa Microsoft Edge za [iOS i Android](https://go.microsoft.com/fwlink/?linkid=2132578)za pristup evidencijama kontrolisanih aplikacija .
