@@ -1,5 +1,5 @@
 ---
-title: Omogućavanje alatke za izvoz sistema Office 365 u usluzi Microsoft Edge
+title: Omogućavanje Office 365 za izvoz e-distribucije u Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583680"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023189"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Omogućavanje alatke za izvoz sistema Office 365 u usluzi Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Omogućavanje Office 365 za izvoz e-distribucije u Microsoft Edge
 
-Podrška za ClickOnce više nije omogućena u usluzi Microsoft Edge. Da biste nastavili da koristite Microsoft Office 365 eDiscovery alatku za izvoz, moraćete da koristite Microsoft Internet Explorer ili da omogućite opciju podrške za ClickOnce u hromozomskim sistemima, na sledeći način:
+Podrška za ClickOnce više nije omogućena u Microsoft Edge podrazumevano. Da biste nastavili da koristite Microsoft Office 365 alatku za izvoz e-distribucije, morate da koristite Microsoft Internet Explorer ili da omogućite opciju podrške za ClickOnce na Chromium zasnovanoj Microsoft Edge na sledeći način:
 
-1. Idite na edge://flags/#edge-Klikni-jednom.
-1. Za opciju **ClickOnce podrška** , promenite vrednost iz **podrazumevane** ili **onemogućene** na **omogućenu**.
-1. Na dnu prozora pregledača izaberite stavku **Ponovo pokreni**. Promena će stupiti na snagu kada ponovo pokrenete Microsoft Edge.
+1. Idite na edge://flags/#edge-click-once.
+1. Za opciju **ClickOnce podršku,** promenite vrednost iz Podrazumevano **ili** Onemogućeno u **Omogućeno.** 
+1. Na dnu prozora pregledača izaberite stavku Ponovo **pokreni.** Promena će stupiti na snagu kada ponovo Microsoft Edge.
 
-Da biste saznali više, pogledajte članak [Korišćenje alatke za izvoz Office 365 eDiscovery u usluzi Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Da biste saznali više, pogledajte Office 365 alatku za izvoz [e-discoverije u programu Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
