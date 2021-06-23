@@ -1,5 +1,5 @@
 ---
-title: Smernice za nadogradnju
+title: Teams za nadogradnju
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333942"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095414"
 ---
-# <a name="microsoft-teams-upgrade"></a>Nadogradnja Microsoft timova
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams nadogradnje
 
-**Važno**: Ako ste izvršili nadogradnju sa Skype za posao Online na Microsoft timove u režimu samo za timove, ali pronađite da još uvek niste spremni, možemo da vam pomognemo da to popravite. Uverite se da koristite novi centar administracije tako što ćete pomerati preklopnik u gornjem desnom vrhu koji kaže da je **novi centar administracije**desno. Pomoću novog centra administracije izaberite opciju **Potrebna vam je pomoć?** višit, otkucajte "**tima nadogradnja**", a zatim kliknite na dugme odzivi da biste pokrenuli dijagnostiku.
+Bez obzira na to da li tek počinjete da koristite Teams, Teams pored usluge Skype za posao ili spremni za nadogradnju, želimo da obezbedimo da imate sve što vam je potrebno za putovanje na uspešno putovanje do Teams. Dodatne informacije potražite na vezama u nastavku.
 
-Bez obzira na to da li ste tek počeli sa timovima, već koristite timove pored usluge Skype za posao ili spremni za nadogradnju, želimo da obezbedimo da imate sve što vam je potrebno da biste se kretali uspešnog putovanja u timove. Više informacija potražite u dolenavedenoj vezi.
+[Getting started with your Microsoft Teams upgrade](/MicrosoftTeams/upgrade-start-here)
 
-[Prvi koraci uz nadogradnju Microsoft timova](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Planiranje nadogradnje](/MicrosoftTeams/upgrade-plan-journey)
 
-[Planiranje nadogradnje](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Razumevanje Microsoft Teams i Skype za posao e-pošti](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Razumevanje Microsoft timova i koegzistencije Skype za posao](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Izvršavanje nadogradnje sa usluge Skype za posao Online Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Izvršavanje nadogradnje sa usluge Skype za posao online za timove](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Izvršavanje nadogradnje sa usluge Skype za posao lokalno za timove](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Izvršavanje nadogradnje Skype za posao do Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Pregled statusa usluge Skype za posao online za nadogradnju pomoću programa PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Provera statusa usluge Skype za posao Online da biste Teams nadogradili sa programom PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
