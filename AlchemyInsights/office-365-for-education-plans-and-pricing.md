@@ -14,12 +14,12 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: f796bc65baccfe4d424a3a690eced472a0ca3561
+ms.sourcegitcommit: 00a9c41575be54dccac6c423f2de824b47a4ee9e
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53104616"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53176571"
 ---
 # <a name="get-microsoft-365-free-for-your-entire-school"></a>Nabavite Microsoft 365 besplatno za celu školu
 
@@ -27,6 +27,6 @@ Poboljšate saradnju u učionici i školi uz besplatne alatke za produktivnost. 
   
 - [Pregled planova za obrazovanje](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Započinjanje radnog Office 365 Education](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+- [Započinjanje sa radom u Microsoft 365 Education](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
 
 - [Uporedi sve Microsoft 365 pretplate](https://products.office.com/business/compare-more-office-365-for-business-plans)
