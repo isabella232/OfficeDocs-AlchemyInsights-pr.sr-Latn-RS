@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125671"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389195"
 ---
 # <a name="domain-status---no-services-selected"></a>Status domena – Nije izabrana nijedna usluga
 
-Status zdravosti domena domena je dostupan kada povežete domen direktno sa Microsoft 365 uslugama kao što su Exchange. Da biste to uradio, idite u Microsoft 365 centra Microsoft 365 i izaberite **DNS** zapisi  >  **Upravljanje DNS-om**.
+**Nijedna** usluga nije izabrana znači da niste izabrali nijednu Microsoft 365 usluge kao što su Exchange Online, Skype za posao ili Intune i Upravljanje mobilnim uređajima za Microsoft 365 koristite sa prilagođenim domenom. Ako koristite hibridni Exchange (Exchange opsežno sa uslugom Exchange Online) ili filtriranje spoljne bez pošte sa uslugom Exchange i bez obzira na druge Microsoft usluge, možete da zanemarite ovu poruku. Status zdravstvenog stanja domena dostupan je samo za domene koji su direktno povezani sa uslugom.
 
-Ako ne možete da povežete domen direktno Microsoft 365 uslugama, status zdravstvenog stanja domena nije dostupan. Na primer, kada koristite prilagođeno DNS usmeravanje za e-poštu, spoljne usluge filtriranja bez pošte ili koristite i Exchange i Exchange Online (koja se naziva i hibridna primena).
+Da biste izabrali usluge za domen:
+
+1. Iz **Postavke**  >  [**domeni**](https://admin.microsoft.com/Adminportal/Home), potvrdite izbor u polju za potvrdu pored domena sa statusnom porukom **Nijedna usluga nije izabrana**.
+1. Izaberite **stavku Upravljanje DNS-om** da biste pokrenuli čarobnjak za podešavanje domena.
+    - Ako odaberete **stavku Dodajte sopstvene DNS zapise,** uverite se da ste izabrali uslugu kada vam to bude zatraženo. Dodatne usluge mogu da budu dostupne **u okviru Napredne opcije.**
+    - Ako odaberete stavku Dozvoli korporaciji Microsoft da doda **DNS** zapise ili Više opcija Podešavanje usluga na mreži za mene, sve dostupne usluge se predlažu  >   i biraju automatski.
+1. Nastavite kroz čarobnjak da biste dovršili podešavanje DNS-a i izbore usluge.
+ 
+Dodatnu pomoć pri podešavanju domena možete da vidite u [temi Dodavanje DNS zapisa za povezivanje domena.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
