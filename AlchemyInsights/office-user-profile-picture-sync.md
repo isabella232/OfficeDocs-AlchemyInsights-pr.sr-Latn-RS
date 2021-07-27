@@ -1,42 +1,41 @@
 ---
-title: Sinhronizacija slike profila korisnika
+title: Sinhronizovanje slike profila korisnika
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5b55402dc3c6eb4826451ee2b4076db26773318
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673800"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532161"
 ---
-# <a name="sync-a-users-profile-picture"></a>Sinhronizacija slike profila korisnika
+# <a name="sync-a-users-profile-picture"></a>Sinhronizovanje slike profila korisnika
 
-Fotografiju profila možete da dodate ili promenite u usluzi Microsoft 365 iz Office.com, ili dok koristite Microsoft aplikacije na računaru ili u pregledaču na telefonu. Slika se pojavljuje na svim mestima u programu Microsoft 365.
+Fotografiju profila možete da dodate ili promenite u Microsoft 365 sa lokacije Kancelarija.com ili dok koristite Microsoft aplikacije na računaru ili u pregledaču na telefonu. Fotografija se pojavljuje u krugu sa fotografijom profila u Microsoft 365.
 
 Da biste dodali fotografiju profila u Microsoft 365 za preduzeća:
 
-1. Pronađite fotografiju koju želite da koristite i uskladištite je na računaru, OneDrive ili nekoj drugoj lokaciji na koju možete da dobijete.
+1. Pronađite fotografiju koju želite da koristite i uskladištite je na računaru, OneDrive lokaciji na koju možete da pristupite.
 
-2. Prijavljivanje u Microsoft 365 pomoću poslovnog ili školskog naloga na adresi [Office.com](https://www.office.com).
+2. Prijavite se Microsoft 365 na poslovni ili školski nalog na [office.com](https://www.office.com).
 
 3. Izaberite krug u gornjem desnom uglu stranice koja prikazuje vaše inicijale ili ikonu osobe.
 
-4. U oknu Moji nalozi izaberite krug koji prikazuje vaše inicijale ili ikonu osobe. Promenite fotografiju u iskačućem okviru koji se pojavljuje.
+4. U oknu "Moji nalozi" izaberite krug koji prikazuje vaše inicijale ili ikonu osobe. Promenite fotografiju u iskačućim prozoru koji se pojavi.
 
-**Napomena** Ako ste već otpremili sliku, možda ćete želeti da izaberete stavku SharePoint ili OneDrive pločicu da biste ponovo sinhronizovali tu sliku.
+**Napomi:** Ako slika korisničkog profila izgleda drugačije u SharePoint u poređenju sa drugim Microsoft aplikacijama, dovršite ove korake od korisnika:
 
-Ako se slika profila korisnika pojavi drugačije u odnosu na SharePoint Microsoft aplikacije, neka korisnik završi ove korake:
+1. Otvorite privatnu sesiju pregledača (InPrivate/incognito).
+1. Idite na [Microsoft Office 365](https://www.office.com).
+1. Kliknite na ikonu SharePoint.
+1. Potražite lokaciju ili stranicu na kojoj fotografija nije ažurirana ili stranicu na kojoj je korisnik uključen u veb segment "Osobe".
 
-1. Otvaranje privatne (InPrivate/inkognito) sesije pregledača.
-2. Idite na [https://www.office.com](https://www.office.com/) .
-3. Izaberite ikonu SharePoint.
-4. Pronađite lokaciju ili stranicu na kojoj se slika ne ažurira ili stranica na kojoj je korisnik uključen u Veb segment za osobe.
-
-Više informacija potražite u članku [informacije o sinhronizaciji slika profila u usluzi Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Više informacija potražite u [temi Informacije o sinhronizaciji slika profila u Microsoft 365.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

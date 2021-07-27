@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539658"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532269"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kako da objavite oznaku osetljivosti
 
-1. Idite u Office 365 centra za & usaglašenosti i > osetljivosti  >  **klasifikacije.**
+1. Idite u Microsoft 365 centra za usaglašenost > **za oznake** za zaštitu  >  **informacija.**
 
-1. Na stranici Oznake osetljivosti izaberite karticu Smernice za **nalepnice,** a zatim izaberite stavku **Objavi nalepnice.**
+1. Izaberite **stavku + Objavi nalepnicu** da biste pokrenuli čarobnjak za nove oznake osetljivosti.
 
 1. Izaberite **stavku Odaberite oznake osetljivosti za objavljivanje.** Izaberite nalepnice koje želite da učinite dostupnim u aplikacijama i uslugama, a zatim izaberite **stavku Dodaj**.
 
