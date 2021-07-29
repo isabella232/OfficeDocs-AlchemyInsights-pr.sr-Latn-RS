@@ -1,5 +1,5 @@
 ---
-title: Jedinstvene smernice za zadržavanje u bezbednosnoj & centru za usaglašenost
+title: Unified retention policis in the Security & Compliance Center
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669225"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630155"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Jedinstvene smernice za zadržavanje u bezbednosnoj & centru za usaglašenost
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Unified retention policis in the Security & Compliance Center
 
-Smernice za zadržavanje vam dozvoljava da upravljate sadržajem organizacije pomoću postavki zadržavanja i brisanja. Možete da kreirate jedinstvene smernice za zadržavanje u sistemu Office 365 Security & centar za usaglašenost ili u Microsoft 365 centru za usaglašenost. 
+Smernice za zadržavanje vam mogu pomoći da upravljate sadržajem organizacije pomoću postavki za zadržavanje i brisanje. Možete da kreirate ujedinjene smernice za zadržavanje u Office 365 centru za & za usaglašenost ili Microsoft 365 za usaglašenost. 
 
-1. U [centru za zaštitu & bezbednosti](https://go.microsoft.com/fwlink/p/?linkid=2077143)izaberite stavku zadržavanje **informacija o upravljanju**  >  **Retention**  >  **+Create**. <br/>
-    U [Microsoft 365 centru za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077149)izaberite stavke **smernice**za  >  **> zadržavanje > + nova smernica za zadržavanje.**
-2. Dodavanje **imena**, **postavki**i **Izbor lokacija**.
-3. Pregledajte postavke, a zatim izaberite stavku **Kreiraj ove smernice** ili **Sačuvaj za kasnije**.  
+1. U centru za [bezbednost & usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077143)izaberite stavku **Zadržavanje za upravljanje**  >  **informacijama**  >  **+Kreiraj.** <br/>
+    U Microsoft 365 [za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077149)izaberite stavke Podaci > za zadržavanje   >  **> + Nove smernice za zadržavanje.**
+2. Dodajte **Ime**, **Postavke** i **Odaberite lokacije**.
+3. Pregledajte postavke, a zatim izaberite stavku **Kreiraj ove smernice** ili **Sačuvaj za kasnije.**  
       
-Više detalja o smernicama za zadržavanje sadržaja kao što su Exchange e-pošta, OneDrive, SharePoint i timovi, potražite [u članku Pregled smernica za zadržavanje](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Više detalja o smernicama za zadržavanje za sadržaj, kao što su Exchange e-pošta, OneDrive, SharePoint i Teams sadržaj, pogledajte pregled smernica za [zadržavanje.](https://go.microsoft.com/fwlink/?linkid=2127785)  
     
-Ako koristite smernice za zadržavanje rame uz rame u Exchange centru administracije i bezbednosnoj & centru za usaglašenost, pogledajte ovu preporuku da biste [koristili smernice za zadržavanje umesto starijih funkcija](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Ako smernice za zadržavanje koristite u udubljenje u Exchange centru za administraciju i centru za bezbednost & usaglašenosti, pogledajte ovu preporuku da biste koristili smernice za zadržavanje umesto starijih [funkcija.](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)  
     
-Određene informacije o zadržanju timova potražite u članku [smernice za zadržavanje u timovima](https://docs.microsoft.com/microsoftteams/retention-policies).
+Određene informacije o Teams zadržavanja potražite u temi Smernice za [zadržavanje u Teams.](/microsoftteams/retention-policies)

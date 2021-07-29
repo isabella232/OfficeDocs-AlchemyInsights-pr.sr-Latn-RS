@@ -1,5 +1,5 @@
 ---
-title: 1488-pretraga i pretraživanje i pronalaženje sadržaja
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668528"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630227"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako da obavite pretraživanje sadržaja i pretrage eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako se izvršavaju pretrage sadržaja i pretrage e-pošti
 
-**Da biste obavili pretraživanje sadržaja**:
+**Da biste izvršili pretragu sadržaja:**
 
-1. Idite na [bezbednosni & centar za usaglašenost](https://protection.office.com) i prijavite se.
-2. Izaberite stavku **pretraga > sadržaja**.
-3. Izaberite stavku **Nova pretraga** da biste kreirali novu pretragu.
+1. Idite u Microsoft 365 centra za usaglašenost i prijavite se.
+2. Izaberite **stavku Pretraga > sadržaja**.
+3. Izaberite **stavku Nova pretraga** da biste kreirali novu pretragu.
 4. Unesite potrebne uslove pretrage uključujući ključne reči i lokacije sadržaja.
-5. Kliknite na dugme **sačuvaj & Pokreni** da biste imenovali pretragu, pokrenite ga, a zatim pregledajte rezultate.
+5. Izaberite **sačuvaj & pokreni da** biste imenili pretragu, započeli je, a zatim pregledali rezultate.
 
 > [!NOTE]
-> U **M365 centru za usaglašenost**, u okviru **rešenja** izaberite stavku proširi **ediscovery** i izaberite željenu alatku za ediscovery.
+> U **Microsoft 365** centra za usaglašenost, razvijte e-discovery i izaberite željenu  >  alatku za e-discovery. 
 
-Detaljna uputstva o pretraživanju sadržaja, izvozu rezultata i kreiranju slučajeva eDiscovery za zadržavanje podataka potražite u članku [Pretraga sadržaja](https://docs.microsoft.com/microsoft-365/compliance/content-search) i [ediscovery slučajevima](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Detaljna uputstva o pretragama sadržaja, izvozu rezultata i pravljenju slučajeva e-discovera za čuvanje podataka potražite u temi Pretraga sadržaja i [slučajevi e-dekoverije.](/microsoft-365/compliance/ediscovery-cases) [](/microsoft-365/compliance/content-search)
 
-**Više informacija**:
+**Više informacija:**
 
-- Više informacija o alatkama za eDiscovery u sistemu Microsoft 365 potražite u članku [ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Saznajte više o dozvolama, zahtevima i ograničenjima potrebnim za izvođenje eDiscovery pretraga sa [dozvola potrebnim za pretraživanje ediscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) i [zahteve i ograničenja](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Ako rešavate probleme sa Eotkriжu, pogledajte članak [Rešavanje uobičajenih problema](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) i [istražuju delimično indeksirane stavke](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Dodatne informacije o alatkama za e-Microsoft 365 u e-Microsoft 365 potražite u [temi e-discovery](/microsoft-365/compliance/ediscovery).
+- Saznajte više o dozvolama, zahtevima i ograničenjima neophodnim za izvršavanje pretraga e-discovera [](/microsoft-365/compliance/limits-for-content-search)iz dozvola potrebnih za [pretrage e-discovery,](/microsoft-365/compliance/assign-ediscovery-permissions) zahteve i ograničenja.
+- Ako rešavate probleme sa e-otklanjanjem, pogledajte rešavanje uobičajenih problema i [istraživanje](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) delimično [indeksiranih stavki.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
