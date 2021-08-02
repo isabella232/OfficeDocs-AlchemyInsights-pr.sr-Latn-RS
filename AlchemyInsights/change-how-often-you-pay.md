@@ -1,9 +1,10 @@
 ---
-title: Promena učestalosti plaćanja
+title: Promenite koliko često plaćate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +13,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
+- commerce_billing
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3ad1bb7a13a9c26dd3e4f9cbee7944e975191c3a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307356"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680564"
 ---
-# <a name="change-how-often-you-pay"></a>Promena učestalosti plaćanja
+# <a name="change-how-often-you-pay"></a>Promenite koliko često plaćate
 
-Da biste promenili koliko često ste plaćeni i plaćali pretplatu, dovršite sledeće korake u Microsoft 365 centru administracije.
+Da biste promenili učešće naplate i plaćanje pretplate, dovršite sledeće korake u Microsoft 365 centar administracije.
 
-1. Idite na stranicu **Billing**"  >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** izaberite pretplatu koju želite da promenite.
-3. Na stranici detalji pretplate, u odeljku **Postavke pretplate i plaćanja** izaberite stavku **Uredi učestalost naplate**.
-4. U oknu **Uređivanje učestalosti naplate** odaberite opciju koliko često želite da se fakturiši, a zatim izaberite stavku **Promeni**.
+1. Idite na **stranicu "Naplata**  >  [proizvoda".](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici** Proizvodi izaberite pretplatu koju želite da promenite.
+3. Na stranici detalji o pretplati, u odeljku **Postavke** pretplate i plaćanja izaberite stavku Uredi **učestalost naplate.**
+4. U oknu **Uređivanje učestalosti naplate** odaberite opciju za učestalost naplate, a zatim izaberite **stavku Promeni**.
 
 > [!NOTE]
-> Mesečna ili godišnja pretplata su jedine opcije.
+> Jedine opcije su mesečna ili godišnja naplata.
 
-Više informacija potražite u članku [Promena učestalosti naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+Više informacija potražite u članku [Promena učestalosti naplate](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
