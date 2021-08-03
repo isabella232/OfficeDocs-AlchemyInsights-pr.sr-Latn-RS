@@ -1,35 +1,37 @@
 ---
-title: Kako da dodate ili uredite VatID
+title: Kako da dodate ili uredite ID pdv-a
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 7f31038370b09fef179ac7d42e28e9d57b57d24d
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489075"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686324"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Kako da dodate ili uredite VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>Kako da dodate ili uredite ID pdv-a
 
 > [!NOTE]
-> Ako se nalazite u zemlji koja koristi porez na dodatu vrednost (PDV), na primer Velika Britanija, Microsoft fakturisanje izračunava PDV za vas i primenjuje iznos na fakture. Više informacija potražite u članku [VIES odricanje odgovornosti](https://go.microsoft.com/fwlink/p/?LinkID=841741) koje objavljuje Evropska komisija.
+> Ako ste u zemlji u kojoj se koristi porez na dodatu vrednost (PDV), kao što je Ujedinjeno Kraljevstvo, Microsoft Invoicing izračunava PDV za vas i primenjuje taj iznos na fakture. Više informacija potražite u članku [VIES oduzimanje prava](https://go.microsoft.com/fwlink/p/?LinkID=841741) koje je objavila Evropska provizija.
 
-**Dodavanje ili uređivanje VatID**
+**Dodavanje ili uređivanje ID-a pdv-a**
 
-1. U centru administracije idite na stranicu " **Billing** \> [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** izaberite pretplatu koju želite da ažurirate.
-3. Na stranici detalji pretplate, u odeljku **Adresa upotrebe usluge** izaberite stavku **Uredi adresu korišćenja usluge**.
-4. U oknu **Uređivanje adrese usluge** otkucajte ID PDV-a u polje **broj PDV** -a, a zatim izaberite stavku **Sačuvaj**. Kada to uradite, PDV se neće naplaćuje na sledećem računu.
+1. U centru za administaciju idite na **stranicu** \> [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici** Proizvodi izaberite pretplatu koju želite da ažurirate.
+3. Na stranici sa detaljima pretplate, u **odeljku Adresa usluge izaberite** stavku **Uredi adresu za korišćenje usluge.**
+4. U **oknu Uređivanje adrese za korišćenje usluge** otkucajte ID za PDV u polju Broj **PDV-a,** a zatim izaberite stavku **Sačuvaj**. Kada to uradite, PDV neće biti naplaćen na sledećem računu.
 
-Da biste saznali više, pogledajte članak [koji porez će biti optužen za Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Da biste saznali više, pogledajte koji porez će mi [biti naplaćen Microsoft 365?.](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)

@@ -3,26 +3,29 @@ title: Promena načina plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601396"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685352"
 ---
 # <a name="change-payment-method-fromto"></a>Promena načina plaćanja iz/u
 
 1. **Promena sa fakture na kreditnu karticu ili račun u banci**
 
-    - Ne možete da automatski promenite plaćanje fakturom u plaćanje drugim načinom plaćanja. Umesto toga morate da [kupite drugu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) plaćenu kreditnom ili debitnom karticom ili putem bankovnog računa, [premestite sve korisnike na novu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) a zatim da [otkažete staru pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Ne možete da automatski promenite plaćanje fakturom u plaćanje drugim načinom plaćanja. Umesto toga morate da [kupite drugu pretplatu](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) plaćenu kreditnom ili debitnom karticom ili putem bankovnog računa, [premestite sve korisnike na novu pretplatu](/microsoft-365/commerce/subscriptions/move-users-different-subscription) a zatim da [otkažete staru pretplatu](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Promena sa kreditne kartice ili računa u banci na fakturu**
 
@@ -32,4 +35,4 @@ ms.locfileid: "50601396"
 
     - Pratite korake iz članka [Kako da promenim plaćanje kreditnom karticom u plaćanje fakturom?](how-do-i-change-from-credit-card-payments-to-invoice.md) da biste dovršili ručnu promenu.
 
-Za više informacija pogledajte članak [Kako da platite pretplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Za više informacija pogledajte članak [Kako da platite pretplatu](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

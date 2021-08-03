@@ -1,8 +1,10 @@
 ---
-title: Dodeljivanje ili poništavanje dodele licenci korisnicima
+title: Dodela ili poništi dodelu licenci korisnicima
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "325"
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 693efc0755b682b17518f07e434685e68beddc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0c89a9e7b26c5c815bc5ef959390cee1fb0c6a9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781153"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685856"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Dodeljivanje ili poništavanje dodele licenci korisnicima
+# <a name="assign-or-unassign-licenses-to-users"></a>Dodela ili poništi dodelu licenci korisnicima
 
-Korisniku je potrebna licenca za pristup uslugama. Evo koraka za dodeljivanje licence ili opoziv potpisivanja licence od korisnika.
+Korisnik mora da ima licencu da bi pristupao uslugama. Evo koraka za dodelu licence korisniku ili poništite dodelu licence korisniku.
   
-1. U centru administracije **Idite na stavke** \> [aktivni korisnici aktivne korisnike](https://go.microsoft.com/fwlink/p/?linkid=834822).
-2. Izaberite redove korisnika kojem želite da dodelite licencu.
-3. U desnom oknu izaberite stavku **licence i aplikacije**.
-4. Proširite odeljak **licence** , izaberite ili opozovite izbor u poljima za licence koje želite da dodelite ili Opozovi potpisivanje, a zatim izaberite stavku **Sačuvaj promene**.
+1. U centru za administaciju idite na korisnici  \> [aktivni korisnici.](https://go.microsoft.com/fwlink/p/?linkid=834822)
+2. Izaberite red korisnika za koji želite da dodelite licencu.
+3. U desnom oknu izaberite **stavku Licence i aplikacije**.
+4. Razvijte **odeljak Licence,** potvrdite ili opozovite izbor u po odeljcima za licence koje želite da dodelite ili poništite dodelu, a zatim **izaberite stavku Sačuvaj promene.**
 
-Više informacija potražite u članku [dodeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)i [opoziv licence od korisnika](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+Dodatne informacije potražite u [temi Dodela licenci korisnicima](/microsoft-365/admin/manage/assign-licenses-to-users)i Poništite [dodelu licenci korisnicima.](/microsoft-365/admin/manage/remove-licenses-from-users)

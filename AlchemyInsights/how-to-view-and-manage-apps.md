@@ -1,8 +1,9 @@
 ---
-title: Kako da prikažete i upravljate aplikacijama
+title: Kako prikazati aplikacije i upravljati aplikacijama
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 1ee6d1a6bacdaa95054e8a7c98f11543ccae6c41
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489111"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686576"
 ---
-# <a name="how-to-view-and-manage-apps"></a>Kako da prikažete i upravljate aplikacijama
+# <a name="how-to-view-and-manage-apps"></a>Kako prikazati aplikacije i upravljati aplikacijama
 
-Možete da prikažete aplikacije u Microsoft 365 centru administracije.
+Aplikacije možete prikazati u Microsoft 365 centar administracije.
 
-1. U centru administracije idite na stranicu " **Billing**  >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** , pomerite se nadole do odeljka **aplikacije** .
-3. Da biste upravljali aplikacijom, izaberite onu koju želite da upravljate.
+1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici Proizvodi** pomerite se nadole do **odeljka Aplikacije.**
+3. Da biste upravljali aplikacijom, izaberite onu u koju želite da upravljate.
