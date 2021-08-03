@@ -1,8 +1,10 @@
 ---
-title: Obustavljanje ili Pauziranje licenci
+title: Obustavljanje ili pauziranje licenci
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +12,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: d4eb4a9415a4d506be7edb9efd3d83208413e9f3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601000"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689348"
 ---
-# <a name="suspend-or-pause-licenses"></a>Obustavljanje ili Pauziranje licenci
+# <a name="suspend-or-pause-licenses"></a>Obustavljanje ili pauziranje licenci
 
-**Pogledajte video** koji prikazuje kako se to radi: [Ukloni postojeće licence](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**POGLEDAJTE video koji** pokazuje kako da to uradite: [Uklonite postojeće licence](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Da biste privremeno suspendovali ili pauzirali upotrebu licence, možete da uklonite licence iz Microsoft 365 centra administracije, a zatim da ih kasnije ponovo dodate.
+Da biste privremeno obustavljali ili pauzovali korišćenje licenci, možete da uklonite licence iz Microsoft 365 centar administracije, a zatim da ih kasnije ponovo dodate.
 
-1. Pre nego što uklonite licence iz pretplate, prvo morate da [opozovete dodelu licenci od korisnika](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
-2. Zatim idite na stranicu " **naplatu**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-3. Na kartici **proizvodi** izaberite pretplatu koju želite da ažurirate.
-4. Na stranici detalji pretplate izaberite stavku **Ukloni licence**.
-5. U oknu **Uklanjanje licenci** , u polju **Ukupna licence** Unesite ukupan broj licenci koje želite za ovu pretplatu, a zatim izaberite stavku **Sačuvaj**. Na primer, ako imate 100 licence i želite da obustavite ili pauzirate 25, zatim unesite 75 kao ukupne licence za pretplatu.
+1. Pre nego što uklonite licence iz pretplate, prvo morate da poništite dodele [licence od korisnika.](/microsoft-365/admin/manage/remove-licenses-from-users)
+2. Dalje, idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+3. Na **kartici** Proizvodi izaberite pretplatu koju želite da ažurirate.
+4. Na stranici sa detaljima pretplate izaberite **stavku Ukloni licence.**
+5. U **oknu Uklanjanje licenci,** u polje Ukupan broj licenci unesite ukupan broj licenci koje želite za ovu pretplatu, a zatim izaberite stavku  **Sačuvaj.** Na primer, ako imate 100 licenci i želite da obustavite ili pauzite 25, unesite 75 kao ukupan broj licenci za pretplatu.
 
-Više informacija potražite u članku [Kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Više informacija potražite u članku [Kupovina ili uklanjanje licenci](/microsoft-365/commerce/licenses/buy-licenses).

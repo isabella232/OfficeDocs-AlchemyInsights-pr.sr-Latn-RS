@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801461"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688340"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Prenos postojećih brojeva u Teams
 
-Ako trenutno imate dobavljača telefonskih usluga ili operatera i već imate brojeve telefona za korisnike ili usluge, treba da kreirate „porudžbinu prenosa“ da biste te brojeve telefona preneli u Microsoft Teams.
+Ako trenutno imate dobavljača telefonskih usluga ili operatera i već imate brojeve telefona za korisnike ili usluge, treba da kreirate „porudžbinu prenosa“ da biste te brojeve telefona preneli u Microsoft Teams.  
 
-- Pogledajte [Prenos brojeva telefona u Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) da biste saznali kako da dovršite prenos. 
+Da biste kreirali novu porudžbinu prenosa ili proverili postojeću, pratite ove korake: 
 
-- Pogledajte [Upravljanje brojevima telefona za organizaciju](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) za uputstva vezana za upravljanje brojevima telefona. 
+1. Idite u [Teams za administaciju da](https://admin.teams.microsoft.com/phone-numbers) biste otvorili stranicu Telefon brojeva. 
 
-Više informacija potražite u članku [Pregled porudžbina prenosa](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview). 
+1. Izaberite **stavku Nabavite vezu za podršku preko broja telefona**. 
+
+Da biste prešli direktno na podršku za broj telefona, [Telefon Servisni centar za brojeve.](https://pstnsd.powerappsportals.com/)  

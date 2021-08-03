@@ -1,8 +1,9 @@
 ---
-title: Podrazumevano potskriptovanja za podrazumevani obnavljanje
+title: Podrazumevana obnova pretplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416647"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689312"
 ---
 # <a name="renewing-your-subscription"></a>Obnavljanje pretplate
 
-Ako plaćate kreditnom karticom ili nalogom u banci, periodična pretplata je podrazumevano uključena. Kada se ponavlja periodična naplata, pretplata će se nastaviti svake godine na dan kada ste se pretplatili. Možete ponovo da ga isključite ili ponovo uključite u centru administracije ako je pretplata aktivna.
+Ako plaćate kreditnom karticom ili računom u banci, periodična naplata je podrazumevano uključena. Kada je periodična naplata dostupna, pretplata će biti naplaćivana svake godine na dan kada ste se pretplatiti. Možete da je isključite ili ponovo uključite u centru aktivnosti ako je pretplata aktivna.
 
-Ako naplatite pretplatu pomoću šifre proizvoda, pretplata ističe na krajnji rok pretplate. Možete da uključite periodičnu naplatu i obezbedite kreditnu karticu ili informacije o računu u banci da bi se pretplata i dalje plaćala svake godine na dan kada ste se pretplatili.
+Ako ste unapred platili pretplatu šifrom proizvoda, pretplata će isteći na kraju perioda pretplate. Možete da uključite periodičnu naplatu i obezbedite informacije o kreditnoj kartici ili računu u banci, kako bi se vaša pretplata naplaćivala svake godine na dan kada ste se pretplatiti.
 
-Da biste uključili periodičnu naplatu na:
+Da biste uključili periodičnu naplatu:
 
-1. U centru administracije idite na stranicu " **Billing**  >  [naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. Na kartici **proizvodi** izaberite pretplatu koju želite da promenite.
-3. Na stranici detalji pretplate, u okviru **Postavke pretplate i plaćanja**izaberite stavku **Uredi periodičnu naplatu**.
-4. U oknu **Uređivanje periodičnih postavki naplate** izaberite stavku **na**, **na, na, ali obnavljanje jednom**ili **Isključi**se.
-5. Izaberite stavku **Sačuvaj**. 
+1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici** Proizvodi izaberite pretplatu koju želite da promenite.
+3. Na stranici detalji o pretplati, u okviru Postavke pretplate i **plaćanja** izaberite stavku **Uredi periodičnu naplatu.**
+4. U **oknu Uređivanje postavki periodične naplate** izaberite stavku Uključi **,** **Uključi, ali obnovi jednom** ili **Isključi**.
+5. Izaberite **Sačuvaj**. 

@@ -1,8 +1,10 @@
 ---
-title: Kako se pravi Microsoft 365 nabavka
+title: Kako da nabavite Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232381"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689096"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Kako se pravi Microsoft 365 nabavka
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Kako da nabavite Microsoft 365
 
-Pretplatu na Microsoft 365 možete da kupite u centru administracije.
+Možete da kupite Microsoft 365 pretplatu u centru za administaciju.
   
-- Da biste kupili plan, idite na stranicu  \> **[usluge kupovine](https://go.microsoft.com/fwlink/p/?linkid=868433)** naplate.
-- Da biste kupili dodatne licence, idite na  \> stranicu " **[naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". Izaberite pretplatu koju želite da promenite, a zatim izaberite stavku **kupi licence**. \
-**Pogledajte video** koji prikazuje kako se to radi: [kupovina novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- Da biste kupili plan, idite na **stranicu** \> **[Kupovina usluga naplate.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Da biste kupili dodatne licence, idite na **stranicu** \> **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Izaberite pretplatu koju želite da promenite, a zatim izaberite **stavku Kupi licence**.\
+**POGLEDAJTE video koji** pokazuje kako da to uradite: [Kupovina novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Da biste saznali više, pogledajte članak [kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Da biste saznali više, pogledajte [kupovinu ili uklanjanje licenci.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Rešavanje problema**
 
@@ -35,5 +38,5 @@ Ako imate problema s učitavanjem stranice, probajte da otvorite veb stranicu u 
 
 **Dodatni resursi**
   
-- [Dodeljivanje licenci korisnicima u usluzi Microsoft 365 za preduzeća](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Otkaži Microsoft 365 za preduzeća](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Dodela licenci korisnicima u Microsoft 365 za preduzeća](/microsoft-365/admin/add-users/add-users)
+- [Otkaži Microsoft 365 za posao](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
