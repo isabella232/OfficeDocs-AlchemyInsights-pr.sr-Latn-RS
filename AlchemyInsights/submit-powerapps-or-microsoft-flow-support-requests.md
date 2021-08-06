@@ -1,5 +1,5 @@
 ---
-title: Prosleđivanje zahteva za podršku za PowerApps ili Microsoft Flow
+title: Prosleđivanje PowerApps ili Microsoft Flow za podršku
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 8e2b04a32af02679ce9a9ade92895011391b2ae7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4d271dfa95224ea5359b54816109459b23ed843e5693721eb264e416cbe29eb0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999552"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Prosleđivanje zahteva za podršku za PowerApps ili Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Prosleđivanje PowerApps ili Microsoft Flow za podršku
 
-Ako ste **PowerApps ili** **Microsoft Flow** klijent, prosledite tiket putem novog centra za [administaciju power platforme](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Novi portal pruža direktniju putanju ka podršci koja je optimizovana za PowerApps i druge proizvode na Power platformi.
+Ako ste **PowerApps**  ili Microsoft Flow prosledite tiket putem novog centra za administaciju [Power platforme](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Novi portal pruža direktniju putanju ka podršci koja je optimizovana za PowerApps i druge proizvode na Power platformi.
 
-[Prosleđivanje zahteva za podršku za Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Prosledite Microsoft Flow za podršku](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

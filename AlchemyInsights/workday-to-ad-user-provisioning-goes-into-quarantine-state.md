@@ -1,5 +1,5 @@
 ---
-title: Radni dan za obezbeđivanje oglasa korisnika ide u stanje karantina
+title: Radni dan u AD obezbeđivanje korisnika prelazi u stanje karantina
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8471"
 - "9004687"
-ms.openlocfilehash: 0fc519c8170de498c9bcb1fc41a76116bda48b1f
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
-ms.translationtype: MT
+ms.openlocfilehash: 32a5d010b95b9587e121ca1526def743fd8f371b13d1d73d3578c692839edf19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036506"
 ---
-# <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Radni dan za obezbeđivanje oglasa korisnika ide u stanje karantina
+# <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Radni dan u AD obezbeđivanje korisnika prelazi u stanje karantina
 
-**Radni dan za obezbeđivanje oglasa korisnika prelazi u stanje karantina i nijedan korisnik se ne kreira u OGLASU**
+**Radni dan do obezbeđivanja korisnika usluge AD prelazi u stanje karantina i nijedan korisnik se ne kreira u AD-u**
 
-Radni dan za obezbeđivanje OGLAŠAVANJA za korisnika je otišao u stanje karantina, a evidentiranje nadzora prikazuje događaje izvoza pomoću greške sa porukom o grešci **: Operationser. Nije podešena nijedna superiorna referenca za uslugu direktorijuma. Usluga direktorijuma stoga ne može da izda referente objekte izvan ove šume**. Do ove greške obično dolazi ako kontejner Active Directory nije ispravno podešen ili ako postoje problemi sa mapiranjem izraza koje se koristi za **Parent.**
+Zadatak obezbeđivanja korisnika funkcije "Radni dan za korisnike" prešao je u stanje karantina, a evidencije nadzora prikazžuju događaje neuspešnog izvoza uz poruku o grešci **Greška: OperationsError-SvcErr: Došlo je do greške u operaciji. Za uslugu direktorijuma nije konfigurisana nijedna vrhunska referenca. Usluga direktorijuma zbog toga ne može da izda preporuke za objekte izvan ove šume.** Ova greška se obično pojavljuje ako Active Directory Container OU nije ispravno podešen ili ako postoje problemi sa mapiranjem izraza koji se koristi za **nadređenoDistinguishedName.**
 
-Potvrdite izbor u podrazumevanom dijalogu za **novi korisnici** parametra za Tipos. Uverite se da navedeno koje već postoji u vašem OGLASU. Ako koristite **Parent, Izhedime** u mapiranju atributa, uverite se da se uvek izračunava na poznat kontejner unutar domena oglasa. Pogledajte događaj izvoza u evidenciji nadzora da biste videli generisane vrednosti.
+Proverite da li u parametru **Podrazumevani** OU za nove korisnike možete da naiđete na beleške. Uverite se da navedeni OU već postoji u vašem OD-u. Ako koristite **nadređenoIme** u mapiranju atributa, uverite se da uvek ima poznati kontejner u okviru AD domena. Proverite događaj Izvoz u evidencijama nadzora da biste videli generisanu vrednost.
 
-Za više detalja o konfigurisanju radnog vremena za automatizovano obezbeđivanje pogledajte [članak uputstvo: konfigurisanje radnog dana za automatsko obezbeđivanje korisnika](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+Više detalja o konfigurisanju radnog dana za automatizovano dodeljanje, pogledajte Uputstvo: Konfigurisanje radnog dana za automatsko [dodeljanje korisnika.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
 

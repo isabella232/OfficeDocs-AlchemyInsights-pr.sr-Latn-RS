@@ -1,5 +1,5 @@
 ---
-title: 902 (greške sinhronizacije zbog dupliranih objekata)
+title: 902 (greške pri sinhronizaciji zbog dupliranih objekata)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998808"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>Greške pri sinhronizaciji zbog dupliranih objekata
+# <a name="sync-errors-due-to-duplicate-objects"></a>Sinhronizovanje grešaka zbog dupliranih objekata
 
-Možete primiti jednu od sledećih poruka o grešci kada se sinhronizacija direktorijuma završi u programu Microsoft 365:
+Možete da dobijete jednu od sledećih poruka o grešci kada se sinhronizacija direktorijuma završi u Microsoft 365:
 
-- Nije moguće ažurirati ovaj objekat u Microsoft usluzi na mreži zato što sledeći atributi povezani sa ovim objektom imaju vrednosti koji su možda već povezani sa drugim objektom u lokalnom direktorijumu.
+- Nije moguće ažurirati ovaj objekat u Microsoft Online Services jer sledeći atributi povezani sa ovim objektom imaju vrednosti koje su možda već povezane sa drugim objektom u lokalnom direktorijumu.
 
-- Sinhronizovani objekat sa istom proxy adresom već postoji u usluzi Microsoft Online Services.
+- Sinhronizovani objekat sa istom proxy adresom već postoji u Microsoft Online Services direktorijumu.
 
-- Nije moguće ažurirati ovaj objekat zato što sledeći atributi povezani sa ovim objektom imaju vrednosti koji su možda već povezani sa drugim objektom u lokalnim direktorijima: UserPrincipalName.
+- Nije moguće ažurirati ovaj objekat jer sledeći atributi povezani sa ovim objektom imaju vrednosti koje su možda već povezane sa drugim objektom u uslugama lokalnog direktorijuma: UserPrincipalName.
 
-Da biste identifikovali i rešili problem, preuzmite i uradite alatku za rešavanje problema sa [Idfix DirSync](https://github.com/Microsoft/idfix).
+Da biste identifikovali i rešili problem, preuzmite i pokrenite alatku za popravljanje [IdFix DirSync grešaka.](https://github.com/Microsoft/idfix)
 
-Više informacija potražite u članku [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
+Dodatne informacije potražite u [temi KB2647098.](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o)

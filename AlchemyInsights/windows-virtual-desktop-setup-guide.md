@@ -1,5 +1,5 @@
 ---
-title: Podešavanje Windows virtuelne radne površine
+title: Podešavanje virtuelne Windows radne površine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036650"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Podešavanje Windows virtuelne radne površine
+# <a name="set-up-windows-virtual-desktop"></a>Podešavanje virtuelne Windows radne površine
 
-Windows virtuelna radna površina je sveobuhvatna radna površina i usluga virtuelizacija koja se pokreće u oblaku. To je jedina virtuelna infrastruktura za računare (VANSEČIŠTE Windows 10, Optimizacija za Microsoft 365 aplikacije i podrška za usluge udaljenog radna površina (RDS). Primenite i podesite Windows računare i aplikacije na Azure u minutima i nabavite ugrađene funkcije bezbednosti i usaglašenosti.
+Windows Virtuelna radna površina je sveobuhvatna usluga virtuelizacije radne površine i aplikacija koja radi u oblaku. To je jedina infrastruktura virtuelne radne površine (VDI) koja pruža pojednostavljeno upravljanje, više sesija Windows 10, optimizacije za Microsoft 365 aplikacije i podršku za okruženja udaljene radne površine (RDS). Primenite i podesite razmeru Windows radne površine i aplikacija na Azure za nekoliko minuta i nabavite ugrađene funkcije bezbednosti i usaglašenosti.
 
-[Vodič za Windows virtuelne radne površine](https://go.microsoft.com/fwlink/?linkid=2146236) omogućava administratorima da planiraju resurse i preduslove za primenu, smernice za podešavanje i dodatne resurse.
+Vodič [Windows](https://go.microsoft.com/fwlink/?linkid=2146236) za podešavanje virtuelne radne površine pruža administratorima resurse za planiranje i preduslove za primenu, uputstva za podešavanje i dodatne resurse.

@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisanih stavki iz sistema SharePoint ili OneDrive
+title: Vraćanje izbrisanih stavki iz SharePoint ili OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922317"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Vraćanje izbrisanih stavki iz sistema SharePoint ili OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Vraćanje izbrisanih stavki iz SharePoint ili OneDrive
 
-1. Idite na OneDrive ili na SharePoint lokaciji.
+1. Idite na stranicu OneDrive lokaciju SharePoint lokaciju.
     
-2. U levom oknu izaberite stavku **Korpa za otpatke** . 
+2. U **levom oknu izaberite stavku Korpa** za otpatke. 
     
-3. Kliknite sa leve strane stavki ili datoteka koje želite da vratite.
+3. Kliknite sa leve strane stavki ili datoteka koje želite da vratite u prethodno stanje.
     
-4. Kliknite na dugme **Vrati u prethodno stanje**. 
+4. Izaberite **stavku Vrati u prethodno stanje**. 
     
-Kada se datoteke, fascikle, biblioteke, liste i stavke liste brišu sa SharePoint lokacije, oni idu u korpu za otpatke gde se čuvaju za 93 dana, osim ako ih neko ne izbriše iz ove korpe za otpatke. Ako su izbrisane iz ove korpe za otpatke (zvane je korpa za otpatke lokacije), oni idu u korpu za otpatke kolekcije lokacija za preostalo vreme, a zatim se trajno brišu. Izbrisane lokacije i kolekcije lokacija idu direktno u korpu za otpatke kolekcije lokacija za 93 dana.
+Kada se datoteke, fascikle, biblioteke, liste i stavke liste izbrišu sa SharePoint lokacije, one idu u korpu za otpatke, gde se čuvaju 93 dana osim ako ih neko ne izbriše iz ove korpe za otpatke. Ako se izbrišu iz ove korpe za otpatke (koja se naziva korpa za otpatke lokacije), one idu u korpu za otpatke kolekcije sajtova do kraja vremena, a zatim se trajno brišu. Izbrisani sajtovi i kolekcije lokacija idu direktno u korpu za otpatke kolekcije sajtova na 93 dana.
   
-[Vraćanje stavki u korpu za otpatke kolekcije lokacija](https://go.microsoft.com/fwlink/?linkid=867800) (administratori kolekcije lokacija) 
+[Vraćanje stavki iz korpe za otpatke kolekcije sajtova](https://go.microsoft.com/fwlink/?linkid=867800) (administratori kolekcije sajtova) 
   
-[Vraćanje izbrisanih kolekcija lokacija](https://go.microsoft.com/fwlink/?linkid=867660) (globalnih ili SharePoint administratora u sistemu Microsoft 365) 
+[Vraćanje izbrisanih kolekcija lokacija](https://go.microsoft.com/fwlink/?linkid=867660) (globalni SharePoint administratori u Microsoft 365) 
   
-Za lokacije koje pripadaju grupi Microsoft 365, morate da vratite grupu da biste vratili lokaciju. Pogledajte [u prethodno stanje izbrisane Microsoft 365 Group](https://go.microsoft.com/fwlink/?linkid=867802) (globalni administrator) 
+Za sajtove koji pripadaju Microsoft 365, morate da vratite grupu u prethodno stanje da biste vratili sajt. Pogledajte [vraćanje izbrisane Microsoft 365 (globalni](https://go.microsoft.com/fwlink/?linkid=867802) Microsoft 365) 
   
 

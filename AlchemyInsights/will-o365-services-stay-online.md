@@ -1,5 +1,5 @@
 ---
-title: Da li će Office 365 usluge ostati na mreži?
+title: Da li Office 365 usluge ostanu na mreži?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036866"
 ---
-# <a name="will-office-365-services-stay-online"></a>Da li će Office 365 usluge ostati na mreži?
+# <a name="will-office-365-services-stay-online"></a>Da li Office 365 usluge ostanu na mreži?
 
-Daa. Razvili smo te usluge sa elastikom. Svaka usluga pokreće više instanci odjednom, pa čak i ako jedna instanca ima problema, naši klijenti ne utiču na njih. Svaka usluga je takođe zadržana, tako da ako dođe do problema sa jednom uslugom, neće se proširiti na ostale. Konačno, sigurnosne mere su ugrađene u kôd svake usluge kako bi se sprečilo da se problemi kaskadne kroz uslugu.
+Da. Razvili smo ove usluge imale na umu samostalnost. Svaka od usluga istovremeno pokreće više instanci, tako da to ne utiče na naše klijente, čak i ako jedna instanca ima problema. Svaka usluga se takođe nalazi, pa ako se pojavi problem sa jednom uslugom, ona se neće proširiti na ostale. Na kraju, zaštite su ugrađene u kôd svake usluge kako bi se sprečile kaskadne greške kroz uslugu.
 
-Da biste saznali više o našim naporima da održimo stabilne usluge, pogledajte [Upravljanje kontinuitetom preduzeća (EBCM) sa uslugama oblaka](https://go.microsoft.com/fwlink/?linkid=2124377).
+Da biste saznali više o našim naporima da usluge održimo stabilnim, pogledajte upravljanje kontinuitetom poslovne [saradnje (EBCM) u uslugama u oblaku.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Cijenili bismo vaše povratne informacije, zato kliknite na dugme **da** / **ne** na pitanje koje se pojavi, a zatim ocenite iskustvo.
+Cenili bismo povratne informacije od vas, pa izaberite Da Ne na pitanje koje se /  pojavljuje, a zatim ocenite svoje iskustvo.

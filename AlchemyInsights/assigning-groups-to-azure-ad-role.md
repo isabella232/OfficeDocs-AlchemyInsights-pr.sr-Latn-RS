@@ -1,5 +1,5 @@
 ---
-title: Dodeljivanje grupa ka usluzi Azure AD
+title: Dodeljivanje grupa Azure AD ulozi
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036254"
 ---
-# <a name="assigning-groups-to-azure-ad-role"></a>Dodeljivanje grupa ka usluzi Azure AD
+# <a name="assigning-groups-to-azure-ad-role"></a>Dodeljivanje grupa Azure AD ulozi
 
-Da biste dodelili Azure AD grupu sa izvorom autoriteta u Azure AD u ulozi Azure oglasa, obavite sledeće korake:
+Da biste Azure AD grupi sa izvorom autoriteta u Azure AD dodelili Azure AD ulogu, izvršite sledeće korake:
 
-1. Kreirajte novu grupu – da biste kreirali novu grupu:
+1. Kreiranje nove grupe – Da biste kreirali novu grupu:
 
-    Neko. Prijavite se u centar za Azure AD administracije sa **privilegiranom administratorom uloge** ili dozvolama za **Opšte administratore** .
-    -. Izaberite **Azure Active Directory > grupe > sve grupe > nova grupa**.
-    trojku. Kreirajte grupu.
+    a. Prijavite se u Azure AD centar administracije sa privilegovanim **administratorom uloga** ili **globalnim administratorskim** dozvolama.
+    b. Izaberite **Azure Active Directory > Grupe > Stavku Sve > Nova grupa.**
+    c. Kreirajte grupu.
 
-2. Dodelite ulogu grupi ili kada se grupa kreira.
+2. Dodelite ulogu grupi tokom kreiranja grupe ili nakon kreiranja grupe.
 
-    Neko. Da biste grupi dodelili ulogu u vreme kreiranja grupe, prebacivanje na opciju preklopnika **Azure oglasa može biti dodeljeno grupi** i Kreiranje grupe.
-    -. Da biste dodelili ulogu grupi nakon kreiranja, pređite na karticu **dodeljene uloge** za novu grupu i dodelite joj ulogu.  
+    a. Da biste dodelili ulogu grupi u trenutku kreiranja grupe, prebacite preklopnik **Azure AD** uloge i kreirajte grupu.
+    b. Da biste dodelili ulogu grupi nakon kreiranja, na  kartici Dodeljene uloge za novu napravljenu grupu i dodelite ulogu grupi.  
 
-**Upravljanje članstvom grupe koja je dodeljena usluzi Azure AD**
+**Upravljanje članstvom u grupi koja je dodeljena Azure AD ulozi**
 
-Da biste sprečili podizanje privilegija, podrazumevano, samo privilegovani administratori uloga i globalni administratori mogu da izmene članstvo grupe koja je dodeljena ulozi. Međutim, oni mogu da izaberu da dodele vlasnika za takvu grupu i delegatu ovaj zadatak.
+Da bi se sprečilo podizanje privilegija, samo privilegovani administratori i globalni administratori podrazumevano mogu da izmene članstvo grupe koja je dodeljena ulozi. Međutim, oni mogu da odaberu da dodele vlasnika za takvu grupu i delegira ovaj zadatak.
 
-Više detalja o dodeljivanju grupa oblaka usluzi Azure AD uloge potražite u članku [dodeljivanje uloga u grupi Cloud](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Da biste saznali više o rešavanju problema sa ulogama u oblaku, pogledajte članak [Rešavanje problema sa grupama u oblaku](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Više detalja o dodeljivanju grupa u oblaku Azure AD ulogama možete da vidite u temi Dodela [AD uloga grupi u oblaku.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Više detalja o rešavanju problema sa ulogama dodeljenim grupama u oblaku, pogledajte rešavanje problema sa [ulogama dodeljenim grupama u oblaku.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 

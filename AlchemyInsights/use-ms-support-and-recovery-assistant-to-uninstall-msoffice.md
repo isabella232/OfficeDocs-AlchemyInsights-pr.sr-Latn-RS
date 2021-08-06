@@ -1,5 +1,5 @@
 ---
-title: Koristite Microsoft pomoćnik za podršku i oporavak da biste deinstalirali Microsoft Office
+title: Koristite Microsoft Pomoćnik za podršku i oporavak da biste deinstal Microsoft kancelarija
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908442"
 ---
-# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Koristite Microsoft pomoćnik za podršku i oporavak da biste deinstalirali Microsoft Office
+# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Koristite Microsoft Pomoćnik za podršku i oporavak da biste deinstal Microsoft kancelarija
 
 Evo kako:
 
-1. Preuzmite [Microsoft pomoćnik za podršku i oporavak](https://go.microsoft.com/fwlink/?linkid=2139122).
+1. Preuzmite [Microsoft Pomoćnik za podršku i oporavak.](https://go.microsoft.com/fwlink/?linkid=2139122)
 1. Na dnu prozora pregledača kliknite na dugme **Pokreni** da biste pokrenuli **SetupProd_OffScrub.exe** datoteku.
-1. Izaberite verziju koju želite da deinstalirate, a zatim kliknite na dugme **dalje**.
-1. Slijedite korake. Kada vam bude zatraženo, ponovo pokrenite računar.
-1. Kada se računar ponovo pokrene, alatka se automatski ponovo otvara i vodi vas kroz preostale korake.
+1. Izaberite verziju koju želite da deinstalelite, a zatim kliknite na dugme **Dalje.**
+1. Pratite korake. Kada se to od vas zatraži, ponovo pokrenite računar.
+1. Kada se računar ponovo pokrene, alatka će se ponovo otvoriti automatski i proći kroz preostale korake.
 
-Ako treba da ponovo instalirate Microsoft Office, izvršite proceduru specifičnu za verziju koja vam je potrebna: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)ili [Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).
+Ako treba ponovo da instalirate Microsoft kancelarija, pratite proceduru specifičnu za verziju koja vam je potrebna: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Kancelarija 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Kancelarija 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Kancelarija 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Kancelarija 2010](https://go.microsoft.com/fwlink/?linkid=2139237)ili [Kancelarija 2007.](https://go.microsoft.com/fwlink/?linkid=2138644)

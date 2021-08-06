@@ -1,5 +1,5 @@
 ---
-title: Vraćanje lozinki ne radi
+title: Pisanje lozinkom ne funkcioniše
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999758"
 ---
-# <a name="password-writeback-is-not-working"></a>Vraćanje lozinki ne radi
+# <a name="password-writeback-is-not-working"></a>Pisanje lozinkom ne funkcioniše
 
-**Imam problema sa konfigurisanjem sinhronizacijom lozinki**
+**Imam problema sa konfigurisanje pisanjem lozinke**
 
-- Ponovno upisivanje lozinki je Premium funkcija.
-- Uverite se da razumete zahteve licenciranja:
-  - Morate imati bar jednu licencu dodeljenu u organizaciji
-  - **Samo oblaci korisnici** – bilo koji Office 365 (O365) plaćeni MJ ili AZURE AD Basic
-  - **Cloud i/ili lokalno korisnici** – AZURE AD Premium P1 ili P2, Enterprise mobilnost + Security (Ems) ili bezbedno preduzeće (SPE)
-    - Da biste saznali više o zahtevima licenciranja, pogledajte članak [licenciranje zahteva za Azure AD samouslužno poništavanje lozinke](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Imate najmanje jedan administratorski nalog i jedan probni korisnički nalog sa jednom od odgovarajućih licenci.
-- Morate da povežete Azure AD se poveže sa glavnim Emulatorom kontrolora domena za upisivanje lozinki na posao. Možete da konfigurišete Azure AD Connect da biste koristili primarni kontroler domena tako što ćete kliknuti desnim tasterom miša na **Svojstva** konektora za sinhronizaciju aktivnog direktorijuma, a zatim izabrati stavku **Podešavanje Particija direktorijuma**. Odatle potražite odeljak **Postavke veze sa kontrolerom domena** i potvrdite izbor u polju za potvrdu pod naslovom **samo koristite željene kontrolore domena**.
+- Pisanje lozinkom je premium funkcija.
+- Uverite se da razumete zahteve za licenciranje:
+  - Morate imati dodeljenu najmanje jednu licencu u organizaciji
+  - **Samo korisnici u oblaku** – Svi Office 365 (O365) plaćeni SKU ili Azure AD Basic
+  - **Oblak i/ili** korisnici – Azure AD Premium P1 ili P2, Enterprise Mobility + Security (EMS) ili Secure Productive Enterprise (SPE)
+    - Da biste saznali više o zahtevima za licenciranje, pogledajte zahteve za licenciranje za samouslužno poništavanje lozinke za [Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Imate bar jedan administratorski nalog i jedan probni korisnički nalog sa jednom od odgovarajućih licenci.
+- Morate da povežete Azure AD Povezivanje sa emulatorom primarnog kontrolera domena da bi pisanje lozinki radilo. Azure AD Povezivanje možete da konfigurišete tako da koristi primarni kontroler domena tako što ćete kliknuti desnim tasterom miša na svojstva konektora za sinhronizaciju usluge Active Directory, a zatim izabrati konfigurisanje particija  direktorijuma.  Odatle možete da pogledate odeljak **sa** postavkama veze kontrolera domena i izaberite polje za potvrdu pod nazivom Samo koristite **željene kontrolere domena.**
   > [!NOTE]
-  > Ako centar za željeni centar nije PDC Emulator, Azure AD Connect i dalje dostižu PDC-u za ponovno upisivanje lozinki.
-- Poništavanje lozinke je podešeno i omogućeno u vašem zakupcu. Više informacija potražite u članku [Omogućavanje korisnicima da resetuju svoje Azure oglase lozinke](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started).
-- Uverite se da je administratorski nalog koji se koristi za omogućavanje ispravnosti lozinki administratorski nalog (kreiran u okviru Azure AD nije lokalni AD)
-- Imate jedan ili više šuma OGLAŠAVANJE na lokalnom sajtu koji radi pod operativnim sistemom Windows Server 2008 R2, Windows Server 2012 ili Windows Server 2012 R2 sa instaliranim najsavremenijim servisnim paketima
-- Imate instaliranu alatku Azure AD Connect i pripremili ste reklamu za sinhronizaciju u oblaku. Pre nego što testirate poništavanje lozinki, uverite se da ste prvi put dovršili sa sinhronizacijom kompletne i potpune sinhronizacije iz AD i Azure AD u usluzi Azure AD Connect.
-- Da biste saznali više, pogledajte članak kako se radi [potpuna sinhronizacija i kompletan uvoz u usluzi Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
+  > Ako željeni DC nije PDC emulator, Azure AD Povezivanje će i dalje kontaktirati PDC za pisanje lozinki.
+- Poništavanje lozinke je konfigurisano i omogućeno u vašem zakupca. Više informacija potražite u [temi Omogućavanje korisnicima da ponište Azure AD lozinke.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
+- Proverite da li je administratorski nalog koji se koristi za omogućavanje funkcije "Pisanje lozinke" administratorski nalog u oblaku (koji je kreiran u uslugi Azure AD, a ne za uslugu AD)
+- Primena usluge sa jednom šumom ili više šuma AD pod operativnim sistemom Windows Server 2008 R2, Windows Server 2012 ili Windows Server 2012 R2 sa instaliranim najnovijim servisnim paketima
+- Imate instaliranu alatku Azure AD Povezivanje i pripremili ste AD okruženje za sinhronizaciju sa oblakom. Pre nego što testirate pisanje lozinkom, uverite se da ste prvo dovršili kompletnu i uvoznu i kompletnu sinhronizaciju sa AD i Azure AD u Azure AD Povezivanje.
+- Da biste saznali više, pogledajte kako da sinhronizujete [i kompletno uvezete u Azure AD Povezivanje](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
-**Imam problem sa mogućnošću povezivanja lozinki**
+**Imam problem sa povezivanjem za pisanje lozinke**
 
-1. Preuzmite i omogućite najnoviju verziju usluge [Azure AD Connect](https://www.microsoft.com/download/details.aspx?id=47594)
-2. Konfiguracija zaštitnog zida: alatka Azure AD Connect (1.1.443 i iznad) Trebaće im **HTTPS** pristup na:
+1. Preuzmite i omogućite najnoviju verziju [Azure AD Povezivanje](https://www.microsoft.com/download/details.aspx?id=47594)
+2. Konfiguracija zaštitnog zida: Azure AD Povezivanje alatki (1.1.443 i novijim) biće potreban izlazni **HTTPS** pristup:
     - passwordreset.microsoftonline.com
-    - servicebus. Windows. mreže
-3. Omogući da veza sa nepristupačnošću potraje najmanje 2-3 minuta
+    - servicebus.windows.networks
+3. Omogućavanje neisporučivanih veza da se traju najmanje 2–3 minuta
 
-**Još uvek imam problema sa lozinkom sinhronizacijom**
+**I dalje imam problema sa pisanjem lozinki**
 
-- Ako i dalje imate poteškoća, pokušajte da onemogućite i ponovo omogućite uslugu "ispravnost lozinke" u alatki Azure AD Connect
-- Da biste saznali više, pogledajte kako da [onemogućite i ponovo omogućite poništavanje lozinki.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)
+- Ako i dalje imate poteškoća, pokušajte da deomitovate i ponovo omogućavate uslugu upisivanja lozinke u alatki Azure AD Povezivanje
+- Da biste saznali više, pogledajte kako da onemogućite [i ponovo omogućite pisanje lozinke](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

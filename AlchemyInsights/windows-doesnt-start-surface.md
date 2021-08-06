@@ -1,5 +1,5 @@
 ---
-title: Windows se ne pokreće na površini
+title: Windows ne počinje na Surface
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: d4e86433bb15e07143b0b25bb515eedcfd329cb9
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 91ccb5d24b820978579ece9a412cb87c5540564d9c1005482ab928b53a0c1a10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036794"
 ---
-# <a name="windows-doesnt-start-on-surface"></a>Windows se ne pokreće na površini
+# <a name="windows-doesnt-start-on-surface"></a>Windows ne počinje na Surface
 
-Ako se Windows ne pokrene sa vaše površine ili se uređaj ne probudi iz stanja spavanja, isprobajte ove korake za rešavanje problema:
+Ako Windows ne pokrenete Surface ili se uređaj ne probudi iz spavanja, isprobajte ove korake za rešavanje problema:
 
-- Ako se Windows ne pokrene ispravno kada uključite površinu (tj. Windows se ne pokreće), korake za rešavanje problema potražite u članku [Windows se ne pokreće na površini](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c).
+- Ako Windows ne pokrenete ispravno kada uključite Surface (tj. Windows se ne pokrene), korake za rešavanje problema možete da vidite u Windows se ne pokreće na [Surface računaru.](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c)
 
-- Ako površina neće da se uključi ili probudi, za prikaz koraka rešavanja problema [ne uključuje se ili se može probuditi iz stanja spavanja](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a).
+- Ako Surface neće da se uključi ili probudi, korake za rešavanje problema pogledajte u odeljku Surface neće da se uključi ili [probudi iz spavanja.](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a)
 
-- Ako koristite uređaj nezavisnog proizvođača, pogledajte članak [Rešavanje problema sa uređajima nezavisnih](https://support.microsoft.com/topic/b6f3408d-dac9-43e2-82f6-e620ca783636)proizvođača.
+- Ako koristite uređaj nezavisnog proizvođača, pogledajte rešavanje problema sa [uređajima nezavisnih proizvođača.](https://support.microsoft.com/topic/b6f3408d-dac9-43e2-82f6-e620ca783636)
 

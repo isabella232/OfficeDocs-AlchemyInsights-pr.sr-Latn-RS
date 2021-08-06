@@ -1,5 +1,5 @@
 ---
-title: Grupa se ne prikazuje na listi grupa
+title: Vaša grupa se ne prikazuje na listi "Grupe"
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9a4cc59288046affe35c9248a3829e3c0b3fa361b5120e47aaeaa34eec7a983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907644"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Grupa "{AimKIObject}" se ne prikazuje u listi grupe
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Vaša grupa "{AimKIObject}" se ne prikazuje na listi "Grupe"
 
-Grupa "{AimKIObject}" je kreirana {AimKITimeElapsed}. Može da potraje do 60 minuta pre nego što se pojavi nova grupa u centru administracije.
+Grupa za distribuciju pod imenom "{AimKIObject}" kreirana je {AimKITimeElapsed} pre par minuta. Može potrajati i do 60 minuta dok se nova grupa ne pojavi u centru za administaciju.
   
-Ako želite da dodate članove ili odmah izvršite druge promene, koristite funkciju "grupe" u [Exchange centru administracije](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Ako želite da dodate članove ili odmah uredite druge stvari, koristite funkciju "Grupe" u [Exchange centru za administaciju](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

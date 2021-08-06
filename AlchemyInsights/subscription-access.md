@@ -1,5 +1,5 @@
 ---
-title: Pristup pretplate
+title: Pristup pretplatama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999254"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Nije moguće prijaviti Azure za prijavljivanje zbog problema sa pregledom (pregledač se ne odaziva, nastavlja da se vrti, ne učita itd.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Nije moguće prijaviti Azure zbog problema sa pregledačem (pregledač se ne odaziva, ne učitava se itd.)
 
-Možda ćete imati problema sa nestankom. Proverite da li postoji trenutna nestanka: [Azure zdravstveni status](https://status.azure.com/status/history/).
+Možda će vas nešto uticati na preklonje. Proverite da li je došlo do trenutnog preklonjanja: [Azure status zdravstvenog stanja.](https://status.azure.com/status/history/)
 
-Odjavite se sa svih aktivnih Azure sesija. Započnite privatno ili inkognito režim Veb pregledača.
+Odjavite se iz svih aktivnih Azure sesija. Pokrenite režim privatnog ili incognito pregledača.
 
-Možete i da pokušate da osvežite pregledač, koristite drugi pregledač, izbrišete keš keširanja ako iznad ne funkcioniše.
+Možete da pokušate i da osvežite pregledač, koristite drugi pregledač, izbrišete kolačiće keša ako gorenavedeni ne funkcioniše.
 
 Saznajte više: [Rešavanje problema sa prijavljivanjem](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
 **Nije moguće pristupiti pretplatama**
 
-Na sajtu [Azure](https://portal.azure.com/)uverite se da je u nalogu u gornjem desnom članku izabrana Azure direktorijum.
+Na [portalu za Azure proverite](https://portal.azure.com/)da li je iz naloga u gornjem desnom vremenu izabran odgovarajući Azure direktorijum.
 
-U [centru Azure naloga](https://account.windowsazure.com/Subscriptions)proverite da li je nalog koji se koristi administrator naloga.
+U [centru Azure naloga](https://account.windowsazure.com/Subscriptions)proverite da li je nalog koji se koristio administant naloga.
 
-Saznajte više: [Rešavanje problema sa pronađenih pretplata](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Saznajte više: [Rešavanje problema nije pronađeno nijedna pretplata](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nije moguće pristupiti istoriji naplata**
+**Nije moguće pristupiti istoriji naplate**
 
-Administrator naloga mora da se uveri da se korisnik pristupa informacijama o naplati dodaje u Azure Active Directory kao korisnik gosta: [Dodavanje ili brisanje novog korisnika](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Korisnik naloga mora da proveri da li je korisnik koji pristupa informacijama o naplati dodat u Azure Active directory kao korisnik sa u goste: Dodajte ili izbrišite novog [korisnika.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Korisniku treba da se dodeli globalna uloga administratora: [Dodeli ulogu korisnicima](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Korisniku zatim mora da bude dodeljena uloga globalnog adminisitera: [Dodeli ulogu korisnicima](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-Proknjižite ovo, korisniku može biti dat pristup naplate koristeći RBAC smernice: [Dodeli pristup naplata](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Ako objavite ovu objavu, korisniku može biti dodeljen pristup naplati pomoću RBAC smernica: [Odobrite pristup naplati](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Preporučeni dokumenti**
 

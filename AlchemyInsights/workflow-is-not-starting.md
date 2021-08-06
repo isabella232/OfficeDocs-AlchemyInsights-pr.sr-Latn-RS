@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907752"
 ---
 # <a name="workflow-is-not-starting"></a>Tok posla se ne pokreće
 
@@ -36,7 +36,7 @@ ms.locfileid: "51403757"
 
    -  Ako je tok posla složen jezik za naznake extensible Object Markup (XMOL), kompajlacija može biti spora. Pogledajte [ovaj](https://support.microsoft.com//kb/3043697) članak.
 
-    - Trebalo bi da pojednostaviti tok posla ili ga redizajnovati pomoću tipa platforme Microsoft SharePoint 2013 toka posla.
+    - Trebalo bi da pojednostaviti tok posla ili ga redizajnovati koristeći tip platforme Microsoft SharePoint 2013 tok posla.
 
     - Ako je vaša istorija toka posla velika, možda ćete želeti da ih iščistite ili da napravite novu listu istorije.
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403757"
 
 
 ## <a name="related-topics"></a>Сродне теме
-Želite da isprobate Microsoft Flow u sistemu SharePoint Online?
-- [Kreiranje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Želite da probate Microsoft Flow u SharePoint Online?
+- [Kreiranje Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint i Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

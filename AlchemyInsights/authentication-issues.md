@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019522"
 ---
 # <a name="authentication-issues"></a>Potvrda identiteta
 
@@ -75,14 +75,14 @@ Za više informacija u vezi sa uslovnim pristupom pogledajte članak:
 - [Rešavanje izazova uslovnog pristupa pomoću MSAL-a](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Smernice za programere za uslovni pristup Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Kraj podrške za Azure Active Directory biblioteku potvrde identiteta (ADAL) i Azure AD Graph API (AAD Graph)_* _
+***Kraj podrške za Azure Active Directory biblioteke potvrde identiteta (ADAL) i Azure AD Graph API (AAD Graph)***
 
 - Od 30. juna 2020. više nećemo dodavati nove funkcije u Azure Active Directory Authentication Library (ADAL) i Azure AD Graph API (AAD Graph). Nastavićemo da pružamo tehničku podršku i bezbednosne ispravke, ali više nećemo pružati ispravke funkcija.
 - Od 30. juna 2022. prestaćemo sa podrškom za ADAL i AAD Graph i više nećemo pružati tehničku podršku ili bezbednosne ispravke.
     - Aplikacije koje koriste ADAL na postojećim verzijama OS nastaviće da rade i nakon ovog vremena, ali neće dobiti nikakvu tehničku podršku ili bezbednosne ispravke.
     - Aplikacije koje koriste AAD Graph nakon ovog vremena možda više neće primati odgovore od krajnje tačke AAD Graph.
 
-_ *ADAL migracija**
+**ADAL migracija**
 
 Preporučujemo ažuriranje na [Microsoft Authentication Library (MSAL) ](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)koja ima najnovije funkcije i bezbednosne ispravke. Ova preporuka je u kontekstu Microsoft migracije svojih aplikacija na MSAL do krajnjeg roka za podršku. Cilj migracije Microsoft aplikacija na MSAL je da obezbedi da aplikacije imaju koristi od stalnih poboljšanja MSAL i zaštite.
 

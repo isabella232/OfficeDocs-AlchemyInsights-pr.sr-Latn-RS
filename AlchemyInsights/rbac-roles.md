@@ -1,5 +1,5 @@
 ---
-title: 'Uloge u RBAC-u '
+title: 'Uloge RBAC '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923145"
 ---
-# <a name="rbac-rules"></a>Pravila za RBAC
+# <a name="rbac-rules"></a>RBAC pravila
 
-Ako dobijete grešku sa dozvolom: 
+Ako dobijete grešku dozvole: 
 
-- **Klijent sa ID-om objekta nema ovlaštenja da izvršava radnju iznad opsega (kôd: autorizacija nije uspelo)**: kada pokušate da kreirate resurs, uverite se da ste trenutno prijavljeni sa korisnikom koji ima dozvolu za upisivanje u resurs na izabranom opsegu. Na primer, da biste upravljali virtuelnim mašinama u grupi resursa, trebalo bi da imate ulogu [saradnika virtualnog mašinskog](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) programa u grupi resursa (ili nadređenom opsegu). Listu dozvola za svaku ugrađenu ulogu potražite [u članku ugrađene uloge za Azure resurse](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Nemate **dozvolu da kreirate zahtev za podršku**: kada pokušate da kreirate ili ažurirate karte za podršku, uverite se da ste trenutno prijavljeni sa korisnikom kojem je dodeljena uloga koja ima Microsoft. support/support karte/pišite dozvole, kao što je [doprinos podrške](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor).
-- **Ne možete da kreirate više dodeljenih uloga (kôd: Roleromentograniиenje premašivanja)**: kada pokušate da dodelite ulogu, pokušajte da smanjite broj dodeljivanja uloga tako što dodeljujete uloge grupama. Azure podržava do **2000** dodeljivanja uloga po pretplati.
+- Klijent sa ID-om objekta nema ovlašćenje za izvršavanje radnje nad raspodelom **(kôd: AutorizacijaFailed)**: kada pokušate da kreirate resurs, proverite da li ste trenutno prijavljeni kod korisnika kojoj je dodeljena uloga koja ima dozvolu za pisanje za resurs u izabranom polju. Na primer, da biste upravljali virtuelnim [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) mašinama u grupi resursa, trebalo bi da imate ulogu saradnika virtuelne mašine u grupi resursa (ili nadređenom vremenu). Listu dozvola za svaku ugrađenu ulogu pogledajte u ugrađenim ulogama za [Azure resurse.](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Nemate dozvolu za kreiranje zahteva za podršku: kada pokušate da kreirate ili ažurirate tiket za podršku, proverite da li ste trenutno prijavljeni kod korisnika čije je uloga dodeljena microsoft.support/supportTickets/write dozvola, kao što je Saradnik sa zahtevom za podršku. [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)
+- Više nije moguće kreirati dodele uloga **(kôd: RoleAssignmentLimitExceed)**: kada pokušate da dodelite ulogu, pokušajte da smanjite broj dodela uloga dodeljivanjem uloga grupama. Azure podržava do **2000 dodela** uloga po pretplati.
 
-Više detalja o Azure RBAC ulogama potražite u članku [AZURE rbac uloge](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Više detalja o Ulogama Azure RBAC možete da vidite u [Azure RBAC ulogama](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).

@@ -1,5 +1,5 @@
 ---
-title: Preporučuje se rešenja za dinamiku za 365
+title: Preporučite rešenja za probleme sa Dynamics 365 skladištem
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922965"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Preporučuje se rešenja za dinamiku za 365
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Preporučite rešenja za probleme sa Dynamics 365 skladištem
 
-* Kao globalni administrator, prikažite prostor za skladištenje po okruženju, prvih 10 tabela i još mnogo toga
+* Kao globalni administrator, prikažite pregled skladišta po okruženju, prvih 10 tabela i još mnogo toga
 
-* [Pitanja o naplati i pretplata na čuvanje](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Pitanja o naplati i pretplati za skladište](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dinamika 365 cenovnik i Vodič za licenciranje](https://dynamics.microsoft.com/pricing/)
+* [Vodič za Dynamics 365 cene i licenciranje](https://dynamics.microsoft.com/pricing/)
 
-* [Kako da kupite još skladišta](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Kako da kupite još prostora za skladištenje](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
 * [Kako da oslobodite skladište](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
