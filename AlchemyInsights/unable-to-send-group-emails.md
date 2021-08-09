@@ -1,5 +1,5 @@
 ---
-title: 8000053 nije moguće slati e-poruke grupe
+title: 8000053 nije moguće poslati grupne e-poruke
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060582"
 ---
 # <a name="unable-to-send-group-emails"></a>Nije moguće poslati e-poruke grupe
 
-Ako ne možete da pošaljete e-poštu u spiskove kontakata ili grupe kontakata u Outlook.com, Isprobajte sledeće:
+Ako ne možete da pošaljete e-poruku listama kontakata ili grupama kontakata u Outlook.com, pokušajte sledeće:
   
-1. Koristite Outlook.com Beta. Više informacija potražite [u članku Outlook.com Beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Koristite Outlook.com beta. Dodatne informacije [potražite u temi Saznajte više o Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
-2. Ako i dalje imate problema prilikom sastavljanja e-poruke u grupi, idite na stavku [osobe](https://outlook.live.com/people/), izaberite listu kontakata ili grupu, a zatim odaberite stavku **Pošalji e-poruku**.
+2. Ako i dalje imate problema pri sastavljanju e-poruke grupi, idite na osobe [,](https://outlook.live.com/people/)izaberite spisak kontakata ili grupu, a zatim odaberite stavku Pošalji **e-poruku**.
     
- **Primeć**
+ **Napomene:**
   
-1. Proverite da li su iskačući prozori blokirani: slanje e-pošte sa stranice sa listom kontakata otvara novi prozor.
+1. Uverite se da niste blokirali iskačuće prozore: slanje e-pošte sa stranice spiska kontakata otvara novi prozor.
     
-2. Pošaljite poštu sa spiska kontakata automatski postavlja listu u red **za** . Ako želite da sakrijete detalje liste kontakata, kliknite na dugme **Bcc** u gornjem desnom uglu, a zatim kopirajte i nalepite listu kontakata u **Bcc** i izbrišite stavku **za** . 
+2. Slanje e-pošte sa spiska kontakata automatski postavlja listu u red **ZA.** Ako želite da sakrijete detalje spiska kontakata, izaberite stavku **BCC** u gornjem desnom uglu, a zatim kopirajte i nalepite spisak kontakata u **BCC** i izbrišite **stavku ZA.** 
     
-3. Kada koristite **Bcc**, preporučuje se da uvek imate nešto u redu " **za** ", na primer vaša sopstvena "od" adresa. 
+3. Kad **koristite BCC,** dobra je praksa da uvek imate nešto u redu **ZA,** na primer svoju adresu "od". 
     
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060078"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Pristup BitLocker ključevima za oporavak
 
-Prilikom konfigurisanja BitLocker postavki Intune smernice za zaštitu krajnje tačke, moguće je definisati da li bitlocker informacije o oporavku treba da budu uskladištene u Azure Active Directory.
+Prilikom konfigurisanja BitLocker postavki Intune smernice za zaštitu krajnje tačke, moguće je definisati da li bitlocker informacije o oporavku treba da se skladište u Azure Active Directory.
 
 Ako je ta postavka konfigurisana, uskladišteni podaci o oporavku trebalo bi da budu vidljivi Intune adminitaru kao deo podataka zapisa o uređaju u intune uređajima na dva načina:
 
@@ -47,5 +47,5 @@ Ako je uređaj šifrovan pre upisanja u Intune, ključ za oporavak je možda pov
  
 Ako je uređaj šifrovan kao rezultat konfiguracije putem smernica grupe zasnovane na domenu, informacije o oporavku mogu da budu uskladištene u prethodnom sistemu Active Directory.
 
-Ako ste konfigurisali smernice za zaštitu krajnje tačke tako da skladište ključ za oporavak u Azure Active Directory, ali ključ za određeni uređaj nije otpremen, možete da pokrenete otpremanje tako što ćete rotirati ključ za oporavak za taj uređaj sa MEM konzole. Za detalje pogledajte [rotiranje BitLocker ključeva za oporavak.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Ako ste konfigurisali smernice za zaštitu krajnje tačke tako da skladište ključ za oporavak u operativnom Azure Active Directory ali ključ za određeni uređaj nije otpremen, možete da pokrenete otpremanje tako što ćete rotirati ključ za oporavak za taj uređaj sa MEM konzole. Za detalje pogledajte [rotiranje BitLocker ključeva za oporavak.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
