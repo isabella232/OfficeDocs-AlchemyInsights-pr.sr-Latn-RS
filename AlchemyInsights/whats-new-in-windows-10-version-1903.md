@@ -1,5 +1,5 @@
 ---
-title: Šta je novo u operativnom sistemu Windows 10, verzija 1903
+title: Šta je novo u operativnom Windows 10 verziji 1903
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970669"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>Šta je novo u operativnom sistemu Windows 10, verzija 1903
+# <a name="whats-new-in-windows-10-version-1903"></a>Šta je novo u operativnom Windows 10 verziji 1903
 
-Evo novih i ažuriranih funkcija i sadržaja za Windows 10 verzija 1903, poznate i kao Windows 10 May 2019 Update. Ova ispravka takođe sadrži sve funkcije i ispravke uključene u prethodnim kumulativnim ispravkama za Windows 10, verzija 1809:
+Evo novih i ažuriranih funkcija i sadržaja za Windows 10 verziju 1903, poznate i kao Ispravka za Windows 10 iz maja 2019.. Ova ispravka takođe sadrži sve funkcije i ispravke uključene u prethodne kumulativne ispravke za Windows 10 verziji 1809:
 
-1. [Иko](https://go.microsoft.com/fwlink/?linkid=2114296)
-1. [Op](https://go.microsoft.com/fwlink/?linkid=2114493)
+1. [Primena](https://go.microsoft.com/fwlink/?linkid=2114296)
+1. [Servisiranje](https://go.microsoft.com/fwlink/?linkid=2114493)
 1. [Bezbednost](https://go.microsoft.com/fwlink/?linkid=2114297)
 1. [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2114298)
