@@ -1,5 +1,5 @@
 ---
-title: Uređaji na brodu za Microsoft Defender za krajnju tačku
+title: Uređaji na tabli u Microsoft zaštitnik za krajnje tačke
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967491"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Uređaji na brodu za Microsoft Defender za krajnju tačku
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Uređaji na tabli u Microsoft zaštitnik za krajnje tačke
 
-Microsoft Defender za krajnju tačku pruža centralizovano iskustvo bezbednosti za Windows i platforme koje nisu Windows. Pomaže vam da zaštitite mrežu organizacije i koristite bezbednosni centar Microsoft Defender da biste pregledali obaveštenja iz različitih podržanih operativnih sistema:
+Microsoft zaštitnik za krajnje tačke pruža utisak pri radu sa centralizovanim bezbednosnim operacijama za Windows i platforme koje Windows ne Windows programima. On vam pomaže da zaštitite mrežu organizacije i koristite Centar za bezbednost Microsoft zaštitnika za pregled upozorenja iz različitih podržanih operativnih sistema:
 
-- Za **Windows 10 mašine** pogledajte članak [Alatke za ukrcavanje i metodi za Windows 10 uređaje](https://go.microsoft.com/fwlink/?linkid=2143460).
-- Za **Windows servere** pogledajte [Office servere na poslužiteljima Microsoft Defender za krajnju tačku](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Za **krajnje tačke koje nisu Windows**, proverite da li vaš sistem ispunjava zahteve za [MacOS](https://go.microsoft.com/fwlink/?linkid=2143461) ili [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), a zatim pređite na [onkoloљke](https://go.microsoft.com/fwlink/?linkid=2143628).
+- Ako **Windows 10 računare,** pogledajte stavku Alatke za [ulaz i metode za Windows 10 uređaje.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Više **Windows serverima, pogledajte** članak Serveri kontrolne table za [uslugu Microsoft zaštitnik za uslugu krajnje tačke.](https://go.microsoft.com/fwlink/?linkid=2143627)
+- Za **nepostojane Windows** proverite da li sistem ispunjava zahteve za [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) ili [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), a zatim pređite na uvoženje . [](https://go.microsoft.com/fwlink/?linkid=2143628)

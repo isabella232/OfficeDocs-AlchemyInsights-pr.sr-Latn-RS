@@ -1,5 +1,5 @@
 ---
-title: Problem sa proxy serverom za aplikacije
+title: Problem sa proxy mrežnim prolazom aplikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951543"
 ---
-# <a name="app-proxy-gateway-issue"></a>Problem sa proxy serverom za aplikacije
+# <a name="app-proxy-gateway-issue"></a>Problem sa proxy mrežnim prolazom aplikacije
 
-Da biste rešili uobičajene probleme za grešku "nije moguće pristupiti ovoj korporaciji korporaciji" u proxy aplikaciji Azure AD App, pogledajte [članak "nije moguće pristupiti ovoj aplikaciji" korporaciji "prilikom korišćenja proxy aplikacije za aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error).
+Da biste rešili uobičajene probleme sa greškom "Nije moguće pristupiti ovoj korporativnoj aplikaciji" u aplikaciji Azure AD Application Proxy, pogledajte grešku ["Nije](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)moguće pristupiti ovoj korporativnoj aplikaciji" prilikom korišćenja aplikacije Proxy aplikacije.

@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909948"
 ---
 # <a name="solutions-for-error-30016-4"></a>Rešenja za grešku 30016-4
 
-Kada pokušate da deinstalirate Microsoft 365 aplikacije za Enterprise sa računara i dobijete poruku o grešci, **nešto je krenulo pogrešno 30016-4**, to znači da je drive **% temp** mapiran na disk jedinicu koja nije **% ProgramFiles%**.
+Kada pokušate da Microsoft 365 Apps za preduzeće sa računara i dobijete poruku o grešci Nešto nije u redu **30016-4,** to znači da je disk jedinica **%temp%** mapivana na disk jedinicu koja nije **%ProgramFiles%**.
   
-Da biste rešili, preuzmite i instalirajte [pomoćnika za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Da biste popravili, preuzmite i [instalirajte Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Kada se otvori, iz **deinstalacije Office proizvoda** izaberite verziju koju želite da deinstalirate i izaberete stavku **dalje**.
+1. Kada se otvori, iz stavke **Deinstaliranje Kancelarija proizvoda** izaberite verziju koju želite da deinstalelite i izaberite stavku **Dalje.**
 
 2. Nastavite da prolazite kroz ekrane i ponovo pokrenite računar kad se to zatraži.
 
-    Nakon ponovnog pokretanja, pomoćnik za podršku i oporavak automatski se ponovo otvara za dovršavanje procesa deinstalacije.
+    Nakon ponovnog pokretanja, Pomoćnik za podršku i oporavak se automatski ponovo otvara da bi se dovršio proces deinstalacije.
 
-3. Potražite preostale upite i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.
+3. Pratite preostala uputstva i ponovo [Kancelarija ili](https://portal.office.com/OLS/MySoftware.aspx) zatvorite pomoćnika.
