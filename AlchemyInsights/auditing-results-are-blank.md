@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917725"
 ---
 # <a name="auditing-results-are-blank"></a>Rezultati nadzora su prazni
 
- **Izveštaji o nadzoru za klasične lokacije**
+ **Izveštaji o nadzoru za klasične sajtove**
   
-Da biste prikazali izveštaj o nadzoru za SharePoint kolekciju lokacija, morate biti administrator za kolekciju lokacija. Da biste se dodali kao administrator, pogledajte članak [Dodavanje administratora kolekcije lokacija u globalni ili SharePoint administrator](https://go.microsoft.com/fwlink/?linkid=869390). Informacije o radu sa evidencijom nadzora potražite u članku [Prikaz izveštaja evidencije nadzora](https://go.microsoft.com/fwlink/?linkid=395237). 
+Da biste prikazali izveštaj o nadzoru SharePoint kolekciji lokacija, morate biti administrator za kolekciju lokacija. Da biste se dodali kao administrator, pogledajte dodavanje administratora kolekcije lokacija kao [globalnog ili SharePoint administratora.](https://go.microsoft.com/fwlink/?linkid=869390) Informacije o radu sa evidencijom nadzora potražite u članku [Prikaz izveštaja evidencije nadzora.](https://go.microsoft.com/fwlink/?linkid=395237) 
   
  **Pretraga evidencije nadzora**
   
-Morate da budete globalni administrator da biste radili sa evidencijom nadgledanja u centru za [bezbednost &amp; usaglašenosti](https://protection.office.com). Pre nego što počnete, uključite evidenciju nadzora. Zatim možete da pokrećete pretragu evidencije nadzora. 
+Morate da budete globalni korisnik da biste raditi sa evidencijom nadzora u centru za [usaglašenost &amp; bezbednosti.](https://protection.office.com) Pre nego što počnete, uključite evidenciju nadzora. Zatim možete da pokrenete pretragu evidencije nadzora. 
   
 [Saznajte kako da pretražite evidenciju nadzora](https://go.microsoft.com/fwlink/?linkid=708432).
   

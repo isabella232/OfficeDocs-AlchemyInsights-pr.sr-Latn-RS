@@ -1,5 +1,5 @@
 ---
-title: Promena kvote za skladištenje u usluzi OneDrive for Business
+title: Promena OneDrive for Business skladišta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968691"
 ---
 # <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Promena podrazumevanog OneDrive prostora za skladištenje za korisnike
 
-1. Idite na [stranicu skladišta OneDrive centra administracije](https://admin.onedrive.com/?v=StorageSettings).
+1. Idite na [stranicu "Skladište" OneDrive centra za administaciju](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Unesite podrazumevani iznos skladišta (u GB) u **podrazumevanom** polju za skladištenje, a zatim kliknite na dugme **Sačuvaj**.
+2. Unesite podrazumevani iznos skladišta (u GB) u polje **Podrazumevano skladište,** a zatim kliknite na **dugme Sačuvaj.**
     
-Ova postavka prostora za skladištenje se primenjuje na sve korisnike za koje niste odredili određena ograničenja skladištenja. Da biste promenili prostor za skladištenje za određene korisnike, morate da koristite Microsoft PowerShell. Informacije o tome kako da to uradite potražite u članku [Promena korisničkog OneDrive prostora za skladištenje pomoću programa PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Ova postavka prostora za skladištenje primenjuje se na sve korisnike za koje niste postavili određena ograničenja skladišta. Da biste promenili prostor za skladištenje za određene korisnike, morate da koristite Microsoft PowerShell. Informacije o tome kako to da uradite potražite u [članku Promena OneDrive skladištenja korisnika pomoću programa PowerShell.](https://go.microsoft.com/fwlink/?linkid=866402)
   
 

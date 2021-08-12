@@ -1,5 +1,5 @@
 ---
-title: 714 Dozvoljavanje spoljnim pošiljaocima da distribuiranje e-pošte
+title: 714 Dozvoljava spoljnim pošiljalacima liste distribucije e-pošte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 8f3511f0dc8c7951eaa7b0496797584efe2e7d4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1949558863eab3d81c6ef9fb575068e9b43957227d9d7edc91af71bd93364574
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933407"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Omogućavanje spoljnim pošiljaocima da šalju poruke grupama za distribuciju
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Dozvoljavanje spoljnim pošiljalacima da šalju poruke grupama za distribuciju
 
-Ako korisnici izvan vaše organizacije dobijaju greške prilikom slanja poruka grupama za distribuciju ili želite da proverite da li su grupe za distribuciju konfigurisane da primaju poštu od spoljnih pošiljalaca, slijedite ove korake:
+Ako korisnici izvan organizacije dobijaju greške kada šalju poruke grupama za distribuciju ili ako želite da proverite da li su vaše grupe za distribuciju konfigurisane za prijem pošte od spoljnih pošiljalaca, pratite ove korake:
 
-1. U Microsoft 365 centru administracije, idite na stranicu grupe **grupa**  >  [Groups](https://portal.office.com/adminportal/home#/groups) .  
+1. Na Microsoft 365 centar administracije idite na **stranicu**  >  [Grupe.](https://portal.office.com/adminportal/home#/groups)  
 
-2. Izaberite grupu za distribuciju i u oknu svojstva grupe izaberite karticu **Postavke** .
+2. Izaberite grupu za distribuciju i u oknu svojstava grupe izaberite **karticu Postavke** distribuciju.
 
-3. Izaberite stavku **Omogući spoljnim pošiljaocima da e-poštom ovu grupu**, a zatim izaberite stavku **Sačuvaj**.
+3. Izaberite **dozvoli spoljnim pošiljalacima da šalju e-poruke ovoj grupi**, a zatim **izaberite sačuvaj**.
