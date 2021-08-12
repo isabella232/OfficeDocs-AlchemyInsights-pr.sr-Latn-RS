@@ -1,5 +1,5 @@
 ---
-title: Dodavanje proširenja u Microsoft Edge iz prodavnice Microsoft Edge programski dodaci
+title: Dodavanje proširenja u Microsoft Edge iz Microsoft Edge Prodavnici dodataka
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936431"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Dodavanje proširenja u Microsoft Edge iz prodavnice Microsoft Edge programski dodaci
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Dodavanje proširenja u Microsoft Edge iz Microsoft Edge Prodavnici dodataka
 
-Da biste dodali proširenje u Microsoft Edge iz prodavnice Microsoft Edge programski dodaci:
+Da biste dodali proširenje u Microsoft Edge iz Microsoft Edge dodatke:
 
 - Otvorite Microsoft Edge.
-- Izaberite **... > proširenja > [nabavite proširenja za Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2136408)**
+- Izaberite **... > proširenja > [Nabavite proširenja za Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2136408)**
 - Izaberite proširenje koje želite da dodate, a zatim izaberite **stavku Nabavi**.
 - U dijalogu za potvrdu pažljivo pregledajte izmene koje proširenje može da napravi i izaberite stavku Dodaj **proširenje.**
 
