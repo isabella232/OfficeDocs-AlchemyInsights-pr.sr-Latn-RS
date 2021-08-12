@@ -1,5 +1,5 @@
 ---
-title: Konfigurisanje i validacija isključivanja za MDATP na Mac računaru
+title: Konfigurisanje i provera valjanosti izuzetka za MDATP na Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6614b017b6ef0aa71ef75887588d796d0d491279
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e115a29ff4d0d4b2a4b5a51d009f4a9d9c2d85f1e70d22a8ed804ce40ca7b4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916357"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Konfigurisanje i validacija isključivanja za MDATP na Mac računaru
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Konfigurisanje i provera valjanosti izuzetka za MDATP na Mac
 
-Možete da isključite datoteke, fascikle, procese i datoteke koje su otvorene za procese iz usluge MDATP na Mac računaru. Isključivanja pomoći sprečavaju nepravilno otkrivanje softvera i datoteka jedinstvenih ili prilagođene organizaciji. Isključenosti takođe pomažu da se umanjenje problema sa performansama izazove MDATP.
+Određene datoteke, fascikle, procese i procesno otvorene datoteke možete da isključite iz MDATP skeniranja na Mac računara. Izuseci sprečavaju neispravno otkrivanje softvera i datoteka jedinstvenih ili prilagođenih za vašu organizaciju. Izuseci takođe pomažu u ublaženju problema sa performansama koje izaziva MDATP.
 
-Da biste saznali više, pogledajte članak [Konfigurisanje i validacija isključivanja za MDATP na Mac računaru](https://go.microsoft.com/fwlink/?linkid=2144616).
+Da biste saznali više, pogledajte konfigurisanje i provera valjanosti izuzetka za [MDATP na Mac računara.](https://go.microsoft.com/fwlink/?linkid=2144616)

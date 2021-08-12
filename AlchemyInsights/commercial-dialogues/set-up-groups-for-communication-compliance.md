@@ -1,5 +1,5 @@
 ---
-title: Podešavanje grupa za usaglašenost u komunikaciji
+title: Podešavanje grupa za usaglašenost komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 6550e9a7ec675607565640741f9527688116e5b4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1f9205bf06460ea395611d8dd7dc875d49fa7ac1a5dd3654d372e670fb84e4fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966771"
 ---
-# <a name="set-up-groups-for-communication-compliance"></a>Podešavanje grupa za usaglašenost u komunikaciji
+# <a name="set-up-groups-for-communication-compliance"></a>Podešavanje grupa za usaglašenost komunikacije
 
-Ovaj stepenik je opcionalan. Ako želite da poиnete sa samo nekoliko korisnika da biste videli kako funkcionišu usaglašenost komunikacije, možete da preskočite ovaj stepenik.  
+Ovaj korak je opcionalan. Ako želite da počnete sa samo nekoliko korisnika da biste videli kako funkcioniše usaglašenost komunikacije, možete da preskočite ovaj korak.  
   
-Kada kreirate smernice za usaglašenost sa komunikacijom, definišete ko ima redigovanu komunikaciju i koji izvršava kritike. Koristite e-adrese da biste identifikovali osobe ili grupe osoba. Da biste pojednostavili postavku, možete da kreirate grupe za osobe koje pregledaju komunikaciju i grupe za osobe koje pregledaju te komunikacije.  
+Kada pravite smernice za usaglašenost komunikacije, vi definišete ko ima pregledane komunikacije i ko vrši redigovanje. Koristićete e-adrese za identifikovanje pojedinaca ili grupa ljudi. Da biste pojednostavio podešavanje, možete kreirati grupe za osobe koje imaju pregledanu komunikaciju i grupe za osobe koje pregledaju te komunikacije.  
   
-Da biste saznali kako, pogledajte članak [Podešavanje grupa za usaglašenost komunikacije](https://go.microsoft.com/fwlink/?linkid=2129594).
+Da biste saznali kako, pogledajte [tp Podešavanje grupa za usaglašenost komunikacije.](https://go.microsoft.com/fwlink/?linkid=2129594)

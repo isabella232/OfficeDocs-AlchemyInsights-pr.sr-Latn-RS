@@ -1,5 +1,5 @@
 ---
-title: Šta se dešava sa porukama u karantinu?
+title: Šta se dešava sa porukama koje se dešavaju u karantinu?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966591"
 ---
-# <a name="what-happens-to-quarantined-messages"></a>Šta se dešava sa porukama u karantinu?
+# <a name="what-happens-to-quarantined-messages"></a>Šta se dešava sa porukama koje se dešavaju u karantinu?
 
-Ako odaberete da ne uradite ništa, poruka će biti izbrisana od strane Office 365 automatski prilikom isteka. Napomena:
+Ako odlučite da ne uradite ništa, poruka će automatski biti izbrisana nakon Office 365 isteka. Imajte na sledeće načine:
 
-1. Po podrazumevanoj vrednosti, masovno, malver i phishing poruke čuvaju se u karantinu 15 dana.
-2. Poruka u karantinu koja se podudara sa pravilima toka pošte čuva se u karantinu sedam dana (ne možete da ga prilagodite).
-3. Kada Office 365 izbriše poruku iz karantina, ne možete da je dobijete nazad.
-4. Ako želite, možete da promenite period zadržavanja za poruke u karantinu pomoću postavke "Zadrži spam za" (dana) u smernicama za filtriranje sadržaja.
+1. Bez-pošta, masovna pošta, malver i phishing poruke podrazumevano se čuvaju u karantinu 15 dana.
+2. Poruka koja se nalazi u karantinu koja se podudara sa pravilom protoka pošte čuva se u karantinu 7 dana (ne možete da je prilagodite).
+3. Kada Office 365 poruku iz karantina, ne možete da je vratite.
+4. Ako želite, možete da promenite period zadržavanja za poruke koje se smeštaju u karantin pomoću postavke Zadržavanje bez pošte na (dana) u smernicama za filtriranje sadržaja.

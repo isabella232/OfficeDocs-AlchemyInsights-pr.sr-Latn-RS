@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966699"
 ---
 # <a name="skip-redirecting-email-to-new-address"></a>Preskočite preusmeravanje e-pošte na novu adresu
 
-Preskočite korake preusmeravanja e-pošte na novu adresu ako imate prilagođene DNS zapise. Zatim možete da dodate zapise koji su vam potrebni kasnije. Neke Office 365 usluge mogu biti nedostupne dok ručno ne dodate zapise pomoću registra.
+Preskočite korak preusmeravanja e-pošte na novu adresu ako imate prilagođene DNS zapise. Kasnije možete da dodate potrebne zapise. Neke Office 365 usluge mogu biti nedostupne dok ručno ne dodate zapise kod registra.
 
-Da biste preskočili preusmeravanje e-pošte na novu adresu, odaberite stavku **Preskoči ovaj stepenik > Verifikuj**.
+Da biste preskočili preusmeravanje e-pošte na novu adresu, odaberite stavku **Preskoči ovaj > Verifikuj.**
