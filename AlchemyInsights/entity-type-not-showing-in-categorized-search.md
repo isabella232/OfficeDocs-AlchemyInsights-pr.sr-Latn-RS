@@ -1,5 +1,5 @@
 ---
-title: Tip entiteta koji se ne prikazuje u kategorizovanoj ili relevantno pretraživanje rezultata u programu Dynamics 365 objedinjeni interfejs
+title: Entity type not showing in categorized or relevance search results in Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946757"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Tip entiteta koji se ne prikazuje u rezultatima pretrage
+# <a name="entity-type-not-showing-in-search-results"></a>Entity type not showing in search results
 
-Da bi tip entiteta mogao da prikaže kategorizovanu pretragu ili pretraživanje značaja u programu Dynamics 365 objedinjeni interfejs, mora se prvo dodati u modul aplikacije.
+Da bi se tip entiteta prikazao u kategorizovanoj pretrazi ili relevantnosti u Dynamics 365 uned interface, on prvo mora da se doda u modul aplikacije.
 
-Napomena: prilikom traženja priloga u vezi sa pretragom važnosti, entitet priloga mora biti dodat u modul aplikacije čak i ako je nadređeni zapis ono što je prikazano u rezultatima.
+Napom: Kada tražite priloge u pretrazi relevantnosti, entitet priloga mora da se doda u modul aplikacije, čak i ako je nadređeni zapis ono što se pokazuje u rezultatima.

@@ -1,5 +1,5 @@
 ---
-title: 8000059 kako se menja radnja teme (FMS)
+title: 8000059 način promene radnje tema (FMS)
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "992"
 - "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: 736a30d2d41abe99406352280d95672493dd814a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24b049f048849ae30938a00349946f7534f2538f952bb931997af53472ee3729
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963729"
 ---
-# <a name="how-to-change-your-theme"></a>Kako da promenite temu
+# <a name="how-to-change-your-theme"></a>Kako da promenite svoju temu
 
-Da biste promenili temu u Outlook.com ili programu Outlook na vebu, izaberite stavku **Postavke** i odaberite temu u okviru **teme**. Da biste videli sve dostupne teme, izaberite stavku **Prikaži sve** u okviru **teme**.
+Da biste promenili temnu u Outlook.com ili  Outlook na vebu, idite na Postavke i odaberite tkup u okviru **Tema**. Da biste videli sve dostupne tema, izaberite **stavku Prikaži sve** u **okviru Tema**.
   
