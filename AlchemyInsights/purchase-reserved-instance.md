@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc8972d56ad63ac1d0bc16910ed74c7121aefb05f786fdd60a77ba89867d1741
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973063"
 ---
 # <a name="questions-before-purchase"></a>Pitanja pre kupovine
 
@@ -27,8 +27,8 @@ Pogodnost rezervacije se automatski primenjuje na postojeće resurse koji se pod
 **Koju VM veličinu treba da kupim?**  
 Pročitajte ovaj članak: [Odredite pravu VM veličinu pre kupovine](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Pitanja o tome kako da kupite SQL rezervisani kapacitet?**  
-Pročitajte ovaj članak: [Rezervisani kapacitet SQL baze podataka](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Pitanja o tome kako da kupite SQL kapacitet?**  
+Pročitajte ovaj članak: [Kupovina SQL baze podataka](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
 **Da li mi je potreban partner za kupovinu u Indirektnom EA klijentu?**  
 Ne, možete da kupite RI ako ste vlasnik EA pretplate.
@@ -36,8 +36,8 @@ Ne, možete da kupite RI ako ste vlasnik EA pretplate.
 **Da li se kupovina RI odvodi od novčanih obaveza?**  
 Da. Ako nemate dovoljno novčanih obaveza, dobijate fakturu za prekucavanje za iznos koji premašuje dostupnu novčanu obavezu.
 
-**Kako se rezervisana instanca odnosi na Windows VM-ove ili na troškove SQL IP adrese?**  
-Rezervisani popust na instancu se odnosi samo na korišćenje slučaja. Windows IP ili SQL IP troškovi se naplaćuju zasebno i neće dobiti popust za RI. [Troškovi softvera koji nisu uključeni u Azure rezervisane VM instance](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Kako se rezervisana instanca odnosi Windows VM-ove ili na troškove SQL IP adrese?**  
+Rezervisani popust na instancu se odnosi samo na korišćenje slučaja. Windows Troškovi IP ili SQL IP adrese se naplaćuju zasebno i neće dobiti popust na RI. [Troškovi softvera koji nisu uključeni u Azure rezervisane VM instance](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
 **Naplata za kupovinu rezervisane instance**  
       

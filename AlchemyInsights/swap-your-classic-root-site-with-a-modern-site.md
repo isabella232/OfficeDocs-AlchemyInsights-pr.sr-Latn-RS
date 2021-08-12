@@ -1,5 +1,5 @@
 ---
-title: Razmena klasične osnovne sajta uz modernu sajt
+title: Zamena klasičnog osnovnog sajta sa modernim sajtom
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940833"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Razmena klasične osnovne sajta uz modernu sajt
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamena klasičnog osnovnog sajta sa modernim sajtom
 
-Ako je okruženje podešeno pre 2019 aprila, možete da promenite osnovnu lokaciju na modernu lokaciju pomoću programa Microsoft PowerShell:
+Ako je okruženje podešeno pre aprila 2019, osnovnu lokaciju možete da promenite u modernu lokaciju pomoću programa Microsoft PowerShell:
 
-- Ako imate različitu stranicu koju želite da koristite kao osnovnu sajt, možete da je zamenite [(zamijenite) osnovnu sajt](https://docs.microsoft.com/sharepoint/modern-root-site) sa njom. 
-    - Korišćenje poziva [-Spositesvp](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) za razmenu lokacije sa drugom lokacijom dok arhivirate originalnu lokaciju. Dostupno za oba sajta tima (nije povezano sa grupom) i sajt za komunikaciju. 
+- Ako imate drugi sajt koji želite da koristite kao osnovni sajt, možete sa njim da zamenite [(zamenite)](https://docs.microsoft.com/sharepoint/modern-root-site) osnovni sajt. 
+    - Koristite [invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da biste zamenili lokaciju lokacije sa drugim sajtom prilikom arhiviranje originalnog sajta. Dostupno za sajt tima (nije povezan sa grupom) i sajtu za komunikaciju. 
 
-- Uskoro će biti predstavljene dodatne mogućnosti koje će vam omogućiti da nastavite da koristite sadržaj na sajtu, ali da konvertujete postojeću Veb na sajt za komunikaciju. 
+- Dodatne mogućnosti će se uskoro uvesti koje će vam omogućiti da nastavite da koristite sadržaj na lokaciji, ali da konvertujete postojeći sajt u sajt za komunikaciju. 
 >[!Important]
->Ove mogućnosti će se postepeno razraditi. Nastavite da proveravate centar za poruke za ispravke. 
+>Te mogućnosti će se postepeno izlaziti. Nastavite da biste proverili da li u centru za poruke postoje ispravke. 
 
-## <a name="known-issues-with-swapping-sites"></a>Poznati problemi sa Veb lokacijama
+## <a name="known-issues-with-swapping-sites"></a>Poznati problemi sa zamenom sajtova
 
-- Ciljna lokacija može da vrati grešku "nije pronađena" (HTTP 404) na kratko vreme.
-- Potrebno je ponovo popisivati sadržaj da biste ažurirali indeks pretrage. Ne postoji potreban ručni korake – ovo će biti gotovo automatski.
-- Sve što zavisi od veza "statične" (kao što su sinhronizacija datoteka i OneNote datoteke) mora se ručno ispraviti.
-- Ako je izvorna lokacija bila organizaciona lokacija, ažurirajte URL.Nabavite listu svih sajtova za organizacije.
-- Za lokacije servera projekta možda će biti potrebno da se verifikujete da biste se uverili da su i dalje ispravno povezane.
+- Ciljni sajt može dati grešku "nije pronađeno" (HTTP 404) tokom kratkog vremenskog perioda.
+- Sadržaj treba ponovo da se pretražuje da bi se ažurirao indeks za pretraživanje. Ne postoji ručni korak – ovo će se uraditi automatski.
+- Sve što zavisi od "statičnih" veza (kao što su sinhronizacija datoteka i OneNote datoteke) moraće ručno da se ispravi.
+- Ako je izvorna lokacija bila sajt organizacionih vesti, ažurirajte URL. Nabavite listu svih sajtova organizacionih vesti.
+- Project Možda će biti potrebno proveriti valjanost lokacija servera da biste se uverili da su i dalje ispravno povezani.

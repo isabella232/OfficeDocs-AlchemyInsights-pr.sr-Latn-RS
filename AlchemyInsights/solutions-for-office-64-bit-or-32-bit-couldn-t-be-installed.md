@@ -1,5 +1,5 @@
 ---
-title: Nije moguće instalirati rešenja za ' Office (64-bitno ili 32-bitni)
+title: Nije moguće instalirati rešenja Kancelarija (64-bitni ili 32-bitni)
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21c4ea922fd3e24c818cab441c9847c2ab8b3cdf6701a922fe30d284317d2291
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957258"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Nije bilo moguće instalirati rešenja za "Office (64-bitni ili 32-bitni)
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Nije moguće instalirati rešenja za Kancelarija (64-bitni ili 32-bitni)
 
-Nije moguće instalirati "Office (64-bitni ili 32-bitni)" Greška se javlja zato što ne možete da mešate 64-bitni i 32-bitne verzije sistema Office.
+Pojavljuje se greška "Kancelarija (64-bitni ili 32-bitni) nije moguće instalirati" zato što ne možete da mešate 64-bitne i 32-bitne verzije Kancelarija.
   
-Da biste rešili ovu grešku i prešli sa 32 na 64-bitno, morate da uradite sledeće po ovom redosledu.
+Da biste ispravili ovu grešku i prebacili se sa 32-bitne na 64-bitnu, morate da uradite sledeće ovim redosledom.
   
 1. Preuzmite i instalirajte [pomoćnika za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kada se otvori, iz **deinstalacije Office proizvoda** izaberite verziju koju želite da deinstalirate i izaberete stavku **dalje**.
+1. Kada se otvori, iz stavke **Deinstaliranje Kancelarija proizvoda** izaberite verziju koju želite da deinstalelite i izaberite stavku **Dalje.**
 
 2. Nastavite da prolazite kroz ekrane i ponovo pokrenite računar kad se to zatraži.
 
-    Nakon ponovnog pokretanja, pomoćnik za podršku i oporavak automatski se ponovo otvara za dovršavanje procesa deinstalacije.
+    Nakon ponovnog pokretanja, Pomoćnik za podršku i oporavak se automatski ponovo otvara da bi se dovršio proces deinstalacije.
 
-3. Potražite preostale upite i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) sa ispravnim 32-bitnom ili 64-bitnom verzijom.
+3. Pratite preostale odzive i [ponovo](https://portal.office.com/OLS/MySoftware.aspx) Kancelarija sa odgovarajućom 32-bitnom ili 64-bitnom verzijom.
 
-    Slijedite korake u članku [Instaliranje sistema Office na PC računaru](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Pratite korake u [temi Instaliranje Kancelarija na računaru](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Više informacija potražite u članku ["Greška sistema Office (64-bitni ili 32-bitni)" prilikom pokušaja instalacije](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Dodatne informacije potražite u Kancelarija greška "nije moguće instalirati [Kancelarija (64-bitni ili 32-bitni)"](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) prilikom pokušaja instalacije
   
