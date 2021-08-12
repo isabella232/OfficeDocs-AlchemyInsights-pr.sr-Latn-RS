@@ -1,5 +1,5 @@
 ---
-title: 500 lozinki aplikacija
+title: 500 lozinki za aplikaciju
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717051"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931967"
 ---
-# <a name="app-passwords"></a>Lozinke aplikacija
+# <a name="app-passwords"></a>Lozinke aplikacije
 
-Lozinka aplikacije je kôd koji pruža aplikaciju ili uređaj za pristup vašem Microsoft poslovnom ili školskom nalogu. Ako nalog zahteva višestruku potvrdu identiteta (MFA), a aplikacija se povezuje sa vašim nalogom, morate da generišete lozinku aplikacije tako da aplikacija može da se poveže sa programom Microsoft. Na primer, Outlook 2016 i starije verzije programa Outlook zahtevaju lozinku aplikacije.
+Lozinka aplikacije je kôd koji aplikaciji daje dozvolu za pristup radnom ili školskom Microsoft nalogu. Ako nalog zahteva višestruku potvrdu identiteta (MFA), a aplikacija se povezuje sa nalogom, morate da generišete lozinku aplikacije kako bi ona mogao da se poveže sa korporacijom Microsoft. Na primer, Outlook 2016 i starije Outlook zahtevaju lozinku aplikacije.
 
- **Napomena**: pre nego što probate sledeće korake, proverite sa Microsoft 365 administratorom koji je neophodan za vaš nalog. Ako nije, opcije opisane u koracima neće vam biti dostupne.
+ **Na primer:** Pre nego što pokušate sa sledećim koracima, proverite kod Microsoft 365 da je MFA neophodan za vaš nalog. Ako nije, opcije opisane u koracima vam neće biti dostupne.
 
-1. Prijavite se pomoću poslovnog ili školskog naloga i lozinke.
+1. Prijavite se sa poslovnim ili školskim nalogom i lozinkom.
 
-2. Odaberite stavku **Podešavanje odmah**.
+2. Odaberite **stavku Podesite ga odmah**.
 
-3. Izaberite metod potvrde identiteta i uradite upite.
+3. Izaberite svoj metod potvrde identiteta i pratite odzive.
 
-4. Kada potvrdite alternativni metod kontakta, odaberite stavku **dalje**.
+4. Kada potvrdite alternativni metod kontakta, odaberite stavku **Dalje.**
 
-5. Dobićete lozinku za aplikaciju koju možete da koristite sa programom Outlook, e-poštom i drugim aplikacijama koje to zahtevaju. Odaberite stavku **Kopiraj** da biste kopirali lozinku kako biste mogli da je nalepite na drugo mesto (ne morate da je memorisite).
+5. Dobijate lozinku aplikacije koju možete da koristite za aplikacije Outlook, Apple Mail i druge aplikacije koje je zahtevaju. Odaberite **stavku** Kopiraj da biste kopirali lozinku kako biste mogli da je nalepite negde drugde (ne morate da je pamtite).

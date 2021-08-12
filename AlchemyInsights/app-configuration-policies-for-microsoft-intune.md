@@ -14,16 +14,16 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932003"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Smernice za konfiguraciju aplikacije za Microsoft Intune
 
-Smernice za konfiguraciju aplikacije u aplikaciji Microsoft Intune koriste se za obezbeđivanje postavki konfiguracije za iOS ili Android aplikacije. Ove postavke konfiguracije omogućavaju aplikaciji da se prilagodi. Imajte na umu da postoje ograničenja u pogledu verzija operativnog sistema i aplikacija koje podržavaju korišćenje smernica za konfiguraciju.
+Smernice za konfiguraciju aplikacije u Microsoft Intune se koriste za obezbeđivanje postavki konfiguracije za iOS ili Android aplikacije. Ove postavke konfiguracije omogućavaju aplikaciji da se prilagodi. Imajte na umu da postoje ograničenja u pogledu verzija operativnog sistema i aplikacija koje podržavaju korišćenje smernica za konfiguraciju.
 
 Detalje potražite u sledećoj dokumentaciji
 

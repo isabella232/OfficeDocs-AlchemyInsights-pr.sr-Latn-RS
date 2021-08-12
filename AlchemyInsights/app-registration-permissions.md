@@ -1,5 +1,5 @@
 ---
-title: Dozvole za registraciju aplikacija
+title: Dozvole za registraciju aplikacije
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: 607d2a4405f22d9b154adfe7fdf14cfa273ee8fb
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: abd4d2600a29506efe74079709d6a974a6169260b74eb147a7787722c4b799c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951075"
 ---
-# <a name="app-registration-permissions"></a>Dozvole za registraciju aplikacija
+# <a name="app-registration-permissions"></a>Dozvole za registraciju aplikacije
 
-[Dozvole za registraciju aplikacija za prilagođene uloge u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions): ovaj članak sadrži trenutne dozvole za registraciju aplikacija za prilagođene definicije uloga u članku Azure Active Directory (AZURE AD).
+[Dozvole za registraciju aplikacije](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)za prilagođene uloge u programu Azure Active Directory: Ovaj članak sadrži trenutno dostupne dozvole za registraciju aplikacija za prilagođene definicije uloga u programu Azure Active Directory (Azure AD).

@@ -1,5 +1,5 @@
 ---
-title: Podešavanje Azure aktivnog direktorijuma
+title: Podešavanje Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958203"
 ---
-# <a name="set-up-azure-active-directory"></a>Podešavanje Azure aktivnog direktorijuma
+# <a name="set-up-azure-active-directory"></a>Podešavanje Azure Active Directory
 
-[Vodič za podešavanje Azure oglasa](https://go.microsoft.com/fwlink/?linkid=2134390) pruža informacije kako bi obezbedila snažnu bezbednost fondacije. U ovom vodiču ćete podesiti prvobitne funkcije, kao što je Azure rаfor Access Control (Azure RBAC) za administratore, Azure AD povezivanje za lokalno katalog i Azure AD Connect Health, tako da možete da nadgledate zdravlje hibridnog identiteta tokom automatskih sinhronizacija.
+Vodič [za podešavanje usluge Azure AD pruža](https://go.microsoft.com/fwlink/?linkid=2134390) informacije kako bi obezbedio da organizacija ima jaku bezbednosnu osnovu. U ovom vodiču podesićete početne funkcije kao što su kontrola pristupa zasnovana na ulogama usluge Azure (Azure RBAC) za adminimenzacije, Azure AD Povezivanje za vaš nacionalni direktorijum i Azure AD Povezivanje Health, kako biste mogli da nadgledate zdravlje hibridnog identiteta tokom automatizovanih sinhronizacija.
 
-Ona takođe sadrži suštinske informacije o omogućavanju prijemnih samouslužnih početnih lozinki, uslovnog pristupa i integrisanog uključivanja nezavisnog identiteta, kao i opcionalne napredne usluge zaštite identiteta i autorizacije korisnika.
+Ona uključuje i osnovne informacije o omogućavanju samouslužnog poništavanja lozinke, uslovnom pristupu i integrisanom prijavljivanjem nezavisnih korisnika, uključujući opcionalnu naprednu zaštitu identiteta i automatizaciju dodeđivanja korisnika.
