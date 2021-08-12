@@ -1,5 +1,5 @@
 ---
-title: Korišćenje smernica grupe koje se odnose na ažuriranje dostupne u programu Microsoft Edge
+title: Koristite smernice grupe koje se odnose na ažuriranje dostupne u Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "9004632"
 - "7092"
 - "8359"
-ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 85eff448dbf6cecd80ea870739c1223b10fbe6894462226c19fd9aae26faad6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007156"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Korišćenje smernica grupe koje se odnose na ažuriranje dostupne u programu Microsoft Edge
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Koristite smernice grupe koje se odnose na ažuriranje dostupne u Microsoft Edge
 
-Koristite [smernice dostupne](https://go.microsoft.com/fwlink/?linkid=2134862) u programu Microsoft Edge (verzija 77 ili novija) da biste kontrolisali kako i kada se Microsoft Edge ažurira.
+Koristite [smernice dostupne](https://go.microsoft.com/fwlink/?linkid=2134862) u programu Microsoft Edge (verzija 77 ili novija) da biste kontrolisali kako i Microsoft Edge ažuriranja.

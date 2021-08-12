@@ -1,5 +1,5 @@
 ---
-title: Ažuriraj POŠTANSKI broj u okviru Azure EA na portal – preporučene korake
+title: Ažuriranje broja poštanskih izveštaja na Azure EA portalu – preporučeni koraci
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007192"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Ažuriraj POŠTANSKI broj u okviru Azure EA na portal – preporučene korake
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Ažuriranje broja poštanskih izveštaja na Azure EA portalu – preporučeni koraci
 
-Promene na broju PDV/ID-a ili izlazne porudžbine (PO) će stupiti na snagu na sledećoj fakturi. Da biste promenili IDENTIFIKATOR za PDV/porez ili POŠTANSKI broj sa već generisanim fakturom, otvorite karticu podrške. Ako imate bilo kakve probleme u vezi sa vašim ID-om PDV-a/OPOREZIVANJEM, pristupite Microsoft partneru za licenciranje (partner ili savetnik za softver). Oni će se obratiti regionalnom centru za operacije (ROC) za pitanja u vezi sa PDV-om/porez na ID. 
+Promene u ID-u za PDV/POREZ ili broju porudžbine (PO) stupiće na snagu u sledećoj fakturi. Da biste promenili ID za PDV/POREZ ili broj porudžbine u fakturu koja je već generisana, otvorite tiket za podršku. Ako imate problema u vezi sa ID-om za PDV/POREZ, ćaskajte se svom Microsoft partneru za licenciranje (partneru ili savetniku za softver). Oni će se obratiti Centru za regionalne operacije (ROC) za pitanja u vezi sa vašim ID-om za PDV/POREZ. 
 
-Azure EA portal automatski generiše podrazumevani PO broj osim ako administrator EA administrator ne postavi jedan pre datuma fakturisanja. Kao EU administrator (direktni upisivaи)/administrator partnera (indirektni prijavljivanje), možete da ažurirate POŠTANSKI broj na Azure oj portalu. POŠTANSKI broj možete da ažurirate u bilo kom trenutku pre nego što se stavka generiše za trenutni period naplate i do sedam dana nakon prijema e-poruke o automatnoj fakturi.    
+Azure EA portal automatski generiše podrazumevani broj pošiljalaca, osim ako ga EA admini briše od datuma fakture. Kao EA administrator (direktno unošenje) / administrator partnera (indirektno unošenje), možete da ažurirate broj poručivanja na Azure EA portalu. Broj poručivanja možete da ažurirate u bilo kom trenutku pre generisane fakture za trenutni period naplate i do sedam dana nakon prijema automatizovane e-poruke sa obaveštenjem o fakturi.    
 
-Da biste ažurirali POŠTANSKI broj:
+Da biste ažurirali broj poštanski broj:
 
-1. Prijavljivanje na [EU portal](https://ea.azure.com/).
-1. U levom oknu izaberite stavku **Izveštaji**.
-1. Na vrhu stranice izaberite stavku **Rezime upotrebe** i izaberite odgovarajući period iz padajuće liste.
-1. Izaberite stavku **Prikaz/uređivanje po brojevima**.
-1. Unesite novi POŠTANSKI broj i kliknite na dugme **Sačuvaj**.
+1. Prijavite se [na EA portal](https://ea.azure.com/).
+1. U levom oknu izaberite stavku **Izveštaji.**
+1. Na vrhu stranice izaberite stavku Rezime korišćenje **i** izaberite relevantan period sa padajuće liste.
+1. Izaberite **stavku Prikaz/uređivanje pošti**
+1. Unesite novi broj poštanski broj i kliknite na **dugme Sačuvaj**.
 
 **Preporučeni dokumenti** 
 
-- [Azure Enterprise fakture](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Razumevanje vašeg Azure poslovnog sporazuma](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Razumevanje uloga Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Kreiranje drugog poslovnog administratora (e-administracije)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Fakture za unošenje za Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Razumevanje Azure ugovor za preduzeća računa](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Razumevanje Azure Enterprise uloga](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Kreiranje drugog administratora preduzeća (EA administrator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

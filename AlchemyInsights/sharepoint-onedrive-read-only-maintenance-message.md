@@ -1,5 +1,5 @@
 ---
-title: Samo za čitanje kada pokušate da koristite SharePoint ili OneDrive
+title: Read-Only za poruku "Održavanje" prilikom pokušaja korišćenja usluge SharePoint ili OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910560"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Samo za čitanje kada pokušate da koristite SharePoint ili OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only za poruku "Održavanje" prilikom pokušaja korišćenja usluge SharePoint ili OneDrive
 
-Korisnici mogu primati poruku **o održavanju samo za čitanje** kada pokušaju da koriste SharePoint ili OneDrive za neki od sledećih scenarija. 
+Korisnici mogu da dobiju poruku samo za čitanje za **održavanje** kada pokušaju da koriste ovu SharePoint ili OneDrive za neki od sledećih scenarija. 
 
--   Planirana ili aktivna aktivnost održavanja.  Potražite ih tako što ćete se u [centru za poruke](https://portal.office.com/adminportal/home#/messagecenter).
--   Događaj visokog prioriteta, aktivni servisni problem koji se možda dešava. Provjerite da li postoje savjeri/incidenti tako što ćete se usmeriti na [uslugu usluge](https://portal.office.com/adminportal/home#/servicehealth).
--   Međuverski scenario oporavka koji se može dogoditi zbog bilo kog neočekivanog događaja na serverima koji bi mogli da traju manje od 30 minuta ili tako nesto. 
+-   Planirana ili aktivna aktivna aktivna aktivnost održavanja.  Proverite da li ih ima tako što biste prešli u [centar za poruke.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Može da se desi aktivan incident sa aktivnom uslugom visokog prioriteta. Proverite savete/incidente tako što će odu do stavke [Zdravstveno stanje usluge.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Manji scenario oporavka od automatskog kašnjenja koji se može desiti usled bilo kakvih neočekivanih događaja na serverima koji mogu trajati manje od 30 minuta ili tako. 
     
-    Ne postoje centar za poruke ili zdravstvene objave usluge za ova mala oporavka, ali trebalo bi da se brzo vratite u normalu.
+    Nema centra za poruke ili objava o stanju usluge za ove manje oporavke, ali bi uskoro trebalo da se vratite na normalan.
 
-U vrlo nekoliko navrata primećeni smo da je jedan od tri scenarija navedena u navedenom delu i da je usluga vraćena u prethodno stanje, ali keš korisnika pregledača nije očistljen.
+U nekoliko prilika smo primetili da je jedan od tri gorenavedena scenarija uzrok i usluga je vraćena u prethodno stanje, ali keš pregledača korisnika nije obrozan.
 
-Pokušajte da obrišite keš pregledača pre nego što se vratite na stranicu.
+Pokušajte da obrrišete keš pregledača pre nego što odete na lokaciju.
 
-1. U Microsoft pregledaču Edge izaberite stavku **Postavke**, a zatim izaberite stavku **privatnost i bezbednost**.
-2. U okviru **Izbriši pregledanje**izaberite **stavku odaberite šta da obrišete**.
-3. Izaberite stavku **kolačići i sačuvani podaci o Veb lokaciji**i izaberite stavku **čisti**.
-
->[!Note] 
-> Ovi koraci mogu da se razlikuju kada koristite druge pregledače kao što je Mozilla Firefox ili Google Chrome.
+1. U pregledaču Microsoft Edge izaberite stavku **Postavke**, a zatim izaberite privatnost **i bezbednost**.
+2. U **okviru Stavke Obriši pregledanje** izaberite **stavku Odaberite stavke za brisanje**.
+3. Izaberite **Kolačići i sačuvani podaci o veb lokacijama**, a zatim izaberite **stavku Obriši**.
 
 >[!Note] 
-> Druga opcija bi bila da otvorite SharePoint sajt ili OneDrive u novom InPrivate prozoru.
+> Ovi koraci mogu da se razlikuju kada koristite druge pregledače kao što su Mozilla Firefox ili Google Chrome.
+
+>[!Note] 
+> Druga opcija bi bila da otvorite SharePoint lokaciju ili OneDrive u novom InPrivate prozoru.

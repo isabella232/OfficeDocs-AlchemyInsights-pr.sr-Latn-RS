@@ -1,5 +1,5 @@
 ---
-title: Dodavanje načina plaćanja – preporučuje se koraci
+title: Dodavanje načina plaćanja – preporučeni koraci
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935783"
 ---
-# <a name="add-payment-method---recommended-steps"></a>Dodavanje načina plaćanja – preporučuje se koraci
+# <a name="add-payment-method---recommended-steps"></a>Dodavanje načina plaćanja – preporučeni koraci
 
-Morate imati privilegije i administratora naloga i vlasnika pretplate da biste otkazali pretplatu na Azure portal. 
+Morate imati privilegije administratora naloga i vlasnika pretplate da biste otkazali pretplatu na Azure portalu. 
 
-Da biste otkazali pretplatu na kartici Azure, kliknite na dugme [Otkaži Azure pretplatu](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i to će vas usmeriti na stranicu **pretplate** na Azure portal da biste izabrali i otkazali pretplatu. 
+Da biste otkazali pretplatu na Azure portalu, kliknite na dugme Otkaži  [Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) pretplatu i to će vas preusmeriti na stranicu pretplate na Azure portalu da biste izabrali i otkazali pretplatu. 
 
-**Šta se dešava kada otkaћem pretplatu?** 
+**Šta se dešava kada otkažem pretplatu?** 
 
-Posle otkazivanja pretplate, naplata se odmah zaustavlja. Međutim, može trajati do 10 minuta da bi se status otkazivanja prikazao na Azure portal. Microsoft će poslati konačnu fakturu na fakturi sledećeg meseca za bilo koju delimičnu potrošnju ili kupovinu. Usluge pokrenute u pretplati se sprečavaju na otkazivanje pretplate. To znači da su virtuelne mašine derasporeрene, da se privremene IP adrese oslobode i da skladište postaje **samo za čitanje**. 
+Nakon otkazivanja pretplate, naplata se odmah zaustavlja. Međutim, prikazivanje statusa otkazivanja na Azure portalu može potrajati i do 10 minuta. Microsoft će poslati poslednju fakturu u fakturi za sledeći mesec za bilo koju delimičnu potrošnju ili kupovinu. Usluge pokrenute u e-pretplati su onemogućene nakon otkazivanja pretplate. To znači da su virtuelne mašine dodeljene, privremene IP adrese besplatne i skladište **postaje samo za čitanje.** 
 
-Kada se pretplata otkaћe, Microsoft čeka 30-90 dana pre nego što trajno izbriše podatke u slučaju da vam je potreban pristup ili se predomislite. Microsoft ne naplaćuje za zadržavanje podataka. Više informacija potražite u članku [Centar za pouzdanost programa Microsoft – kako upravljamo podacima](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Kada se pretplata otkaže, Microsoft čeka 30–90 dana pre nego što trajno izbere podatke u slučaju da treba da im pristupite ili se predomislite. Microsoft ne naplaćuje zadržavanje podataka. Dodatne informacije potražite u [članku Microsoft centar za pouzdanost – način upravljanja podacima.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 
 
 
