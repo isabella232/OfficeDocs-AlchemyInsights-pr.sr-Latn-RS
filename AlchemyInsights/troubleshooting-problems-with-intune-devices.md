@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920913"
 ---
 # <a name="troubleshooting-problems-with-intune-devices"></a>Rešavanje problema sa Intune uređajima
 
-Ako postoji problem sa Intune, prvo pregledajte [uređaje za upravljanje sa Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) dokumentima da biste potvrdili osnovnu konfiguraciju i verifikovali status uređaja.
+Ako uređaj kojima upravlja Intune naiđu na probleme, prvo pregledajte Upravljanje uređajima pomoću [Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) dokumentacije da biste potvrdili osnovnu konfiguraciju i potvrdili status uređaja.
 
-Pitanjima kao što su nedostajuće ili odložene smernice, netačne smernice, neočekivani pristup ili manjak pristupa može da prouzrokuje da se uređaj ne sinhronizuje sa Intune. Pregledajte dokumentaciju za [sinhronizaciju uređaja](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) za više informacija.
+Uređaj može da izazove probleme kao što su smernice koje nedostaju ili odložene, neočekivan pristup ili nedostatak pristupa. Pregledajte [dokumentaciju za sinhronizaciju](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) uređaja da biste dobili više informacija.
 
-Uobičajena pitanja vezana za prijavljivanje na uređaj, sinhronizovanje smernica i konfiguraciju uređaja mogu se pronaći u dokumentaciji za [najčešća pitanja i odgovore](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) ili [Rešavanje problema](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) .
+Uobičajene probleme u vezi sa prijavi na uređaj, sinhronizacijom [](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) smernica i konfiguracijom uređaja možete pronaći u dokumentaciji uobičajenih pitanja i odgovora ili u dokumentaciji [smernica za](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) rešavanje problema.
