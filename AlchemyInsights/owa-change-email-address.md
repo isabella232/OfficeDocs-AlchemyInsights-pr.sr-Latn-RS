@@ -1,5 +1,5 @@
 ---
-title: Promena e-adrese u programu Outlook na vebu
+title: Promena adrese e-pošte u Outlook na vebu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961389"
 ---
-# <a name="change-your-email-address"></a>Promena e-adrese 
+# <a name="change-your-email-address"></a>Promena adrese e-pošte 
 
-Da biste promenili e-adresu, trebaće vam administratorske privilegije.
+Da biste promenili e-adresu, potrebne su vam privilegije administratora.
   
-Izvršite uputstva u odeljku [Promena korisničkog imena i e-adrese u usluzi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Pratite uputstva iz mera [Promena korisničkog imena i adrese e-pošte u Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)

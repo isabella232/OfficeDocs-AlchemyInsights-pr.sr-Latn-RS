@@ -1,5 +1,5 @@
 ---
-title: Dodavanje ili ažuriranje informacija o profilnim preporukama
+title: Dodavanje ili ažuriranje informacija o profilu – zasićeni WD – preporučeni koraci
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,50 +13,50 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7339"
-ms.openlocfilehash: a3cbf78949c7e22d537f54c2498133277a6cb5d6
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: 9f83ca6145219c7ebee94315b177a6922391f526514fbf2c846f9a26a44228ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953847"
 ---
-# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Dodavanje ili ažuriranje informacija o profilnim preporukama
+# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Dodavanje ili ažuriranje informacija o profilu – zasićeni WD – preporučeni koraci
 
-**Promena informacija o kontaktu za Azure nalog za naplatu**
+**Promena kontakt informacija za nalog za naplatu za Azure**
 
-**Adresa za fakturisanje**: adresa za fakturisanje je adresa i kontakt informacije organizacije ili pojedinca koji je odgovoran za plaćanje faktura generisane za konto naplate. Za [nalog naplate za Microsoft Online servisni program (MOSP)](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address), postoji jedna adresa za fakturisanje koja se prikazuje na svim fakturama generisanim za nalog.
+Adresa **fakturisanja:** Adresa fakturisanja je adresa i kontakt informacije organizacije ili pojedinca, koji su odgovorni za plaćanje faktura generisanih za nalog za naplatu. Za nalog za naplatu za [Microsoft Online Service Program (MOSP)](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address)postoji jedna adresa fakturisanja koja je prikazana na svim fakturama generisanim za nalog.
 
-**Obratite se e-adresi za usluge i marketinške e-poruke**: možete da [navedete e-adresu](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) koja se razlikuje od e-adrese sa kojom se prijavljujete da biste dobili važne obaveštenja o plaćanju u uslugama, usluge i obaveštenja o Azure nalogu. E-poruke sa obaveštenjem o servisiranju, kao što su hitni problemi sa obezbeрenjem, promenama cena ili prekida promene u uslugama koje koristi vaš nalog, uvek se šalju na adresu za prijavljivanje.
+Obratite se adresi e-pošte [](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) za uslugu i marketinške e-poruke: Možete da navedete e-adresu koja se razlikuje od adrese e-pošte na koju se prijavujete da biste primili važna obaveštenja u vezi sa naplatom, koja se odnosi na uslugu i koja se odnosi na preporuke za Azure nalog. E-poruke sa obaveštenjima o usluzi, kao što su hitni bezbednosni problemi, promene cena ili ukidanje promena u uslugama koje koristite, uvek se šalju na vašu adresu za prijavljivanje.
 
-Da biste ažurirali adresu naloga naplate naplata, dovršite sledeće korake:
-1. Prijavite se na Azure portal pomoću e-adrese koja ima dozvolu administratora naloga na nalogu.
-2. Potražite i izaberite stavku **Upravljanje troškovima + naplata**. 
-3. Kliknite na dugme **Svojstva** sa leve strane. 
-4. Izaberite stavku **Ažuriraj adresu naplate** da biste ažurirali prodate i adrese za fakturisanje. Unesite novu adresu, a zatim kliknite na dugme **Sačuvaj**.
+Da biste ažurirali adresu MOSP naloga za naplatu, dovršite sledeće korake:
+1. Prijavite se na Azure portal pomoću e-adrese koja ima dozvolu administratora naloga za taj nalog.
+2. Potražite i izaberite **stavku Upravljanje troškovima + Naplata**. 
+3. Sa **leve** strane izaberite stavku Svojstva. 
+4. Kliknite **na dugme Ažuriraj adresu** za naplatu da biste ažurirali adrese prodaje i fakture. Unesite novu adresu, a zatim kliknite na **dugme Sačuvaj.**
 
-**Promena e-adrese kontakta** 
+**Promena adrese e-pošte za kontakt** 
 
-Da biste promenili e-adresu kontakta, dovršite sledeće korake:
-1. Ako ste administrator naloga za MOSP nalog, uradite uputstvo da biste [ažurirali adresu naloga za naplatu naplata](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) i na kraju izaberite stavku **Ažuriraj kontakt informacije** . 
-2. Unesite novu e-adresu. 
-3. Idite na okno [informacije o kontaktu](https://ms.portal.azure.com/) na Azure portal i unesite novu e-adresu. 
-4. Kliknite na ikonu sa svojim inicijalima ili slikom. 
-5. Izaberite stavku **Kontekstualni meni (...) > moje kontakt informacije** i unesite novu e-adresu.
+Da biste promenili adresu e-pošte za kontakt, dovršite sledeće korake:
+1. Ako ste administrator naloga za MOSP nalog, pratite uputstva u članku  Ažuriranje adrese [MOSP](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) naloga za naplatu i izaberite stavku Ažuriraj kontakt informacije u poslednjem koraku. 
+2. Unesite novu adresu e-pošte. 
+3. Idite u okno [Kontakt informacije](https://ms.portal.azure.com/) na Azure portalu i unesite novu adresu e-pošte. 
+4. Kliknite na ikonu sa inicijalima ili slikom. 
+5. Izaberite **kontekstualni meni (...) > Moje kontakt informacije** i unesite novu adresu e-pošte.
 
 **Dodavanje ili ažuriranje informacija o profilu**
 
-Možete da dodate informacije o korisničkom profilu, uključujući sliku profila, informacije specifične za posao i neke postavke, koristeći Azure Active Directory (Azure AD). Više informacija o dodavanju novih korisnika potražite u članku [Dodavanje ili brisanje korisnika u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory).
+Pomoću usluge Azure Active Directory (Azure AD) možete da dodate informacije o korisničkom profilu, uključujući sliku profila, informacije specifične za posao i neke postavke. Dodatne informacije o dodavanju novih korisnika potražite u [temi Dodavanje ili brisanje korisnika u Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 
 Da biste dodali ili promenili informacije o profilu, dovršite sledeće korake:
 
-1. Prijavite se na Azure portal kao korisnički administrator za organizaciju.
-2. Izaberite stavku **Azure Active Directory > korisnici**, a zatim kliknite na korisnički profil koji želite da ažurirate. 
-3. Kliknite na dugme **Uredi** da biste opcionalno dodali ili ažurirali informacije uključene u svakom od raspoloživih odeljaka. 
+1. Prijavite se na Azure portal kao administrator korisnika za organizaciju.
+2. Izaberite **Azure Active Directory > Korisnici**, a zatim kliknite na korisnički profil koji želite da ažurirate. 
+3. Izaberite **stavku** Uredi da biste opcionalno dodali ili ažurirali informacije uključene u svaki od dostupnih odeljaka. 
 4. Kliknite na dugme **Sačuvaj**.
 
 **Preporučeni dokumenti**
 
-- [Nalozi za naplatu i opsezi na Azure portalu](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
+- [Nalozi i meni nalozi za naplatu na Azure portalu](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
 - [Dodavanje ili ažuriranje kreditne kartice za Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 
 
