@@ -1,5 +1,5 @@
 ---
-title: Primena sistema Office na Vodič za korisnike
+title: Vodič za Kancelarija za primenu za korisnike
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948105"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Primena sistema Office na Vodič za korisnike
+# <a name="deploy-office-to-your-users-guide"></a>Vodič za Kancelarija za primenu za korisnike
 
-Primenite Office aplikacije iz oblaka sa mogućnošću prilagođavanja instalacije pomoću alatke za primenu sistema Office.
+Primenite Kancelarija iz oblaka uz mogućnost prilagođavanja instalacije pomoću alatke za Kancelarija za primenu.
 
-[Primena sistema Office na Vodič za korisnike](https://go.microsoft.com/fwlink/?linkid=2146451) pomaže vam da kreirate prilagođenu Office konfiguraciju sa naprednim postavkama ili možete da koristite unapred ugrađenu konfiguraciju. Bez obzira na to da li vaši korisnici sprovode samoinstalaciju ili ako rasporedite korisnike pojedinačno ili na masovno, ovaj napredni čarobnjak vam pruža uputstva za Office kako bi korisnici mogli da instaliraju Office.
+Vodič [za Kancelarija](https://go.microsoft.com/fwlink/?linkid=2146451) primeni na korisnike pomaže vam da kreirate prilagođenu konfiguraciju Kancelarija sa naprednim postavkama ili možete da koristite unapred ugrađenu preporučenu konfiguraciju. Bilo da korisnici obavljaju samostalnu instalaciju ili vršite pojedinačnu ili masovnu primenu za korisnike, ovaj napredni čarobnjak vam pruža uputstva korak po korak da biste korisnicima dali Kancelarija instalaciju skrojenu za organizaciju.

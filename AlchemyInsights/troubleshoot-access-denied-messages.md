@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa pristupom "zabranjen pristup"
+title: Rešavanje problema sa porukama koje su odbijene za pristup
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 6c8ad84123fb58b73b9c378592ce970997893ea2
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c62186fd346efd539b13cef9c80f5e797ebf80811a21db73f0f07fd86c080d55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939897"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Rešavanje problema sa pristupom "zabranjen pristup"
+# <a name="troubleshoot-access-denied-messages"></a>Rešavanje problema sa porukama koje su odbijene za pristup
 
-Ako je neko dobio poruku "pristup je odbijen" u deljenoj fascikli u sistemu SharePoint, administrator kolekcije lokacija je možda omogućio "sistem zatvaranja korisnika lokacije sa ograničenom pristupom". Da biste isključili ovu opciju: 
+Ako je neko dobio poruku "Pristup zabranjen" u deljenoj fascikli u SharePoint, administrator kolekcije lokacija je možda omogućio "Režim zaključavanja korisničke dozvole ograničenog pristupa". Da biste isključili ovo: 
   
-1. Pronađite lokaciju, kliknite na ikonu postavke, a zatim izaberite stavku **Postavke sajta**.
+1. Idite na sajt, kliknite na ikonu Postavke, a zatim izaberite stavku Lokacija **Postavke.**
     
-2. U okviru **Administracija kolekcije lokacija** izaberite stavku **funkcije kolekcije lokacija**.
+2. U **okviru Administracija kolekcije** lokacija izaberite **stavku Funkcije kolekcije lokacija.**
     
-3. Pored **ograničenog režima zatvaranja dozvole za ograničenje korisnika**, kliknite na dugme **Deaktiviraj**.
+3. Pored stavke **Režim zaključavanja korisničke dozvole ograničenog pristupa** izaberite **stavku Deaktivacija.**
     
-Poruka "pristup odbijen" takođe može da se pojavi za deljene fascikle ako je lokacija lokacija za objavljivanje. Informacije potražite u članku [zabranjen pristup prilikom pristupanja deljenoj fascikli](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb).
+Poruka o zabranjenom pristupu može da se pojavi i za deljene fascikle ako je lokacija lokacija lokacija za objavljivanje. Informacije potražite u [članku Pristup zabranjen prilikom pristupa deljenoj fascikli.](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb)
   
-Ako neko ima poruku "pristup nije dozvoljen" kada pokušate da prikažete zahteve za pristup, korisnik mora da se doda kao administrator kolekcije lokacija ili član grupe vlasnika za sajt. Više informacija potražite u članku [zabranjen pristup listi zahteva za pristup](https://go.microsoft.com/fwlink/?linkid=2004220).
+Ako je neko dobio poruku "Pristup nije zabranjen" kada pokuša da prikaže zahteve za pristup, korisnik mora da se doda kao administrator kolekcije lokacija ili član grupe vlasnika lokacije. Više informacija potražite u članku [Lista zahteva za pristup zabranjen pristupu.](https://go.microsoft.com/fwlink/?linkid=2004220)
   
-Ako je korisnik dobio poruku "pristup je odbijen" nakon što su uklonjene iz aktivnog direktorijuma i ponovo dodata, pogledajte članak [zabranjen pristup kada se korisnički nalog sinhronizuje sa Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Ako je korisnik dobio poruku "Pristup nije zabranjen" pošto ga je uklonjen iz usluge Active Directory, a zatim ponovo dodao, pogledajte pristup odbijen kada se korisnički nalog sinhronizuje [sa uslugom Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2004318)
   
 

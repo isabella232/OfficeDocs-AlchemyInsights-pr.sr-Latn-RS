@@ -1,5 +1,5 @@
 ---
-title: Kako se dodaju i upravljaju administratorima koji se preporučuju
+title: Kako da dodate administratore i upravljate im – preporučeni koraci
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963801"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Kako se dodaju i upravljaju administratorima koji se preporučuju
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Kako da dodate administratore i upravljate im – preporučeni koraci
 
-Na osnovu opisa problema, našli smo rešenje za vas. Većina klijenata mogla je samostalno da rešava svoj problem nakon praćenja dokumentacije.
+Na osnovu opisa problema, pronašli smo rešenje za vas. Većina klijenata je sama rešila problem nakon što su pratili dokumentaciju.
 
-**Uređivanje administratora pretplate ili Koadministratora**
+**Uređivanje administratora pretplate ili koaumenata**
 
-- Administrator naloga može da uredi obe uloge dok administrator pretplate može da promeni samo Koadministratore na [Azure portal](https://ms.portal.azure.com/#home).
-- [Dodavanje ili promena Azure administratora pretplate](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- Administrator naloga može da uređuje obe uloge, dok administrator pretplate može da promeni samo administratore za koautore na [Azure portalu.](https://ms.portal.azure.com/#home)
+- [Dodavanje ili promena administratora pretplate na Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Ažuriranje administratora pretplate ili Co-Administrator za interne (EMITNE) pretplate**
+**Ažuriranje administratora pretplate ili Co-Administrator za unutrašnje (AIRS) pretplate**
 
-Administrator usluge ili koadministrator može samouslužiti ovu radnju pomoću sledećih koraka:
+Administrator usluge ili administrator koautora mogu sami da služe ovoj radnji na sledeći način:
 
-1. Prijavite se na [Azure portal](https://ms.portal.azure.com/#home) i izaberite stavku **Upravljanje troškovima + naplata** u levom Blejku.
-2. Kliknite na stavku predmeta sa pretplatom. Otvoriće se pregled pretplate.
-3. Na oštrici **pretplate** kliknite na dugme **Svojstva**. 
-4. Kliknite na dugme **administratora usluge** .
-5. Unesite e-poruku korisnika koju želite da postaviљ kao administrator usluge i kliknite na dugme **u redu**.
+1. Prijavite se na [Azure portal i kliknite](https://ms.portal.azure.com/#home) na upravljanje **troškovima + naplata na** levom blejdu.
+2. Kliknite na stavku reda sa pretplatom. To otvara pregled za pretplatu.
+3. Na **bleju pretplate izaberite** stavku **Svojstva.** 
+4. Kliknite na **dugme "Administ za** uslugu".
+5. Unesite adresu e-pošte korisnika koga želite da postavite za administratora usluge i kliknite na dugme **U redu.**
 
-**Dodavanje/promena/uklanjanje Koadministratora**
+**Dodavanje/promena/uklanjanje koad administratora**
 
 1. Prijavite se na [Azure portal](https://ms.portal.azure.com/#home) kao administrator usluge.
-2. Otvorite [pretplate](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i izaberite pretplatu. (Saradnici se mogu dodeliti samo na nivou pretplate.)
-3. Pređite na **Access Control (iam)**  >  **Classic administratori**  >  **dodaju**  >  **programski koadministrator** da bi otvorili okno " **Dodavanje koadministracije** " (ako je opcija "Dodaj koadministrator" onemogućiti, označava da nemate dozvole).
-4. Izaberite korisnika kojeg želite da dodate i kliknite na dugme **Dodaj**.
+2. Otvorite [pretplate i](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) izaberite pretplatu. (Koadministratori mogu da se dodele samo u e-pošti pretplate.)
+3. Pređite na klasičnu kontrolu pristupa **(IAM)** Klasični administratori Dodajte koadmini administratore da biste otvorili okno Dodavanje koadminimenata (Ako je onemogućena opcija Dodavanje  >    >    >   koadministira,  ona vam saoseća da nemate dozvole).
+4. Izaberite korisnika koga želite da dodate i kliknite na **dugme Dodaj**.
 
 **uči više:**
-- [Dodavanje Koadministratora](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Uklanjanje koadministratora](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Dodavanje koadmenata](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Uklanjanje koad administratora](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Promena administratora usluge](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Prikaz administratora naloga](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Upravljanje pristupom koristeći RBAC i Azure portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Upravljanje pristupom pomoću RBAC i Azure portala](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Dodavanje/brisanje korisnika pomoću usluge Azure Active Directory (AD)**
+**Dodavanje/brisanje korisnika pomoću Azure Active Directory (AD)**
 
-Možete da dodate nove korisnike ili da izbrišete postojeće korisnike iz usluge Azure Active Directory (Azure AD):
+Možete da dodate nove korisnike ili izbrišete postojeće korisnike iz Azure Active Directory (Azure AD) organizacije:
 
-1. Da biste dodali novog korisnika, prijavite se na [Azure portal](https://ms.portal.azure.com/#home) kao korisnički administrator za organizaciju.
-2. Izaberite stavku **Azure Active Directory**, izaberite stavku **Korisnici** , a zatim stavku **novi korisnik**.
-3. Na stranici **korisnik** popunite potrebne informacije. Kliknite na dugme **Kreiraj**. Korisnik se kreira i dodaje u vaš Azure AD stanar.
+1. Da biste dodali novog korisnika, prijavite se na [Azure portal](https://ms.portal.azure.com/#home) kao administrator korisnika za organizaciju.
+2. Izaberite **Azure Active Directory**, izaberite stavku **Korisnici, a** zatim stavku **Novi korisnik.**
+3. Na stranici **Korisnik** popunite potrebne informacije. Izaberite **stavku Kreiraj.** Korisnik se kreira i dodaje u Azure AD zakupca.
 
-**Saznajte više**:
+**Saznajte više:**
 
 - [Dodavanje novog korisnika](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Brisanje korisnika](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Dodavanje ili ažuriranje informacija o profilu pomoću usluge Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Dodavanje ili ažuriranje informacija o korisničkom profilu pomoću Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Preporučeni dokumenti**
 
-- [Šta je to Kontrola pristupa zasnovan na ulozi (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [Razumevanje raznih uloga u Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Dozvole za administratorske uloge u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Uputstvo: dodelite pristup korisniku koji koristi RBAC i Azure portal](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Šta je kontrola pristupa zasnovana na ulogama (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
+- [Razumevanje različitih uloga u programu Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [Administratorske dozvole za uloge u Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Uputstvo: Odobravanje pristupa korisniku pomoću RBAC i Azure portala](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Rešavanje problema sa RBAC u Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Organizovanje resursa pomoću usluge Azure Management](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Kako tražiti kopiju Azure fakture putem e-pošte](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Kako da dodate, ažurirate ili uklonite kreditnu ili debitnu karticu sa lokacije Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Upravljanje pretplatom (ponovo Aktiviraj/Otkaži/zameni)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Organizovanje resursa sa Azure grupama za upravljanje](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Kako da zatražite kopiju Azure fakture putem e-pošte](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Dodavanje, ažuriranje ili uklanjanje kreditne ili debitne kartice iz usluge Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Upravljanje (ponovo aktiviraj/otkaži/promeni) pretplatom](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 
