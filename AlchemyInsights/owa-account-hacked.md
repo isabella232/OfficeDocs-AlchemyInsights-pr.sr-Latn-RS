@@ -1,5 +1,5 @@
 ---
-title: Outlook na Veb nalogu je hakovan
+title: Outlook na vebu hakovanog naloga
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b411f48ef56f32f22babbe16f13865a2d6f7cc17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 177612e13423f8692cd8fea599861671afe7b1b7b40e7b198f5bef536d51c75c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961533"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Outlook na Veb nalogu je hakovan
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook na vebu hakovanog naloga
 
-Ako je vaš nalog hakovan, uradite uputstvo o tome [Kako da obezbedite i vratite funkciju e-pošte u osumnjičeni kompromitovani Microsoft 365 nalog i poštansko sanduče](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Ako vam je nalog hakovan, pratite uputstva u kako da obezbedite i vratite funkciju e-pošte u prethodno stanje na sumnjivo ugrožen Microsoft 365 nalog i [poštansko sanduče.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
 
-Da biste saznali više o dodatnim koracima koje možete da uradite da biste sprečili kompromis za nalog, pogledajte članak [odgovaranje na kompromitovani nalog e-pošte u usluzi Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).
+Da biste saznali više o dodatnim koracima koje možete preduzeti kako biste sprečili ugroženje naloga, pogledajte odgovaranje na ugroženi nalog e-pošte [u Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
