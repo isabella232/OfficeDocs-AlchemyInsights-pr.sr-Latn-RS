@@ -1,5 +1,5 @@
 ---
-title: Premeštanje javnih fascikli između poštanskih sandučića javne fascikle
+title: Premeštanje javne fascikle između poštannih sandučića javne fascikle
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986239"
 ---
-# <a name="move-public-folders-between-public-folder-mailboxes"></a>Premeštanje javnih fascikli između poštanskih sandučića javne fascikle
+# <a name="move-public-folders-between-public-folder-mailboxes"></a>Premeštanje javne fascikle između poštannih sandučića javne fascikle
 
-Javne fascikle u usluzi Exchange online mogu se premestiti između poštanskih sandučića javne fascikle pomoću programa Outlook za Windows računare.
+Javne fascikle u fascikli Exchange na mreži mogu da se premešte iz poštanski sandučići javne fascikle Outlook za windows računare.
 
-Ako pokušavate da premestite javne fascikle iz programa Exchange u usluzi Exchange online, pogledajte sledeće članke:
+Ako pokušavate da premestite javne fascikle iz Exchange na Exchange mreži, pogledajte sledeće članke:
 
-[Migriranje Exchange servera 2013, 2016, 2019 javnih fascikli na Exchange online](https://aka.ms/ModernPFToEXO)
+[Migr Exchange server 2013.2016.2019 javne fascikle da biste Exchange na mreži](https://aka.ms/ModernPFToEXO)
 
-[Migriranje Exchange servera 2010 javnih fascikli na Exchange online](https://aka.ms/LegacyPFToEXO)
+[Migr Exchange server 2010 javne fascikle da Exchange Online](https://aka.ms/LegacyPFToEXO)

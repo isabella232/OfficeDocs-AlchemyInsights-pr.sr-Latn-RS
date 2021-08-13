@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985915"
 ---
 # <a name="network-policy-server-extension"></a>Proširenje servera smernica mreže
 
-Oznaka usluge Network Policy server (NPS) za Azure AD multi-faktor potvrda identiteta dodaje MFA mogućnosti zasnovane na oblaku u infrastrukturi identiteta koristeći postojeće servere. Sa oznakom NPS možete da dodate programski poziv, tekstualnu poruku ili verifikaciju aplikacije za telefone u postojećem toku potvrde identiteta bez potrebe da instalirate, konfigurišete i održavate nove servere.
+Proširenje servera smernica mreže (NPS) za Azure AD Multi-Factor Authentication dodaje MFA mogućnosti zasnovane na oblaku u infrastrukturu potvrde identiteta pomoću postojećih servera. Sa lokalom NPS možete da dodate telefonski poziv, tekstualnu poruku ili verifikaciju aplikacije za telefon u postojeći tok potvrde identiteta bez instaliranja, konfigurisanja i održavanja novih servera.
 
-Funkcija "NPS" se ponaša kao adapter između prečnika i zasnovane na Azure AD Multifaktor sa sedištem u oblaku da bi obezbedila drugi faktor identiteta za federisane ili sinhronizovane korisnike.
+Proširenje NPS-a ponaša se kao adapter između RADIUS-a i Azure AD Multi-Factor Authentication zasnovanog na oblaku da bi se obezbedio drugi faktor potvrde identiteta za federane ili sinhronizovane korisnike.
 
-Više detalja o tome kako funkcioniše funkcija NPS, pogledajte članak [integrisanje postojeće mrežne smernice za mrežni server (NPS) sa Azure AD multi-faktor autentičnosti](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension).
+Više detalja o tome kako funkcioniše proširenje NPS-a možete da pročitate u člancima Integracija postojeće infrastrukture servera smernica mreže (NPS) sa uslugom [Azure AD Multi-Factor Authentication.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)
