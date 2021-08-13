@@ -1,5 +1,5 @@
 ---
-title: Otvaranje SharePoint biblioteke u istraživaču datoteka
+title: Otvaranje biblioteke SharePoint datoteka u istraživaču datoteka
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 97466d2505cccecb2087f15b1df97a5d46868b72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0f6be42831594615db474c8f7f0f0b5e2da787a8a91f4943fb2c27ec57abb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957951"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Akreditiva poruka u sistemu SharePoint ili OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Akredialne poruke u SharePoint ili OneDrive
 
-Korisnicima se može periodično koristiti Office za akreditive za SharePoint Online ili OneDrive prilikom pokušaja otvaranja dokumenata.
+Korisnicima će možda povremeno biti zatraženo da Kancelarija akreditivi za SharePoint Online ili OneDrive korisnicima kada pokušavaju da otvore dokumente.
 
-Ako nailazite na ove simptome, isprobajte korake navedene u [ovom članku](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
+Ako imate ove simptome, isprobajte korake navedene u ovom [članku.](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)
 
-Ako koristite jedinstveno prijavljivanje (SSO) da biste se potvrdili, pogledajte [Ovaj članak](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) umesto toga.
+Alternativno, Ako koristite jedinstveno prijavljivanje (SSO) da biste potvrdili identitet, umesto toga pogledajte [ovaj](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) članak.

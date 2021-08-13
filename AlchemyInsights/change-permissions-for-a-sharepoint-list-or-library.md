@@ -1,5 +1,5 @@
 ---
-title: Promena dozvola za SharePoint listu ili biblioteku
+title: Promena dozvola za listu SharePoint ili biblioteku
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979471"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Promena dozvola za SharePoint listu ili biblioteku
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Promena dozvola za listu SharePoint ili biblioteku
 
-1. Idite na SharePoint lokaciju u Veb pregledaču i otvorite listu ili biblioteku.
+1. Idite na lokaciju SharePoint u veb pregledaču i otvorite listu ili biblioteku.
     
-2. Kliknite na ikonu postavke u gornjem desnom uglu, a zatim izaberite stavku **Postavke biblioteke** ili **postavke liste**. (Ako ne vidite komandu, izaberite karticu **Biblioteka** ili **Lista** da biste otvorili traku, a zatim izaberite stavku **Postavke biblioteke** ili **postavke liste** na traci.) 
+2. Kliknite na ikonu Postavke u gornjem desnom vremenu, a zatim izaberite stavku Postavke **biblioteke** **ili Postavke liste.** (Ako ne vidite komandu, odaberite  karticu Biblioteka ili Lista da biste otvorili traku, a zatim izaberite stavke Biblioteka **Postavke** ili **Postavke** liste na traci.)  
     
-3. U okviru **dozvole i upravljanje**izaberite stavku **dozvole za ovu listu** ili **dozvole za ovu biblioteku dokumenata**.
+3. U **okviru Dozvole i upravljanje** **izaberite stavku Dozvole za ovu listu** ili Dozvole za ovu **biblioteku dokumenata.**
     
-Imajte u vidu da SharePoint liste i biblioteke podrazumevano nasleđuju dozvole od lokacije. Ako prekrљite nasleđivanje dozvola, trenutne dozvole će biti kopirane na listu ili u biblioteku i sve u njoj. Ako se dozvole za sajt kasnije promene, promene se neće primeniti na listu ili biblioteku i na stavke u njoj.
+Imajte na SharePoint lista i biblioteka nasleđuju dozvole od lokacije. Ako prekinete nasleđivanje dozvola, trenutne dozvole se kopiraju na listu ili u biblioteku i sve unutar te biblioteke. Ako se dozvole za lokaciju kasnije promene, promene se neće primeniti na listu ili biblioteku, kao ni na stavke unutar lokacije.
   
 

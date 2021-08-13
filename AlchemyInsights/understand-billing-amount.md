@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919653"
 ---
 # <a name="understand-billing-amount"></a>Razumevanje iznosa naplate
 
@@ -26,7 +26,7 @@ ms.locfileid: "51827878"
 - Da biste pregledali i razumeli račun, pogledajte: [Uputstvo: Pregled pojedinačnog Azure računa](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje termina na fakturi: [Objašnjeni uslovi Azure fakture](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje termina za troškove korišćenja za Azure: [Objašnjeni uslovi korišćenja](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Da biste pribavili PDF kopiju fakture i kopiju datoteke sa detaljima dnevnog korišćenjem (. CSV): [Nabavite fakturu i podatke o korišćenjem](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Da biste pribavili PDF kopiju fakture i kopiju datoteke sa detaljnim dnevnim korišćenjem (.CSV): Nabavite fakturu i podatke [o korišćenjem](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 Natpis: Ako otkažete pretplatu/resurs usred ciklusa **naplate,** možda ćete i dalje videti troškove koji će biti naplaćeni za bilo koju korišćenje u prethodnom mesecu. Na primer, ako je ciklus naplate bio od 26. dana svakog meseca do 25. u mesecu & obustavljate pretplatu 23. juna, što znači da je 28 dana u ciklusu naplate za jun, možda ćete videti naplatu za 28 dana korišćenja. Ako vidite troškove otkazivanja pretplate, uverite se da nemate druge planove podrške koji uzrokuju naplatu. Ako imate, možete da otkažete plan.
 
@@ -44,10 +44,10 @@ Natpis: Ako otkažete pretplatu/resurs usred ciklusa **naplate,** možda ćete i
 - Da biste pregledali i razumeli račun, pogledajte članak: Uputstvo: Pregledajte [fakturu Microsoft ugovora za partnere](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje uslova na fakturi: Objašnjeni [uslovi u fakturi Microsoft ugovora o partneru](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Ugovor za preduzeća (EA)**
+**ugovor za preduzeća (EA)**
 
-- Da biste pregledali i razumeli račun, pogledajte: Razumevanje [računa za Azure enterprise Agreement](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Ako ste Azure klijent sa ugovorom za preduzeća (EA klijent), ne možete da preuzmete fakture organizacije. Fakture se šalju osobema koje su podešene da primaju fakture za uplaćivanje, možete da preuzmete korišćenje na [Azure portal.](https://portal.azure.com/)
+- Da biste pregledali i razumeli račun, pogledajte: [Razumevanje Azure ugovor za preduzeća računa](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Ako ste Azure klijent sa dobavljačem ugovor za preduzeća (EA klijent), ne možete da preuzmete fakture organizacije. Fakture se šalju osobema koje su podešene da primaju fakture za uplaćivanje, možete da preuzmete korišćenje na [Azure portal.](https://portal.azure.com/)
 
 Pregledajte fakturu za prekoračinje usluge:
 
@@ -71,7 +71,7 @@ Uporedite ukupnu vrednost za Azure Marketplace u izveštajima > na portalu Enter
 
 **Dobavljač rešenja u oblaku (CSP)**
 
-- Saznajte više o tome kako naplata funkcioniše u programu Azure Cloud Solution Provider (Azure CSP) programu: [Azure CSP naplata](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Saznajte više o tome kako funkcioniše naplata u Azure Dobavljač rešenja u oblaku (Azure CSP) programu: [Azure CSP naplata](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Saznajte više o čitanju i razumevanju CSP računa: [Azure CSP faktura](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Preporučeni dokumenti**
@@ -81,4 +81,4 @@ Uporedite ukupnu vrednost za Azure Marketplace u izveštajima > na portalu Enter
 - [Razumevanje Azure ograničenja potrošnje](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje Azure naplate za troškove spoljne usluge: [Kako se naplaćuje spoljne usluge](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Pitanja za besplatni Azure nalog](https://azure.microsoft.com/free/free-account-faq/)
-- [Razumevanje Azure ugovora o preduzeću administrativnih uloga u Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Razumevanje Azure ugovor za preduzeća administrativnih uloga u Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

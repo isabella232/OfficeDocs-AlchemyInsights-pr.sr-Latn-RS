@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: aa6440f36c832d2cd5576ee0adf13ba14518485c
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 87f0b48f5c3ef68af5053414b893adc66ad35d28e163154db8c3f2b3a52cf4a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969111"
 ---
 # <a name="block-downloads-for-sharepoint-and-onedrive"></a>Blokiraj preuzimanja za SharePoint i OneDrive
 
-Postoje različiti načini da blokirate preuzimanja iz sistema SharePoint i OneDrive. Pogledajte navedene članke ispod za više informacija.
+Postoje različiti načini da blokirate preuzimanja iz SharePoint i OneDrive. Dodatne informacije potražite u člancima u nastavku.
 
-- [Blokiraj preuzimanja za datoteke samo za prikaz u sistemu SharePoint i OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
-- [Kontrola pristupa iz nekompletnih uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [Kontrolisanje pristupa podacima u sistemu SharePoint i OneDrive na osnovu mrežne lokacije](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Blokiraj preuzimanja za datoteke samo za prikaz u SharePoint i OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
+- [Kontrola pristupa sa nekontrolišućeg uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Kontrola pristupa SharePoint OneDrive podataka na osnovu mrežne lokacije](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
