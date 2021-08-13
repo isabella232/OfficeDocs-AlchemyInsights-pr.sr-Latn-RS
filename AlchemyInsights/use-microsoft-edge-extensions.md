@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004621"
 - "8313"
-ms.openlocfilehash: 4a7e83e27aa78e064c2f8261c3b66bfe0468f300
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac0c7b9f05c34c95d20539104af1317b43203b5a05882372d93c98b80632ced3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971569"
 ---
 # <a name="use-microsoft-edge-extensions"></a>Korišćenje Microsoft Edge proširenja
 
-[Proširenja](https://go.microsoft.com/fwlink/?linkid=2135619) su programski dodaci koje možete da instalirate u usluzi Microsoft Edge da biste blokirali oglase, upravljali lozinkama, prevedali tekst i prilagodili pregledanje pregledanja na mnogo drugih načina.
+[Proširenja](https://go.microsoft.com/fwlink/?linkid=2135619) su programski dodaci koje možete da instalirate u programu Microsoft Edge biste blokirali oadove, upravljali lozinkama, preveli tekst i prilagodili iskustvo pregledanja na mnogo drugih načina.

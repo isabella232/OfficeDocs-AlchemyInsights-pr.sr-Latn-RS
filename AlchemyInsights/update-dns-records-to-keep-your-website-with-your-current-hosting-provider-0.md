@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f868ce25d68f61da30d2db4de88aa83675c97857b3c1371cf2039e0b03895a64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007696"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažuriranje DNS zapisa da bi se zadržao veb sajt sa trenutnim dobavljačem usluge hostinga
 
-1. U Microsoft 365 centru administacije idite na stranicu Podešavanje domena i na listi domena izaberite domen koji koristite za   >  [](https://admin.microsoft.com/Adminportal#/Domains) veb lokaciju.
+1. Na Microsoft 365 centar administracije stranici Podešavanje domena i na listi domena izaberite domen koji koristite za   >  [](https://admin.microsoft.com/Adminportal#/Domains) veb lokaciju.
 
 2. Izaberite **+ Novi prilagođeni** zapis i unesite sledeće:
 

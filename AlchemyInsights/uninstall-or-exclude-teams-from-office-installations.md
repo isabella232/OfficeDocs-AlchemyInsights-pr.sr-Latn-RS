@@ -1,5 +1,5 @@
 ---
-title: Deinstalacija ili isključite Teams iz Office instalacija
+title: Deinstalujte ili isključite Teams iz Kancelarija instalacija
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 2d96d54cb479f5f52cc707d4307cf9cf1e891a01
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a960c96abf6215e3a34908ce8669a0c61298daac829343b3673dbfef0c4cbfc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007732"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Deinstalacija ili isključivanje teams iz novih ili postojećih Office instalacija
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Deinstalujte ili Teams iz novih ili postojećih Kancelarija instalacija
 
-Microsoft Teams je uključen u Microsoft 365 aplikacije za velika preduzeća, Microsoft 365 aplikacije za preduzeća i Office za Mac.
+Microsoft Teams je uključen kao deo usluge Microsoft 365 Apps za preduzeće, Microsoft 365 aplikacije za posao i usluge Kancelarija za Mac.
 
-- Koristite [alatku za primenu programskog paketa](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) Office da biste izuzeli Teams iz novih instalacija sistema Office.
-- Da *biste deinstalacija aplikacije* Teams sa uređaja sa operativnim sistemom Windows, pogledajte članak [Deinstalacija usluge Microsoft Teams.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Da biste očistili Microsoft Teams sa više ciljnih računara ili korisnika, pogledajte članak [Čišćenje Microsoft Teams primene.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
-- Koristite [opciju "PreventTeamsInstall"](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
-) da biste sprečili Microsoft Teams da se automatski instalira sa sistemom Office.
-- Koristite [opciju PreventFirstLaunchAfterInstall,](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) pre instaliranja usluge *Teams* kako biste sprečili Microsoft Teams da se automatski pokreće nakon instalacije.
+- Koristite [alatku Kancelarija za primenu](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) da biste Teams iz novih instalacija sistema Kancelarija.
+- Da *biste Teams* na uređaju koji Windows pokrenut, pogledajte Microsoft Teams. [](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Da biste očistili Microsoft Teams više ciljnih računara ili korisnika, pogledajte Microsoft Teams [čišćenje primene.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+- Koristite [opciju "SprečiteTeamsInstall"](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+) da biste sprečili Microsoft Teams instaliranje sa aplikacijom Kancelarija.
+- Koristite [opciju PreventFirstLaunchAfterInstall,](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) pre nego *što Teams* instalirate , da biste sprečili Microsoft Teams se automatski pokreće nakon instalacije.
 
-Ako koristite Office za Mac, pogledajte [članak Microsoft Teams instalacije na Mac računaru.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+Ako koristite program Kancelarija Mac, pogledajte Microsoft Teams [instalacije na Mac računaru.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)

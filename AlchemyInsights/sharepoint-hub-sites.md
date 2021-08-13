@@ -1,5 +1,5 @@
 ---
-title: Pregled lokacija SharePoint Hub
+title: SharePoint pregled sajtova čvorišta
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d95c282ef6b6fb33736cce1bd8112476639cb0ecacc04a99e06869bf3feb830f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800802"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093803"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>Pregled lokacija SharePoint Hub
+# <a name="sharepoint-hub-sites-overview"></a>SharePoint pregled sajtova čvorišta
 
-SharePoint sajtovi čvorišta vam pomažu da ispunite potrebe organizacije povezivanjem i organizovanjem lokacija na osnovu projekta, odseka, podele, regiona itd. olakšavanje:
+SharePoint čvorišta vam pomažu da ispunite potrebe organizacije tako što povezuje i organizuje sajtove na osnovu projekta, sektora, odeljenja, regiona itd. što vam olakšava:
 
-- Otkrijte srodni sadržaj kao što su vesti i druge aktivnosti sajta.
+- Otkrij srodni sadržaj kao što su vesti i druge aktivnosti na lokaciji.
 
-- Primenjivanje uobičajene navigacije i Brenda na povezane lokacije. 
+- Primenite uobičajenu navigaciju i brending na povezanim sajtovima. 
 
-- Pretražite sve povezane lokacije.
+- Pretražite sve povezane sajtove.
 
-Više informacija o Veb lokacijama potražite u sledećim člancima:
-- [Kreirajte sajt čvorišta u usluzi SharePoint online](https://docs.microsoft.com/sharepoint/create-hub-site): Saznajte kako da kreirate sajt čvorišta iz novog centra administracije ili PowerShell.
+Pogledajte sledeće za više informacija o sajtovima čvorišta:
+- [Kreiranje sajta čvorišta](https://docs.microsoft.com/sharepoint/create-hub-site)u programu SharePoint Online : Saznajte kako da kreirate sajt čvorišta iz novog centra administratora ili usluge PowerShell.
 
-- [Povežite SharePoint lokaciju sa lokacijom čvorišta](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Saznajte više o tome kako da pridružite postojeće lokacije na lokaciji čvorišta iz novog centra administracije ili PowerShell.
+- [Povezivanje lokacije SharePoint](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)sa sajtom čvorišta: Saznajte više o povezivanja postojećih sajtova sa sajtom čvorišta iz novog centra administratora ili programskog jezika PowerShell.
 
-- [Uklonite sajt čvorišta](https://docs.microsoft.com/sharepoint/remove-hub-site): Saznajte kako da uklonite postojeću sajt čvorišta u novom centru administracije ili PowerShell.
+- [Uklanjanje sajta čvorišta:](https://docs.microsoft.com/sharepoint/remove-hub-site)Saznajte kako da uklonite postojeći sajt čvorišta u novom centru administratora ili programu PowerShell.
 
