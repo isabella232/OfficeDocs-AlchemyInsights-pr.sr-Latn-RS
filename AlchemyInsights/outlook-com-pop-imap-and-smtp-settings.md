@@ -14,25 +14,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983827"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP, IMAP i SMTP postavke za Outlook.com
 
-Ako želite da dodate svoj Outlook.com nalog u aplikaciju za poštu koja podržava POP ili IMAP, evo postavki servera koje će vam biti potrebne:
+Ako želite da dodate Outlook.com nalog u aplikaciju e-pošte koja podržava POP ili IMAP, evo postavki servera koje su vam potrebne:
   
-- **Name IMAP servera:** Outlook.Office365.com
+- **Ime IMAP servera:** outlook.office365.com
 - **IMAP port:** 993
-- **Metod IMAP šifrovanja:** TLS
-- **Ime pop servera:** Outlook.Office365.com  
-- **Pop port:** 995  
-- **Metod za pop šifrovanje:** TLS  
-- **Name SMTP servera:** SMTP.Office365.com
+- **IMAP metod šifrovanja:** TLS
+- **Ime POP servera:** outlook.office365.com  
+- **POP port:** 995  
+- **POP metod šifrovanja:** TLS  
+- **Ime SMTP servera:** smtp.office365.com
 - **SMTP port:** 587
-- **Metod SMTP šifrovanja:** STARTTLS
+- **SMTP metod šifrovanja:** STARTTLS
 
-Saznajte više o [dodavanju Outlook.com naloga nekoj drugoj aplikaciji za poštu ili pametnim uređajima](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Saznajte više o [dodavanju Outlook.com naloga drugoj aplikaciji e-pošte ili pametnom uređaju.](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)

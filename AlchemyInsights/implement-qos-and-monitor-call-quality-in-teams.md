@@ -1,5 +1,5 @@
 ---
-title: Primena QoS-a i nadgledanje kvaliteta poziva u teams
+title: Primena QoS-a i nadgledanje kvaliteta poziva u programu Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e333394d3cb3f91ad48f3b443987fba23c7c2a5245b31555ef07ccf09e46be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926439"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Primena QoS-a i nadgledanje kvaliteta poziva u teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Primena QoS-a i nadgledanje kvaliteta poziva u programu Teams
 
-Anlitika poziva i tabla kvaliteta poziva mogu da se koriste za rešavanje problema sa kvalitetom poziva u aplikaciji Microsoft Teams. Da biste saznali više o kvalitetu usluge (QoS), animalitici poziva i tabli kvaliteta poziva (CQD), pogledajte članak [Primena QoS-a](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)i nadgledanje kvaliteta poziva u usluzi Microsoft Teams. 
+Anlitika poziva i tabla kvaliteta poziva mogu se koristiti za rešavanje problema sa kvalitetom poziva u Microsoft Teams. Da biste saznali više o kvalitetu usluge (QoS), Analytics poziva i o tabli kvaliteta poziva (CQD), pogledajte primena QoS i nadgledanje kvaliteta poziva u [programu Microsoft Teams.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 

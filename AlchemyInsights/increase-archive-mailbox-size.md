@@ -1,5 +1,5 @@
 ---
-title: 305 povećava veličinu poštanskog sandučeta arhive
+title: 305 Povećavanje veličine arhivnog poštanskog sandučeta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,26 +10,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926403"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Povećavanje veličine poštanskog sandučeta arhive
+# <a name="increase-the-archive-mailbox-size"></a>Povećavanje veličine arhivnog poštanskog sandučeta
 
 
-Ako želite da uradite automatizovane provere za postavke navedene ispod, kliknite na dugme nazad <--na vrhu ove stranice, a zatim unesite e-adresu korisnika koji zahteva veličinu svog poštanskog sandučeta.
+Ako želite da pokrenemo automatske provere postavki koje su pomenute ispod, kliknite na dugme "nazad< – na vrhu ove stranice, a zatim unesite adresu e-pošte korisnika kome je potrebna povećana veličina arhivnog poštanskog sandučeta.
 
-Microsoft 365 [ograničava](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) veličinu poštanskih poštanskih sandučića na osnovu licence koja je dodeljena korisničkom nalogu. Kada poštansko sanduče arhive dostigne 90% dozvoljene veličine, korisnik prima obaveštenje e-poštom. Kada arhivirane poštansko sanduče dostigne ograničenje veličine, korisnik ne može da premesti više stavki u poštansko sanduče arhive. Microsoft 365 neće povećati veličinu arhiviranskog poštanskog sandučeta kada se dostigne ograničenje veličine. Umesto toga, korisnici mogu da preuzmu sledeće radnje da bi oslobodili prostor u poštanskom sandučetu arhive:
+Microsoft 365 [ograničava veličinu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) arhivskih poštanskih sandučića na osnovu licence koja je dodeljena korisničkom nalogu. Kada arhivski poštansko sanduče dostigne 90% dozvoljene veličine, korisnik prima obaveštenje putem e-pošte. Kada arhivski poštansko sanduče dostigne ograničenje veličine, korisnik ne može da premesti više stavki u arhivski poštansko sanduče. Microsoft 365 neće povećati veličinu arhivnog poštanskog sandučeta kada se dostigne ograničenje veličine. Umesto toga, korisnici mogu da preduzmu sledeće radnje kako bi oslobodili prostor u arhivskom poštanskom sandučetu:
 
-- Izvezite stavke u. pst datoteku pomoću programa Outlook.
+- Izvezite stavke u .pst datoteku koristeći Outlook.
 
-- Brisanje stavki iz poštanskog sandučeta arhive.
+- Izbriši stavke iz arhivnog poštanskog sandučeta.
 
-Microsoft 365 pruža **neograničen broj arhiviranja** za Office 365 Enterprise E3 i E5 licence. Administrator mora da omoguжi ovu funkciju pre nego što poštansko sanduče arhive dostigne maksimalnu veličinu. Kada je omogućeno neograničeno arhiviranje, može da potraje i do 30 dana dok se besplatan prostor ne doda u poštansko sanduče arhive. Zbog toga preporučujemo da administratori potvrde besplatan prostor u poštanskom sandučetu arhive, što korisniku omogućava da nastavi da koristi poštansko sanduče arhive dok se širi. Više informacija potražite u članku [Pregled nelimitivanja arhiviranja u microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) i [Omogućavanje neograničenog arhiviranja u usluzi Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Microsoft 365 **neograničeno arhiviranje za** licence za Office 365 Enterprise E3 i E5. Da bi arhivski poštansko sanduče dostigao maksimalnu veličinu, morate da omogućite ovu funkciju. Kada se omogući neograničeno arhiviranje, može da proteže do 30 dana pre nego što se slobodni prostor doda u arhivski poštanski sanduče. Zbog toga preporučujemo da korisnici verifikuju slobodan prostor u arhivskom poštanskom sandučetu, što omogućava korisniku da nastavi da koristi arhivski poštansko sanduče dok se širi. Više informacija potražite [](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) u temi Pregled neograničenog arhiviranje u Microsoft 365 i Omogućavanje neograničenog arhiviranje u [Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
 
-Više informacija o pristupanju poštanskom sandučetu arhive iz programa Outlook potražite [u članku Outlook zahtevi za pristup stavkama u automatskom razvijenoj arhivi](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Da biste konfigurisali smernice za zadržavanje koje automatski pomeraju stavke u poštansko sanduče arhive, pogledajte [članak podešavanje smernica za arhiviranje i brisanje za Poštanske sandučiće u Microsoft 365 organizaciji](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Dodatne informacije o pristupu arhivskom poštanskom sandučetu iz Outlook potražite u Outlook zahteve za pristup stavkama u automatskoj razvijenoj [arhivi](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Da biste konfigurisali smernice za zadržavanje koje automatski premeštaju stavke u arhivno poštansko sanduče, pogledajte podešavanje smernica za arhiviranje i brisanje za poštanske sandučiće [u Microsoft 365 organizaciji.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Napomena**: automatska arhiva nije podržana za primarne Poštanske sandučiće u usluzi Exchange 2010.
+**Napom: Arhive** za automatsko razvijanje nisu podržane za primarne poštanske sandučiće u programu Exchange 2010.

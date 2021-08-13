@@ -1,5 +1,5 @@
 ---
-title: Otpremanje dokumenata
+title: Otpremanje dokumenta
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38a55a38e0a69334a60e8f1c84402e75eb5796035501d39c1f217fe194dae432
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965295"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Otpremanje datoteka u OneDrive ili SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Otprema datoteke u OneDrive ili SharePoint
 
-1. U Veb pregledaču idite na lokaciju na kojoj želite da otpremite datoteke.
+1. U veb pregledaču idite na lokaciju na koju želite da otpremite datoteke.
     
 2. Otvorite istraživač datoteka i potražite datoteke koje želite da otpremite.
     
-3. Izaberite datoteke i prevucite ih na lokaciju u usluzi OneDrive ili sistemu SharePoint. Napomena: Ako koristite Microsoft Edge, Mozilla FireFox ili Google Chrome, možete i da otpremite fasciklu i sve datoteke u njoj.
+3. Izaberite datoteke i prevucite ih na lokaciju u OneDrive ili SharePoint. Napomena: Ako koristite Microsoft Edge, Mozilla FireFox ili Google Chrome, možete da otpremite fasciklu i sve datoteke u samoj fascikli.
     
-**Primeć**
+**Napomene:**
 
 - Možete da otpremite datoteke veličine do 15 GB. 
-- Potpuna putanja za datoteku (uključujući ime datoteke) ne može da sadrži više od 400 znakova. 
-- Ako treba da otpremite više od 100 datoteka, [koristite OneDrive klijent za sinhronizaciju](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Puna putanja datoteke (uključujući ime datoteke) ne može da sadrži više od 400 znakova. 
+- Ako treba da otpremite više od 100 datoteka, [koristite OneDrive aplikacija za sinhronizaciju datoteke.](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Specijalizovana podrška za Microsoft protok
+title: Microsoft Flow Specijalizovana podrška
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975943"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Specijalizovana podrška za Microsoft protok
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Specijalizovana podrška
 
-Za specijalizovanu podršku za Microsoft flow posetite novi [Centar administracije Power Platform](https://aka.ms/flowadminsupport). Novi portal pruža direktniji put ka podršci koja je optimizovana za Microsoft flow i druge Power Platform proizvode.
+Za specijalizovanu Microsoft Flow, posetite novi Centar za [administaciju za Power platformu](https://aka.ms/flowadminsupport). Novi portal pruža direktniju putanju ka podršci koja je optimizovana za Microsoft Flow i druge proizvode na Power platformi.
 
-uči više:
-- [Informacije o besplatnim licencama za Microsoft flow](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Najčešća pitanja o toku organizacije](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Microsoft 365 i Dynamics 365 planovi koji uključe Microsoft flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Pitanja za naplatu i Microsoft protok](https://go.microsoft.com/fwlink/?linkid=2072612)
+Saznajte više:
+- [Informacije o besplatnoj Microsoft Flow licenci](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow u vašoj organizaciji – faq](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 Dynamics 365 planove koji uključuju Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow pitanja o naplati i odazivanja](https://go.microsoft.com/fwlink/?linkid=2072612)

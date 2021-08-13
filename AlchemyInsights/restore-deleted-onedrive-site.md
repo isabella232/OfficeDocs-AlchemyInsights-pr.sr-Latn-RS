@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisane OneDrive sajta u prethodno stanje
+title: Vraćanje izbrisane OneDrive lokaciji
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991297"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Vraćanje izbrisane OneDrive sajta u prethodno stanje
+# <a name="restore-a-deleted-onedrive-site"></a>Vraćanje izbrisane OneDrive lokaciji
 
-Kada izbrišete korisnika u Microsoft 365 centru administracije (ili kada se korisnik ukloni kroz Active Directory sinhronizovanje), OneDrive će se zadržati za broj dana koji navedete u OneDrive centru administracije. (Za informacije pogledajte članak [Postavljanje podrazumevanog zadržavanja datoteka za izbrisane korisnike usluge OneDrive](https://docs.microsoft.com/onedrive/set-retention).)
+Kada izbrišete korisnika u radnoj svesci Microsoft 365 centar administracije (ili kada se korisnik ukloni putem Active Directory sinhronizacije), korisnička OneDrive zadržava se na broj dana koji navedete u OneDrive centru za administratovanje. (Informacije potražite u [članku Podešavanje podrazumevanog zadržavanja datoteka za izbrisane OneDrive korisnika](https://docs.microsoft.com/onedrive/set-retention).)
 
-* [Vraćanje izbrisane OneDrive sajta u prethodno stanje](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Vraćanje izbrisane OneDrive lokaciji](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Ako se mnoge OneDrive datoteke brišu, prepišu, oštete ili zaražene malverom, možete da vratite ceo OneDrive u prethodno stanje.
+Ako mnogo datoteka OneDrive bude izbrisano, zamnjeno, oštećeno ili zaraženo malverom, možete da vratite ceo OneDrive na prethodno stanje.
 
-* [Vraćanje u prethodno stanje OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Vraćanje u prethodno OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
