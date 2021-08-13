@@ -1,5 +1,5 @@
 ---
-title: 1336 fascikla "stavke".
+title: 1336 RecoverableItems folder is full
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,33 +13,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c8d53ceabf2428f3d6d765040f1b789b6bbeda04a22dd7fde0d2d728fd17d93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061770"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>Fascikla "stavke koja se može spasti" je popunjena
+# <a name="the-recoverable-items-folder-is-full"></a>Fascikla "Stavke koje mogu da se oporave" je puna
 
-Za Exchange online Poštanske sandučiće, podrazumevano ograničenje prostora za skladištenje stavki je 30 GB. Ograničenje skladišta za fasciklu "stavke koje se mogu spasti" automatski se povećava na 100 GB ako je poštansko sanduče postavljeno na čekanje, eDiscovery ili se dodeljuje smernicama za zadržavanje.
+Za Exchange Online poštanske sandučiće podrazumevano ograničenje skladišta za fasciklu "Stavke koje mogu da se oporave" je 30 GB. Ograničenje skladišta za fasciklu "Stavke koje mogu da se oporave" automatski se povećava na 100 GB ako se poštansko sanduče stavi na zadržavanje u parnicama, zadržavanje e-pošte ili se dodelite smernicama za zadržavanje.
 
-Kada fascikla "Oporune stavke" dostigne ograničenje skladišta, funkcionalnost poštanskog sandučeta utiče na sledeće načine:
+Kada fascikla Stavke koje mogu da se oporave dostigne ograničenje skladišta, na funkcionalnost poštanskog sandučeta utiče na sledeće načine:
 
 - Korisnik ne može da izbriše stavke iz poštanskog sandučeta.
 
-- Pomoćnik kontrolisane fascikle ne može da izbriše stavke na osnovu postavki za zadržavanje ili kontrolisane fascikle.
+- Pomoćnik za kontrolisane fascikle ne može da izbriše stavke na osnovu oznake za zadržavanje ili postavki kontrolisane fascikle.
 
-- Za Poštanske sandučiće sa omogućenim oporavkom za oporavak stavki ili se stavljaju na čekanje, proces zaštite stranice kopiranja i pisanja ne može da održi verzije stavki koje uređuje korisnik.
+- Za poštanske sandučiće koji imaju omogućen oporavak od pojedinačnih stavki ili koji se stave na čekanje, proces zaštite stranice kopiranja u pisanje ne može da održava verzije stavki koje je korisnik uredio.
 
-- Za Poštanske sandučiće sa omogućenim evidentiranju nadzora poštanskog sandučeta, ne mogu se sačuvati datoteke evidencije nadzora u prijemnom poštanskom sandučetu u fascikli "stavke koje se mogu spasti".
+- Za poštanske sandučiće koji imaju omogućeno evidentiranje nadzora poštanskog sandučeta, nijedna stavka evidencije nadzora poštanskog sandučeta ne može da se sačuva u potfascikli "Nadzori" u fascikli "Stavke koje mogu da se oporave".
 
-Za Poštanske sandučiće koji nisu na čekanju, administratori mogu da koriste `Search-Mailbox -SearchDumpsterOnly -DeleteContent` komandu u usluzi Exchange online PowerShell za brisanje stavki u fascikli "stavke koje se mogu spasti". Više informacija potražite u sledećim temama:
+Za poštanske sandučiće koji nisu na čekanju, Exchange Online programu PowerShell mogu da koriste komandu u programu PowerShell da bi izbrisali stavke iz fascikle "Stavke koje mogu da se `Search-Mailbox -SearchDumpsterOnly -DeleteContent` oporave". Dodatne informacije potražite u sledećim temama:
 
-- [Pretraga i brisanje poruka](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
+- [Traženje i brisanje poruka](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
-- [Pretraga – poštansko sanduče](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Za Poštanske sandučiće na čekanju, administratori moraju da uklone čekanje pre nego što mogu da izbrišu stavke iz fascikle "stavke koje se mogu spasti". Više informacija potražite u članku [Brisanje stavki u fascikli "pristupačnije stavke" sa poštanskim sandučićima zasnovanim na oblaku](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Za poštanske sandučiće koji su na čekanju, administranici moraju da uklone zadršku da bi mogli da izbrišu stavke iz fascikle "Stavke koje mogu da se oporave". Više informacija potražite u temi Brisanje stavki u fascikli "Stavke koje mogu da se oporave" u poštanskim sandučićima zasnovanim na [oblaku na čekanju.](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)
 
-Da bi se sprečilo da fascikla sa ispravnošću može da postane puna, administratori mogu da povećaju ograničenje skladišta stavki "Oporadne stavke" za Poštanske sandučiće na čekanju i podesite smernice za zadržavanje poštanskog sandučeta koje pomeraju stavke iz fascikle "Oporadne stavke" u skladište primaoca. Pogledajte članak povećanje kvote pristupačnih [stavki za Poštanske sandučiće na čekanju](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Kako bi sprečili da fascikla "Stavke koje mogu da se oporave" postane puna, administaratori mogu da povećaju ograničenje skladišta fascikle "Stavke koje mogu da se oporave" za poštanske sandučiće na čekanju i da podese smernice za zadržavanje poštanskog sandučeta koje premeštaju stavke iz fascikle "Stavke koje mogu da se oporave" u arhivski poštansko sanduče korisnika. Pogledajte [povećavanje kvote stavki koje mogu da se oporave za poštanske sandučiće na čekanju.](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)

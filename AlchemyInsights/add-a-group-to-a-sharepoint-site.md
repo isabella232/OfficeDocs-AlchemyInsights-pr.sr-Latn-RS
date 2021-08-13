@@ -1,5 +1,5 @@
 ---
-title: Dodavanje grupe na SharePoint sajt
+title: Dodavanje grupe na SharePoint lokaciju
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936971"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Dodavanje grupe na SharePoint sajt
+# <a name="add-a-group-to-a-sharepoint-site"></a>Dodavanje grupe na SharePoint lokaciju
 
-Neke SharePoint lokacije tima (uključujući one kreirane u okviru Microsoft tima) upravljaju od strane Microsoft 365 vlasnika grupe. SharePoint lokacije i sadržaj mogu se deliti sa Microsoft 365 grupama i sa SharePoint grupama. SharePoint grupa je zbirka korisnika koji imaju isti skup dozvola za lokacije i sadržaj. Za klasične sajtove, preporučujemo da koristite grupe da biste na pristupačnije nivoe dodeljivali većinu osoba odjednom, a ne da dodeljujete dozvole jednu po jednu osobu.
+Nekim SharePoint tima (uključujući one napravljene u Microsoft Teams) upravljaju Microsoft 365 grupe. SharePoint sajtovi i sadržaj mogu da se dele i sa Microsoft 365 grupama, kao i SharePoint grupama. Grupa SharePoint je kolekcija korisnika koji imaju isti skup dozvola za lokacije i sadržaj. Za klasične sajtove, preporučujemo da koristite grupe da dodelite isti nivo dozvole većem broju osoba odjednom umesto da dodelite dozvole za jednu po jednu osobu.
   
-Upravljanje članovima Microsoft 365 grupe:
+Upravljanje Microsoft 365 grupa:
   
-1. Idite na [stranicu grupe u Microsoft 365 centru administracije](https://portal.office.com/adminportal/home#/groups).
+1. Idite na [stranicu Grupe u grupi Microsoft 365 centar administracije](https://portal.office.com/adminportal/home#/groups).
     
-2. Izaberite grupu da biste videli vlasnike i članove. Da biste dodali ili uklonili osobe, kliknite na vezu **Uredi** u redovima **vlasnika** ili **članova** . 
+2. Izaberite grupu da biste videli njene vlasnike i članove. Da biste dodali ili uklonili osobe, kliknite **na** vezu Uredi **u redu Vlasnici** **ili Članovi.** 
     
-Delite lokaciju za komunikaciju sa Microsoft 365 grupom:
+Deljenje sajta za komunikaciju sa Microsoft 365 grupe:
   
-1. Idite na sajt u pregledaču i kliknite na dugme **deli** u gornjem desnom uglu. 
+1. Idite na lokaciju u pregledaču i izaberite **stavku Deli lokaciju** u gornjem desnom vremenu. 
     
-2. Unesite ime grupe, a zatim izaberite nivo dozvole (čitanje, uređivanje ili potpuna kontrola).
+2. Unesite ime grupe, a zatim izaberite nivo dozvole (Čitanje, Uređivanje ili Puna kontrola).
     
-Kreiranje SharePoint grupe za korišćenje sa klasičnom lokacijom:
+Kreirajte grupu SharePoint koju želite da koristite sa klasičnim sajtom:
   
-1. Idite na sajt u pregledaču i kliknite na ikonu postavke u gornjem desnom uglu.
+1. Idite na lokaciju u pregledaču i kliknite na Postavke u gornjem desnom vremenu.
     
-2. Izaberite stavku **Postavke sajta**, a zatim u okviru **korisnici i dozvole**izaberite stavku **dozvole za sajt**.
+2. Izaberite **stavku Postavke lokacije**, a zatim u **okviru Korisnici i dozvole** izaberite stavku Dozvole za **lokaciju.**
     
-3. Na kartici dozvole izaberite stavku **Kreiraj grupu**.
+3. Na kartici Dozvole izaberite stavku **Kreiraj grupu.**
     
-[Povezivanje klasične lokacije tima sa novom Microsoft 365 grupom](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Povezivanje klasičnog sajta tima u novu Microsoft 365 grupu](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Saznajte više o radu sa SharePoint grupama](https://go.microsoft.com/fwlink/?linkid=874658)
   
