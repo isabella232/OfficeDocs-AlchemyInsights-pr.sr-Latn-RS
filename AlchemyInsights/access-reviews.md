@@ -1,5 +1,5 @@
 ---
-title: Pregledi za pristup
+title: Pregledi u programu Access
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938637"
 ---
-# <a name="access-reviews"></a>Pregledi za pristup
+# <a name="access-reviews"></a>Pregledi u programu Access
 
-1. **Omogućavanje Access kritika**: možete da omogućite kritike kada kreirate novi Access paket ili uredite postojeći Access paket. [Kreiranje Access redigovanja Access paketa u okviru Azure AD Management Package](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) opisuje kako da omogućite Access projekcije paketa Access.
+1. **Omogućavanje pregleda pristupa:** Možete da omogućite redigovanje kada kreirate novi pristupni paket ili uredite postojeći pristupni paket. Kreiranje pregleda pristupnog paketa u [Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) upravljanju pravima opisuje kako da omogućite pregled pristupa access paketima.
 
-1. **Pristup redigovanja**: upravljanje Azure AD zakonitosti pojednostavljuje kako preduzeća upravljaju pristupom grupama, aplikacijama i SharePoint lokacijama. [Pregledajte pristup Access paketu u usluzi Azure AD za upravljanje](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) njima opisuje kako se obavljaju Access redigovanja za druge korisnike koji su dodeljeni Access paketu kao određen redaktor.
+1. **Pregled pristupa:** Upravljanje Azure AD pravima pojednočava način na koji preduzeća upravljaju pristupom grupama, aplikacijama i SharePoint sajtovima. Pregled pristupnog paketa u [Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) upravljanju pravima opisuje kako se izvršavaju pregledi pristupa za druge korisnike kojima je dodeljen pristup paketu kao naznačeni redaktor.
 
-1. **Pregled pristupa za sebe**: [samouničavanje programskog paketa Access paketa u usluzi Azure AD usluge](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) opisuje kako korisnik radi samostalno prikaz dodeljenih Access paketa.
+1. **Pregled pristupa** za sebe: Samostalno pregledanje pristupnog paketa u upravljanju [Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) pravima opisuje na koji način korisnik može sami da pregleda dodeljene pakete pristupa.
 
-1. U većini slučajeva, krajnji korisnici će pronaći pregled koji čeka na aplikaciju **Access**. Ovo je primenljivo samo na prikaze grupa i aplikacija, ne i uloga. Za sve Access ocene uloga, krajnji korisnici moraju da se kreću do Azure za upravljanje privilegijama identiteta (PIM) kako bi dovršili redigovanje.
+1. U većini slučajeva, krajnji korisnici će naići na redigovanje na čekanju na odgovor u **tabli za pristup.** Ovo se primenjuje samo na preglede grupa i aplikacija, ne na uloge. Za sve Preglede uloga programa Access krajnji korisnici moraju da odu do Azure AD Privileged Identity Management (PIM) da bi dovršili redigovanje.
 
     1. Prijavite se na Azure portal.
-    2. Idite na Azure AD PIM.
-    3. U levom oknu za navigaciju izaberite stavku   >  **pristup** zadacima.
+    2. Prešli na Azure AD PIM.
+    3. U levom oknu za navigaciju izaberite stavku **Pristup**  >  **pregledu zadataka**.
     
-Za više informacija pogledajte članak:
+Za više informacija pogledajte:
 
-- [Obavljanje Access redigovanja mojih uloga u usluzi Azure AD Directory u PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [Obavljanje Access redigovanja uloge "Azure resursi" u PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [Izvršavanje pregleda pristupa Uloga Azure AD direktorijuma u piM kodu ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [Izvršavanje pregleda pristupa Uloga Azure resursa u programu PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)

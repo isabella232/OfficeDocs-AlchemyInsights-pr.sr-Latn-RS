@@ -1,5 +1,5 @@
 ---
-title: Pojavljuje se crna pozadina ili oblikovanje ćelija ne izgleda ispravno
+title: Pojavljuje se crna pozadina ili oblikovanje ćelija ne izgleda u redu
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917869"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Pojavljuje se crna pozadina ili oblikovanje ćelija ne izgleda ispravno
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Pojavljuje se crna pozadina ili oblikovanje ćelija ne izgleda u redu
 
-U programu Excel 2016 možete videti neočekivano crnu pozadinu ili možete videti oblikovanje ćelija koje se ne prikazuje ispravno. To se može dogoditi posle dodavanja zaglavlja ili podnožja u prikazu rasporeda na stranici, kao i popunjavanja uzorka u ćeliji. Ovaj problem je rešen u verziji 1708 (izdanje 8431,2094). Da biste rešili ovaj problem, ažurirajte na najnoviju verziju sistema Office. Odmah **File** izaberite \> **Account** \> ispravku za **Ažuriranje** naloga datoteka \> **Update Now**.
+U Excel 2016 ćete možda videti neočekivanu crnu pozadinu ili ćete možda videti oblikovanje ćelija koje se ne pojavljuje ispravno. To se može desiti kada dodate zaglavlje ili podnožje u prikaz rasporeda na stranici i primenite šaru popune na ćeliju. Ovaj problem je rešen u verziji 1708 (8431.2094). Da biste rešili ovaj problem, ažurirajte na najnoviju verziju Kancelarija. Izaberite **Opcije** \> **ažuriranja** \> **naloga** \> **datoteke odmah**.
   
 

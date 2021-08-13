@@ -1,5 +1,5 @@
 ---
-title: Pristup je odbijen kada mapira drive na SharePoint
+title: Access denied when mapping a drive to SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938745"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Rešavanje problema sa SharePoint bibliotekama mapiranim na mrežne disk jedinice
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Rešavanje problema sa SharePoint bibliotekama koje su premeštene na mrežne disk jedinice
 
-Kada pretražujete Mapirani mrežni disk, možda ćete videti jednu od sledećih poruka:
+Kada potražite preslušan mrežni disk, možda ćete videti jednu od sledećih poruka:
   
-- **\\Putanja nije pristupačna. Možda nemate dozvolu da koristite ovaj mrežni resurs. Obratite se administratoru ovog servera da biste saznali da li imate dozvole za pristup.**
+- **\\Putanja nije dostupna. Možda nemate dozvolu za korišćenje ovog mrežnog resursa. Obratite se administratoru ovog servera da biste pronašli dozvole za pristup.**
 
-- **Pristup je odbijen. Pre nego što otvorite datoteke na ovoj lokaciji, prvo morate da dodate Veb lokaciju na listu pouzdanih lokacija, potražite Veb lokaciju i potvrdite izbor u polju za potvrdu automatski se prijavi.**
+- **Access Denied. Pre nego što otvorite datoteke na ovoj lokaciji, prvo morate da dodate tu veb lokaciju na listu pouzdanih lokacija, da odete na tu veb lokaciju i izaberete opciju za automatsko prijavljivanje.**
 
-[Nabavite pomoć za rešavanje problema sa mapiranim mrežnim diskovima](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+[Nabavite pomoć za rešavanje problema samačenim mrežnim disk jedinicama.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
   
-Mapiranje biblioteke kao mrežne disk jedinice je privremeno i podržano je samo u programu Internet Explorer. Umesto toga, [sinhronizujte SharePoint datoteke sa novim OneDrive klijentom za sinhronizaciju](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji obuhvata [datoteke na zahtev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite svim datotekama u usluzi OneDrive bez korišćenja lokalnog prostora za skladištenje.
+Mapiranje biblioteke kao mrežne disk jedinice je privremeno i podržano samo u programu Internet Explorer. Umesto toga, [SharePoint datoteke pomoću novog klijenta OneDrive aplikacija za sinhronizaciju koji](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) uključuje [Datoteke na zahtev.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) Pristupite svim datotekama u OneDrive bez korišćenja lokalnog prostora za skladištenje.
   
