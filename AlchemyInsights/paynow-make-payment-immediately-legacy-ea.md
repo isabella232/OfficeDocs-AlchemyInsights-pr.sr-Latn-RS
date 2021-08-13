@@ -1,5 +1,5 @@
 ---
-title: PayNow/napravi plaćanje odmah
+title: PayNow/Uredi plaćanje odmah
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944433"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/napravi plaćanje odmah
+# <a name="paynowmake-payment-immediately"></a>PayNow/Uredi plaćanje odmah
 
-Na osnovu opisa problema, našli smo rešenje za vas. Većina klijenata mogla je samostalno da rešava svoj problem nakon praćenja dokumentacije.
+Na osnovu opisa problema, pronašli smo rešenje za vas. Većina klijenata je sama rešila problem nakon što su pratili dokumentaciju.
 
-Za pretplatu na Azure Enterprise ugovor, dodavanje/ispravka/Promena načina plaćanja nije podržana. Ako želite da promenite adresu na postojećoj fakturi, obratite se Microsoft predstavniku.
+Za pretplatu na Azure ugovor za preduzeća, dodavanje/ažuriranje/promena načina plaćanja nije podržano. Ako želite da promenite adresu na postojećoj fakturi, obratite se Microsoft predstavniku.
 
-Ako želite da koristite Azure akontaciju/avansnu uplatu da biste poravnali fakture za Azure potrošnju i/ili kupovine, obratite se podršci. Imajte u vidu da naplate koji se naplaćuju zasebno i Marketplace usluge ne mogu da se ublaži Azure avansno akontacije. Za indirektnu prijavu, uverite se da su partneri obavešteni o potencijalnom uticaju na fakture. Za direktne klijente možda ćete želeti da informišite Bill-To kontakt.
+Ako želite da koristite Azure prepayment da biste platili fakture za Azure potrošnju i/ili kupovine, obratite se podršci. Imajte naplaćivanje zasebne naplate i Marketplace usluge nije moguće ukidati sa Azure prepayment. Da biste se indirektno ušli, uverite se da su vaši partneri obavešteni o potencijalnom uticaju na fakture. Za direktne klijente, možda ćete želeti da vaš Bill-To bude obavešten.
 
 **Preporučeni dokumenti**
 
-- [Platite za Azure akontaciju/avansnu uplatu](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Platite prekucavanje azure prepayment](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

@@ -1,5 +1,5 @@
 ---
-title: Dodavanje drugog poslovnog koraka koji se preporučuje za preduzeća
+title: Dodavanje drugog administratora preduzeća – preporučeni koraci
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954705"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Dodavanje drugog poslovnog koraka koji se preporučuje za preduzeća
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Dodavanje drugog administratora preduzeća – preporučeni koraci
 
-Na osnovu opisa problema, našli smo rešenje za vas. Većina klijenata mogla je samostalno da rešava svoj problem nakon praćenja dokumentacije.
+Na osnovu opisa problema, pronašli smo rešenje za vas. Većina klijenata je sama rešila problem nakon što su pratili dokumentaciju.
 
-Možete da imate više administratora preduzeća u objedinjenim prijavljivanjem.
+U uklonjanje za preduzeća možete da imate više administratora preduzeća.
 
 **Da biste dodali drugog administratora preduzeća:**
 
-1. Prijavite se na [portal "Azure Enterprise](https://ea.azure.com/)".
-1. Pređite da biste **upravljali**  >  **detaljima** za prijavljivanje.
-1. Kliknite na **+ Add administrator** u gornjem desnom meniju.
-1. Za Access samo za čitanje, izaberite opciju **Read-Only da, a zatim** izaberite stavku **Dodaj**.
+1. Prijavite se na [Azure Enterprise portal](https://ea.azure.com/).
+1. Navigate to **Manage**  >  **Enrollment Detail**.
+1. Kliknite **na dugme + Dodaj administratora** u gornjem desnom redu.
+1. Za pristup samo za čitanje, postavite opciju Read-Only na **opciju Da, a** zatim izaberite **stavku Dodaj**.
 
-Uverite se da imate korisničku adresu e-pošte i željeni metod potvrde identiteta, na primer posao, škola ili Microsoft nalog. Ako niste administrator preduzeća, obratite se administratoru preduzeća da biste zatražili da vas dodaju u prijavljivanje. Novi administratori se dodaju samo postojećim administratori. Kada se dodate na upis, primate e-poštu za aktivaciju.
+Uverite se da imate e-adresu korisnika i željeni metod potvrde identiteta, kao što je poslovni, školski ili Microsoft nalog. Ako niste administrator preduzeća, obratite se administratoru preduzeća da biste zatražili od vas da vas doda u uklonjeno. Nove adminiistacije dodaju samo postojeći dodaci. Nakon što ste dodati u ukrasnu e-poruku, primićete e-poruku o aktivaciji.
 
-**Da biste dodali administratora odseka:**
+**Da biste dodali administratora sektora:**
 
-Kada administrator Azure e kreira odeljenje, administrator Azure Enterprise može da doda administratore odseka i poveže svaki od njih. Možete da imate više administratora odseka za svaku primenu u preduzeću.
+Kada Azure EA administrator kreira sektor, Azure Enterprise administrator može da doda administratore sektora i svaki od njih poveže sa sektorom. Možete da imate više administratora odseka za svako unošenje preduzeća.
 
-1. Prijavite se na [portal "Azure Enterprise](https://ea.azure.com/)".
-1. Pređite na karticu **Upravljanje**  >  **katedre** , a zatim izaberite odeljak.
-1. Izaberite stavku **+ Dodaj administrator** i dodajte potrebne informacije.
-1. Za Access samo za čitanje, izaberite opciju **Read-Only da, a zatim** izaberite stavku **Dodaj**.
+1. Prijavite se na [Azure Enterprise portal](https://ea.azure.com/).
+1. Pređu na karticu Upravljanje  >  **sektorom,** a zatim izaberite sektor.
+1. Izaberite **stavku + Dodaj administratora** i dodajte potrebne informacije.
+1. Za pristup samo za čitanje, postavite opciju Read-Only na **opciju Da, a** zatim izaberite **stavku Dodaj**.
 
 **Da biste ažurirali/uklonili administratora:**
 
-1. Zadržite pokazivač iznad EA administracije da biste je uklonili i kliknite na ikonu plave **X** .
-1. Potvrdite da je izabran željeni administrator i kliknite na dugme **da**.
+1. Hover over the EA Admin to be removed and click on the blue **X** icon.
+1. Potvrdite da je izabran željeni administrator i kliknite na dugme **Da.**
 
 **Preporučeni dokumenti**
 
-- [Razumevanje uloga administracije Azure Enterprise aranžmana u programu Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
-- [Administracija za Azure EA](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
+- [Razumevanje Azure ugovor za preduzeća administrativnih uloga u Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Administracija Azure EA portala](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)

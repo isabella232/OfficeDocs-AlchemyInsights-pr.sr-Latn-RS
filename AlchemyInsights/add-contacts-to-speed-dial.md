@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954567"
 ---
 # <a name="add-contacts-to-speed-dial"></a>Dodavanje kontakata na brzo biranje
 
-1. U okviru  **pozivi**idite na stavke  **Kontakti**.
-2. Ako vidite karticu za osobu koju želite da dodate na brzu biranje, izaberite stavku  **Još opcija**  (tri tačke) na kartici i izaberite stavku  **Dodaj na brzo biranje**.
+1. U  **2010** pozivima idite na  **Kontakti**.
+2. Ako vidite karticu za osobu koju želite da dodate na brzo biranje, na kartici izaberite Više opcija **(tri** stavke) i izaberite Dodaj na brzo **biranje.**
 
-Ako ne vidite osobu, izaberite stavku  **Dodaj broj brzine biranja**  u gornjem desnom delu ekrana, počnite da kucate ime, izaberite osobu, a zatim izaberite stavku  **Dodaj**.
+Ako ne vidite osobu, izaberite Dodaj brzo biranje u gornjem desnom desnom nu ekrana, počnite da kucate njeno ime, izaberite osobu, a zatim izaberite **Dodaj**. 
