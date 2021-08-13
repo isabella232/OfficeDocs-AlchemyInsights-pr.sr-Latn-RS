@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960849"
 ---
 # <a name="password-synchronization"></a>Sinhronizacija lozinki
 
-**Hash sinhronizacija lozinki uopšte ne funkcioniše**
+**Sinhronizacija hasha lozinki uopšte ne funkcioniše**
 
-Neki uobičajeni problemi sa kojima se suočavaju klijenti kada hash sinhronizacija lozinki ne radi su:
+Neki uobičajeni problemi na koje klijenti nailaziu kada sinhronizacija hasha lozinki ne funkcioniše su:
 
-- Korisnički nalog usluge Active Directory koji koristi Azure AD Connect za komunikaciju sa lokalnim aktivnim direktorijumom nije odobren **replikaciju promena direktorijuma** i **replicirati promene direktorijuma sve** dozvole, koje su potrebne za sinhronizaciju lozinki – potrebno je da to rešite tako što ćete ove dozvole dodeliti usluzi Active Directory.
-- Sinhronizacija lozinki je onemogućiti kada je administrator promenio metod korisničkog Sign-In iz **sinhronizacije lozinki** na drugu opciju kao što je **Federacija sa AD FS** u ČAROBNJAKU "Azure AD Connect" – to možete da popravite tako što ćete ponovo omogućiti funkciju **hash sinhronizacije lozinki** u čarobnjaku "Azure a.d. za povezivanje".
-- Problem sa povezivanjem sa lokalnim aktivnim direktorijumom. Na primer, neki kontrolori domena nisu pristupačni na lokaciji Azure AD Connect ili je zabranjen pristup [Portovom](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) zaštitnog zida – potrebno vam je da to rešite tako što ćete osigurati da se veza između AZURE AD Connect server i lokalnog aktivnog direktorijuma ispravno rade.
-- Azure AD Connect server se trenutno nalazi u režimu postavljanja, što će dovesti do toga da server ne može da gnjavi lozinke-da reši problem, da uradite korake opisane u odeljku [Rešavanje problema sa lozinkom sinhronizacija lozinki sa lokacijom AZURE AD Connect Sync – nijedna lozinka nije sinhronizovana](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+- Nalogu Active Directory koji koristi Azure AD Povezivanje za komunikaciju sa uslugom Active Directory nije dodeljena dozvola **Replicate Directory Changes** and **Replicate Directory Changes All** permissions, koje su neophodne za sinhronizaciju lozinki – Ovo morate da rešite tako što ćete dodeliti ove dozvole Active Directory nalogu.
+- Sinhronizacija hasha lozinki je onemogućena kada administrator  promeni metod "Korisnik Sign-In" iz Sinhronizacije lozinki u drugu opciju kao što je Povezivanje sa **AD FS-om** u čarobnjaku Azure AD Povezivanje – Ovo možete da rešite tako što ćete ponovo omogućiti funkciju sinhronizacije **hasha** lozinki u čarobnjaku za Azure AD Povezivanje.
+- Problem sa povezivanjem sa društvenim mrežama Active Directory. Na primer, neki kontroleri domena ne mogu da pristupe uslugi Azure AD Povezivanje ili zaštitni zid blokira [portove](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) koji su neophodni – Ovo morate da rešite tako što ćete se osigurati da povezivanje između Azure AD Povezivanje servera i povezanog objekta ispravno funkcioniše.
+- Azure AD Povezivanje server je trenutno u režimu stiranja, što će dovesti do toga da server ne može da pristupi hashovima lozinki – Da biste rešili problem, pratite korake opisane u odeljku Rešavanje problema sa sinhronizacijom lozinke uz [Azure AD Povezivanje](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)sinhronizaciju – Lozinke se ne sinhronizuju.
 
-**Sinhronizacija lozinki ne radi za neke od mojih korisnika**
+**Sinhronizacija hasha lozinki ne funkcioniše kod nekih mojih korisnika**
 
-1. Ako ste primetili da se hash lozinka ne sinhronizuje za korisnika, koristite zadatak **Rešavanje problema** u okviru AZURE AD povezivanje da biste istražili i rešili problem. Obavljanje sledećih zadataka:
+1. Ako ste primetili da se hash lozinke  ne sinhronizuje za korisnika, koristite zadatak rešavanja problema u Azure AD Povezivanje da biste istražili i rešili problem. Izvršite sledeće zadatke:
 
-    Neko. [Pokreće zadatak rešavanja problema u čarobnjaku](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
+    a. [Pokretanje zadatka za rešavanje problema u čarobnjaku](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
-    -. [Korišćenje cmdlet problema za istraživanje problema sa hash sinhronizacijom lozinki za određenu upotrebu](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+    b. [Koristite cmdlet alatku za rešavanje problema da biste istražili problem sinhronizacije hasha lozinki za određenu upotrebu](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Omogućeno je da korisnik u lokalnom programu Active Directory **Promeni lozinku pri sledećoj prijavljivanju** . Kada je ova opcija omogućena, korisniku se dodeljuje privremena lozinka i biće vam zatraženo da promenite lozinku na sledećem prijavljivanju. Azure AD Connect ne sinhronizuje privremene lozinke u Azure AD.
+2. Objekat active Directory korisnika je omogućen za korisnika da bi korisnik promenio lozinku pri sledećoj opciji **prijavljivanja.** Kada je ova opcija omogućena, korisniku se dodeljuje privremena lozinka i prilikom sledećeg prijavljivanja će biti zatraženo da promeni lozinku. Azure AD Povezivanje ne sinhronizuje privremene lozinke sa Azure AD.
 
-Da biste rešili iznad problem, obavite sledeće zadatke:
+Da biste rešili gorenavedeni problem, izvršite jedan od sledećih zadataka:
 
-- Zamolite korisnika da se prijavi u lokalnu aplikaciju (na primer, Windows Desktop) i da promeni lozinku. Nova lozinka će se sinhronizovati sa uslugom Azure AD.
-- Neka administrator ažurira lozinku korisnika bez omogućavanja opcije **korisnik mora da promeni lozinku na sledećoj prijavi** i da deli novu lozinku sa korisnikom.
+- Tražite od korisnika da se prijavi u aplikaciju (na primer, Windows računar) i promeni lozinku. Nova lozinka će se sinhronizovati sa Azure AD.
+- Administrator će ažurirati lozinku korisnika bez omogućavanja opcije Korisnik mora da promeni lozinku pri sledećem prijavljivanju **i** da podeli novu lozinku sa korisnikom.
 
-3. Lokalni objekat aktivnog direktorijuma **nije ispravno konfigurisan** za sinhronizaciju objekta ili sinhronizaciju lozinki. Da biste rešili ovaj problem, slijedite korake opisane u [sinhronizaciji za rešavanje problema sa lozinkama lozinki pomoću usluge Azure AD Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+3. Objekat active Directory korisnika nije  ispravno konfigurisan za sinhronizaciju objekata ili sinhronizaciju lozinki. Da biste rešili ovaj problem, pratite korake opisane u članku Rešavanje problema sa sinhronizacijom hasha lozinke sa [Azure AD Povezivanje sinhronizacijom.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
 
 

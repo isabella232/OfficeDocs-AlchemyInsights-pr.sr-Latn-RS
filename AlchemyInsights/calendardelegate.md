@@ -1,5 +1,5 @@
 ---
-title: 399 kalendar – delegat
+title: 399 Kalendar – Delegat
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
-ms.openlocfilehash: 5bfa581360b91107e8f50ab7fbd9bb6f694b13d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8aba87a4f75171ce3473ff2cf0608ac7ea0e1c79023f7dc35566f023864c008e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950355"
 ---
-# <a name="configure-mail-and-calendar-delegates"></a>Konfigurisanje delegata za poštu i kalendare
+# <a name="configure-mail-and-calendar-delegates"></a>Konfigurisanje delegata e-pošte i kalendara
 
-Da biste drugim korisnicima dali pristup Outlook poštanskom sandučetu, pogledajte članak [Neka neko drugi upravlja poštanskim sandučetom i kalendarom](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).
+Da biste drugim korisnicima dali pristup Outlook poštanskom sandučetu, pogledajte omogućavanje drugoj osobama da [upravljaju vašom poštom i kalendarom.](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx)

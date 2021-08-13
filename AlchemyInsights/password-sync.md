@@ -1,5 +1,5 @@
 ---
-title: Kako da provjerim status sinhronizacije lozinki
+title: Kako da proverite status sinhronizacije lozinke
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960885"
 ---
-# <a name="enable-password-sync"></a>Omogućavanje sinhronizacije lozinki
+# <a name="enable-password-sync"></a>Omogućavanje sinhronizacije lozinke
 
-1.  Odaberite stavku **Dirsync status** na matičnoj stranici Microsoft 365 centra administracije. 
+1.  Odaberite **stavku DirSync status** na Microsoft 365 centar administracije matičnoj stranici stranice. 
     
-     *Naizmenično, možete da **odete na** \> **aktivne korisnike**koji su aktivni korisnici i na stranici aktivni korisnici odaberite **više** \> **sinhronizacije direktorijuma.*** 
+     *Možete i da odete  na stavku Korisnici aktivni korisnici i da na stranici Aktivni korisnici odaberete stavku Još \>   \> **sinhronizacije direktorijuma.*** 
     
-2. U oknu za sinhronizaciju direktorijuma odaberite stavku **Idi u upravljanje diranjem**. 
+2. U oknu Sinhronizacija direktorijuma odaberite stavku Idi na **upravljanje DirSync sinhronizacijom.** 
     
-3. Sada ćete videti status i napraviti promene:
+3. Sada ćete videti status i napraviti izmene:
     
-    **Sinhronizacija lozinki je omogućena:** (TRUE ili FALSE). Navodi da li imate omogućenu sinhronizaciju lozinki između lokalnog i zakupca. 
+    **Omogućena je sinhronizacija lozinke:** (True ili False). Navodi da li je omogućena sinhronizacija lozinke između mešovitog i zakupuca. 
     
-    **Poslednja sinhronizacija lozinki:** (Pokretanje sinhronizacije lozinke za poslednji put). Ovo će biti prikazano upozorenje i karika ka alatki za rešavanje problema ako je prethodna sinhronizacija bila pre više od tri dana. 
+    **Poslednja sinhronizacija lozinke:** (Vreme poslednjeg ponovnog sinhronizovanja lozinke). Ovo će prikazati upozorenje i vezu ka alatki za rešavanje problema ako je poslednja sinhronizacija bila pre više od tri dana. 
     
 

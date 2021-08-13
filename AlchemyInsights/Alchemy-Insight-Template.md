@@ -1,5 +1,5 @@
 ---
-title: isto kao što je ime datoteke najbolje
+title: isto kao i ime datoteke je najbolje
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918910"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Obavezno Alhemimy zaglavlje H1, H2's ne funkcioniše".
-Najbolje prakse i uputstva za kreiranje alhemije:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Obavezno Alchemy zaglavlje H1, H2 ne funkcioniše".
+Najbolje prakse i uputstva za Alchemy kreiranje:
 
-1. **Ne gnezdite se po alhemiji u fasciklama**– ovo će prekinuti strukturu URL adrese. Traћimo da ovo popravimo.
-1. Datoteke u fascikli " **Alhemimiinsajd** " trebalo bi da imaju mala polja sa crtima za razmake za razmak. ***Kako-to-omogućiti-čekanje***.
-    1. Uključujete ID pravila ili ID za kantu sa [portala Alhemimy partner](https://alchemyportal.azurewebsites.net) u polju MS. prilagođeno. odgovora. ***Ms. Custom: 100021***
-1. Koristite ostatak metapodataka na vrhu datoteke kao predložak.
-1. Na [portalu Alhemijmy za partnere](https://alchemyportal.azurewebsites.net)se pomerite do naslova odeljka " **Inrubrika klijenta":** i koristite ga kao početnu vrednost za H1 naslov za uvid. 
+1. **Nemojte ugnežditi Alchemy Uvidi u fascikle**– ovo će prelomiti strukturu URL adrese. Želimo da rešimo ovaj problem.
+1. Datoteke u **fascikli AlchemyInsights** treba da imaju imena datoteka sa malim slovima sa crticama za razmake, ex. **_how-to-enable-litigation-hold_**.
+    1. Uključite ID pravila ili ID korpe sa [Alchemy portala](https://alchemyportal.azurewebsites.net) za partnere u ms.custom polje. na ***ms.custom: 100021***
+1. Koristite ostatak metapodataka na vrhu ove datoteke kao predložak.
+1. Na [portalu "Alchemy partneri"](https://alchemyportal.azurewebsites.net)možete da odte do odeljka Naslov uvida **klijenata:** i koristite ga kao početnu tačku za H1 naslov za uvid. 
     > [!NOTE]
-    > Pronicljivost alhemije mora da ima samo jedan H1 na vrhu ili će se probiti u proizvodnji. H2s ne daje tako da koristi **podebljano** ili druge konvencije za označavanje odvojenih odeljaka.
-1. Pored toga, unesite tekst u telo koristeći materijal za radnu verziju u odeljku "uvid u klijenta" na stranici "Alhemimy pravilo"
-    1. Liste sa znakovima za nabrajanje su dobre
-    1. Takođe i numerisane liste
-    1. **Podebljano** i *kurziv* su u redu
-    1. Veze bi uvek trebalo da budu **"veze ka vebu"/spoljnje** ili **duboke veze sa elementima korisničkog interfejsa**, a ne sa unutrašnjim vezama.
-    1. Slike trenutno nisu podržane, ali je na mapi.
+    > Alchemy Uvidi MORA da ima samo jedan H1 na vrhu ili će se prekidati u proizvodnji. H2-e se ne prikaže pa koristite **podebljanu** ili druge konvencije da biste potpisali zasebne odeljke.
+1. Dalje, popunite telo teksta pomoću radne verzije materijala Customer Insights odeljku stranice Alchemy pravilo
+    1. Liste sa znakovima za nabrajanje su u redu
+    1. Numerišene liste takođe
+    1. **Podebljani** *i italicni* su u redu
+    1. Veze uvek treba da budu "veze ka **vebu"/spoljne** ILI dubinski povezane ka elementima direktorijuma **UI**, a ne ka unutrašnjim vezama.
+    1. Slike trenutno nisu zvanično podržane, ali su u toku.
 
-Ovo je već malo predugačko. Najbolja praksa je oko 400 znakova---------------------------------
+A ovo je zapravo predugačak. Najbolja praksa ima oko 400 ---------------------------------
 
-Kada se sadržaj pripremi, povucite ga na granu uživo. Zatim idite na portal sa [Alhemimemojim partnerom](https://alchemyportal.azurewebsites.net) i unesite ime u polje URL adresa. 
+Kada sadržaj bude spreman, povucite ga do grane uživo. Zatim idite na [Alchemy portal](https://alchemyportal.azurewebsites.net) za partnere i unesite ime datoteke u polje URL adrese. 

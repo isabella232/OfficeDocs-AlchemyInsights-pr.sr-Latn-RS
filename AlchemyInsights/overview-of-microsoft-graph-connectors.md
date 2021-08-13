@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924558"
 ---
 # <a name="overview-of-microsoft-graph-connectors"></a>Pregled Microsoft Graph konektora
 
-Da biste planirali Microsoft Graph konektore pogledajte  [Pregled konektora](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Da biste planirali za Microsoft Graph konektore, pogledajte [članak Pregled konektora.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Pogledajte [konektore korporacije Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) ili  [konektora po partnerima](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
+- Pogledajte [članak Konektori po korporaciji Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) ili  [Konektori po partnerima](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
 - [Upravljajte konektorom za Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Da biste planirali Microsoft Search, pogledajte  [Pregled Microsoft pretrage](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Da biste planirali Microsoft Search, pogledajte [pregled ovog Microsoft Search.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
