@@ -1,5 +1,5 @@
 ---
-title: Saopštena je nova funkcija sistema SharePoint
+title: SharePoint najavljuju nove funkcije
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093936"
 ---
-# <a name="sharepoint-new-features-announced"></a>Saopštena je nova funkcija sistema SharePoint
+# <a name="sharepoint-new-features-announced"></a>SharePoint najavljuju nove funkcije
 
-Na lokaciji za paljenje 2018 Microsoft je najavio nove inovacije za SharePoint, uključujući nove funkcije za moderne portove, nove Veb segmente, brojna poboljšanja u vezi sa lokacijama, vezu sa diskusijom, ciljanje gledalaca, dostupnost novih aplikacija za mobilne uređaje, vezu sa timovima i još mnogo toga...
+Na konferenciji Ignite 2018 Microsoft je objavio nove inovacije za SharePoint, uključujući nove funkcije za moderne portale, nove veb segmente, brojna poboljšavanja sajtova čvorišta, vezu vesti, ciljanje korisnika lokacije, dostupnost novih aplikacija za mobilne uređaje, vezu sa Teams i još mnogo toga...
   
-Više informacija o ovim funkcijama potražite u članku objavljivanje [novih inovacija u sistemu SharePoint &amp; Microsoft 365 isporučivanje moći i jednostavnosti za saradnju sadržaja.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Više informacija o ovim funkcijama potražite u objavi na blogu Nove inovacije u programu SharePoint Microsoft 365 da isporuče snagu i pojednoitet saradnje na [ &amp; sadržaju.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Vaša organizacija može da se pridruži programu ciljan otpust da bi imala raniji pristup novim funkcijama. Pogledajte članak [Podešavanje standardnih ili ciljanih opcija izdavanja u usluzi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+Vaša organizacija može da se pridruži programu Ciljano izdanje da bi imala rani pristup novim funkcijama. Pogledajte [podešavanje opcija standardnog ili ciljanog izdanja u programu Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365)

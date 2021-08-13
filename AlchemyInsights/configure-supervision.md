@@ -1,5 +1,5 @@
 ---
-title: Konfigurisanje nadzora
+title: Konfigurisanje nadgledanja
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915457"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurisanje smernica nadzora
+# <a name="configure-supervision-policies"></a>Konfigurisanje smernica za nadgledanje
 
-Smernice za nadzor u programu Microsoft 365 vam dopuštaju da nadgledate Exchange e-poštu, Skype za posao online, Microsoft timove i nezavisne komunikacije koje se šalju unutar i izvan vaše organizacije. Određeni Redaktori mogu da pregledaju praćene poruke kako bi se uverili da su usaglašene sa smernicama za organizaciju, upravljanje rizikom i standardima usaglašenosti i usklađivanje njih sa tipom klasifikacije.
+Smernice za nadgledanje u programu Microsoft 365 vam omogućavaju da nadgledate komunikacije Exchange e-pošte, Skype za posao Online, Microsoft Teams i nezavisnih strana koje se šalju unutar i izvan organizacije. Naznačeni redaktori mogu da ispitaju nadgledane poruke da bi se uverili da su usaglašeni sa smernicama organizacije, standardima upravljanja rizikom i standardima usaglašenosti sa propisima i da ih reše tipom klasifikacije.
 
-Da biste koristili smernice nadzora u organizaciji, morate da uradite sledeće:
+Da biste koristili smernice za nadgledanje u organizaciji, morate da:
 
-- Utvrđivanje komunikacije za nadgledanje.
-- Odlučite ko će vršiti redigovanje komunikacija.
-- Podešavanje smernica nadzora
+- Odredite komunikacije koje treba nadgledati.
+- Odlučite ko će vršiti pregled komunikacije.
+- Smernice za nadgledanje instalacije
 
-uči više:
+Saznajte više:
 
-- [Pregled smernica nadzora](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Konfigurisanje smernica nadzora](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Pregled smernica za nadgledanje](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Konfigurisanje smernica za nadgledanje](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

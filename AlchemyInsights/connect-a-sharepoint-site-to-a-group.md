@@ -1,5 +1,5 @@
 ---
-title: Povezivanje SharePoint lokacije sa grupom
+title: Povezivanje SharePoint sajta u grupu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915421"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Povezivanje SharePoint lokacije sa grupom
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Povezivanje SharePoint sajta u grupu
 
-Koristite čarobnjak za povezivanje grupe da biste povezali SharePoint lokaciju sa Microsoft 365 grupom.
+Koristite čarobnjak za povezivanje grupe da biste povezali SharePoint lokaciju sa Microsoft 365 grupe.
 
-1. Na sajtu na koji želite da se povežete sa grupom izaberite **stavku Postavke (ikona zupčanik).**
-2. Izaberite  **stavku Poveži se sa novom Microsoft 365 grupom**.
+1. Na sajtu na koji želite da se povežete sa grupom izaberite stavku **Postavke (ikona zupčanik).**
+2. Izaberite **Povezivanje stavku da biste Microsoft 365 grupi .**
 3. Pratite čarobnjaka da biste dovršili vezu.
 
-**Napomogućeno:**  Ako povezivanje sa novom Microsoft 365 grupom nije dostupno, lokacija neće podržavati vezu grupe.
+**Napomogućeno:**  Ako Povezivanje u Microsoft 365 grupa nije dostupna, lokacija neće podržavati vezu grupe.
 
-Više informacija potražite u [članku Povezivanje sa Office 365 grupom.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Dodatne informacije potražite [u Povezivanje u Office 365 grupe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
