@@ -1,5 +1,5 @@
 ---
-title: Spoljno deljenje sa lokacijom tima
+title: Spoljno deljenje sa sajtom tima
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977707"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Spoljno deljenje sa lokacijom tima
+# <a name="external-sharing-with-a-team-site"></a>Spoljno deljenje sa sajtom tima
 
-Da biste uključili deljenje spoljnog korisnika za lokacije tima, slijedite ove korake: 
+Da biste uključili deljenje spoljnog korisnika za lokacije tima, pratite ove korake: 
   
-1. U novom SharePoint centru administracije izaberite stavku **aktivne lokacije**.
+1. U novom centru SharePoint izaberite stavku Aktivne **lokacije.**
   
-2. Izaberite sajt sa predloškom **sajta tima** . 
+2. Izaberite lokaciju koja ima **predložak lokacije tima.** 
   
-3. Izaberite dugme **Deljenje** iz gornjeg menija. 
+3. Izaberite **dugme Deljenje** u gornjem meniju. 
   
- **Napomena**: kada se kreira moderna lokacija tima, opcija eksternog deljenja će biti postavljena na nove i postojeće spoljne korisnike. 
+ **Napomi:** Kada se kreira moderni sajt tima, opcija Spoljno deljenje podrazumevano će biti postavljena na opciju Novi i postojeći spoljni korisnici. 
   
- **Napomena:** Ako je izabrano više lokacija, dugme za **Deljenje** će izgledati neomogućeno. Izaberite samo jednu stranicu. 
+ **Napomogućeno:** Ako je izabrano više sajta, dugme Deljenje **će izgledati** onemogućeno. Izaberite samo jedan sajt. 
   
 

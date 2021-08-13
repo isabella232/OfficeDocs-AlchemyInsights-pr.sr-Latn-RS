@@ -1,5 +1,5 @@
 ---
-title: Sinhronizacija SharePoint online korisničkog profila
+title: SharePoint Sinhronizacija korisničkih profila na mreži
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957483"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>Sinhronizacija SharePoint online korisničkog profila
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Sinhronizacija korisničkih profila na mreži
 
-Microsoft SharePoint koristi zadatak sinhronizacije aktivnog direktorijuma da bi uvozi informacije o korisniku i grupi u korisničku aplikaciju (UPA).Više informacija potražite u članku ispod.
+Microsoft SharePoint koristi zadatak Active Directory sinhronizacije za uvoz informacija atributa korisnika i grupe u aplikaciju korisničkog profila (UPA).Dodatne informacije potražite u članku ispod.
 
-- [Sinhronizacija SharePoint online korisničkog profila](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Sinhronizacija korisničkih profila na mreži](https://docs.microsoft.com/sharepoint/user-profile-sync)

@@ -1,5 +1,5 @@
 ---
-title: Na Windows Server za Microsoft Defender za krajnju tačku
+title: Unošenje Windows na Microsoft zaštitnik za krajnje tačke
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51bcb58f20b9867d2b75db5ee9df1c62e8b66109
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0772f67175053be2cb1e8eacece98fe68776e35800763526e3e6f4fd5375228c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967527"
 ---
-# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Na Windows Server za Microsoft Defender za krajnju tačku
+# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Unošenje Windows na Microsoft zaštitnik za krajnje tačke
 
-Za operativni sistem Windows Server, Microsoft Defender for endnote pruža Napredne mogućnosti za otkrivanje i istražavanje napada. Ove mogućnosti se obezbedno pružaju kroz konzolu Security Center Microsoft Defender.
+Za operativni Windows Server, Microsoft zaštitnik za krajnju tačku pruža napredne mogućnosti za otkrivanje i ispitivanje napada. Ove mogućnosti su obezbeđene bez poteškoća putem Centar za bezbednost Microsoft zaštitnika konzole.
 
-Defender za krajnju tačku podržava sledeće verzije sistema Windows Server:
+Zaštitnik za krajnje tačke podržava sledeće verzije sistema Windows Server:
 
 - Windows Server 2008 R2 SP1
 - Windows Server 2012 R2
 - Windows Server 2016
 - Windows Server (SAC) verzija 1803 i novije verzije
-- Windows Server 2019 i novije verzije
-- Windows Server 2019 Core Edition
+- Windows Server 2019 i kasnije
+- Windows Server 2019 core edition
 
-Da biste saznali više, pogledajte članak na [Windows serverima u usluzi Microsoft Defender za funkciju "krajnjim tačkama"](https://go.microsoft.com/fwlink/?linkid=2143627).
+Da biste saznali više, pogledajte članak Windows servere u [uslugu Microsoft zaštitnik za krajnje tačke.](https://go.microsoft.com/fwlink/?linkid=2143627)
