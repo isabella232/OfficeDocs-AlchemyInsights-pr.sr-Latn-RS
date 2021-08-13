@@ -1,5 +1,5 @@
 ---
-title: Monitoring uslovnog pristupa
+title: Nadgledanje uslovnog pristupa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 80e8cc72db8ae32445d48e5c8a411d5ccd538626653260b3dbd28a247561e888
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975115"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Monitoring uslovnog pristupa za Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Nadgledanje uslovnog pristupa za Exchange
 
-Korisnici koji su usmereni na uslovno pristup dobiće obaveštenje ako ne ispune zahteve za pristup vaše organizacije. Da biste rešili, preporučujemo neka od sledećih rešenja:
+Korisnici na koje je usmeren uslovni pristup primiće e-poruku sa obaveštenjem ako ne ispunjavaju zahteve za pristup vaše organizacije. Da biste rešili problem, preporučujemo neko od sledećih rešenja:
 
-- Ako se na uređaj pretpostavlja da je upisan, savetujte korisnika da ode na aplikaciju portala preduzeća i potvrdi da se pojavljuje na portalu preduzeća. Ako nije, korisnik treba da prijavi uređaj.
-- U Azure portalu idite u Intune > usaglašenost uređaja. U okviru prati izaberite stavku usaglašenost uređaja. Prikažite izveštaj usaglašenosti uređaja da biste potvrdili da je uređaj korisnika označen kao usaglašeni.
-- U Azure portalu idite u Intune > usaglašenost uređaja. U okviru upravljanje izaberite stavku smernice. Na listi smernica usaglašenosti proverite da li je profil dodeljen vašem uređaju. Ako nijedan profil nije dodeljen, Intune neće moći da potvrdi status usaglašenosti uređaja.
-- Uredite zadatak korisnika uslovnog pristupa.
+- Ako se pretpostavlja da je uređaj upisan, obavestite korisnika da ode u aplikaciju Company Portal i proveri da li se uređaj pojavljuje u Company Portal. Ako nije, korisnik bi trebalo da ukuca uređaj.
+- Na Azure portalu idite na intune > usaglašenost uređaja. U okviru Nadgledanje izaberite stavku Usaglašenost uređaja. Prikažite izveštaj o usaglašenosti uređaja da biste proverili da li je uređaj korisnika označen kao usaglašen.
+- Na Azure portalu idite na intune > usaglašenost uređaja. U okviru Upravljanje izaberite stavku Smernice. Na listi smernica za usaglašenost potvrdite da je profil dodeljen uređaju korisnika. Ako nije dodeljen nijedan profil, Intune neće moći da potvrdi status usaglašenosti uređaja.
+- Uredite dodelu uslovnog pristupa korisnika.
 
-1. U Azure portalu idite na **Podešavanje**  >  **uslovnih**  >  **smernica** za pristup.
-2. Izaberite smernice sa liste.
-3. Izaberite stavku korisnici i grupe.
-4. Da biste nekome ciljali određenu politiku, dodajte ih na listu "ukljuci". Da biste se uverili da je osoba izostavljena iz smernica, dodajte ih na listu "Isključi".
+1. Na Azure portalu idite na **"Smernice za intune**  >  **uslovni**  >  **pristup"**.
+2. Sa liste izaberite smernicu.
+3. Izaberite stavku Korisnici i grupe.
+4. Da biste određene smernice usmenili na nekoga, dodajte tu osobu na listu Uključeno. Da biste se uverili da je osoba izostavljana iz smernica, dodajte je na listu Izuzeto.
 
 Korisne veze:
 
 [Pregled usaglašenosti uređaja](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Rešavanje problema sa kom](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Rešavanje problema sa ca](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
 [Smernice za rešavanje problema](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-[Nadgledanje usaglašenosti uređaja](https://docs.microsoft.com/intune/compliance-policy-monitor)
+[Nadgledanje usaglašenosti Intune uređaja](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Napomena: Ovi koraci su korisni samo u rešavanju problema sa funkcijom Azure Active Directory. Uređaj može da blokira i blokiranje pristupa e-poštom pomoću Exchange smernica. Više informacija o upravljanju Exchange uređajima može se pronaći [ovde] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
+Napoome: ovi koraci su korisni samo za rešavanje problema Azure Active Directory funkcije "Uslovni pristup". Uređaj takođe može da karantin blokira pristup e-pošti pomoću Exchange smernica. Više informacija o Exchange upravljanju uređajima možete pronaći [ovde]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

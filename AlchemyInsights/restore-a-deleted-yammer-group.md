@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisane Yammer grupe
+title: Vraćanje izbrisane Yammer grupi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a8730116b58bfa2eb8b6bdf118a9d316b01f74c18383652c3c58bda5be15a7b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958779"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Vraćanje izbrisane Yammer grupe
+# <a name="restore-a-deleted-yammer-group"></a>Vraćanje izbrisane Yammer grupi
 
-[Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) povezane grupe u programu Yammer mogu se vratiti u roku od 30 dana od brisanja tako što će slediti korake za vraćanje izbrisane [Microsoft 365 grupe](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)u prethodno stanje.
-U nekim slučajevima Yammer grupa možda nije povezana sa Microsoft 365 grupom. Ako je *to* slučaj, nije moguće automatski vratiti grupu, ali je moguće pristupiti izbrisanim podacima u [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) Izvozu [Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) podataka ako je smernica za zadržavanje mrežnih podataka postavljena na "Meko brisanje". Obratite [se verifikovanom administratoru](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) za Yammer mrežu da biste proverili smernice za zadržavanje podataka ili izvršili izvoz podataka.
+[Office 365 povezanih](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) grupa u programu Yammer može biti vraćeno u prethodno stanje u roku od 30 dana nakon brisanja tako što će slediti korake za vraćanje izbrisane [Microsoft 365 grupe.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+U nekim slučajevima Yammer grupa možda nije povezana sa Microsoft 365 grupa. Ako je *to* slučaj, nije moguće automatski vratiti grupu, ali je moguće pristupiti izbrisanim podacima [](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) u Yammer [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) izvozu podataka ako je smernica za zadržavanje mrežnih podataka postavljena na meko brisanje. Obratite [se verifikovanom administratoru](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) Yammer da biste proverili smernice za zadržavanje podataka ili izveli izvoz podataka.

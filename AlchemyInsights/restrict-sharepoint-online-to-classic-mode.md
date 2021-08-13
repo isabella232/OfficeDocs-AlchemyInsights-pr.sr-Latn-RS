@@ -1,5 +1,5 @@
 ---
-title: Ograničavanje sistema SharePoint Online na klasični režim
+title: Ograničavanje SharePoint na mreži na klasični režim
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958815"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Ograničavanje sistema SharePoint Online na klasični režim
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Ograničavanje SharePoint na mreži na klasični režim
 
-Neke organizacije i dalje zahtevaju iskustvo klasičnog režima. Iako ne postoje planovi za uklanjanje klasičnog režima na zrnasti nivo, više nije moguće ograničiti celu organizaciju (stanar) u klasični režim za liste i biblioteke.
+Neke organizacije i dalje zahtevaju iskustvo klasičnog režima. Iako nema planova za uklanjanje klasičnog režima na nivou granularnog režima, više nije moguće ograničiti celu organizaciju (zakuca) na klasični režim za liste i biblioteke.
 
-Administrator će imati sledeće opcije za upravljanje pojedinačnim listama i bibliotekama u klasičnom režimu pomoću prekidača za odbijanje saglasnosti koje pružamo na sledećim nivoima:
+Administator će imati sledeće opcije za upravljanje pojedinačnim listama i bibliotekama u klasičnom režimu pomoću granularnih prekidača za oduzimanje sajma koje pružamo na sledećim nivoima:
 
 - kolekcija lokacija
-- stranica
-- list
-- njoj
+- lokacija
+- lista
+- biblioteka
 
-Pored toga, liste koje koriste određene funkcije i prilagođavanja koje savremeni ne podržavaju, i dalje će se automatski prebaciti na klasični režim.
+Pored toga, liste koje koriste određene funkcije i prilagođavanja koja moderni ne podržava i dalje će biti automatski prebačene na klasični režim.
 
-Počevši od 1 do aprila 2019, proces onemogućavanja nivoa zakupca na nivou savremene liste i biblioteka počeće i nastavlja 2019 se kroz 31.  Liste i biblioteke koji su u klasičnom režimu kao rezultat umanjeni pristup zakupcu automatski će biti pomereni na moderno.
+Od 1. aprila 2019. godine, proces onemogućavanja nivoa zaku stepena oduzimanje sa moderne liste i biblioteke će početi i nastaviti se do 31. maja 2019.  Liste i biblioteke koje su u klasičnom režimu usled oduzimanja sajma satanka automatski se prebace na moderno.
 
-Ako vam je potreban klasični režim, pogledajte članak više informacija [ovde](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) i PNP PowerShell uputstvo [ovde](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) koji opisuje opcije i alatke koje možete da koristite danas da biste koristili iskustvo klasičnog režima.
+Ako vam je potreban klasični režim, ovde pogledajte više [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) informacija i uputstva za PnP PowerShell koje opisuju opcije i alatke koje možete da koristite danas da biste koristili klasični režim. [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023)

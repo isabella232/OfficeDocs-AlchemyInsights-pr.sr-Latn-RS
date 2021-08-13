@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema prilikom pregledanja zaštićene poruke u programu Outlook
+title: Rešavanje problema sa prikazivanjem zaštićenih poruka u Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967167"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Rešavanje problema sa prikazom zaštićene poruke u programu Outlook
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Rešavanje problema sa prikazivanjem zaštićenih poruka u Outlook
 
-Ako primalac ima problema sa otvaranjem šifrovane poruke, uverite se da primalac klikne na tu poruku u poruci da biste zatražili jednokratni kôd.
+Ako primalac ima problema sa otvaranjem šifrovane poruke, uverite se da je primalac kliknuo na vezu u poruci da bi zahtevao jedno vreme koda.
 
-Da biste otvorili šifrovane poruke, korisnici moraju da obave sledeće korake:
+Da bi otvorili šifrovane poruke, korisnici moraju da prate sledeće korake:
 
-1. U zavisnosti od korišćenja e-pošte klijenta, kliknite na dugme **Pročitaj poruku** ili sličan odziv. Korisnici se preusmeravaju na stranicu gde mogu da se prijave i prime kôd za jednokratnu upotrebu.
+1. U zavisnosti od toga koji klijent e-pošte se koristi, izaberite **stavku Pročitaj poruku** ili slični odziv. Korisnici su preusmereni na stranicu na kojoj mogu da se prijate i dobiju jednostruk kôd.
 
 > [!NOTE]
-> Za gmail korisnike, od njih će se tražiti da se prijave pomoću usluge gmail. Poruka će se otvoriti na novoj kartici kada kliknete na dugme **Omogući**.
+> Za Gmail korisnike, od njih će biti zatraženo da se prijane na Gmail. Poruka će se otvoriti na novoj kartici kada kliknete na **dugme Dozvoli**.
 
-2. Potvrdite e-poštu za kôd za jednokratnu upotrebu, a zatim unesite taj kôd u prozoru pregledača.
+2. Proverite da li u e-poruci ima jednokodni kôd, a zatim unesite taj kôd u prozor pregledača.
 
-3. Kliknite na dugme **Nastavi** da biste pročitali poruku.
+3. Kliknite **na dugme** Nastavi da biste pročitali poruku.
 
-Više informacija potražite u članku [Slanje, prikaz i odgovaranje na šifrovane poruke u programu Outlook za PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Dodatne informacije potražite u [temi Slanje, prikaz i odgovaranje na šifrovane](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)poruke u Outlook za računar.
 
 
