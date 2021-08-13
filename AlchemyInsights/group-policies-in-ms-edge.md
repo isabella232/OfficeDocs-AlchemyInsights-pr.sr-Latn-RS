@@ -15,13 +15,13 @@ ms.custom:
 - "9004632"
 - "6890"
 - "8362"
-ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1722873149fdf416357b25ebd31a5c10665d145565130adaaee6cee30af0bdcb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913477"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Smernice grupe u programu Microsoft Edge
 
-Koristite [smernice grupe dostupne](https://go.microsoft.com/fwlink/?linkid=2134623) u pregledaču Microsoft Edge (verzija 77 ili novija) da biste naveli kako pregledač radi u organizaciji.
+Koristite [smernice grupe dostupne](https://go.microsoft.com/fwlink/?linkid=2134623) u Microsoft Edge (verzija 77 ili novija) da biste naveli kako pregledač radi u organizaciji.

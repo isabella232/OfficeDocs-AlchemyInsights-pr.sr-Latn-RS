@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914917"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Kreiranje i korišćenje deljenog poštanskog sandučeta
+# <a name="create-and-use-a-shared-mailbox"></a>Pravljenje i korišćenje deljenog poštanskog sandučeta
 
-Deljeno poštansko sanduče omogućava da više osoba šalje i prima e-poštu za pseudonim, kao što je sales@contoso.com, bez dodeljivanja druge licence.
+Deljeno poštansko sanduče dozvoli da više osoba šalje i prima e-poštu za pseudonim, na primer sales@contoso.com, bez dodeljivanja druge licence.
   
-- [Slijedite ove korake](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) u Microsoft 365 centru administracije da biste započeli. 
+- [Pratite ove korake](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) u Microsoft 365 centar administracije da biste počeli. 
 
-Možete da pročitate i [Kreiranje deljenog članka poštanskog sandučeta](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , što će vam reći sve što treba da znate o deljenim poštanskim sandučićima, uključujući kako da ih koristite.
+Možete da pročitate i članak Kreiranje deljenog poštanskog sandučeta koji će vam reći sve što treba da znate o deljenim poštanskim sandučićima, uključujući kako da ih koristite. [](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
   

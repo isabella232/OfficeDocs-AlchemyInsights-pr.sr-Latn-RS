@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa opcijama u vezi sa unošenjem podataka u Microsoft Intune
+title: Rešavanje problema sa opcijama u vezi sa unošenjem Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 84159de0f29782d3c2a6a92ac77322e4bec525dd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2328e04497102fbc471b8138bcb734f4f3e07131621ea57599330ffdf545ab1d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981019"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Rešavanje problema sa opcijama u vezi sa unošenjem podataka u Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Rešavanje problema sa opcijama u vezi sa unošenjem Microsoft Intune
 
 Pregledajte resurse navedene ispod da biste odmah rešili problem.
   
@@ -30,4 +30,4 @@ Pregledajte resurse navedene ispod da biste odmah rešili problem.
 
 - Pregledajte [ovaj](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) dokument da biste videli listu uobičajenih grešaka koje sprečavaju unošenje i rešenja za svaku od njih.
 
-- [Saznajte više o opcijama u sistemu Microsoft Intune u sistemu .](https://docs.microsoft.com/intune/enrollment-options)
+- [Saznajte više o opcijama u upitu u Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
