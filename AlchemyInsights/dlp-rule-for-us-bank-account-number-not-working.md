@@ -1,5 +1,5 @@
 ---
-title: DLP pravilo za broj računa u banci za sad ne radi
+title: DLP pravilo za broj bankovnog računa u SAD ne funkcioniše
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005032"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP problemi sa brojevima američkih računa u banci
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>Problemi sa DLP-om sa brojevima bankovnih računa u SAD
 
 **Važno**: Tokom ovih jedinstvenih vremena, preduzimamo sve korake da bismo se uverili da će usluge SharePoint Online i OneDrive ostati dostupne u najvećoj meri – više informacija potražite u članku [Privremena prilagođavanja funkcija u usluzi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP problemi sa brojevima američkih računa u banci**
+**Problemi sa DLP-om sa brojevima bankovnih računa u SAD**
 
-Da li imate problema sa **prevencijom gubitka podataka (dlp)** ne radi za sadržaj koji sadrži **broj računa američkog banke** prilikom korišćenja dlp osetljive informacije u programu O365? Ako je tako, uverite se da sadržaj sadrži potrebne informacije za šta su smernice za DLP traženi prilikom procene.
+Da li imate problema sa sprečavanjem gubitka podataka **(DLP)** prilikom korišćenja osetljivog tipa informacija u DLP-u  u O365? Ako je tako, uverite se da sadržaj sadrži potrebne informacije o tome šta smernice DLP traže prilikom procene.
   
-Na primer, za polise **broja američkih računa u banci** podešene pomoću nivoa pouzdanosti 85%, sledeće se procenjuju i mora se otkriti da bi pravilo pokrenulo:
+Na primer, za smernice broja bankovnog računa u **SAD** konfigurisane sa nivoom pouzdanosti od 85%, procenjuju se sledeće stavke i moraju se otkriti da bi se pravilo aktiviralo:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 cifara
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8–17 cifara
 
-- **[Šara:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 uzastopnih cifara.
+- **[Obrazac:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8–17 uzastopnih cifara.
 
-- Provera **[zbira:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ne, ne postoji kontrolni zbir
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ne, ne postoji provera
 
-- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Funkcija DLP je 75% uverena da otkriva ovaj tip osetljivih informacija ako u neposrednoj blizini 300 znakova:
+- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Smernica DLP je 75% sigurni da je otkriven ovaj tip osetljivih informacija ako, u blizini od 300 znakova:
 
-  - Redovni izraz Regex_usa_bank_account_number pronalazi sadržaj koji se podudara sa šarom
+  - Običan izraz Regex_usa_bank_account_number pronađe sadržaj koji se podudara sa obrascem
 
-  - Postoji ključna reč iz Keyword_usa_Bank_Account.
+  - Pronalaže se ključna Keyword_usa_Bank_Account iz e-Keyword_usa_Bank_Account.
 
-    Na primer, sledeći uzorak će se pokrenuti za polise **broja američkih bankovnih računa** : proveravanje naloga 78344011
+    Na primer, sledeći uzorak će aktivirati smernice za broj bankovnog računa u **SAD:** provera broja 78344011
 
-Za više informacija o tome šta je potrebno da bi se otkrio **broj broja američkog bankovnog računa** za sadržaj, pogledajte sledeći odeljak u ovom članku: [Šta osetljive informacije tipovi traže za broj američkog bankovnog računa](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+Dodatne informacije o tome šta je potrebno da se otkrije broj bankovnog računa u **SAD** za sadržaj potražite u sledećem odeljku u ovom članku: Šta osetljivi tipovi informacija traže za broj bankovnog računa u [SAD](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Koristite drugačiji tip pristupačnije osetljive informacije, pogledajte sledeći članak za informacije o tome šta je potrebno za druge tipove: [Šta osetljive informacije traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Pomoću drugog ugrađenog osetljivog tipa informacija, pogledajte sledeći članak za informacije o tome šta je potrebno za druge tipove: Šta tipovi osetljivih [informacija traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

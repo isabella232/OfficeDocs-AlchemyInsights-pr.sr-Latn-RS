@@ -1,5 +1,5 @@
 ---
-title: Sprečavanje automatskog započinjanje timova
+title: Sprečavanje Teams automatskog pokretanja
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923812"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Sprečavanje automatskog započinjanje timova
+# <a name="prevent-teams-from-starting-automatically"></a>Sprečavanje Teams automatskog pokretanja
 
-Tim se podrazumevano automatski otvara kada pokrenete uređaj.
+Program podrazumevano Teams otvara pri pokretanju uređaja.
 
-Da biste promenili ovu postavku, izaberite sliku profila tima, a zatim **Settings**izaberite stavku  >   **Opšte**postavke. U okviru  **aplikacija**potvrdite izbor u polju za  **automatsku pokretanje**.
+Da biste promenili ovu postavku, izaberite sliku Teams profila, a zatim **izaberite** stavku Postavke  >   **Opšte**. U  **okviru Aplikacija,** poništite izbor opcije  **Aplikacija za automatsko pokretanje**.
 
-Više informacija potražite u članku  [Promena postavki u timovima](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Dodatne informacije potražite u [temi Promena postavki u Teams.](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)

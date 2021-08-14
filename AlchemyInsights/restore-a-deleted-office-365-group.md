@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisane Microsoft 365 grupe
+title: Vraćanje izbrisane Microsoft 365 grupi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959040"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Vraćanje izbrisane Microsoft 365 grupe
+# <a name="restore-a-deleted-microsoft-365-group"></a>Vraćanje izbrisane Microsoft 365 grupi
 
-Možete da vratite izbrisanu Microsoft 365 grupu ili Microsoft Teams u roku od 30 dana od brisanja.
+Izbrisanu grupu ili Microsoft 365 Microsoft Teams možete vratiti u prethodno stanje u roku od 30 dana od brisanja.
 
-1. Idite u [Microsoft 365](https://aka.ms/RestoreDeletedGroup) centar za administaciju da biste se prijavili na listu izbrisanih grupa i timova.
+1. Idite na [Microsoft 365 centar administracije](https://aka.ms/RestoreDeletedGroup) da biste se prijavili na listu izbrisanih grupa i timova.
 
     **Napomogućeno:** Prijavite se pomoću naloga koji je dodeljen administratoru zakupca ili ulozi administratora grupe.
 
-1. Izaberite izbrisanu Microsoft 365 grupu/Teams za vraćanje u prethodno stanje i kliknite na vrati **grupu.**
+1. Izaberite izbrisane Microsoft 365 grupe/grupe/Teams da se vratite u prethodno stanje i izaberite stavku vrati **grupu u prethodno stanje.**
 
     Ako nije moguće vratiti grupu zbog neusaglašene SMTP adrese, koristite sledeću komandu da biste pronašli objekat koji izaziva neusaglašenost i uklonili SMTP adresu:
 
@@ -37,4 +37,4 @@ Možete da vratite izbrisanu Microsoft 365 grupu ili Microsoft Teams u roku od 3
 
     **Napomogućeno:** U nekim slučajevima može biti čak do 24 časa da grupe i svi njeni podaci budu vraćeni u prethodno stanje.
 
-    Dodatne informacije ili da biste saznali kako da vratite grupe u prethodno stanje pomoću programa PowerShell potražite u članku Vraćanje [izbrisane Microsoft 365 grupe.](https://go.microsoft.com/fwlink/?linkid=867802)
+    Dodatne informacije ili da biste saznali kako da vratite grupe u prethodno stanje pomoću programa PowerShell potražite u članku Vraćanje [izbrisane Microsoft 365 grupi.](https://go.microsoft.com/fwlink/?linkid=867802)

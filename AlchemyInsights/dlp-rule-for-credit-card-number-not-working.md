@@ -1,5 +1,5 @@
 ---
-title: DLP pravilo za broj kreditne kartice ne radi
+title: DLP pravilo za broj kreditne kartice ne funkcioniše
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,48 +13,48 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005104"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>DLP problemi sa brojevima kreditnih kartica
+# <a name="dlp-issues-with-credit-card-numbers"></a>Problemi sa DLP brojevima kreditnih kartica
 
 **Važno**: Tokom ovih jedinstvenih vremena, preduzimamo sve korake da bismo se uverili da će usluge SharePoint Online i OneDrive ostati dostupne u najvećoj meri – više informacija potražite u članku [Privremena prilagođavanja funkcija u usluzi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP problemi sa brojevima kreditnih kartica**
+**Problemi sa DLP brojevima kreditnih kartica**
 
-Da li imate problema sa **prevencijom gubitka podataka (dlp)** ne radi za sadržaj koji sadrži **broj kreditne kartice** prilikom korišćenja tipa dlp osetljive informacije u programu O365? Ako je tako, uverite se da sadržaj sadrži potrebne informacije za pokretanje DLP smernica kada se proceni. Na primer, za **smernice kreditne kartice** podešene pomoću nivoa pouzdanosti 85%, sledeće se procenjuju i mora se otkriti da bi pravilo pokrenulo:
+Da li imate problema sa sprečavanjem gubitka podataka **(DLP)** kada ne radite za sadržaj koji sadrži broj kreditne kartice kada koristite osetljivi tip informacija DLP u programu O365?  Ako je tako, uverite se da sadržaj sadrži potrebne informacije za aktiviranje DLP smernica kada se procene. Na primer,  za smernice kreditne kartice konfigurisane sa nivoom pouzdanosti od 85%, procenjuju se sledeće stavke i moraju se otkriti da bi pravilo trebalo da aktivira:
   
-- **[Oblikovanje:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 cifara koje mogu da se oblikuju ili neoblikovane (dddddddddddddddd) i moraju da proslede luhn test.
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 cifara koje mogu da se oblikuju ili neoblikuju (ddddd) i moraju da prođu Luhn test.
 
-- **[Obrazac:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Veoma složen i robusan šara koji prepoznaje kartice svih velikih brendova širom sveta, uključujući vizu, MasterCard, karticu otkrivanja, JCB, American Express, poklon-razglednice i иestitke za restoran.
+- **[Obrazac:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Veoma složen i robusan obrazac koji otkriva kartice svih glavnih brendova širom sveta, uključujući Odžak, MasterCard, Otkrivanje kartice, JCB, American Express, poklon-kartice i kartice za restorane.
 
-- Provera **[zbira:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Da, polje "Luhn"
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Da, luhn checksum
 
-- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Funkcija DLP je 85% uverena da otkriva ovaj tip osetljivih informacija ako u neposrednoj blizini 300 znakova:
+- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Smernica DLP je 85% sigurni da je otkriven ovaj tip osetljivih informacija ako, u blizini od 300 znakova:
 
-  - Funkcija Func_credit_card pronalazi sadržaj koji se podudara sa obrascem.
+  - Funkcija Func_credit_card pronađe sadržaj koji se podudara sa obrascem.
 
-  - Tačno:
+  - Tačno je sledeće:
 
-  - Postoji ključna reč iz Keyword_cc_verification.
+  - Pronađena je ključna reč Keyword_cc_verification je pronađena.
 
-  - Pronađena je ključna reč iz Keyword_cc_name
+  - Pronađena je ključna Keyword_cc_name iz više reči
 
-  - Funkcija Func_expiration_date pronalazi datum u pravom formatu za datum.
+  - Funkcija Func_expiration_date pronađe datum u ispravnom formatu datuma.
 
-  - Propusnice za proveru
+  - Provera prolaza
 
-    Na primer, sledeći uzorak će se pokrenuti radi smernica za DEP kreditnu karticu:
+    Na primer, sledeći uzorak će aktivirati smernice za broj DLP kreditne kartice:
 
-  - Viza: 4485 3647 3952 7352
+  - Musić: 4485 3647 3952 7352
   
-  - Ističe: 2/2009
+  - Ističe: 2.2.2009.
 
-Više informacija o tome šta je potrebno da bi se video **broj kreditne kartice** detektovano za sadržaj potražite u sledećem odeljku u ovom članku: [koje vrste osetljivim informacija traže kreditnu karticu "](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Dodatne informacije o tome  šta je potrebno da se otkrije broj kreditne kartice za vaš sadržaj potražite u sledećem odeljku: Šta osetljivi tipovi informacija traže za kreditnu [karticu#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Koristite drugačiji tip pristupačnije osetljive informacije, pogledajte sledeći članak za informacije o tome šta je potrebno za druge tipove: [Šta osetljive informacije traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Pomoću drugog ugrađenog osetljivog tipa informacija, pogledajte sledeći članak za informacije o tome šta je potrebno za druge tipove: Šta tipovi osetljivih [informacija traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

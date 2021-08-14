@@ -1,5 +1,5 @@
 ---
-title: Navedeni ID prodavnice nije ID stavke
+title: Obezbeđeni ID skladišta nije ID stavke
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "6828"
-ms.openlocfilehash: 0834850cb7be2d2005265a54130f95c393f514fd
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: fca2b4eb17e08232bc8a249ea275a6cbc25a3e8a29eeb159fc25f623d4f24390
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981919"
 ---
-# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Greška "dat ID skladišta nije ID stavke"
+# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Greška "ObezbeđenID skladišta nije ID stavke"
 
-Svesni smo ove greške i popunjavamo ispravku koja ga uskoro može rešiti.
+Svesni smo ove greške i ulažemo rešenje koje bi uskoro trebalo da je otkloni.
