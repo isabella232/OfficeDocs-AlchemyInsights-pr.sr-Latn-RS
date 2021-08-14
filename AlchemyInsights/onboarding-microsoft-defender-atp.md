@@ -1,5 +1,5 @@
 ---
-title: Dolaženje do ATP za Microsoft zaštitnik
+title: Boarding Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985483"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Dolaženje do ATP za Microsoft zaštitnik
+# <a name="onboarding-microsoft-defender-atp"></a>Boarding Microsoft Defender ATP
 
-Resurse za ATP za Microsoft zaštitnik za Windows 10, Windows servere i Mac i Linux računare pogledajte u temi: 
+Resurse za Windows 10 ATP programa Microsoft zaštitnik za Windows 10, Windows servere i Mac računare i Linux računare možete da vidite u članku: 
 
 - **Windows 10 mašine** U zavisnosti od poslovnih zahteva, možete da odaberete između opcija do računara koji radi Windows 10. Više informacija potražite u članku [Alatke za ulaženje i metode za Windows 10 uređaje.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Windows serverima** Da biste ATP za Microsoft zaštitnik za svoju verziju sistema Windows Server, pogledajte pristup serverima table [za uslugu ATP za Microsoft zaštitnik Server.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
+- **Windows serverima** Da biste koristili Microsoft zaštitnik ATP za svoju verziju sistema Windows Server, pogledajte članak Serveri table za [ATP uslugu Microsoft zaštitnik.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
 - **Krajnje tačke koje Windows nisu**  Pre nego što uskočite u sistem koji Windows novi, morate da ispunite sistemske zahteve za [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) ili [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 

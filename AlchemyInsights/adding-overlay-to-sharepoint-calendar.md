@@ -1,5 +1,5 @@
 ---
-title: Dodavanje preklapanja SharePoint kalendaru
+title: Dodavanje preklonjenog kalendara SharePoint kalendaru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822073"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953040"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodavanje preklapanja SharePoint kalendaru
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodavanje preklonjenog kalendara SharePoint kalendaru
 
-SharePoint kalendari su klasični tipovi liste koji se ponekad mešaju sa kalendarima Microsoft 365 grupa.
+SharePoint Kalendari su klasični tipovi liste koji se ponekad mešaju sa Microsoft 365 kalendarima grupe.
  
-Ako koristite SharePoint kalendar na svojoj lokaciji, možete da preklonite sopstveni Exchange kalendar na njega da biste kreirali kombinovani prikaz kalendara. Druga mogućnost je da preklonimo drugi SharePoint kalendar dok god su oba SharePoint kalendara u istoj kolekciji lokacija.
+Ako koristite SharePoint na svojoj lokaciji, možete da preklonite sopstveni Exchange kalendar na njega da biste kreirali kombinovani prikaz kalendara. Druga mogućnost je da preklonimo drugi SharePoint kalendaru sve dok SharePoint kalendari su u istoj kolekciji lokacija.
  
-Da biste dodali preklapanje u klasični SharePoint kalendar, pratite korake iz teme Preklonjanje SharePoint kalendara sa kalendarom iz programa Exchange ili [SharePoint.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
+Da biste dodali klasični SharePoint u klasični kalendar, pratite korake iz teme Preklonjanje SharePoint kalendara sa kalendarom iz Exchange ili [SharePoint.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
