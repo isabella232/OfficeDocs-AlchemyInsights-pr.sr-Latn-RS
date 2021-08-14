@@ -1,5 +1,5 @@
 ---
-title: Teams za virtualizovanu infrastrukturu radne površine
+title: Teams za virtuelizovanu infrastrukturu radne površine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008524"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams za virtualizovanu infrastrukturu radne površine
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams za virtuelizovanu infrastrukturu radne površine
 
-Detaljne informacije o teams za virtualizovana infrastrukturna okruženja radne površine potražite u temi Teams za [virtuelizovanu infrastrukturu radne površine.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
+Detaljne informacije o informacijama o Teams infrastrukture radne površine potražite u Teams Infrastruktura [virtuelizovane radne površine.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
 Poznati problemi i ograničenja u VDI [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) okruženjima detaljno su objašnjeni u odeljku Poznati problemi i ograničenja istog članka, koji obuhvata sledeće teme:
  - Primena, instalacija i podešavanje klijenta

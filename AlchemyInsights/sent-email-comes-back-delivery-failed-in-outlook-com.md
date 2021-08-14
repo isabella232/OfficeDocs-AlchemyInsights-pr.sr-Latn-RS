@@ -1,5 +1,5 @@
 ---
-title: 8000044 poslata e-pošta vraća "Isporuka nije uspela" u Outlook.com
+title: 8000044 e-pošta vraća "isporuka nije uspela" na adresi Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1eeabc9ef499f870d3ce14507791fc11508f52f13830b706ad1044c98454c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942705"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Poslata e-pošta "Isporuka nije uspela"
+# <a name="sent-email-comes-back-delivery-failed"></a>Poslata e-poruka vraća se sa "isporuka nije uspela"
 
-Problemi sa isporukom ili e-poruke koje se vraćaju iz neisporučivanja mogu se ostvariti iz nekoliko razloga. Da biste saznali više o najčešćim porukama o greškama, zajedno sa predloženom rešenjima, pogledajte [poslate e-poruke u Outlook.com vraća "Isporuka nije uspela"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Do neuspelih isporuka ili e-poruka koje se vraćaju kao neisporučene može doći iz više razloga. Da biste saznali više o najčešćim porukama o greškama, kao i predloženim rešenjima, pogledajte tj. Poslata e-pošta na [adresi Outlook.com vraća se uz poruku "isporuka nije uspela".](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
   
