@@ -1,5 +1,5 @@
 ---
-title: Preuzimanje podataka o korišćenju
+title: Preuzmite podatke o korišćenjem
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 86ea8c21aa92685ef008693376f4e5fe6c768011
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004276"
 ---
-# <a name="download-usage-data"></a>Preuzimanje podataka o korišćenju
+# <a name="download-usage-data"></a>Preuzmite podatke o korišćenjem
 
-Izabrali ste pretplatu povezanu sa ugovorom "Azure Enterprise".
+Izabrali ste pretplatu povezanu sa Azure ugovorom za preduzeća.
 
-Da biste prikazali i preuzeli podatke o korišćenju kao Enterprise Azure (EA) klijent, obavite sledeće korake:
+Da biste prikazali i preuzeli podatke o korisniku usluge Enterprise Azure (EA), izvršite sledeće korake:
 
 > [!NOTE]
-> Morate biti Enterprise administrator, vlasnik naloga ili administrator odseka sa omogućenim smernicama za prikaz optužbi. 
+> Morate biti administrator preduzeća, vlasnik naloga ili administrator sektora, sa omogućenim smernicama za troškove prikaza. 
 
-1. Prijavite se na Azure portal i potražite **Upravljanje troškovima + naplata**.
-2. Izaberite profil naplate i izaberite stavku **Upotreba + troškovi**.
+1. Prijavite se na Azure portal i potražite termin **"Upravljanje troškovima + naplata"**.
+2. Izaberite profil naplate i kliknite na **Korišćenje + troškovi.**
 3. Na ekranu koji se pojavi odaberite mesec za koji vam je potreban izveštaj i kliknite na dugme **Preuzmi**.
 
-Ako je potrebna kopija fakture, obratite se Microsoft partneru za licenciranje (partner ili savetnik za softver). One će podići Call-Logging alatku (CLT) u regionalni centar za operacije (ROC) kroz Explore.ms.
+Ako je potrebna kopija fakture, obratite se Microsoft partneru za licenciranje (partneru ili savetniku za softver). Oni će podići Call-Logging (CLT) na Regionalni operativni centar (ROC) putem Explore.ms.
 
-**Update-nov 2020**
+**Ispravka – nov. 2020.**
 
-Za izabrane e-direktne komercijalne klijente pokrenuli smo funkciju (privatan pregled) za funkcionalnost **preuzimanja fakture** na Azure portalu. Da biste preuzeli fakturu kao deo funkcije **privatnog pregleda** , obavite ispod dolenavedenih koraka:
+Za izabrane EA Direct Commercial Customers, pokrenuli smo  funkciju (privatni pregled) za preuzimanje funkcionalnosti fakture na Azure portalu. Da biste preuzeli fakturu kao deo **privatne funkcije pregleda,** izvršite dolenavedene korake:
 
 1. Prijavite se na Azure portal pomoću URL adrese: https://portal.azure.com/?EaInvoice=true 
 2. Potražite **Upravljanje cenom + Naplata**. 
-3. Izaberite stavku **Upotreba + troškovi**. 
+3. Izaberite **stavku Korišćenje + troškovi**. 
 4. Na ekranu koji se pojavi odaberite mesec za koji vam je potreban izveštaj i kliknite na dugme **Preuzmi**.

@@ -1,5 +1,5 @@
 ---
-title: Problemi sa lažnim, phishing ili imitacijom?
+title: Problemi sa lažnim predstavljanjem, phishingom ili imitacijam?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986797"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemi sa lažnim, phishing ili imitacijom?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemi sa lažnim predstavljanjem, phishingom ili imitacijam?
 
 Saznajte kako vas Microsoft štiti od:
 
-- [Lažnog predstavljanja](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [Išakovanje](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [Phishing i imitiranje](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [Phishing and impersonation](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
 Dodatne preporuke:
 
-- Za lažne pošiljaoce koji se pojavljuju da dolaze sa vašeg domena, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) i [dkim](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) vam mogu pomoći.
+- Za protivtele pošiljalace koji izgledaju kao da dolaze sa vašeg domena, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) i [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) mogu da vam pomognu.
 
-- Verifikovanje pošiljalaca u sopstvenom domenu nisu konfigurisani tako da zaobilazi filtriranje anti spam pomoću pravila toka poruka (poznato i kao pravila za transport) ili dozvole stavki liste. Više informacija potražite u članku upozorenja [protiv zaobilaženja Microsoft filtera bezvredne pošte](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Potvrdite da pošiljalace u vašem domenu nije konfigurisano da zaobiđu filtriranje bez pošte pomoću pravila za protok pošte (poznata i kao pravila prenosa) niti unose liste dozvoljenih. Više informacija potražite u [članku Oprezi za zaobilaženje Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)filtera za spam.
 
-- Proverite da li korisnici nisu konfigurisali stavke [liste pouzdanih pošiljalaca](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) koji mogu da dozvole phishing napadima.
+- Potvrdite da korisnici nisu konfigurisali [unose na Sef](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) pošiljalaca koji mogu da dozvole phishing napade.
 
-- Razmotrite isporuku bezvredne pošte i prevarantske poruke u karantinu umesto fascikle neželjene e-pošte. Više informacija potražite u članku [karantin e-poruke sa karantinom](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Razmotrite isporuku bezvredne e-pošte velike pouzdane i phishing poruka u karantin umesto u fasciklu "Neželjena e-pošta". Dodatne informacije potražite u [temi Karantin e-poruka.](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**[Izveštavanje korporaciji Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je najbolji način da nam javite kako filteri funkcionišu.**
+**[Prijava poruka korporaciji Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je najbolji način da nam javite kako filteri izvršavaju.**

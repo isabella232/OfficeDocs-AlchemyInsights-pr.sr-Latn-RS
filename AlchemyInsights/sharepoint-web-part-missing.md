@@ -1,5 +1,5 @@
 ---
-title: Nema uređivača sadržaja ili Veb segmenata uređivača scenarista
+title: Nedostaju veb segmenti uređivača sadržaja ili uređivača skripti
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022626"
 ---
-# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Nema uređivača sadržaja ili Veb segmenata uređivača scenarista
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Nedostaju veb segmenti uređivača sadržaja ili uređivača skripti
 
-Dva Veb segmenta koja nisu dostupna u sistemu SharePoint za Microsoft 365 moderne stranice su **Uređivač scenaričkog uređivača** i **Veb segment uređivača sadržaja**. Međutim, postoje [savremeni Veb segmenti](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) koji mogu da ispune neke od istih namena. Možete i da kreirate [prilagođene Veb segmente ili da prenesete postojeće Veb segmente scenarijo za uređivanje](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) u SharePoint Framework.  
+Dva veb segmenta koji nisu dostupni u SharePoint za  Microsoft 365 stranice su veb segment uređivača skripti i veb segment **uređivača sadržaja.** Međutim, postoje moderni moderni veb [segmenti](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) koji mogu da ispune neke od istih svrha. Možete i da napravite [prilagođene veb segmente ili da migrirate](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) postojeće veb segmente uređivača skripte SharePoint Framework.  
 
-Više informacija potražite u članku [gde se nalaze uređivač sadržaja i uređivač scenarija u sistemu SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
+Više informacija potražite u članku [Gde se veb segmenti uređivača sadržaja i uređivača](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd) skripti SharePoint?

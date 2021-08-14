@@ -1,5 +1,5 @@
 ---
-title: Ograničenja i velike datoteke u sistemu SharePoint
+title: Ograničenja i velike datoteke u SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986716"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteke koje nije moguće otpremiti u SharePoint online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteke koje nije bilo možete otpremiti na SharePoint Online
 
-Ako datoteka ne može da se otpremi u SharePoint online, proverite:
+Ako se datoteka ne otprema u uslugu SharePoint Online, uverite se da:
   
-- Veličina je manja od 15 GB.
+- To je manje od 15 GB.
     
-- Čitava putanja, uključujući ime datoteke, je manja od 400 znakova.
+- Čitava putanja, uključujući ime datoteke, manji je od 400 znakova.
     
-- Ime datoteke ne sadrži znakove " \* : \< \> ? / \ | i nije na listi [nevažećih imena](https://go.microsoft.com/fwlink/?linkid=866430).
+- Ime datoteke ne sadrži znakove " : \* \< \> ? / \ | i nije na listi [nevažećih imena](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Ako pokušavate da otpremite datoteku pomoću OneDrive aplikacije za stone računare, pogledajte članak [ograničenja i ograničenja prilikom sinhronizacije datoteka i fascikli](https://go.microsoft.com/fwlink/p/?LinkID=717734) ili [rešavanja problema sa OneDrive sinhronizacijom](https://go.microsoft.com/fwlink/?linkid=866431).
+Ako pokušavate da otpremite datoteku pomoću aplikacije OneDrive [](https://go.microsoft.com/fwlink/p/?LinkID=717734) za računare, pogledajte stavke Zabrane i ograničenja prilikom sinhronizovanja datoteka i fascikli ili Rešavanje problema OneDrive aplikacija za sinhronizaciju [računarima.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Kreiranje smernica usaglašenosti za komunikaciju
+title: Kreiranje smernica za usaglašenost komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995059"
 ---
-# <a name="create-a-communication-compliance-policy"></a>Kreiranje smernica usaglašenosti za komunikaciju
+# <a name="create-a-communication-compliance-policy"></a>Kreiranje smernica za usaglašenost komunikacije
 
-Ovaj potreban je potreban. Možete da kreirate smernice za usaglašenost komunikacije u Microsoft 365 centru za usaglašenost. Evo kako:
+Ovaj korak je obavezan. Možete da kreirate smernice za usaglašenost komunikacije u Microsoft 365 centar za usaglašenost. Evo kako:
 
-1. U [Microsoft 365 centru za usaglašenost](https://go.microsoft.com/fwlink/?linkid=2130502)izaberite stavku **usaglašenost komunikacije**.
-2. Izaberite karticu **smernice** .
-3. Izaberite stavku **Kreiraj smernice** da biste kreirali i konfigurisali nove smernice od predloška ili da biste kreirali i konfigurisali prilagođene smernice.
-4. Kada završite, izaberite stavku **Kreiraj smernice** ako koristite predložak ili **Prosledi** ako koristite čarobnjak za prilagođene smernice.
+1. U polju za [Microsoft 365 centar za usaglašenost](https://go.microsoft.com/fwlink/?linkid=2130502)izaberite stavku **Usaglašenost komunikacije**.
+2. Izaberite **karticu Smernice.**
+3. Izaberite **stavku Kreiraj smernice** da biste kreirali i konfigurisali nove smernice od predloška ili da biste kreirali i konfigurisali prilagođene smernice.
+4. Kada završite, **izaberite stavku Kreiraj smernice** ako koristite predložak **ili prosledi** ako koristite čarobnjak za prilagođene smernice.
 
-Da biste saznali više o tome kako da koristite čarobnjak za smernice i o tome kako da progovorite o kategorisanju za uvredljiv jezik, pogledajte članak [Kreiranje smernica usaglašenosti za komunikaciju](https://go.microsoft.com/fwlink/?linkid=2129079).
+Da biste saznali više, uključujući kako da koristite čarobnjak za smernice i o uvrštenju ugrađene klasifikacije u ofanzivnom jeziku, pogledajte kreiranje smernica za usaglašenost [komunikacije.](https://go.microsoft.com/fwlink/?linkid=2129079)
