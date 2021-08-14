@@ -1,5 +1,5 @@
 ---
-title: Problem sa zdravim AAD Connect
+title: Problem sa AAD Povezivanje Health
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923766"
 ---
-# <a name="problem-with-aad-connect-health"></a>Problem sa zdravim AAD Connect
+# <a name="problem-with-aad-connect-health"></a>Problem sa AAD Povezivanje Health
 
-- Uverite se da ste ovlašćeni da uradite operaciju. Globalni Administratori imaju Access po podrazumevanoj vrednosti. Pored toga, možete da koristite [kontrolu pristupa na osnovu uloge](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) za delegiranje dozvole za registraciju saradnikom.
-- Uverite se da su neophodne krajnje tačke omogućene i da nisu blokirane zbog zaštitnog zida. Detalje potražite u članku [zahtevi](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Registracija može da ne uspe zbog toga što je odlazna komunikacija podvrgnuta SSL ispravci pomoću sloja mreže.
-- Uverite se da ste potvrdili postavke obaveštenja za Azure AD Connect zdravstvo. Pregledajte postavku. Ovaj [Vodič](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) vam može pomoći da shvatite kako da konfigurišete postavke obaveštenja za AZURE AD povežite zdravstvena obaveštenja.
-- Da biste saznali više o ispravnosti izveštaja AAD Connect za zdravlje i kako da ga preuzmete, pogledajte [izveštaj sinhronizacija nivoa objekata](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Uverite se da ste ovlašćeni za izvršavanje operacije. Globalni dobavljači podrazumevano imaju pristup. Pored toga, možete da koristite kontrolu pristupa [na osnovu uloga](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) da biste delegirao dozvolu za registraciju saradniku.
+- Uverite se da su potrebne krajnje tačke omogućene, a ne blokirane zbog zaštitnog zida. Za više detalja pogledajte [zahteve](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Registracija može da ne uspe jer odlazna komunikacija podleže SSL pregledu od strane mrežnog sloja.
+- Proverite da li ste potvrdili postavke obaveštenja za Azure AD Povezivanje Health. Pregledajte postavku. Ovaj [vodič](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) može da vam pomogne da razumete kako da konfigurišete postavke obaveštenja za Azure AD Povezivanje obaveštenja o ispravnosti.
+- Da biste saznali više o AAD Povezivanje Health izveštaju sinhronizacije i o tome kako da ga preuzmete, pogledajte izveštaj sinhronizacije na nivou [objekta.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Da biste rešili probleme sa AAD Connect zdravstvenim obaveštenjima, pogledajte [Vodič za rešavanje problema da biste imali obaveštenja o obaveštenjima o zdravstvenoj ispravnosti](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) i za najčešća pitanja pogledajte [najčešća pitanja o programu AAD Connect za zdravstvenu instalaciju](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Da biste rešili probleme sa AAD Povezivanje Health upozorenjima, pratite vodič za rešavanje problema za [AAD Povezivanje Obaveštenja](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) o svežini podataka o zdravlju i za najčešća pitanja pogledajte Uobičajena pitanja o [AAD Povezivanje Health](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)instalaciji.

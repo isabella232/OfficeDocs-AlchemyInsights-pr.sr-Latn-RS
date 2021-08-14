@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945351"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Dodavanje ili uklanjanje delegata u programu Outlook za Windows
 
-Da biste dodali delegata u programu Outlook za Windows: 
+Da biste dodali delegata u Outlook za Windows: 
 
-1. Kliknite na karticu **datoteka** pored stavke **Postavke naloga**, a zatim odaberite stavku **Delegirani pristup**.
-2. Kliknite na dugme " **Dodaj**". Ako se **Add** ne pojavi, aktivna veza možda ne postoji između Outlook i Exchange servera. Outlook statusna traka prikazuje status veze.
-3. Otkucajte ime osobe koju želite da odredite kao delegata ili pretražite i odaberite ime na listi rezultata pretrage.
-
-    > [!NOTE]
-    > Delegat mora da bude osoba na Exchange globalnom spisku adresa (GAL) organizacije.
-4. Kliknite na dugme " **Dodaj** ," u **redu**.
-5. U dijalogu **delegirane dozvole** prihvatite podrazumevane postavke dozvole ili izaberite stavku prilagođeni nivoi pristupa za Exchange fascikle.
-
-    - Ako delegatu treba dozvola za rad samo sa pozivima za sastanke i odgovorima, podrazumevane postavke dozvola kao što je **Delegat prima kopije poruka koje su mi poslate u vezi sa sastankom** . Možete da ostavite postavke dozvole **prijemnog poštanskog sandučeta** na **nijedan**. Pozivi za sastanak i odgovori će otići direktno u prijemno poštansko sanduče delegata.
+1. Izaberite karticu **Datoteka,** a **zatim stavku Nalog Postavke**, a zatim stavku **Delegiranje pristupa.**
+2. Kliknite na dugme **Dodaj**. Ako **se** dugme Dodaj ne pojavljuje, možda ne postoji aktivna veza između Outlook i Exchange. Statusna Outlook prikazuje status veze.
+3. Otkucajte ime osobe koju želite da odredite kao svog delegata ili pretražite i odaberite ime sa liste rezultata pretrage.
 
     > [!NOTE]
-    > Podrazumevano, delegat se dodeljuje dozvola za **Uređivanje (može da čita, kreira i menja stavke)** u fascikli " **Kalendar** ". Kada delegat odgovori na sastanak u vaše ime, on se automatski dodaje u fasciklu " **Kalendar** ".
+    > Delegat mora biti osoba na globalnom spisku Exchange adresa (GAL) organizacije.
+4. Kliknite na dugme **Dodaj, a** zatim na dugme **U redu.**
+5. U **dijalogu Dozvole za delegate** prihvatite podrazumevane postavke dozvola ili izaberite prilagođene nivoe pristupa za Exchange fasciklama.
 
-5. Da biste poslali poruku da obavestite delegata za promenjene dozvole, potvrdite izbor u polju za potvrdu **automatski Pošalji poruku delegatu za rezimiranje ovih dozvola** .
-6. Ako želite, potvrdite izbor u polju za potvrdu **Delegat može da vidi moje privatne stavke** .
+    - Ako je delegatu potrebna samo dozvola za rad sa pozivima za **sastanke** i odgovorima, dovoljne su podrazumevane postavke dozvola kao što je Delegat prima kopije poruka poslatih meni u vezi sa sastancima. Postavku dozvole za **prijemno poštansko sanduče** možete da ostavite na "Nijedno" .  Pozivi za sastanke i odgovori ići će direktno u prijemno poštansko sanduče delegata.
+
+    > [!NOTE]
+    > Delegatu je podrazumevano dodeljena dozvola **Urednik (može** da čita, kreira i menja stavke) za vašu fasciklu **Kalendar.** Kada delegat odgovori na sastanak u vaše ime, on se automatski dodaje u fasciklu **Kalendar.**
+
+5. Da biste poslali poruku koja obaveštava delegata o promenjenim dozvolama, potvrdite izbor u polju za potvrdu Automatski pošalji poruku **delegatu** sa rezimeom ovih dozvola.
+6. Ako želite, potvrdite izbor u **polju za potvrdu Delegat može da vidi moje privatne** stavke.
 
     > [!IMPORTANT]
-    > Ova postavka utiče na sve Exchange fascikle. To obuhvata sve e-poštu, kontakte, kalendare, zadatke, beleške i fascikle naloga. Ne postoji način za odobravanje pristupa privatnim stavkama u samo navedenim fasciklama.
+    > Ova postavka utiče na sve Exchange fascikle. To obuhvata fascikle "Pošta", "Kontakti", "Kalendar", "Zadaci", "Beleške" i "Dnevnik". Ne postoji način da odobrite pristup privatnim stavkama u samo navedenim fasciklama.
 
-7. Odaberite stavku **u redu**.
+7. Odaberite **stavku U redu**.
 
     > [!NOTE]
     >
-    > - Poruke poslate sa **dozvolama "Pošalji** u ime" sadrže dozvole delegata i vaša imena pored. Kada se poruka pošalje sa dozvolama "Pošalji kao", pojavljuje se samo vaše ime.
-    > - Kada dodate nekog kao delegata, može da doda Exchange poštansko sanduče u Outlook profil. Uputstva potražite u članku [upravljanje stavkama pošte i kalendara druge osobe](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - Poruke poslate sa dozvolom "Šalji u ime" u fascikli Od uključuju ime delegata i vaše **ime.** Kada se poruka pošalje sa dozvolom "Pošalji kao", pojavljuje se samo vaše ime.
+    > - Kada dodate nekoga kao delegata, oni mogu da dodaju vaše Exchange poštansko sanduče u svoj Outlook profil. Uputstva možete da vidite [u temi Upravljanje stavkama pošte i kalendara druge osobe.](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)
 
-Da biste uklonili delegata u programu Outlook za Windows:
+Da biste uklonili delegata u Outlook za Windows:
 
-1. Kliknite na karticu **datoteka** .
-2. Izaberite stavku **Postavke naloga** , a zatim **Delegirani pristup**.
-3. Odaberite ime delegata za koga želite da promenite dozvole, a zatim kliknite na dugme **Ukloni** , a zatim **u redu**.
+1. Izaberite karticu **Datoteka.**
+2. Kliknite na **stavku Nalog Postavke** zatim stavku **Delegiran pristup.**
+3. Odaberite ime delegata za koga želite da promenite dozvole, a zatim kliknite na dugme Ukloni, a zatim **na** dugme U **redu.**

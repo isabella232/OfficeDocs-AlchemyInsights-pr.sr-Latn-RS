@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e78afcc696403b64fa875c768cc5a64af4284a424b778e79e0921e190a01e22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945279"
 ---
 # <a name="identify-your-tenant-id"></a>Identifikovanje ID-a zakutca
 
@@ -27,4 +27,4 @@ Pronađite ID Microsoft 365 organizacije (ID zakupca) u Azure centru za administ
 
 2. Kopirajte ID po potrebi.
 
-Više informacija potražite u [članku Pronalaženje Microsoft 365 ID-a organizacije.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)
+Više informacija potražite u [članku Pronalaženje ID-a Microsoft 365 organizacije](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).

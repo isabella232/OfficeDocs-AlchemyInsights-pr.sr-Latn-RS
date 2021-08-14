@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972433"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Rešavanje problema PST uvoza
 
-- Ako uvozite u okviru samog Outlook klijenta, pogledajte rešavanje problema [sa uvozom Outlook .pst datoteke.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Ako uvozite u okviru samog Outlook, pogledajte rešavanje problema sa uvozom [Outlook .pst datoteke.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
 - Ako koristite uslugu uvoza i ona je zaglavljena, imajte u nahu da svaka PST datoteka koju otpremite na Azure lokaciju skladišta ne bi trebalo da bude veća od 20 GB. PST datoteke veće od 20 GB mogu da utiču na performanse PST procesa uvoza. Više informacija o rešavanju problema sa zaglavljenim poslom potražite u [odeljku Problemi koji utiču na PST zadatak uvoza.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

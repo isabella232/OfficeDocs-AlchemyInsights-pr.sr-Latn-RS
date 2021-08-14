@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa pristupom "zabranjen pristup"
+title: Rešavanje problema sa porukama koje su odbijene za pristup
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,34 +9,34 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af0bc0215f8feacc28a0b9bdf6b2659778736d669f7a3ff17628401e23d5fb6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957987"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Rešavanje problema sa pristupom "zabranjen pristup"
+# <a name="troubleshoot-access-denied-messages"></a>Rešavanje problema sa porukama koje su odbijene za pristup
 
-Ako dobijate poruku o zabranjeni pristup prilikom pokušaja pregledanja SharePoint online sajta, pogledajte dolenavedene članke.
+Ako dobijate poruku o zabranjenom pristupu prilikom pokušaja pretraživanja SharePoint Online sajta, pogledajte članke u nastavku.
 
-**Dodavanje i licenciranje korisnika**
+**Dodavanje i licenca za korisnika**
 
-Uverite se da ste [korisnicima dodelili licence u usluzi Microsoft 365 za preduzeća](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Proverite da li [ste dodelili licence korisnicima u Microsoft 365 za preduzeća.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
 **Dodeljivanje dozvola**
 
-Ako je korisniku dodeljena SharePoint licenca i još uvek prima pristup odbijen pristup, uverite se da je [dodeljen odgovarajući nivo dozvole](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Ako je korisniku dodeljena SharePoint licenca, a i dalje dobija poruku o zabranjenom pristupu, uverite se da mu je dodeljen [odgovarajući nivo dozvole.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-**Razmotrite korišćenje funkcije Access zahteva**
+**Razmotrite korišćenje funkcije zahteva za pristup**
 
-Funkcija [Access zahteva](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) omogućava osobama da zahtevaju pristup sadržaju koji trenutno nemaju dozvolu da vide. 
+Funkcija [zahteva za](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) pristup omogućava osobama da traže pristup sadržaju za koji trenutno nemaju dozvolu da ga vide. 
 
-**Dozvolite prilagođenoj skriptama može dovesti do problema sa zabranom pristupa**
+**Dozvoljavanje prilagođene skripte može dozvati probleme sa odbijanjem pristupa**
 
-Postoje određeni scenariji gde funkcija "Omogući prilagođenu poruku" možda predstavlja pristup koji je zabranjen. Za listu pogođene funkcije, bezbednosna pitanja i mogućnost onemogućavanja funkcije. Posjećite, [Dozvolite ili sprečite prilagođenu skripcu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Postoje određeni scenariji u kojima funkcija "Dozvoli prilagođenu skriptu" možda predstavlja pristup odbijen. Za listu funkcija na koje ovo utiče, bezbednosne mere i mogućnost onemogućavanja funkcije. Posetite lokaciju , [dozvolite ili sprečite prilagođenu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Napomena: ako OneDrive ili SharePoint lokacija nisu dostupni većem broju korisnika koji su prethodno imali pristup, možda postoji privremeni problem sa uslugom. [Potvrdite izbor u polju za zdravstvenu zaštitu usluge](https://portal.office.com/adminportal/home#/servicehealth).
+Najava: OneDrive ili SharePoint lokaciji nije dostupna većem broju korisnika koji su ranije imali pristup, možda postoji privremeni problem sa uslugom. [Proverite kontrolnu tablu za zdravstveno stanje usluge](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

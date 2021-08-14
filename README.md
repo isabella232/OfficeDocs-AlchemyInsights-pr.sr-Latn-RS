@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open izvor kodeks ponašanja
-Ovaj projekat je usvojila na [Microsoft otvoren izvor kodeksa ponašanja](https://opensource.microsoft.com/codeofconduct/). Za više informacija pogledajte [Šifra sprovede FAQ](https://opensource.microsoft.com/codeofconduct/faq/) ili se obratite [opencode@microsoft.com](mailto:opencode@microsoft.com) s bilo kakva dodatna pitanja ili komentare.
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source Code of Conduct
+Ovaj projekat je usvojio [Microsoft Open Source Code ponašanja.](https://opensource.microsoft.com/codeofconduct/)
+Dodatne informacije potražite u [najčešćim pitanjima o ponašanju](https://opensource.microsoft.com/codeofconduct/faq/) [ili informacije o opencode@microsoft.com](mailto:opencode@microsoft.com) pitanja ili komentare.

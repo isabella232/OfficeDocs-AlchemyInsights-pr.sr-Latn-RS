@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisane OneDrive usluge u prethodno stanje
+title: Vraćanje izbrisane OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: f7e99a75fdac420cc2cea0ec10be681bcb2b98ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6310e3e225392a911bd1f5ae18dc3d49c6b50f0a32f603ceb60816657d5b3fc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958923"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Vraćanje izbrisane OneDrive usluge u prethodno stanje
+# <a name="restore-a-deleted-onedrive"></a>Vraćanje izbrisane OneDrive
 
-Kada izbrišete korisnika, možete da pristupite OneDrive u korisniku pomoću Microsoft 365 centra administracije za 30 dana. Drugi korisnici mogu da nastave da pristupaju deljenom sadržaju u usluzi OneDrive za dužinu vremena koje ste podesili u OneDrive centru administracije. (Da biste saznali kako da to uradite, pogledajte članak [Postavljanje podrazumevanog zadržavanja datoteka za izbrisane korisnike usluge OneDrive](https://go.microsoft.com/fwlink/?linkid=874267).) Posle toga, OneDrive se premešta u korpu za otpatke za 93 dana, a zatim je izbriše.
+Kada izbrišete korisnika, korisnicima možete da pristupite OneDrive putem Microsoft 365 centar administracije 30 dana. Drugi korisnici mogu da nastave da pristupe deljenom sadržaju OneDrive koje ste podesili u OneDrive centru za administaciju. (Da biste saznali kako da podesite ovo, pogledajte podešavanje podrazumevanog [zadržavanja datoteke za izbrisane OneDrive korisnika](https://go.microsoft.com/fwlink/?linkid=874267).) Nakon tog vremena, OneDrive u korpu za otpatke na 93 dana, a zatim se briše.
   
-Posle početnog 30 dana, kada se izbrisani korisnik više ne pojavi u Microsoft 365 centru administracije, možete da pristupite usluzi OneDrive putem PowerShell. Informacije potražite u članku [Vraćanje u prethodno stanje izbrisane OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
+Nakon prvih 30 dana, kada se izbrisani korisnik više ne pojavi u Microsoft 365 centar administracije, možete da pristupite podacima korisnika OneDrive kroz PowerShell. Informacije potražite u [članku Vraćanje izbrisane OneDrive.](https://go.microsoft.com/fwlink/?linkid=874269)
   
 
