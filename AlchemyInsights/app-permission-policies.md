@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951687"
 ---
 # <a name="app-permission-policies"></a>Smernice za dozvole aplikacije
 
-Pomoću [smernica za dozvole aplikacije](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies), možete da uradite sledeće:
-- Kao administrator, možete da upravljate smernicama za podešavanje aplikacija u [Microsoft centru administracije](https://admin.teams.microsoft.com/policies/app-permission).
-- Kontrolišite koje aplikacije su dostupne korisnicima Microsoft timova u organizaciji pomoću globalnih smernica ili [kreiraju i dodeljuju prilagođene smernice](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) aplikacijama. 
+Sa [smernicama za dozvole aplikacije](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)možete da uradite sledeće:
+- Kao korisnik, možete da upravljate smernicama za podešavanje aplikacije [u Microsoft Teams centru aktivnosti.](https://admin.teams.microsoft.com/policies/app-permission)
+- Kontrolišite koje aplikacije su dostupne Microsoft Teams korisnicima [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) u organizaciji pomoću globalnih smernica ili kreirajte i dodelite prilagođene smernice za prilagođavanje i kontrolu korisničkog pristupa aplikacijama. 
 > [!NOTE]
-> Postavke aplikacije za celu organizaciju zamene globalne smernice i sve prilagođene smernice koje kreirate i dodelite korisnicima.
-- Možete da koristite [smernice za podešavanje aplikacija](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) da biste prilagodili Microsoft timove da biste naglasili aplikacije koje su najvažnije za korisnike. 
+> Postavke aplikacije na nivou org zamenjuju globalne smernice i sve prilagođene smernice koje kreirate i dodelite korisnicima.
+- Smernice za [podešavanje aplikacije možete da koristite](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) da biste prilagodili Microsoft Teams kako biste istakli aplikacije koje su najvažnije za korisnike. 
 
 
-Više informacija o kreiranju smernica aplikacije za zakupca potražite u članku:
-- [Upravljanje aplikacijama u Microsoft centru administracije](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Upravljanje smernicama za dozvole aplikacije u Microsoft timovima](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Upravljanje prilagođenim smernicama i postavkama aplikacija u Microsoft timovima](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Više informacija o kreiranju smernica za aplikacije za zakuca potražite u temi:
+- [Upravljanje aplikacijama u Microsoft Teams centru za administaciju](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Upravljanje smernicama za dozvole aplikacije u Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Upravljanje prilagođenim smernicama i postavkama u programu Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

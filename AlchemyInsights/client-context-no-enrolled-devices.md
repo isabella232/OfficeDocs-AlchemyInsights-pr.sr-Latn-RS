@@ -1,5 +1,5 @@
 ---
-title: Kontekst klijenata – bez upisanim uređajima
+title: Kontekst klijenta – nema upisanih uređaja
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930553"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Kontekst klijenata – bez upisanim uređajima
+# <a name="client-context---no-enrolled-devices"></a>Kontekst klijenta – nema upisanih uređaja
 
-Vaš zakupac nema upisane uređaje za upravljanje mobilnim uređajima (MDM) sa Intune. Ako želite da se prijavite i upravljate uređajima pomoću usluge Intune MDM, pregledajte dokumentaciju [ovde](https://docs.microsoft.com/intune/device-enrollment) za željenu platformu. Ako koristite MDM ili samo funkcije za zaštitu aplikacija nezavisnog proizvođača, možda nije potrebna radnja. 
+Zakuca nema nijedan uređaj za upravljanje mobilnim uređajima (MDM) upisanim za Intune. Ako želite da ukucate uređaje i upravljate uređajima putem [](https://docs.microsoft.com/intune/device-enrollment) Intune MDM-a, ovde pregledajte dokumentaciju za željenu platformu. Ako koristite MDM nezavisnog nezavisnog mDM-a ili samo funkcije zaštite aplikacija, možda neće biti potrebna nikakva radnja. 

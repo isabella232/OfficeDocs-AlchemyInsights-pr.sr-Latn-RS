@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3a0e5caccba87ddd8e4c786b5c8918494e709b6f4d5d60e7c31215a60b1d5d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951795"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Zaglavlja i podnožja se ne prikazuju na očekivani način
 
 Ako imate problema sa vizuelnim oznakama koje se ne prikazuju na očekivani način, pogledajte sledeće smernice:
 
 1. Proverite da li ste pregledali kada [se primenjuju vizuelne oznake](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Za Office oznake, [pregledajte kada Office 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)primenjuje označavanje i šifrovanje sadržaja.
+2. Za Kancelarija označavanje, pregledajte [kada Office 365 primenio označavanje i šifrovanje sadržaja.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
 3. Ako želite da uklonite postojeća zaglavlja/podnožja, pregledajte uklanjanje zaglavlja i podnožja iz [drugih rešenja za oznake.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)
 
 Ako i dalje imate problem, prikupite evidencije Azure Information Protection klijenta i priložite izvezene evidencije ovom tiketu.
 
 **Izvoz Azure Information Protection evidencija**
 
-1. Otvorite Office dokument ili kreirajte novu e-poruku u programu Outlook.
+1. Otvorite dokument Kancelarija ili kreirajte novu e-poruku u programu Outlook.
 2. Izaberite **stavku Pomoć i povratne informacije o**  >  **zaštiti/osetljivosti.**
 3. Izaberite **stavku Izvoz evidencija**.
 4. Sačuvajte evidencije na svojoj lokaciji i priložite ih ovom zahtevu za uslugom.

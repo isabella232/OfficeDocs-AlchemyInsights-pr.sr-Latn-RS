@@ -1,5 +1,5 @@
 ---
-title: Dodavanje globalnog potpisa preduzeća ili odricanja odgovornosti za sve korisnike
+title: Dodavanje potpisa globalnog preduzeća ili od bilo koje odbačene pošiljke za sve korisnike
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: b020e9823bac91ee6f40aed48f2abcba01a265ab2d2f77021a745e69af5a5366
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930517"
 ---
-# <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Dodavanje globalnog potpisa preduzeća ili odricanja odgovornosti za sve korisnike
+# <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Dodavanje potpisa globalnog preduzeća ili od bilo koje odbačene pošiljke za sve korisnike
 
-Savet: potpis koji se širom organizacije takođe naziva odricanje odgovornosti, bez obzira na to šta on uključuje.
+Savet: Potpis na celom raspolaganju za orgu se naziva oduzimanje bilo čega, bez obzira na to šta uključuje.
 
-1. U centru administracije odaberite stavku **administrativni centri**  >  **Exchange**.
-2. U okviru protoka pošte odaberite stavku **pravila**.
-3. Kliknite na **+** ikonu (Dodaj) i odaberite stavku **primene odricanja**.
-4. Navedi pravilo ime.
-5. U okviru Primenjivanje ovog pravila odaberite stavku **primenjuje se na sve poruke**.
-6. U okviru uradite sledeće, ostavite **dugme za dodavanje stavki odricanja odgovornosti** .
-7. Kliknite na **taster ENTER** i otkucajte odricanje odgovornosti.
-8. Kliknite na dugme **Izaberi jednu**, odaberite stavku **Prelamaj** kao opcija za povraćaj, a zatim kliknite na dugme **u redu**. To znači da ako se odricanje odgovornosti ne može dodati zbog šifrovanja ili druge postavke pošte, ona će biti omotana u kovertu poruke.
-9. Ostavite **nadgledanje ovog pravila** pomoću izabranog nivoa ozbiljnosti. Zatim odaberite stavku nisko, srednje ili veliko da bi se koristio u evidenciji poruka.
-10. Odaberite stavku **nametanje** da biste odmah uključili odricanje odgovornosti, osim ako ne želite da ga prvo testirate.
-11. Odaberite stavku **Još opcija** da biste dodali dodatne uslove ili izuzetke.
-12. Kada završite, kliknite na dugme **Sačuvaj**.
-13. Potrebna vam je pomoć? [Pogledajte video o kreiranju diskerlalmersa ili pročitajte ceo članak.](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72?wt.mc_id=Chat_GlobalSignature)
+1. U centru Exchange stavku Centri  >  **Exchange.**
+2. U okviru Protok pošte **odaberite stavku Pravila**.
+3. Kliknite na **+** ikonu (Dodaj) i odaberite **stavku Primeni oduzimanje oduzimanja**
+4. Imenuj pravilo.
+5. U okviru Primeni ovo pravilo odaberite **stavku Primeni na sve poruke.**
+6. U okviru Uradite sledeće, **ostavite izabranu opciju** Dodaj od poništi.
+7. Kliknite **na dugme Unesite** tekst i otkucajte odbačeno.
+8. Izaberite **stavku Izaberi jedan**, odaberite stavku **Prelamanje** kao povratnu opciju, a zatim kliknite na dugme **U redu.** To znači da ako nije moguće dodati odraz zbog šifrovanja ili druge postavke pošte, to znači da će ona biti prelomčena na koverti poruke.
+9. Ostavite **stavku Nadgledaj ovo pravilo** sa izabranim nivoom stepena ozbiljnosti. Zatim odaberite stavku Nisko, Srednje ili Visoko da bi se koristilo u evidenciji poruka.
+10. Odaberite **stavku Primeni** da biste odmah uključili odziv, osim ako prvo ne želite da ga testirate.
+11. Odaberite **stavku Još opcija** da biste uključili dodatne uslove ili izuzetke.
+12. Kada završite, kliknite na **dugme Sačuvaj**.
+13. Potrebna vam je pomoć? [Pogledajte video o kreiranju odstranjanja ili pročitajte ceo članak.](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72?wt.mc_id=Chat_GlobalSignature)
