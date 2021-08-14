@@ -1,5 +1,5 @@
 ---
-title: 'Azure aplikacije V 1,2-faza 7: izdanje naloga i praćenje-Bot'
+title: 'Azure aplikacije V1.2 – 7. faza: Prod izdanje i nastavak – Bot'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: e315941723ff075ef0e831c517c4547afee9c55c
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
-ms.translationtype: MT
+ms.openlocfilehash: 72d101e50f2aac631b5001758046c6f69cd0a1e675632435574a32530a4b3095
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009946"
 ---
-# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure aplikacije V 1,2-faza 7: izdanje naloga i praćenje-Bot
+# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure aplikacije V1.2 – 7. faza: Prod izdanje i nastavak – Bot
 
-[Vodič za integraciju aplikacija nezavisnog proizvođača](https://admin.microsoft.com/AdminPortal/Home) će vam pomoći da izvršite sledeće zadatke: 
-- Integrisanje aplikacije za oblake nezavisnog proizvođača sa uslugom Azure AD 
-- Konfiguracija najbolje opcije za prijavljivanje za organizaciju.
+Vodič [za integraciju aplikacije nezavisnog tima](https://admin.microsoft.com/AdminPortal/Home) pomoći će vam da izvršite sledeće zadatke: 
+- Integracija aplikacije u oblaku nezavisnog tima sa Azure AD, 
+- Konfiguracija najbolje opcije za prijavljivanje za svoju organizaciju.
 
-Integracijom aplikacije i konfigurisanjem jedinstvenog prijavljivanja pojednostavićete pristup tako što ćete omogućiti korisnicima da pokrenu aplikaciju sa portala " **moje aplikacije** " u sistemu Office 365. Ovo pojednostavljenje pristupa će smanjiti broj odzivi za prijavljivanje ili ih potpuno eliminisati.
+**Integrisanjem** aplikacije i konfigurisanom jedinstvenog prijavljivanjea pojednostavićete pristup tako što ćete korisnicima omogućiti da pokrenu aplikaciju sa portala "Moje aplikacije" u programu Office 365. Pojednostavljenje pristupa će smanjiti broj odziva za prijavljivanje ili ih potpuno ukloniti.

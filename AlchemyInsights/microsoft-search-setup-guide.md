@@ -1,5 +1,5 @@
 ---
-title: Vodič za podešavanje Microsoft pretrage
+title: Microsoft Search za podešavanje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975820"
 ---
-# <a name="microsoft-search-setup-guide"></a>Vodič za podešavanje Microsoft pretrage
+# <a name="microsoft-search-setup-guide"></a>Microsoft Search za podešavanje
 
-Koristite [Vodič za podešavanje Microsoft pretrage](https://go.microsoft.com/fwlink/?linkid=2153798) da biste podesili i konfigurisali Microsoft search. Da li želite da ga upravljate grupom korisnika ili da ga objavite svima u organizaciji. Dodeljujete administratora za pretraživanje i pretražite uređivače, a zatim prilagodite iskustvo pretrage za korisnike sa odgovorima i dodatnim opcijama, kao što je dodavanje Bing proširenja na hromi ili Podešavanje usluge Bing kao podrazumevanog pretraživača.
+Koristite vodič [Microsoft Search za podešavanje da](https://go.microsoft.com/fwlink/?linkid=2153798) biste podesili i konfigurisali Microsoft Search. Bilo da želite da je prenete grupi korisnika ili da je omogućite svima u organizaciji. Dodelićete adminitratorima pretrage i uređivačima pretrage, a zatim prilagoditi iskustvo pretrage korisnicima sa odgovorima i dodatnim opcijama, kao što su dodavanje Bing proširenja u Chrome ili podešavanje usluge Bing kao podrazumevanog pretraživača.
