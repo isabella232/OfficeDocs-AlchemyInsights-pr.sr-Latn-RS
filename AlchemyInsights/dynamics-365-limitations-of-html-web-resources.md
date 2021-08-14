@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 form XML šema
+title: Dynamics 365 Form XML šema
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947277"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Veb stranice (HTML) ograničenja Veb resursa
+# <a name="webpage-html-web-resources-limitations"></a>Ograničenja veb stranica (HTML) veb resursa
 
-* HTML Veb resurs ne može da sadrži bilo koju šifru koja se mora izvršiti na serveru. ASP.NET stranice nije moguće otpremiti kao HTML Veb resursi.
+* HTML veb resurs ne može da sadrži bilo koji kôd koji se mora izvršiti na serveru. ASP.NET stranice nije moguće otpremiti kao HTML veb resurse.
 
-* HTML Veb resursi mogu da prihvate samo ograničeni broj parametara niske upita. Više informacija: [Prosledi parametre u HTML Veb resurse](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML veb resursi mogu da prihvate samo ograničen broj parametara niske upita. Više informacija: [Prosledite parametre HTML veb resursima](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Veb Veb resursi (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Veb-stranice (HTML) veb resursi](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

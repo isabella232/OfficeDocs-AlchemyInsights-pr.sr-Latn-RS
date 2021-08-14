@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa uključenjem jedinstvenog prijavljivanja (SSO) korisnika
+title: Rešavanje problema sa nesmašnim jedinstvenim prijavljivanjem (SSO) korisnikom
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
-ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
+ms.openlocfilehash: ae31461b300fc262ea10233c628493e33371f18136d00e05755971c08d2ba3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009442"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Rešavanje problema sa uključenjem jedinstvenog prijavljivanja (SSO) korisnika
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Rešavanje problema sa nesmašnim jedinstvenim prijavljivanjem (SSO) korisnikom
 
-Da biste rešili probleme sa uključenjem jedinstvenog prijavljivanja (SSO) korisnika, koristite sledeće preporučene resurse:
+Da biste rešili nesomežne probleme sa prijavljivanjem korisnika (SSO), koristite sledeće preporučene resurse:
 
-- [Neočekivani odziv pristanka prilikom prijavljivanja u aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Neočekivani odziv pristanka prilikom prijave u aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
 - [Neočekivana greška prilikom izvršavanja pristanka na aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
-- [Rešavanje problema sa prijavljivanjem na aplikaciju iz usluge Azure AD my Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [Rešavanje problema sa prijavljivanjem u aplikaciju iz Azure AD Mojih aplikacija](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
 - [Stranica aplikacije prikazuje poruku o grešci kada se korisnik prijavi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
 - [Problemi sa prijavljivanjem u Microsoft aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
-- [Problemi pri prijavljivanju u sala zasnovane na jedinstvenom prijavljivanju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
+- [Problemi sa prijavljivanjem u aplikacije zasnovane na SAML-u konfigurisanim aplikacijama za jedinstveno prijavljivanje](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-Da biste napravili zahteve za funkciju ili postavili tehnička pitanja o besprekornoj SSO, pogledajte [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+Da biste upućili zahteve za funkcijama ili postavljali tehnička pitanja o besmislenim SSO-u, pogledajte [članak Microsoft&A.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
 

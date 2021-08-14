@@ -1,5 +1,5 @@
 ---
-title: Treba da instalirate Office 2013
+title: Potrebno je da instalirate Kancelarija 2013
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 99529e9e9b18ae0211cfae4fbc789d4e1563ac4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5063c515bfe2a359ec916d82b0fc85f9090f4e359ee5457f7d007693b71f7a06
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974611"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 više nije podržan u Microsoft 365 pretplatama
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Kancelarija 2013 više nije podržan u Microsoft 365 pretplatama
 
-Od 28 februara, 2017, Office 2013 više ne podržava Microsoft 365 pretplate.
+Od 28. februara 2017. Kancelarija 2013 više nije podržan u Microsoft 365 pretplatama.
   
-Da biste obezbedili bezbednost Office programskog paketa i da biste dobili sve najnovije funkcije, instalirajte najnoviju verziju sistema Office besplatno kao deo vaše Microsoft 365 pretplate. Pogledajte članak [Nadogradnja korisnika na najnoviji Office klijent](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
+Da biste obezbedili bezbednost paketa Kancelarija i da biste nabavili sve najnovije funkcije, besplatno instalirajte najnoviju verziju sistema Kancelarija u sklopu Microsoft 365 pretplate. Pogledajte [nadogradite korisnike na najnoviji Kancelarija klijent.](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)
   

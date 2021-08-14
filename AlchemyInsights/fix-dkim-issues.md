@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa programom DKIM
+title: Rešavanje problema sa podešavanjem DKIM-a
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a613321ed79e657350ec4d19b1f07ac0a091b227a8268c793a10edd9990d41f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945945"
 ---
-# <a name="fix-dkim-setup-issues"></a>Rešavanje problema sa programom DKIM
+# <a name="fix-dkim-setup-issues"></a>Rešavanje problema sa podešavanjem DKIM-a
 
-Ako imate problema sa programom DKIM za prilagođeni domen, koristite sledeće korake:
+Ako naiđu na probleme sa omogućavanjem DKIM-a za prilagođeni domen, koristite sledeće korake:
 
-- Većina DKIM instalacija je povezana sa neodgovarajućim DNS zapisima. Verifikujte ispravno oblikovan zapis DKIM CNAME (a**ne** txt zapis). Više informacija potražite u članku ova [Tema](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+- Većina problema sa podešavanjem DKIM-a povezana je sa neispravnim DNS zapisima. Potvrdite da je DKIM CNAME **zapis** ( a ne TXT zapis) ispravno oblikovan. Dodatne informacije potražite u ovoj [temi.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
-- Kada kreirate ili ažurirate DKIM DNS zapise u usluzi DNS hostinga za domen (obično je to registar domena), sačekajte da se DNS zapisi prošire.
+- Kada napravite ili ažurirate DKIM DNS zapise u usluzi DNS hostinga za domen (obično je to registar domena), sačekajte da se DNS zapisi prenesu.
 
-- Ako ne možete da kreirate DKIM DNS zapise u centru administracije, možete da ga zamenite \<CustomDomain\> prilagođenim domenom (na primer, contoso.com) i da pokrećete ovu komandu u [Exchange online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
+- Ako ne možete da kreirate DKIM DNS zapise u centru aktivnosti, možete da zamenite prilagođenim domenom (na primer, contoso.com) i da pokrenete ovu komandu u programu \<CustomDomain\> [Exchange Online PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .

@@ -1,5 +1,5 @@
 ---
-title: Informacije o kontaktima timova
+title: Informacije o Teams kontaktima
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 49f813e7ae4942c11033260d5abd62827a92da1b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037854"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868360"
 ---
-# <a name="information-about-teams-contacts"></a>Informacije o kontaktima timova
+# <a name="information-about-teams-contacts"></a>Informacije o Teams kontaktima
 
-Ako se kontakti ne sinhronizuju za jednog ili nekoliko korisnika, uradite sledeće:
-- Uverite se da je Exchange poštansko sanduče korisnika hostovano na mreži (ne lokalno). Više informacija potražite u članku [kako komuniciraju Exchange i Microsoft timovi](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
-- Uverite se da se broj telefona kontakta dodaje u kontakt informacije.
-
-Timovi koriste ove kontakte:
+Teams koristi ove kontakte:
 
 - Kontakti u aktivnom direktorijumu organizacije
-- Kontakti koji su dodati u podrazumevanu fasciklu korisnika programa Outlook
+- Kontakti dodati u podrazumevanu fasciklu Outlook korisnika
 
-Korisnici timova mogu da komuniciraju sa bilo kim u aktivnom direktorijumu vaše organizacije i mogu da dodaju bilo koga u aktivnom direktorijumu vaše organizacije kao kontakt i na njihove liste kontakata tako što ćete razgovarati **> kontaktima ili pozivima > kontaktima**.
+Ako kontakti nisu dovršeni ili se ne sinhronizuju za jednog ili nekoliko korisnika, uradite sledeće:
 
-Korisnici tima takođe mogu da dodaju osobu koja nije u aktivnom direktorijumu vaše organizacije kao kontakt tako što će **pozvati > kontakata**.
+- Proverite da li se Exchange korisnika hostuje na mreži (ne na mreži). Dodatne informacije potražite u [Exchange kako da Microsoft Teams komunicirate.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
+- Proverite da li se broj telefona kontakta dodaje kontakt informacijama.
+- Potražite e-poštu kontakta na traci **za pretragu.** Kontakti koje možete da preuzmete sinhronizovanje sa spiskom kontakata.
 
 

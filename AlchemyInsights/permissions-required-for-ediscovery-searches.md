@@ -1,5 +1,5 @@
 ---
-title: 1489-dozvole za pretraživanje eotkrivanja – pretrage
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973855"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Dozvole potrebne za pretraživanje eDiscovery-a
+# <a name="permissions-required-for-ediscovery-searches"></a>Dozvole potrebne za pretrage e-discovery
 
-Da biste izvršili pretraživanje sadržaja u bezbednosnoj & centru za usaglašenost, korisnik mora da bude član grupe uloga programa eDiscovery, što im omogućava da vrše pretrage i postavljanje na poštanskim sandučićima, SharePoint lokacijama i OneDrive lokacijama. Članovi takođe mogu da kreiraju slučajeve i upravljaju eDiscovery predmetima, dodaju i uklanjaju članove na slučaju, kreiraju i uređuju pretrage sadržaja i pristupe podacima podataka u naprednom programu eDiscovery.
+Da bi izvršio pretrage sadržaja u centru za bezbednost & usaglašenost, korisnik mora da bude bar član grupe uloga menadžera e-pošte koja mu omogućava da pretražuje i stavi čuvanje podataka u poštanskim sandučićima, SharePoint lokacijama i OneDrive lokacijama. Članovi takođe mogu da kreiraju slučajeve e-otklanjanja, dodaju i uklanjaju članove u predmet, kreiraju i uređuju pretrage sadržaja i pristupaju podacima o predmetima Advanced eDiscovery.
 
-Da biste izvršili Pretraga na sajtu u centru administracije administracije (EAC), korisnik mora biti član grupe za upravljanje otkrivanjem u usluzi Exchange online.
+Da In-Place e-otkrivanja izvršio pretrage u Exchange centru Exchange (EAC), korisnik mora da bude član grupe uloga "Upravljanje otkrivanjem" u programu Exchange Online.
 
-Više informacija o dozvolama za eDiscovery potražite u članku: 
+Dodatne informacije o dozvolama za e-discovery potražite u temi: 
 
-- [Dodeljivanje dozvola za eDiscovery u centru za bezbednost & bezbednosti usaglašenosti](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [Dodela dozvola za e-discovery u centru & za & za usaglašenost](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [Dodeljivanje dozvola za eDiscovery u razmeni](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Dodela dozvola za e-discovery u Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Napomena**: kada dodelite dozvole za ediscovery, možda ćete morati da sačekate nekoliko minuta da bi se dozvole proširilo.
+**Napomena:** Nakon dodeljivanja dozvola za e-distribuciju, možda ćete morati da sačekate nekoliko minuta da se dozvole prenesu.

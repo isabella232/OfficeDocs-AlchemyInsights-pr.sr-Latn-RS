@@ -1,5 +1,5 @@
 ---
-title: Popravka neuspelih tokova
+title: Popravka neuspelog toka
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945981"
 ---
-# <a name="fix-a-flow-that-failed"></a>Popravka toka koji nije uspeo
+# <a name="fix-a-flow-that-failed"></a>Popravljanje toka koji nije uspeo
 
-1. Idite u [Microsoft protok](https://flow.microsoft.com/)i kliknite na ikonu obaveštenja u gornjem desnom uglu. (Ili u aplikaciji za mobilne uređaje izaberite karticu aktivnost.) Izaberite tok koji nije uspeo da pogleda na detalje.
+1. Idite na [Microsoft Flow](https://flow.microsoft.com/), a zatim kliknite na ikonu Obaveštenja u gornjem desnom vremenu. (Ili u aplikaciji za mobilne uređaje izaberite karticu Aktivnost.) Izaberite tok koji nije uspeo da pogleda detalje.
     
-2. Pronađite korake sa crvenim ikonom uzvičnika da biste videli poruku o grešci za protok.
+2. Pronađite korak sa crvenom ikonom uzvičnik da biste videli poruku o grešci za tok.
     
-3. U zavisnosti od poruke o grešci, trebalo bi da možete da uređujete tok i da ga popravite. 
+3. U zavisnosti od poruke o grešci, trebalo bi da možete da uredite tok i popravite ga. 
     
-[Uobičajeni problemi sa propusta](https://go.microsoft.com/fwlink/?linkid=872110)
+[Uobičajeni problemi sa protokom](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
