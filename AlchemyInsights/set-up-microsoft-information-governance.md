@@ -1,5 +1,5 @@
 ---
-title: Podešavanje Microsoft Information upravljanja
+title: Podešavanje Microsoft upravljanja informacijama
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921633"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Podešavanje Microsoft Information upravljanja
+# <a name="set-up-microsoft-information-governance"></a>Podešavanje Microsoft upravljanja informacijama
 
-[Vodič za podešavanje Microsoft Information upravljanja informacijama](https://go.microsoft.com/fwlink/?linkid=2146529) pruža vam informacije koje su vam potrebne za podešavanje strategije upravljanja upravom organizacije, kako biste se uverili da su podaci klasifikovani i upravljani prema određenim uputstvima za životni ciklus koji ste postavili.
+[Microsoft Information Governance](https://go.microsoft.com/fwlink/?linkid=2146529) vodič za podešavanje pruža informacije koje će vam biti potrebne za podešavanje strategije upravljanja organizacije i upravljanje njom kako biste obezbedili da se podaci klasifikišu i upravljaju u skladu sa određenim uputstvima o životnom stilu koje ste postavili.
 
-Pomoću ovog vodiča ćete saznati kako da kreirate, automatski primenite ili objavite oznake, smernice za etiketu i smernice za zadržavanje koje se primenjuju na sadržaj koji je moguće ponovo koristiti. Dobićete i informacije o uvozu CSV datoteka pomoću plana datoteke za masovne scenarije ili za ručno primenu njih na pojedinačne dokumente.
+Uz ovaj vodič saznaćete kako da kreirate, automatski primenite ili objavite nalepnice, smernice za nalepnice i smernice za zadržavanje koje se primenjuju na zapise o sadržaju i usaglašenosti koji se mogu ponovo koristiti u organizaciji. Takođe ćete dobiti informacije o uvozu CSV datoteka sa planom datoteka za masovne scenarije ili za ručno primenu na pojedinačne dokumente.

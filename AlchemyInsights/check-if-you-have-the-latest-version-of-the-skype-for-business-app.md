@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000550"
 - "2388"
-ms.openlocfilehash: 5b9e7afe7393cf688db68d13b7964c714a516533
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: afc450afaa8abc4c666327f22bdf49f8590ee87adf781c9394fe75fd314791cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930671"
 ---
-# <a name="check-for-skype-for-business-updates"></a>Proverite da li postoje ispravke za Skype za posao
+# <a name="check-for-skype-for-business-updates"></a>Proverite da li postoje Skype za posao ispravke
 
-Informacije o najnovijim ispravkama za aplikacije Skype za posao na svim platformama (Mac, Windows, Mobile) potražite u temi Pratite najnovije ispravke u programu Skype za [posao.](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)
+Za informacije o najnovijim ispravkama za Skype za posao aplikacije na svim platformama (Mac, Windows, Mobile), pogledajte pratite najnovije ispravke u programu [Skype za posao.](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)

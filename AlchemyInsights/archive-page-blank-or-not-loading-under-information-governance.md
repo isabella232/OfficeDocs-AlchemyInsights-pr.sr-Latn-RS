@@ -1,5 +1,5 @@
 ---
-title: Stranica arhive prazno ili ne učitavanje u okviru upravljanje informacijama
+title: Arhiviranje prazne stranice ili se ne učitava u okviru "Upravljanje informacijama"
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997364"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Stranica arhive prazno ili ne učitavanje u okviru upravljanje informacijama
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Arhiviranje prazne stranice ili se ne učitava u okviru "Upravljanje informacijama"
 
-Ako je stranica **arhiviranja** u okviru stavke upravljanje informacijama u centru za bezbednost i usaglašenost prazna ili se ne učita, koristite opciju **arhiviranja** u centru za M365.
+Ako  je stranica "Arhiviranje" u okviru "Upravljanje informacijama" u  centru za bezbednost i usaglašenost prazna ili se ne učitava, koristite opciju Arhiviranje u novom M365 centru za usaglašenost.
 
 1. pođi do [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Izaberite stavku upravljanje informacijama.
-1. Zatim kliknite na opciju **arhiviranja** .
+1. Izaberite stavku Upravljanje informacijama.
+1. Zatim izaberite **opciju Arhiviranje.**
 
-Ili sledi ovaj URL: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
+Ili pratite ovu URL adresu: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)

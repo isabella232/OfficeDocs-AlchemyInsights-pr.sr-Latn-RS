@@ -1,5 +1,5 @@
 ---
-title: Nije moguće otpremiti sliku u timove za ćaskanje
+title: Ne možete da otpremite sliku u Teams ćaskanje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930815"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Nije moguće otpremiti sliku u timove za ćaskanje
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Ne možete da otpremite sliku u Teams ćaskanje
 
 Predlozi za rešavanje problema:
 
-- Ako koristite timove na vebu, isprobajte drugačiji pregledač. Listu podržanih pregledača potražite u odeljku "ograničenja" pregledača [i specifikacija za Microsoft timove](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Proveravaj kompatibilnost hardvera i OS. Više informacija potražite u članku [Hardverski zahtevi za Microsoft timove](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Potvrdite da imate najnoviju verziju timova. Više informacija potražite u članku [proces ažuriranja tima](https://docs.microsoft.com/microsoftteams/teams-client-update) za detalje.
+- Ako koristite Teams na vebu, pokušajte sa drugim pregledačem. Listu podržanih pregledača možete da vidite u odeljku "Pregledači" u odeljku Ograničenja i [specifikacije za Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Proverite kompatibilnost hardvera i OS- a. Dodatne informacije potražite u [hardverskim zahtevima za Microsoft Teams.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
+- Proverite da li imate najnoviju Teams verziju. Više informacija potražite u Teams [ažuriranja za](https://docs.microsoft.com/microsoftteams/teams-client-update) detalje.

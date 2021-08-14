@@ -1,5 +1,5 @@
 ---
-title: Klijent za klijente se zaglavio prilikom učitavanja
+title: Teams klijent je zaglavljen na učitavanje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981703"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>Klijent za klijente se zaglavio prilikom učitavanja
+# <a name="teams-client-is-stuck-on-loading"></a>Teams klijent je zaglavljen na učitavanje
 
-Microsoft je upoznat sa prisluљkanjem u nedavnom timu aplikacije za Stone timove koji sprečava korisnike da se prijave. Uticajeni korisnici vide poruku učitavanja Microsoft tima koji se pojavljuju.
+Microsoft zna za grešku u nedavnoj Teams iz aplikacije za stone računare koja sprečava korisnike da se prijavu. U uticaju korisnika vidite poruku učitavanje Microsoft Teams koja se pojavljuje.
 
-Najjednostavnije rešenje za sada je da koristite Veb aplikaciju "timovi" <https://teams.microsoft.com/> .
+Najjednostavnije rešenje za sada jeste da koristite veb aplikaciju Teams na <https://teams.microsoft.com/> lokaciji .
 
-Više informacija i trenutni status potražite na lokaciji kontrolne table zdravstvenog usluge na <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Dodatne informacije i trenutni status potražite u objavi na tabli sa informacijama o zdravstvenom stanju usluge na lokaciji <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

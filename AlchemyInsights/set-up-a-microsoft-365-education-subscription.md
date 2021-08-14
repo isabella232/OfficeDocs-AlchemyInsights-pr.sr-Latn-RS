@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bfeac0a1ebe7597b148b0bbda4e866fc05cf9e4e044552f8e6fa0f4227df736
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921741"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Podešavanje pretplate na Microsoft 365 Education
 
@@ -25,5 +25,5 @@ Za vođeni obilazak kroz uslugu, pogledajte [deskriptivni audio-video zapis](htt
 
 **Više sjajnih resursa**
 
-- Pogledajte [kreiranje Office 365 naloga zakupca](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) za pregled.
-- Pogledajte [članak Prvi koraci uz Microsoft 365 Education](https://docs.microsoft.com/education/) za IT administraatore, projektante i partnere.
+- Pogledajte [kreiranje Office 365 naloga zakupca](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) da biste dobili pregled.
+- Pogledajte [prvi koraci u Microsoft 365 Education](https://docs.microsoft.com/education/) za IT administraatore, projektante i partnere.
