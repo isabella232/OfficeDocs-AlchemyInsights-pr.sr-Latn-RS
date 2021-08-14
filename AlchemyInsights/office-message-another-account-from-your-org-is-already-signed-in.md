@@ -1,5 +1,5 @@
 ---
-title: Poruka za Microsoft 365 aplikacije – Žao nam je, drugi nalog vaše organizacije je već prijavljen
+title: Microsoft 365 aplikacije – Žao nam je, drugi nalog vaše organizacije je već prijavljen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974359"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Poruka za Microsoft 365 aplikacije – Žao nam je, drugi nalog vaše organizacije je već prijavljen
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 aplikacije – Žao nam je, drugi nalog vaše organizacije je već prijavljen
 
 Da biste ispravili ovu grešku, pokušajte sledeće:
 

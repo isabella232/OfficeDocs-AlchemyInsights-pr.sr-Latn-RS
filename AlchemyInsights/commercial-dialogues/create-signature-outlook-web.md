@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 02f579a6b7570037261959419a6ea9586707b76e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3bb83a4f68c49b3d30843299e6b42b9e9b9226245ebd41e75831694b95839c46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949545"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Kreiranje potpisa e-pošte u programu Outlook na vebu
 
 1. Prijavljivanje u Outlook na vebu.
-2. Na gornjoj traci za navigaciju odaberite stavku **Postavke**  >  **e-pošte**.
-3. Na tabli **Opcije** , u okviru **Pošta**, odaberite   >  **potpis e-pošte** rasporeda.
-4. U okviru za tekst otkucajte potpis i koristite dostupne opcije oblikovanja da biste promenili njen izgleda.
+2. Na gornjoj traci zavlake odaberite **stavku Postavke**  >  **Pošta**.
+3. Na tabli **Opcije,** u okviru Pošta **odaberite** stavku Potpis **rasporeda**  >  **e-pošte**.
+4. U okviru za tekst otkucajte potpis i koristite dostupne opcije oblikovanja da biste promenili njegov izgled.
 
-**Savet:** Umetanje datoteke slike (na primer, u. gif ili. jpg formatu) za potpis nije podržan, ali sliku možete kopirati sa Veb stranice i nalepiti je u polje za potpis.
+**Savet:** Umetanje datoteke slike (na primer, u .gif ili .jpg) za potpis nije podržano, ali možete da kopirate sliku sa veb stranice i nalepite je u okvir za potpis.
 
-5. Ako želite da se potpis nalazi na dnu svih odlaznih e-poruka, uključujući odgovore i prosleđene poruke, izaberite stavku **automatski Uključi moj potpis na nove poruke koje komponujem**.
+5. Ako želite da se potpis prikazuje pri dnu svih odlaznih e-poruka, uključujući odgovore i prosleđene poruke, izaberite stavku Automatski dodaj moj potpis u nove poruke koje **sastavljam.**
 6. Kliknite na dugme **Sačuvaj**.

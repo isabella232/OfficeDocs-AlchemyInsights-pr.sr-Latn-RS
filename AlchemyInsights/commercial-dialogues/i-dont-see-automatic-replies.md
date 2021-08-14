@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 239c4db4d3a0b4010d14c2fac63018e8ad817c93
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5f0e1b52e5a31d7bfd64ef40f9d8806358a6cad218b6a474b0d0e38aa051ac72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949473"
 ---
 # <a name="i-dont-see-automatic-replies"></a>Ne vidim automatske odgovore
 
-Ako ne vidite automatski odgovor nakon što izaberete **datoteku**, verovatno koristite gmail, Yahoo ili neki drugi pop ili IMAP nalog koji ne podržava funkciju automatskog odgovora programa Outlook. Možete da podesite pravilo koje će odgovarati dolaznim porukama, ali samo ako ostavite Outlook pokrenut.
+Ako ne vidite Automatske odgovore nakon izbora stavke Datoteka **,** verovatno koristite Gmail, Yahoo ili drugi POP ili IMAP nalog koji ne podržava funkciju Outlook automatski odgovori. Možete podesiti pravilo koje će odgovarati na dolazne poruke, ali samo ako ostavite Outlook pokrenuto.
