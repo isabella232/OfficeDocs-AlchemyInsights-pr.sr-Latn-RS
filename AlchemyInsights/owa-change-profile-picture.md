@@ -1,5 +1,5 @@
 ---
-title: Promena slike profila u programu Outlook na vebu
+title: Promena slike profila u Outlook na vebu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: b57d5fc7085d38c2f844a56e6d06ea6dcae3026360a8288cb73baed5d1280a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095340"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Promena slike profila u programu Outlook na vebu
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Promena slike profila u Outlook na vebu
 
-1. Na vrhu stranice izaberite ime ili sliku profila.
-1. U oknu **moj nalog** izaberite sliku profila.
-1. U dijalogu **Promena fotografije** izaberite stavku **Otpremi novu fotografiju**.
-1. Odaberite fotografiju za otpremanje i izaberite stavku **Prijavi**se.
+1. Na vrhu stranice izaberite svoje ime ili sliku profila.
+1. U **oknu Moj** nalog izaberite svoju sliku profila.
+1. U **dijalogu Promena fotografije** izaberite **Otprema novu fotografiju**.
+1. Odaberite fotografiju koju želite da otpremite i izaberite stavku **Primeni**.
 
-*Napomena:* Nova fotografija će se pojaviti kada se sledeći put prijavite u Microsoft 365.
+*Napomogućeno:* Nova fotografija će se pojaviti kada se sledeći put prijavite u Microsoft 365.
 
-Više informacija potražite u članku [Promena informacija o slici i nalogu u programu Outlook na vebu](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Dodatne informacije potražite u [temi Promena fotografije i informacija o nalogu u Outlook na vebu.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

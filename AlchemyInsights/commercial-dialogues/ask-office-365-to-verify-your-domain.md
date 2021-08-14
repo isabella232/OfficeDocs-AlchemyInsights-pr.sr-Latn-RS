@@ -1,5 +1,5 @@
 ---
-title: Pitajte Office 365 da biste verifikovali domen
+title: Zatražite Office 365 verifikujte domen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 432ae69a244b22bcbc8826702c17da00040752d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e4089c8c81012c1c579c21ad6b5b5fe7ecea51ccd2324ef208818bb7242e4af4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949617"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>Pitajte Office 365 da biste verifikovali domen
+# <a name="ask-office-365-to-verify-your-domain"></a>Zatražite Office 365 verifikujte domen
 
-Kada Office 365 pronađe ispravan TXT zapis, domen se verifikovao. Da biste zamoliii Office 365 da verifikuje domen, obavite sledeće korake:
+Kada Office 365 pronađe ispravni TXT zapis, domen će biti verifikovan. Da biste Office 365 verifikujte domen, izvršite sledeće korake:
 
-1. Uverite se da se nalazite na stranici **Verifikacija domena** . Ako trenutno niste na ovoj stranici, odaberite stavku **podešavanje >** domeni, odaberite domen koji verifikujete, a zatim kliknite na dugme **Započni instalaciju** ili **nastavite sa instalacijom**. Sletite na stranicu **verifikovanje domena** .
+1. Uverite se da ste na stranici **Verifikacija domena.** Ako se trenutno ne nalazite na ovoj stranici, odaberite stavku Podešavanje usluge **>** Domeni,  odaberite domen koji verifikujte, a zatim izaberite stavku Započni podešavanje ili Nastavi **podešavanje.** Dolazite na stranicu **Verifikacija domena.**
 
-2. Kliknite na dugme **Potvrdi**.
+2. Kliknite na **dugme Verifikuj.**
 
-Obično je potrebno oko 15 minuta da bi DNS promene stupile na snagu. Međutim, ona povremeno može da potraje za promenu koju ste izvršili da ažurira na DNS sistemu Internet.
+Obično je potrebno oko 15 minuta da bi promene DNS-a stupile na snagu. Međutim, povremeno može da bude duže da se promena koja ste napravili ažurira u celom DNS sistemu na internetu.
 

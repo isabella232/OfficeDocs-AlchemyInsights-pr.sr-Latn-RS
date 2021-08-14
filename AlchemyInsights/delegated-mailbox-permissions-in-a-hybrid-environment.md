@@ -1,5 +1,5 @@
 ---
-title: Dodeljene dozvole za poštansko sanduče u hibridno okruženje
+title: Dozvole za delegirano poštansko sanduče u hibridnom okruženju
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 84ce7c1a31ad3d44b10c892c1d6a1a5ef85de58d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e2b8e8948becbb1ac07ca340fb13038caf16f6093988a894e85e0cefb8a64a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948717"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Dodeljene dozvole za poštansko sanduče u hibridno okruženje
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Dozvole za delegirano poštansko sanduče u hibridnom okruženju
 
-U zavisnosti od verzije Exchange koje ste instalirali u lokalnoj organizaciji, možda ćete morati da uradite dodatne korake da biste podesili delegirane dozvole za poštansko sanduče između lokalne organizacije i Exchange Online u usluzi Microsoft 365. Više informacija o tome kako da podesite delegirane dozvole potražite u članku [Konfigurisanje razmene da biste podržali dozvole za delegirani poštansko sanduče u hibridnu primenu](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+U zavisnosti od verzije usluge Exchange koju ste instalirali u svojoj objedinjenu organizaciju, možda ćete morati da preuzmete neke dodatne korake da biste podesili dozvole delegiranog poštanskog sandučeta između vaše organizacije i Exchange Online u Microsoft 365. Za više informacija o tome kako da podesite delegirane dozvole pogledajte Konfigurisanje usluge Exchange da biste podržali dozvole delegiranog poštanskog sandučeta u [hibridoj primeni.](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)
   
