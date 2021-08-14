@@ -1,5 +1,5 @@
 ---
-title: Vlasnik ne može da kreira potfasciku pomoću programa Outlook
+title: Vlasnik ne može da napravi potfasciku korišćenjem Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063138"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlasnik ne može da kreira potfasciku pomoću programa Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlasnik ne može da napravi potfasciku korišćenjem Outlook
 
-**Postoji tekući problem sa vlasnicima javnih fascikli koji prave potfascikle pomoću programa Outlook. Problem će uskoro biti rešen.**
+**Postoji tekući problem sa vlasnicima javnih fascikli koji prave potfascikle pomoću Outlook. Problem će uskoro biti rešen.**
 
 U međuvremenu koristite neko od sledećih zaokreta:
 
-1. Korišćenje programa Outlook za MAC za kreiranje potfascikle jer problem utiče samo na Outlook za windows računare (sve verzije)
+1. Koristite Outlook za MAC da biste kreirali potfasciklu jer problem utiče samo na Outlook radne površine za stone računare (sve verzije)
 2. Kreiranje potfascikle pomoću programa EXO Shell ili EAC
 3. Promena defaultPublicFolderMailbox/EffectivePublicFolderMailbox korisnika u drugo poštansko sanduče nego poštansko sanduče sadržaja za fasciklu koja uzrokuje problem  
     - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*

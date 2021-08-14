@@ -1,5 +1,5 @@
 ---
-title: Kako da se odjavite iz programa Outlook na vebu
+title: Kako da se odjavite iz Outlook na vebu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802143"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063174"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kako da se odjavite iz programa Outlook na vebu
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kako da se odjavite iz Outlook na vebu
 
-Da biste se odjavili iz programa Outlook na vebu, izaberite svoje ime ili sliku u gornjem desnom uglu i izaberite stavku **Odjavi se**.
+Da biste se odjavite iz Outlook na vebu, izaberite svoje ime ili sliku u gornjem desnom uglu i izaberite stavku **Odjavi se**.
 
 Da biste zaustavili automatsko prijavljivanje na poslovni ili školski nalog:
 
 1. Izaberite svoje ime ili sliku i izaberite stavku **Odjavi se**.
-1. Idite na [Outlook.Office.com](https://outlook.office.com/) i izaberite stavku **koristi drugi nalog**.
-1. Prijavite se pomoću e-adrese koju želite da koristite.
+1. Idite na [Outlook.office.com](https://outlook.office.com/) i izaberite **Koristi drugi nalog**.
+1. Prijavite se pomoću adrese e-pošte koju želite da koristite.
 
-Da biste saznali više, pogledajte članak [Kako da se prijavite u Outlook na Vebu ili iz](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)njega.
+Da biste saznali više, pogledajte [kako da se prijavite na Outlook na vebu.](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)

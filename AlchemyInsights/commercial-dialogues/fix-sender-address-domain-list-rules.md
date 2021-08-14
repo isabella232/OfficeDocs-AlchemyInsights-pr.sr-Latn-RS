@@ -1,5 +1,5 @@
 ---
-title: Popravka pravila adrese pošiljaoca/lista domena
+title: Popravljanje pravila za adresu pošiljaoca/listu domena
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930039"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Popravka pravila adrese pošiljaoca/lista domena
+# <a name="fix-sender-addressdomain-list-rules"></a>Popravljanje pravila za adresu pošiljaoca/listu domena
 
-Smernice za borbu protiv bezvredne pošte u zakupcu su pogođene ovom porukom. Pošiljalac poruke je pronađen na listi dozvole ili blokiranja. Da biste pregledali smernice, uradite sledeće:
+Ova poruka je uticala na smernice za borbu protiv spam-pošte u zakupca. Pošiljalac poruke je pronađen na listi Dozvoli ili Blokiraj. Da biste pregledali smernice, uradite sledeće:
 
-1. Idite na [Office 365 Security & centar za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim idite na smernice **za upravljanje pretnjama** za  >    >  [borbu protiv bezvredne pošte](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na kartici **Standardno** , ako su **standardne postavke** omogućene, potvrdite izbor u polju za **dozvolu omogući** i **Blokiraj liste**.
-3. Na kartici **Prilagođeno** , ako su omogućene **prilagođene postavke** , pregledajte smernice tako što ćete izabrati stavku **Uredi smernice** i proveriti liste **dozvole** i **blokirati**.
+1. Idite u Office 365 centar za [&](https://go.microsoft.com/fwlink/p/?linkid=2077143)usaglašenost, a zatim idite u centar za borbu protiv bezb.  >    >  [](https://go.microsoft.com/fwlink/?linkid=2101518)
+2. Na **kartici Standardno,** ako **su omogućene standardne** postavke, izaberite **liste Dozvoljene liste** i Liste **blokiranih.**
+3. Na **kartici Prilagođeno,** ako su omogućene prilagođene postavke,  pregledajte smernice tako što biste izabrali stavku Uredi smernice i izabrati liste Dozvoljene liste i **Liste blokiranja.**  
 
-Više informacija o konfigurisanju smernica za filtriranje bezvredne pošte potražite u članku [Konfigurisanje smernica za filtriranje bezvredne pošte](https://go.microsoft.com/fwlink/?linkid=2101431).
+Dodatne informacije o konfigurisanju smernica filtera za spam potražite u temi [Konfigurisanje smernica filtera za spam.](https://go.microsoft.com/fwlink/?linkid=2101431)
