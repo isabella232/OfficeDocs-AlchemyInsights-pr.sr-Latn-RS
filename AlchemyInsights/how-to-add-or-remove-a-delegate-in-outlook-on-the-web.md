@@ -1,5 +1,5 @@
 ---
-title: Kako da dodate ili uklonite delegata u programu Outlook na vebu (OWA)
+title: Dodavanje ili uklanjanje delegata u programu Outlook na vebu (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993439"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Kako da dodate ili uklonite delegata u programu Outlook na vebu (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Dodavanje ili uklanjanje delegata u programu Outlook na vebu (OWA)
 
-Da biste dodelili uređivača ili delegat pristup kalendaru:
+Da biste dodelili pristup uredniku ili delegatu svom kalendaru:
 
-1. U programu Outlook na vebu izaberite ikonu kalendara na dnu stranice.
-2. Na vrhu stranice izaberite stavku **deli > kalendar**.
-3. Na stranici **Deljenje i dozvole** otkucajte ime ili e-adresu osobe sa kojom želite da delite kalendar. Iako možete da delite kalendar sa više osoba, možete da dodate samo jednu po jednu osobu iz programa Outlook na vebu.
-4. Kada dodate osobu kojoj želite da upravljate kalendarom, izaberite padajuću listu pored imena i odaberite nivo pristupa koji želite da imaju.
+1. U Outlook na vebu kliknite na ikonu Kalendar na dnu stranice.
+2. Na vrhu stranice izaberite stavku **Deli kalendar > Kalendar.**
+3. Na stranici **Deljenje i dozvole otkucajte** ime ili adresu e-pošte osobe sa kojom želite da delite svoj kalendar. Iako možete da delite kalendar sa više osoba, možete da dodate samo jednu osobu istovremeno iz Outlook na vebu.
+4. Kada dodate osobu za koju želite da upravlja vašim kalendarom, izaberite padajuću listu pored imena i odaberite nivo pristupa koji želite da ima.
 
-    - Izaberite stavku **možete urediti** da biste im dali dozvolu da izvrše promene na kalendaru.
-    - Izaberite stavku **Delegat** da biste im dali istu dozvolu kao uređivač, kao i da će primati pozive za sastanke i odgovore u vaše ime.
+    - Izaberite **stavku Može** da uređuje da biste im dali dozvolu da menjaju vaš kalendar.
+    - Izaberite stavku Delegat da biste im dali istu dozvolu kao i uredniku, ali i da mogu da primaju pozive za sastanak i **odgovore** u vaše ime.
     > [!NOTE]
-    > Kada delegat odgovori na poziv za sastanak u vaše ime, nećete videti odgovor na pozivu u prijemnom poštanskom sandučetu kada koristite Outlook na vebu. Sastanci koji se prihvate ili uslovno prihvaćeni pojavljuju se u vašem kalendaru i pokazaжe da ih je delegat prihvatio.
-    - Opcije **mogu da prikažu kada sam zauzet**, **mogu da prikažu naslove i lokacije** i **mogu da prikažu sve detalje** omogućava drugima da vide vaš kalendar, ali ne i da ga menjaju. Access za osobe izvan vaše organizacije ograničen je na ove opcije.
+    > Kada delegat odgovori na poziv za sastanak u vaše ime, nećete videti odgovor na poziv u prijemnom poštanskom sandučetu kada koristite Outlook na vebu. Sastanci koji su prihvaćeni ili prihvaćeni će se pojaviti u vašem kalendaru i pokazaće da ih je vaš delegat prihvatio.
+    - Opcije Može **da prikaže** kada sam **zauzet,** Može da  prikaže naslove i lokacije i Može da prikazuje sve detalje dozvoljavaju drugima da vide vaš kalendar, ali ne i da ga menjaju. Pristup osobama izvan organizacije ograničen je na ove opcije.
 
-5. Kada završite sa dodavanjem osobe sa kojom želite da delite kalendar i izaberete koju dozvolu želite da im date, izaberite stavku **deli**. Ako odlučite da trenutno ne delite kalendar, izaberite stavku **Ukloni**.
+5. Kada završite sa dodavanjem osobe sa kojom želite da delite kalendar i odaberete dozvolu koju želite da joj date, izaberite stavku **Deli**. Ako odlučite da ne delite kalendar sada, izaberite **stavku Ukloni**.
 
-Osoba sa kojom ste delili kalendar dobiće e-poruku o njoj. Kada u pozivu izabere dugme **prihvati** , on će dodati kalendar na listu kalendara.
+Osoba sa kojom ste delili kalendar će primiti e-poruku koja je govori o tome. Kada izaberu **dugme** Prihvati u pozivnici, to će dodati vaš kalendar na njihovu listu kalendara.
 
 > [!NOTE]
-> Stavke kalendara označene kao **privatne** su zaštićene. Većina osoba sa kojima delite kalendar vidi samo vreme stavki koje su označene kao **privatne**, a ne temu, lokaciju ili druge detalje. Izuzetak za ovo je ako potvrdite izbor u polju za potvrdu **Dozvoli delegatu da vide privatne događaje** .
+> Kalendarske stavke **označene kao** Privatno zaštićene su. Većina osoba sa kojima delite kalendar vidi samo vreme stavki označenih kao Privatno, a ne i temu, lokaciju ili druge detalje. Izuzetak od ovog izuzetka jeste ako potvrdite izbor u polju za potvrdu Dozvoli **delegatu da prikazuje privatne** događaje.
 
-Da biste uklonili delegata u programu Outlook na vebu (OWA):
+Da biste uklonili delegata u Outlook na vebu (OWA):
 
-1. U programu Outlook na vebu izaberite ikonu kalendara na dnu stranice.
-2. Na vrhu stranice izaberite stavku **deli** i odaberite kalendar koji želite da prestanete da delite.
-3. Izaberite stavku **Ukloni** pored osobe sa kojom želite da prestanete da delite kalendar.
+1. U Outlook na vebu kliknite na ikonu Kalendar na dnu stranice.
+2. Na vrhu stranice izaberite deljenje , **a** zatim odaberite kalendar koji želite da prestanete da delite.
+3. **Izaberite** stavku Ukloni pored osobe sa kojom želite da prestanete da delite kalendar.
