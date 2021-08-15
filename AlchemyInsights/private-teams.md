@@ -1,5 +1,5 @@
 ---
-title: Private Teams
+title: Privatne Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f92bd97ecf3145b4d27f14fdd788f7f83ddffb827871af3894aec78ba30f6a48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960273"
 ---
-# <a name="managing-discovery-of-private-teams"></a>Upravljanje otkrivanjem privatnih timova
+# <a name="managing-discovery-of-private-teams"></a>Upravljanje otkrivanjem privatne Teams
 
 **Novi timovi**
 
@@ -29,4 +29,4 @@ Kada vlasnik tima kreira privatni tim, može da odabere da ga učini podloži ot
 
 Vlasnici timova mogu da podese postavku otkrivanja za postojeći privatni tim direktno u postavkama tima, a vlasnici to mogu da ukaže korišćenjem programa PowerShell.  
 
-Više informacija potražite u [članku Upravljanje otkrivanjem privatnih timova u microsoft Teams.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)
+Za više informacija pogledajte Upravljanje [otkrivanjem privatnih timova u Microsoft Teams.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)
