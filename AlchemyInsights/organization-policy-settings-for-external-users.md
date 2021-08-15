@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011314"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>Postavke smernica organizacije za spoljne korisnike
 
-Korisnici mogu da vide sledeću poruku upozorenja kada pokušaju da je podele sa spoljnim korisnicima vaše organizacije: 
+Korisnici mogu da vide sledeću poruku upozorenja kada pokušaju da dele sa spoljnim korisnicima organizacije: 
 
-   **Smernice organizacije vam ne daju da delite sa ovim korisnicima. Idite na spoljašnje deljenje u Microsoft 365 centru administracije da biste ga omogućili.** 
+   **Smernice organizacije ne dozvoljavaju da delite sa ovim korisnicima. Idite na Spoljno deljenje u Microsoft 365 centar administracije biste ga omogućili.** 
 
-To se često dešava prvi put kada pokušate da delite sa spoljnim korisnicima ili kada delite sa novim spoljnim korisnicima. Više informacija potražite u članku ispod:
+Ovo se često dešava prvi put kada pokušate da delite sa spoljnim korisnicima ili prilikom deljenja sa novim spoljnim korisnicima. Dodatne informacije potražite u članku ispod:
 
-[Smernice organizacije ne omogućuju vam da delite sa ovim korisnicima](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Smernice organizacije vam ne dozvoljavaju da delite sa ovim korisnicima](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

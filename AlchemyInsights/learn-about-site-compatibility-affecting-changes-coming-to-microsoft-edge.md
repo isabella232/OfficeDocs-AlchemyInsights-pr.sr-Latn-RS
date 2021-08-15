@@ -1,5 +1,5 @@
 ---
-title: Saznajte više o kompatibilnosti lokacije – utiče na promene koje stižu na Microsoft Edge
+title: Saznajte više o promenama kompatibilnosti koje utiču na kompatibilnost na Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8357"
-ms.openlocfilehash: 9398c6c9dc72cfb26ee8fe923d30b100c41881af
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: 910d95aa08e45224fda8eb90ad4009dbeca9272354abc0b433a63e4566810f64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963117"
 ---
-# <a name="learn-about-site-compatibility-affecting-changes-coming-to-microsoft-edge"></a>Saznajte više o kompatibilnosti lokacije – utiče na promene koje stižu na Microsoft Edge
+# <a name="learn-about-site-compatibility-affecting-changes-coming-to-microsoft-edge"></a>Saznajte više o promenama kompatibilnosti koje utiču na kompatibilnost na Microsoft Edge
 
-Veb je konstantno razvijao da biste poboljšali iskustvo, bezbednost i privatnost korisnika. Neke promene su dovoljne da utiču na funkcionalnost postojećih stranica. Microsoft Edge Team ažurira stranice dok [se misli evoluuju, prikazuju](https://go.microsoft.com/fwlink/?linkid=2135534)se vremenske ose i promene.
+Veb se konstantno razvija da bi se poboljšao korisničko iskustvo, bezbednost i privatnost. Neke promene su dovoljno važne da utiču na funkcionalnost postojećih stranica. Tim Microsoft Edge ažurira stranice kako se razmišljanje razvija, vremenske ose se učvržavaju i [najavljuju se promene.](https://go.microsoft.com/fwlink/?linkid=2135534)

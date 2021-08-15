@@ -13,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: f65878f987924d4f1b428d66e9b82596b2760004
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dddf341d5c021e30b65984fae165765cb8116f791f8ea3a02ff70f27e73c19f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018910"
 ---
 # <a name="change-a-name-and-email-address"></a>Promena imena i adrese e-pošte
 
-Promena korisničkog imena i e-adrese u programu Microsoft 365 je laka. Idite na  stranicu \> [Aktivni korisnici korisnika](https://go.microsoft.com/fwlink/p/?linkid=834822) i izaberite korisnika da biste uredili informacije o svojim informacijama. Ovaj članak možete da koristite i za uputstva korak po korak:
+Promena korisničkog imena i e-adrese u Microsoft 365 je laka. Idite na  stranicu \> [Aktivni korisnici korisnika](https://go.microsoft.com/fwlink/p/?linkid=834822) i izaberite korisnika da biste uredili informacije o svojim informacijama. Ovaj članak možete da koristite i za uputstva korak po korak:
   
-[Promena korisničkog imena i adrese e-pošte u sistemu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[Promena korisničkog imena i adrese e-pošte u Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
  **Napomi:** Ako promenite glavnu adresu e-pošte korisnika, stara adresa e-pošte će i dalje važiti za primanje e-pošte (to se događa automatski). Isto tako, ako je vaša organizacija u hibridnom stanju, sve promene e-pošte i korisničkog imena treba da se odrađe u povezanoj sa uslugom Active Directory, a zatim sinhronizovane sa oblakom.
