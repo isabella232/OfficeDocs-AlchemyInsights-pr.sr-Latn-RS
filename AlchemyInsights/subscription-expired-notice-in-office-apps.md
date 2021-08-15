@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5070fe203d98a0953d7a353bfaf4d28d906ba8c8fb074bbed1e28916478cecd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956817"
 ---
-# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Obaveštenje "Pretplata je istekla" u Microsoft 365 aplikacijama
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Obaveštenje "Pretplata je istekla" Microsoft 365 aplikacijama
 
 - Posetite [stranicu ispravnosti sistema](https://docs.microsoft.com/office365/enterprise/view-service-health) da biste videli da li postoje poznati problemi sa uslugom.
 

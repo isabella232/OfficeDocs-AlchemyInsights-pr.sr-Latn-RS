@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978787"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Izdvojenje imena preduzeća u programu SharePoint Online
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Promene u izdvajanju imena preduzeća u SharePoint Online
 
-Počejući od 15. novembra 2019, uklanjamo izdvajanje imena preduzeća iz [usluge SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Izdvajanje imena preduzeća u sistemu SharePoint omogućava sistemu pretrage da izdvoji imena preduzeća iz sadržaja u okviru određenog skupa uslova pomoću unapred ispunjenog rečnika ili korišćenjem lista "Uključivanja preduzeća" ili "Izuzimanja preduzeća". Iako je izdvajanje imena preduzeća postalo pouzdano rešenje za izvod jedno ili više imena preduzeća iz sadržaja u programu SharePoint Online, rečnik i njegov skup osnovne funkcije postaju zastareli.
+Počejući od 15. novembra 2019, uklanjamo izdvajanje imena preduzeća iz usluge [SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Izdvajanje imena preduzeća u programu SharePoint omogućava sistemu pretrage da izdvoji imena preduzeća iz sadržaja ispod određenog skupa uslova pomoću unapred ispunjenog rečnika ili korišćenjem lista "Uključivanja preduzeća" ili "Izuzimanja preduzeća". Iako izdvajanje imena preduzeća postaje pouzdano rešenje za izvod jedno ili više imena preduzeća iz sadržaja u SharePoint Online, rečnik i njegov skup osnovne funkcije postaju zastareli.
 
 - [Kako da znam da li je izdvajanje imena preduzeća omogućeno za neko svojstvo?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 

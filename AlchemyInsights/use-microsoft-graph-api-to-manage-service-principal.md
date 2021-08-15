@@ -1,5 +1,5 @@
 ---
-title: Korišćenje Microsoft Graph API za upravljanje direktorom usluge
+title: Korišćenje usluge Microsoft Graph API za upravljanje principalom usluge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038018"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Korišćenje Microsoft Graph API za upravljanje direktorom usluge
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Korišćenje usluge Microsoft Graph API za upravljanje principalom usluge
 
-Uz [glavni API usluge](https://docs.microsoft.com/graph/api/resources/serviceprincipal)možete da upravljate instancama aplikacija i kontrolišete šta aplikacija može da uradi u vašem zakupcu.
+Uz principal [usluge API](https://docs.microsoft.com/graph/api/resources/serviceprincipal)možete programski da upravljate instancama aplikacija i da kontrolišete šta aplikacija može da radi u okviru zakupca.
 
-Više informacija o relaciji između aplikacija i glavnih usluga potražite [u članku objekti i osnovne usluge u programu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+Više informacija o relacijama između aplikacija i principala usluga potražite u temi Aplikacije i glavni objekti usluge u [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)

@@ -1,5 +1,5 @@
 ---
-title: Saveti za izvoz izveštaja za pretraživanje sadržaja
+title: Saveti za izvoz izveštaja za pretragu sadržaja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978895"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Saveti za izvoz izveštaja za pretraživanje sadržaja
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Saveti za izvoz izveštaja za pretragu sadržaja
 
-Možda ćete morati da prikažete izveštaj pretrage sadržaja umesto da izvezete kompletne rezultate pretrage. Ako jeste, možete da izvezete samo izveštaj sa rezultatima pretrage. Evo nekih saveta:
+Možda ćete morati da prikažete izveštaj pretrage sadržaja umesto da izvezete sve rezultate pretrage. Ako je tako, možete da izvezete samo izveštaj sa rezultatima pretrage. Evo nekih saveta:
 
-- Uverite se da vam je dodeljen zadatak upravljanja usaglašenosti.
-- Uverite se da je računar ispunio sve [preduslove](https://go.microsoft.com/fwlink/?linkid=2102407). Nisu podržani svi pregledači, kao što je Chrome.
-- Sužavanje rezultata izvoza na manje od 20TB kako izvoz neće uspeti. Pokušajte da koristite manji opseg datuma ili manje lokacija za pretragu.
-- Izvoz izveštaja se broji u odnosu na maksimalan broj izveštaja koji se istovremeno mogu pokretati.
+- Proverite da li je nalogu dodeljena uloga upravljanja pretragom usaglašenosti.
+- Uverite se da računar ispuni [sve preduslove](https://go.microsoft.com/fwlink/?linkid=2102407). Nisu podržani svi pregledači, kao što je Chrome.
+- Suzite rezultate izvoza na manje od 20 TB kako izvoz ne bi uspeo. Pokušajte da koristite manji opseg datuma ili manje lokacija za pretragu.
+- Izvoz izveštaja računa u odnosu na maksimalan broj izveštaja koji se mogu pokrenuti u isto vreme.
 
-Da biste saznali više, pogledajte članak [izvoz izveštaja za pretraživanje sadržaja](https://go.microsoft.com/fwlink/?linkid=2102409)
+Da biste saznali više, pogledajte [izvoz izveštaja o pretrazi sadržaja](https://go.microsoft.com/fwlink/?linkid=2102409)

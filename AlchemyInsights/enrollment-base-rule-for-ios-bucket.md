@@ -1,5 +1,5 @@
 ---
-title: Pravilo za osnovnu prijavljivanje za iOS Kofi
+title: Pravilo osnove unošenja za iOS korpu
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030070"
 ---
-# <a name="intune-device-enrollment"></a>Prijavljivanje na prijavljivanje uređaja
+# <a name="intune-device-enrollment"></a>Unošenje Intune uređaja
 
-[Saznajte više o upisu uređaja sa Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Saznajte više o unošenja uređaja pomoću intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Podešavanje OS unosa OS uređaja sa Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Podešavanje unošenja iOS uređaja pomoću intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Podešavanje unosa Android uređaja sa Intune](https://docs.microsoft.com/intune/android-enroll)
+[Podešavanje uredera Android uređaja pomoću usluge Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Podesite prijavljivanje na Windows uređaj sa Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Podešavanje u Windows uređaja pomoću intune](https://docs.microsoft.com/intune/windows-enroll)
 
-Prijavljivanje problema sa uređajem
+Rešavanje problema sa unošenjem uređaja
 
-1. Koristite [portal za rešavanje problema sa Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   da biste dijagnostikovali i rešili uobičajene greške unosa. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja.
+1. Koristite [Intune portal za rešavanje problema da](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) biste dijagnostikovali i rešili uobičajene greške u vezi sa unošenjem. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja.
 
-2. Pregledajte ove dokumente za listu uobičajenih grešaka koje mogu da se upišu i rezolucije:
+2. Pregledajte ove dokumente da biste pregledali listu uobičajenih grešaka koje sprečavaju unošenje i rešenja:
     - [Vodič za rešavanje problema](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Rešavanje problema sa doktorom](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+    - [Rešavanje problema sa dokumentom](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

@@ -1,5 +1,5 @@
 ---
-title: Problemi sa razvojem aplikacija sa Appis
+title: Problemi u razvoju aplikacija sa ANIM-ovima
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013474"
 ---
-# <a name="issues-developing-applications-with-apis"></a>Problemi sa razvojem aplikacija sa Appis
+# <a name="issues-developing-applications-with-apis"></a>Problemi u razvoju aplikacija sa ANIM-ovima
 
-Da biste počeli da koristite Azure Active Directory Graph API, pogledajte " [AZURE AD Graph grafikon" brzi Start "vodiča](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) ili Prikažite [interaktivnu dokumentaciju Azure AD Graph AD Graph](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
+Da biste počeli da koristite Azure Active Directory Graph API, pogledajte vodič za brzi početak za [Azure AD Graph](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) ili prikažite interaktivnu [Azure AD Graph API referentnu](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)dokumentaciju.
 
-**Kraj podrške za Azure Active Directory potvrda identiteta biblioteke (ADALE) i Azure AD Graph Graf (AAD Graph)**
+**Kraj podrške za Azure Active Directory biblioteke potvrde identiteta (ADAL) i Azure AD Graph API (AAD Graph)**
 
-**Počevši od 30 juna, 2020**, više nećemo dodavati nove funkcije na adale i AZURE AD Graf. Nastavićemo da pružamo tehničku podršku i bezbednosne ispravke, ali više nećemo pružati ispravke funkcija.
+**Počev od 30. juna 2020.** više nećemo dodavati nove funkcije u ADAL i Azure AD Graph. Nastavićemo da pružamo tehničku podršku i bezbednosne ispravke, ali više nećemo pružati ispravke funkcija.
 
-**Počevši od 30 juna, 2022**, završićemo podršku za Adale i AZURE AD Graf i neće više pružiti tehničku podršku ili bezbednosne ispravke.
+**Počev od 30. juna 2022,** završićemo podršku za ADAL i Azure AD Graph i više nećemo pružati tehničku podršku ili bezbednosne ispravke.
 
-Aplikacije koje koriste ADAL na postojećim verzijama OS nastaviće da funkcionišu posle ovog vremena, ali neće dobiti tehničku podršku ili bezbednosne ispravke.
+Aplikacije koje koriste ADAL na postojećim verzijama OS nastaviće da rade i nakon ovog vremena, ali neće dobiti nikakvu tehničku podršku ili bezbednosne ispravke.
 
-Aplikacije koje koriste Azure AD Graph posle ovog vremena možda više neće primati odgovore od krajnje tačke Azure oglasa Graph.
+Aplikacije koje koriste Azure AD Graph nakon tog vremena, možda više neće primati odgovore iz Azure AD Graph krajnje tačke.
 
-**ADALA migracija**
+**ADAL migracija**
 
-Preporučujemo da ažurirate u [Microsoft biblioteci autentifikacije (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), koja ima najnovije funkcije i bezbednosne ispravke.
+Preporučujemo ažuriranje na [Microsoft Authentication Library (MSAL) ](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)koja ima najnovije funkcije i bezbednosne ispravke.
 
-Ako koristite Microsoft aplikacije, znajte da je Microsoft u procesu migriranja svojih aplikacija u MSAL pomoću krajnjeg roka za podršku, kada se osigura da će imati koristi od MSALOVE trenutne bezbednosti i poboljšanja funkcija.
+Ako koristite Microsoft aplikacije, znajte da microsoft trenutno migrira aplikacije u MSAL do kraja roka podrške, obezbeđujući da će imati koristi od tekućih poboljšanja bezbednosti i funkcija funkcije MSAL.
 
-1. [Pročitajte Adala najčešća pitanja](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Saznajte kako da migrirate aplikacije na osnovu osnove po platformoji](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Ako vam je potrebna pomoć da biste razumeli koje aplikacije koriste ADALE, preporučujemo da pregledate sve izvorne kodove za aplikacije i ako je to primenljivo, da pristupite bilo kom dobavljaču ili dobavljačima aplikacija. Microsoft podrška vam takođe može pružiti listu svih aplikacija koje ne podržavaju Microsoft u vašem zakupcu.
+1. [Pročitajte najčešća pitanja o ADAL- u](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
+1. [Saznajte više o tome kako da migrirate aplikacije na osnovu platforme.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Ako vam je potrebna pomoć da razumete koje aplikacije koriste ADAL, preporučujemo da pregledate izvorni kôd svih aplikacija i, ako je primenljivo, vašoj dobavljačima ISV usluga ili aplikacija. Microsoft podrška vam takođe može pružiti listu svih aplikacija koje nisu Microsoft ADAL u vašem zakupcu.
 
 **AAD Graph migracija**
 
-Za aplikacije koje koriste Azure AD Graph, potražite uputstvo za migraciju [AZURE AD Graph grafika u Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+Za aplikacije koje koriste Azure AD Graph, pratite uputstva da biste migrirali [Azure AD Graph aplikacije](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)u Microsoft Graph.
 
-1. [Naša kontrolna lista za migraciju pruža taиku na početku](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. Vaš Azure registracioni portal pokazuje koje aplikacije koriste AAD Graph. Preporučujemo da pregledate sve izvorne kodove za aplikacije i ako je to primenljivo, da pristupite bilo kom dobavljaču ili dobavljačima aplikacija. Microsoft podrška vam takođe može pružiti listu svih podrške za AAD Graph u zakupcu.
-1. Da bi aplikacija pristupala podacima u programu Microsoft Graph, korisnik ili administrator mora da joj dodeli ispravne dozvole putem procesa pristanka. [Referenca sa Microsoft Graph dozvolama](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) navodi dozvole povezane sa svakim glavnim skupom Microsoft Graph API. On takođe pruža uputstva o tome kako da koristite dozvole.
+1. [Naša lista za migraciju pruža tačku za početak](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. Vaš portal za registraciju aplikacija Azure prikazuje koje aplikacije koriste AAD Graph. Preporučujemo vam da pregledate sav izvorni kod aplikacija i, ako je primenljivo, kontaktirate bilo koje ISV-ove ili dobavljače aplikacija. Microsoft podrška vam takođe može pružiti listu svih AAD Graph koji se koristi u vašem zakučaru.
+1. Da bi vaša aplikacija pristupala podacima u sistemu Microsoft Graph, korisnik ili administrator moraju da im dodele odgovarajuće dozvole putem procesa pristanka. Microsoft [Graph za dozvole](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) navodi dozvole povezane sa svakim glavnim skupom Microsoft Graph APU-ja. Takođe pruža uputstva o tome kako da koristite dozvole.

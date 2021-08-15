@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a3d7edf0be0e7ddaf749399327868d7fdea9f980
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978859"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Prosleđivanje e-poruke pomoću praćenja poruka
 
-1. Idite na [Office 365 Security & centar za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim idite na praćenje poruka **e-pošte**  >  [](https://go.microsoft.com/fwlink/?linkid=2101048).
-2. Izaberite **+ pokrenite praćenje**.
-3. Idite kroz opcije predstavljene. Izaberite stavke primaoci i pošiljaoci, a zatim prilagodite opseg datuma kao odgovarajući. Možete da ostavite podrazumevane postavke za preostale opcije.
-4. Izaberite stavku **Pretraži**. Lista e-poruka će biti prikazana na osnovu kriterijuma pretrage. Kliknite dvaput na poruku koju želite da prosledite, a zatim izaberite **Prosledi poruku**.
-5. Da biste saznali više, pogledajte [praćenje poruka u centru za zaštitu &](https://go.microsoft.com/fwlink/?linkid=2101557).
+1. Idite u Office 365 [centar za &](https://go.microsoft.com/fwlink/p/?linkid=2077143)usaglašenost, a zatim idite u "Praćenje **protoka**  >  [pošte"](https://go.microsoft.com/fwlink/?linkid=2101048).
+2. Izaberite **+ Započni praćenje**.
+3. Prolažete kroz opcije koje su predstavljene. Izaberite primaoce i pošiljalace, a zatim prilagodite opseg datuma po poželjini. Za preostale opcije možete da ostavite podrazumevane postavke.
+4. Izaberite **stavku Pretraga**. Lista e-poruka će se prikazati na osnovu kriterijuma pretrage. Kliknite dvaput na poruku koju želite da prosledite, a zatim izaberite stavku **Prosledi poruku**.
+5. Da biste saznali više, pogledajte [praćenje poruka u centru & za usaglašenost.](https://go.microsoft.com/fwlink/?linkid=2101557)

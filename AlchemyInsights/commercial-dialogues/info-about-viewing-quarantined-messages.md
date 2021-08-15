@@ -1,5 +1,5 @@
 ---
-title: Informacije o pregledanju poruka u karantinu
+title: Informacije o prikazivanja poruka u karantinu
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1027243d90562a9ad7389400b206a6d29845f71a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fb3c7afafab80f5f1801f30d6a1d16a7a8ea2ce5a268369cbfb41787e7a2cbc4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978931"
 ---
-# <a name="info-about-viewing-quarantined-messages"></a>Informacije o pregledanju poruka u karantinu
+# <a name="info-about-viewing-quarantined-messages"></a>Informacije o prikazivanja poruka u karantinu
 
-Da biste prikazali sve poruke u karantinu za organizaciju, koristite Microsoft 365 centar administracije. Evo nekoliko saveta:
+Da biste prikazali sve poruke u karantinu za svoju organizaciju, koristite Microsoft 365 centar administracije. Evo nekoliko saveta:
 
-- Ne postoji način da se ima svakodnevni ili sedmični izveštaj o svim porukama koje su poslate u poštansko sanduče.
-- Međutim, možete da podesite Microsoft 365 za slanje Digest korisnicima u vezi sa tim koje su e-poruke u karantinu.
-- Po podrazumevanoj vrednosti, broj bezvredne pošte i phishing poruka su u karantinu 15 dana. Poruke koje se podudaraju sa pravilima toka pošte se nalaze u karantinu sedam dana (ovo ne možete da prilagodite). Kada Microsoft 365 izbriše poruku iz karantina, ne možete da je dobijete nazad.
+- Ne postoji način da imate dnevni ili sedmični izveštaj o svim porukama koje se šalju u vaše poštansko sanduče u karantinu.
+- Međutim, možete podesiti korisnike Microsoft 365 da sažete informacije o tome koja od e-poruka je u karantinu.
+- Poruke bez-pošte, masovne pošte i phishing poruka podrazumevano se šalju u karantin 15 dana. Poruke koje se podudaraju sa pravilom protoka pošte smeštaju se u karantin 7 dana (ovo ne možete da prilagodite). Kada Microsoft 365 poruku iz karantina, ne možete da je vratite.

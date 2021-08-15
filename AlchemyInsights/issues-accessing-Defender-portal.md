@@ -1,5 +1,5 @@
 ---
-title: Problemi pri pristupanju ATP portala Microsoft Defender
+title: Problemi sa pristupom ATP portalu Microsoft zaštitnik
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: a00096dd85e7b1ff87ea10dd8c69c8c27c02c07a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: e0ba1d1650d6656f79b74f975a8cc6429fe6d4f1b42edea1a6a02b574d2af057
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013582"
 ---
-# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemi pri pristupanju ATP portala Microsoft Defender
+# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemi sa pristupom ATP portalu Microsoft zaštitnik
 
-Ako primite poruku "pretplata je istekla", istekla vam je pretplata na mreži. ATP pretplata za Microsoft Defender, kao i druge pretplate na mreži, ima datum isteka.
+Ako dobijete poruku "Pretplata je istekla", pretplata na usluge na mreži je istekla. Pretplata Microsoft zaštitnika ATP, kao i druge pretplate na usluge na mreži, ima datum isteka.
 
-Poruka "pretplata je istekla" "prikazuje vam opciju da preuzmete paket za pristup uređaju ako odaberete da ne obnovite licencu.
+Poruka "Pretplata je istekla" predstavlja opciju za preuzimanje paketa za isključivanje uređaja ako odlučite da ne obnovite licencu.

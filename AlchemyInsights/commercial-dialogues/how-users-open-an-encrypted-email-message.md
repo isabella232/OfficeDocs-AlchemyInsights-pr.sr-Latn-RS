@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c48c71b9084354bf5a56794795c7653b8d8e5b4c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c376447f5ca87d793d8b96617ac58706f2377e1b640270c9f861c4475b85cf72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979075"
 ---
 # <a name="how-users-open-an-encrypted-email-message"></a>Kako korisnici otvaraju šifrovanu e-poruku
 
-Slede neki od scenarija koji opisuju kako korisnici primaju šifrovane poruke e-pošte:
+Ovo su neki od scenarija koji opisuju kako je korisnici otvaraju šifrovane e-poruke:
 
-- Ako korisnik koristi Office 365 nalog e-pošte, moći će da ga prikaže kao bilo koju drugu poruku.
-- Ako korisnik koristi gmail, oni će izabrati stavku **kliknite ovde da biste pripremili poruku** , a zatim će se prijaviti i kliknite na dugme **Omogući** da biste prikazali poruku.
-- Ako korisnik koristi yahoo ili drugog dobavljača Internet usluga, oni će kliknuti na dugme **Pročitajte poruku** ili **kliknite ovde da biste pročitali poruku**. one će videti veze za jednokratnu lozinku. Trebalo bi da kliknu na vezu da bi dobili kôd, a zatim da unesu lozinku. Zatim će moći da prikažu poruku u Veb pregledaču.
-- Ako korisnici ne primaju šifrovane e-poruke, moraju da provere svoju **spam** ili **Neželjena** fascikla.
+- Ako korisnik koristi nalog e-pošte Office 365, moći će da ga prikaže kao svaku drugu poruku.
+- Ako korisnik koristi Gmail, kliknuće na Kliknite ovde da bi pripremio vašu  poruku, a zatim će se prijaviti i izabrati stavku Dozvoli da bi prikazao poruku. 
+- Ako korisnik koristi Yahoo ili drugog dobavljača internet  usluga, izaberite stavku Pročitaj poruku ili Kliknite ovde da bi **pročitao vašu poruku**; videće vezu za dobijanje jednovremenog koda. Moraće da kliknu na vezu da bi nabavili kod, a zatim uneli kod. Tada će moći da prikaže poruku u veb pregledaču.
+- Ako korisnici ne primaju šifrovane e-poruke, moraju da provere fascikle "Bezvredna e-pošta" ili **"Neželjena** pošta". 
 
-Više informacija potražite u članku [Kako da otvorim zaštićenu poruku](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+Više informacija potražite u [temi Kako da otvorim zaštićenu poruku.](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)
