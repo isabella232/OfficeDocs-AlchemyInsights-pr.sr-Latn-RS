@@ -1,5 +1,5 @@
 ---
-title: Plaćanje fakture u koracima za Azure portove
+title: Faktura za plaćanje na portalu za Azure – preporučeni koraci
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010378"
 ---
-# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Plaćanje fakture u koracima za Azure portove
+# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Faktura za plaćanje na portalu za Azure – preporučeni koraci
 
-Na osnovu opisa problema, našli smo rešenje za vas. Većina klijenata mogla je samostalno da rešava svoj problem nakon praćenja dokumentacije.
+Na osnovu opisa problema, pronašli smo rešenje za vas. Većina klijenata je sama rešila problem nakon što su pratili dokumentaciju.
 
-Morate da budete administrator naloga naplate da biste platili fakture na Azure portal. Administrator naloga naplate je korisnik koji se prvobitno prijavio za Microsoft nalog klijenta. 
+Morate biti administant naloga za naplatu da biste plaćali fakture na Azure portalu. Korisnik naloga za naplatu je korisnik koji se prvobitno upisao za nalog Microsoft korisničkog ugovora. 
 
-Da biste platili fakturu na Azure portal: 
+Da biste platili fakturu na Azure portalu: 
 
-1. Prijavite se na [Azure portal](https://portal.azure.com/).
+1. Prijavite se na [Azure portal.](https://portal.azure.com/)
 1. Pretražujte na stranici **Upravljanje cenom + Naplata**.
-1. U levom oknu, u okviru **naplata** izaberite stavku **fakture**.
-1. Ako bilo koje fakture dospevaju ili dospevaju, videćete poruku "plava **plata sada** " za tu fakturu. Kliknite na dugme **plati odmah**.
-1. U novom oštrici izaberite stavku **Izbor načina plaćanja** da biste odabrali postojeću kreditnu karticu ili dodali novu karticu.
-1. Kada izaberete način plaćanja, kliknite na dugme **plati odmah**.
-Status fakture će biti ažuriran da se plati u oštrici fakturisanja.
+1. U levom oknu, u **okviru Stavke Naplata** izaberite **stavku Fakture.**
+1. Ako bilo koja faktura dospeva ili je zakasnala, videćete plavu vezu **Plati odmah** za tu fakturu. Izaberite **stavku Plati odmah.**
+1. Na novom blejdu izaberite **stavku Izaberite način plaćanja** da biste odabrali postojeću kreditnu karticu ili dodali novu.
+1. Kada izaberete način plaćanja, izaberite stavku **Plati odmah.**
+Status fakture će se ažurirati tako da se plaća na blejdu faktura.
 
 **Preporučeni dokumenti**
 
-- [Kako da platite račune za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
-- [Promena načina plaćanja – najčešća pitanja](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Kako da platite račun za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
+- [Promena načina plaćanja – facilna pitanja](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
 - [Promena načina plaćanja za profil naplate](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Proveravaj pristup Microsoft ugovoru o klijentu](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Provera pristupa Microsoft korisničkom ugovoru](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

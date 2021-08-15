@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje postavki privatnosti kamere
+title: Ažuriranje postavki privatnosti kamere Postavke
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d1b5a08ac612b548fb196cf8deaa20fa23218bd94ee9440024d7b1b7561c7b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990757"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Ažuriranje postavki privatnosti kamere
+# <a name="update-your-cameras-privacy-settings"></a>Ažuriranje postavki privatnosti kamere Postavke
 
 Ovaj kôd greške znači da postavke privatnosti kamere utiču na aplikaciju. Pratite ove korake da biste ažurirali postavke privatnosti kamere:
 
-- Otvorite **dugme "Start> Postavke > Privatnost > Kamera**.
+- Otvorite **dugme Start > Postavke > Privatnost > Kamera**.
 - U **okviru Dozvoli pristup kameri na ovom uređaju izaberite** **promeni**. Uverite se da je preklopnik **uključen**.
 - Dalje, u **okviru Dozvoli aplikacijama da pristupe kameri** proverite da li je preklopnik uključen **.**
 - Zatim u okviru **Odaberite** koje aplikacije mogu da pristupe kameri uverite se da je uključen i preklopnik pored željene aplikacije.
