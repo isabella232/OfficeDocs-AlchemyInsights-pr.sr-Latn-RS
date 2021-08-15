@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994735"
 ---
 # <a name="unblock-email"></a>Deblokiranje e-pošte
 
-Ako je nalog e-pošte korisnika blokiran za slanje bezvredne pošte, evo kako da to ponovo uradite:
+Ako je za slanje spama blokiran korisnički nalog e-pošte, evo kako da ga ponovo urediti:
 
-1. Odmah poništite lozinku za *pokrenuti* nalog. Ne šaljite novu lozinku korisniku putem e-pošte. To sprečava bilo koga da mu pristupi da bi poslao spam.
-2. Idite u bezbednosni & centar za usaglašenost i pogledajte da li se nalog nalazi na [listi ograničenih korisnika](https://protection.office.com/#/restrictedusers).
-3. Odaberite ikonu **pretrage** i unesite korisničko ime ograničenog korisnika. Na primer, ako je e-adresa korisnika *rob@contoso.com*, samo unesite **robu**.
-4. Ako je nalog tamo, izaberite stavku **Blokiraj**. Slijedite korake iz okna "isplata", a zatim kliknite na dugme **da** da biste potvrdili.  
+1. Odmah poništite lozinku za nalog na koji ovo *utiče.* Nemojte da šaljete novu lozinku korisniku putem e-pošte. To sprečava svakoga da joj pristupi kako bi slao spam.
+2. Idite u centar za & za usaglašenost i vidite da li se nalog nalazi na listi [Ograničeni korisnici.](https://protection.office.com/#/restrictedusers)
+3. Odaberite  ikonu "Pretraga" i unesite korisničko ime ograničenog korisnika. Na primer, ako je adresa e-pošte korisnika *rob@contoso.com,* unesite **roba**.
+4. Ako je nalog tu, izaberite **deblokiranje**. Pratite korake u oknu iletu, a zatim kliknite na dugme **Da da biste** potvrdili.  
     > [!NOTE]
-    > Kada odblokirate, nalog bi trebalo da počne da šalje poruke u 3-4 časova.
+    > Kada se deblokira, nalog bi trebalo da može da počne da šalje poruke u 3–4 časa.

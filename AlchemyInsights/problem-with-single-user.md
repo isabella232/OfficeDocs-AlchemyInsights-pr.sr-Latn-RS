@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8469"
-ms.openlocfilehash: f3564063a3adf291ec4909ffeb2f6de0e478da96
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 8d8821cda94b2af244fa317707421f9d197b6052fb316789cd286ea8b4adf19e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960165"
 ---
 # <a name="problem-with-single-user"></a>Problem sa jednim korisnikom
 
-- Korisnik možda nije dodeljen zato što usluga još uvek nije imala priliku da proceni korisnika. Pregledajte smernice za koliko traje obezbeđivanje, kao i traka toka vremena, na stranici za konfigurisanje obezbeđivanja. Ako se čvrsto stanje navedeno u odeljku dodatni detalji nalazi pre datuma kada je korisnik kreiran/ažuriran/izbrisan, to znači da još uvek nismo procenili korisnika. U ovom scenariju, najbolje je da sačekate da se završi usluga obezbeđivanje.
+- Korisnik možda nije obezbeđen jer usluga još uvek nije imala priliku da proceni korisnika. Pregledajte uputstvo za to koliko dugo pružanje je potrebno, kao i traku toka na stranici za konfigurisanje obezbeđivanja. Ako je stanje navedeno u odeljku sa dodatnim detaljima pre datuma kada je korisnik kreiran/ažuriran/izbrisan, to znači da još uvek nismo procenili korisnika. U ovom scenariju najbolje je da sačekate da se usluga dodeljanja završi.
 
-  - Imajte u vidu da je naša usluga samo svesna promena u korisniku u izvornom sistemu (Cloud HR). Mora da postoji važeća promena u izvornom sistemu za Azure AD da biste otkrili promenu i doišli u aktivni direktorijum.
-- Polje za obezbeđivanje je procenilo korisnika i utvrđeno je da ne bi trebalo da bude dodeljen:
-  - Ako ste konfigurisali filter zasnovan na atributu, uverite se da korisnik ispunjava kriterijume koje ste naveli.
-  - Ako korisnici već postoje u ciljnom sistemu i stanju korisnika u odnosu na izvor i ciljnu verziju, nećemo preduzimati nikakvu dalju radnju.
-- Usluga obezbeđivanja pokušava da dodeli korisnika i nije uspela. Za ove scenarije Pregledajte karticu Rešavanje problema i preporuke za evidentiranje stavki:
-  - Zahtevani atribut na korisniku možda nedostaje u lokalnom programu Active Directory ili Azure AD. Na primer, korisnički Principalname ili pravila za generaciju imena ne generišu odgovarajuću vrednost.
-  - Podudarni atribut (obično je zaposlenom) ne rešava jedinstvenog korisnika u lokalnom aktivnom direktorijumu ili Azure AD. Na primer, postoje dva korisnika sa istim zaposlenim ID-om u REKLAMI i usluga vraća kôd greške koji označava duplirane odredišne stavke za istu izvornu stavku.
+  - Imajte na umu da je naša usluga svesna samo promena korisnika u izvornom sistemu (Cloud HR). U izvornom sistemu za Azure AD mora da postoji važeća promena da bi Azure AD otkrio promenu i preneo je u Active Directory.
+- Usluga dodeljanja je procenila korisnika i utvrdila da ne treba da se dodeluje:
+  - Ako ste podesili filter određivanja opsega na osnovu atributa, uverite se da korisnik ispunjava kriterijume koje ste naveli.
+  - Ako korisnici već postoje u ciljnom sistemu i stanju korisnika u izvornom i ciljnom podudaranju, nećemo preduzeti dodatne radnje.
+- Usluga obezbeđivanja je pokušavala da obezbede korisnika i nije uspela. Za ove scenarije, pregledajte karticu rešavanje problema i preporuka evidencija obezbeđivanja:
+  - Neophodan atribut za korisnika može da nedostaje u programu Active Directory ili Azure AD. Na primer, userPrincipalName ili sAMAccountName pravila generacije ne generišu pravu vrednost.
+  - Podudatni atribut (obično iD zaposlenog) ne razrešava se za jedinstvenog korisnika u mešovitoj kompaniji Active Directory ili Azure AD. Na primer, postoje dva korisnika sa istim ID-om zaposlenog u AD i usluga vraća kôd greške koji ukazuje na duplirane ciljne stavke za istu izvornu stavku.
 
-Da biste pregledali evidentiranje za jednog korisnika i grupe, pogledajte [članak Pregledanje evidencija resursa za problem sa određenim korisnikom](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs).
+Da biste pregledali evidencije za pojedinačnog korisnika i grupe, pogledajte pregled evidencija [dodeljivanja za problem sa određenim korisnikom.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs)

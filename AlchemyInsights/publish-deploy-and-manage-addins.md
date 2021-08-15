@@ -1,5 +1,5 @@
 ---
-title: Objavljivanje, primena i primena programskih dodataka i upravljanje njima
+title: Objavljivanje, primena i upravljanje programski dodacima
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: cfdd11c9ecbcc4613c6337db7877f4cddca939a6
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 20fe0db53fd329a51dfbcf8be6add27ff7b5c7d40e3caf69bc252dc0c5c07738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960021"
 ---
-# <a name="publish-deploy-and-manage-add-ins"></a>Objavljivanje, primena i primena programskih dodataka i upravljanje njima
+# <a name="publish-deploy-and-manage-add-ins"></a>Objavljivanje, primena i upravljanje programski dodacima
 
-Postoje različiti metodi za Office programske dodatke. Ispod su neke sjajne početne tačke:
+Postoje različiti načini da programski Kancelarija dodatke učinite dostupnim. Ispod su neke sjajne početne tačke:
 
-- [Navedite administratore i korisnike koji mogu da instaliraju i upravljaju programskim dodacima za Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
-- [Objavljivanje Office programskih dodataka pomoću centralizovane primene u Microsoft 365 centru administracije](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
+- [Navedite administratore i korisnike koji mogu da instaliraju programske dodatke i upravljaju Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Objavljivanje Kancelarija korišćenjem centralizovane primene putem usluge Microsoft 365 centar administracije](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
 - [Primena dodataka u centru administracije](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)
-- [Upravljanje programskim dodacima u centru administracije](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide)
-- [Pregled platforme za Office programski dodatak](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
+- [Upravljanje programski dodacima u centru aktivnosti](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide)
+- [Kancelarija Pregled platforme programski dodaci](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
