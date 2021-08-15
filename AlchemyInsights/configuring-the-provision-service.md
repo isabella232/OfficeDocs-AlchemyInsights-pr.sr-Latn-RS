@@ -1,5 +1,5 @@
 ---
-title: Konfigurisanje usluge odredbe
+title: Konfigurisanje usluge obezbeđivanja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8468"
-ms.openlocfilehash: fd272f8d554d73c87b832443815c25ebb2acc3eb
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: 271ab7ad34c0f85f6f5a9d8d3dc2d901fe6fe8f978a2cc98eed986f594036f17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50484042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033292"
 ---
-# <a name="configuring-the-provision-service"></a>Konfigurisanje usluge odredbe
+# <a name="configuring-the-provision-service"></a>Konfigurisanje usluge obezbeđivanja
 
-Za automatizovano obezbeđivanje rada na poslu, Azure AD zahteva važeće akreditive koje mu omogućuju da se poveže sa API-jem veb uslugama posla. Dodatno, dugme Testiraj vezu na radnom mestu za dodelu oglasa korisnika takođe proverava valjanost ako je u mogućnosti da se poveže sa agentom Azure AD Connect za obezbeđivanje povezivanja sa agentom za AD.
+Da bi automatizovano obezbeđivanje korisnika radilo, Azure AD zahteva važeće akredicije koji mu omogućavaju da se poveže sa API-jem veb usluga radnog dana. Pored toga, proverite vezu tokom radnog dana sa aplikacijom AD User Provisioning takođe proverava da li može da se poveže sa Azure AD Povezivanje agentom za obezbeđivanje povezanom sa AD domenom.
 
-Ako Azure portal vraća grešku prilikom čuvanja akreditiva, slijedite sledeće navedene korake:
+Ako Azure portal vraća grešku posle čuvanja akreditiva, pratite preporučene korake u nastavku:
 
-1. Potvrdite da ste podesili korisnički nalog sistema za integraciju u operativnom sistemu za integraciju kao što je navedeno u odeljku uputstvo [Konfiguriši korisnika sistema za integraciju u radnom toku](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
-2. Potvrdite da je usluga Azure veze za obezbeđivanje OGLAŠAVANJA uključena i da je pokrenuta na lokalnom Windows serveru pomoću konzole Management Console. Status agenta možete da potvrdite i tako što ćete kliknuti na dugme prikaz lokalnog agensa.
-3. Uverite se da unosite vrednost za polje "korisničko ime radnog dana" pomoću formata username@workday-zakupca. Ako nedostaje radni dan-zakupac, potvrda radnog dana ne uspeva.
-4. Ako podešavate integraciju sa zakupcem radnog dana, zabeležite planirana vremena za smanjenje radnog dana. Radni dan je već zakazao vreme za svoje stanare za implementaciju tokom vikenda (obično od petka uveče do subote ujutru) i problema sa povezivanjem tokom ovog prozora za smanjivanje je poznat problem koji se automatski rešava čim se svi stanari primene vrate na mreži.
-5. U retkim slučajevima možete da vidite i ovu grešku ako je lozinka sistema za integraciju korisnik promenjen zbog osvežavanja zakupca ili ako je nalog u zaključanom ili isteklom stanju. Proverite status korisnika sistema za integraciju sa vašim radnim danom administratorom.
+1. Potvrdite da ste konfigurisali korisnički nalog sistema integracije za radni dan kao što je objašnjeno u odeljku uputstva Konfigurisanje korisnika sistema integracije u [radnom danu.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
+2. Potvrdite da je usluga Azure AD Povezivanje obezbeđivanja usluge obezbeđivanja pokrenuta na vašem Windows serveru koristeći Services Management Console. Status agenta možete da proverite i na Azure portalu tako što ćete kliknuti na dugme Prikaži agente.
+3. Uverite se da unosite vrednost za polje "Radno korisničko ime" koristeći format username@workday ime-zakupaca. Ako nedostaje ime zakutca za radni dan, potvrda identiteta iz radnog dana ne uspeva.
+4. Ako konfigurizujete integraciju sa zakupnikom radne dana primene, primetićete zakazane nevremene u zakupca radnog dana. Radni dan je isplanirao neometano vreme za zakučare za primenu tokom vikenda (obično od petka večeri do subote ujutro), a otkazivanja povezivanja tokom ovog prozora vremena rada je poznat problem koji se automatski rešava čim zakučari primene ponovo dospeju na mrežu.
+5. U retkim slučajevima, možete da vidite ovu grešku i ako se lozinka korisnika sistema integracije promeni zbog osvežavanja zakupita ili ako je nalog zaključan ili istekao. Proverite status korisnika sistema integracije sa administratorom radnog dana.
 
-Za više detalja o konfigurisanju radnog vremena za automatizovano obezbeđivanje pogledajte [članak uputstvo: konfigurisanje radnog dana za automatsko obezbeđivanje korisnika](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+Više detalja o konfigurisanju radnog dana za automatizovano dodeljanje, pogledajte Uputstvo: Konfigurisanje radnog dana za automatsko [dodeljanje korisnika.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)

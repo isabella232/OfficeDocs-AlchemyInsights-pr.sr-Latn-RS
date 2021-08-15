@@ -1,5 +1,5 @@
 ---
-title: Podesi ClientAccessServerEnabled na TRUE
+title: Postavite ClientAccessServerEnabled na True
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994879"
 ---
-# <a name="set-clientaccessserverenabled-to-true"></a>Podesi ClientAccessServerEnabled na TRUE
+# <a name="set-clientaccessserverenabled-to-true"></a>Postavite ClientAccessServerEnabled na True
 
-Ako ne možete da otvorite šifrovanu e-poruku i da vidite prilog **rpmsg** , izvršite sledeće korake:
+Ako ne možete da otvorite šifrovanu e-poruku i umesto toga vidite **rpmsg** prilog, izvršite sledeće korake:
 
-1. Povezivanje sa uslugom Exchange online PowerShell.
+1. Povezivanje da Exchange Online PowerShell.
 
 > [!NOTE]
-> Da biste se povezali sa uslugom Exchange online PowerShell, morate da se prijavite pomoću globalnog administratora ili Exchange naloga administracije.
+> Da biste se povezali Exchange Online programu PowerShell, morate da se prijavite pomoću globalnog ili Exchange naloga za administratovanje.
 
-   Neko. Otvorite Windows PowerShell, a zatim uradite sledeće: `$UserCredential = Get-Credential`
--. U dijalogu **zahtev za akreditiva Windows PowerShell** unesite poslovni ili školski nalog i lozinku, c. Kliknite na dugme **U redu**. 
+   a. Otvorite Windows PowerShell, a zatim pokrenite sledeću komandu:`$UserCredential = Get-Credential`
+b. U dijalog Windows PowerShell Zahtev za **akredi** nije moguće uneti poslovni ili školski nalog i lozinku, c. Kliknite na dugme **U redu**. 
 
-2. Uradite sledeće komande da biste kreirali novu sesiju:
+2. Pokrenite sledeću komandu da biste kreirali novu sesiju:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    Neko. Uradite sledeće:
+    a. Pokrenite sledeću komandu:
     
     `Import-PSSession $Session -DisableNameChecking`
 
-3. `Get-IRMConfiguration`Komanda "pokrene".
+3. Komanda `Get-IRMConfiguration` "Pokreni".
 
-4. Potvrdite postavku **Clientaccessserverenabled** . 
+4. Proverite **postavku ClientAccessServerEnabled.** 
 
-    Neko. Ako je postavka **Clientaccessserverenabled** postavljena na **vrednost FALSE**, uradite sledeće cmdlet lokacije: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. Ako **je postavka ClientAccessServerEnabled** postavljena na **False,** pokrenite sledeću cmdlet radnju: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
-> Uvek zatvorite sesiju PowerShell sa sledećim komandama: `Remove-PSSession $Session`
+> Uvek zatvorite PowerShell sesiju uz sledeću komandu: `Remove-PSSession $Session`
 
-Više informacija potražite u članku [Exchange online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+Dodatne informacije potražite u [Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
