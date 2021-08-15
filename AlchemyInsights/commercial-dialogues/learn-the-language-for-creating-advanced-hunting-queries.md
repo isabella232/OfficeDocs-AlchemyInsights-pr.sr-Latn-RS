@@ -1,5 +1,5 @@
 ---
-title: Učenje jezika za kreiranje naprednih upita za lov
+title: Naučite jezik za kreiranje naprednih upita za učenje
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016786"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Učenje jezika za kreiranje naprednih upita za lov
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Naučite jezik za kreiranje naprednih upita za učenje
 
-Napredni lov je zasnovan na [jeziku Kusto Query](https://go.microsoft.com/fwlink/?linkid=2144620). Možete da koristite Kusto sintaksu i operatore da biste napravili upite koji pronalaze informacije u [šemi](https://go.microsoft.com/fwlink/?linkid=2144621) posebno strukturiranim za napredni lov.
+Napredno pretraga se zasniva na [jeziku Kusto upita.](https://go.microsoft.com/fwlink/?linkid=2144620) Kusto sintaksu i operatore možete da koristite da biste konstruisali upite koji pronađu informacije u [šemi](https://go.microsoft.com/fwlink/?linkid=2144621) posebno strukturisane za napredno pronalaženje.
 
-Da biste saznali više, pogledajte članak [naučite napredni jezik upita za lov](https://go.microsoft.com/fwlink/?linkid=2144518).
+Da biste saznali više, pogledajte [saznajte više o jeziku naprednog upita za pretragu.](https://go.microsoft.com/fwlink/?linkid=2144518)

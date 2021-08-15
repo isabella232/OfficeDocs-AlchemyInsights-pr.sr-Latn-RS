@@ -1,5 +1,5 @@
 ---
-title: Obavljanje pretrage eDiscovery/Pretraga sadržaja i izvoz
+title: Izvršavanje e-pretrage/pretrage sadržaja i izvoza
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016642"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>Obavljanje pretrage eDiscovery/Pretraga sadržaja i izvoz
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>Izvršavanje e-pretrage/pretrage sadržaja i izvoza
 
-Evo kako da pronađete sadržaj u organizaciji i izvezete ga:
+Evo kako da pretražite sadržaj u organizaciji i izvezete ga:
 
-1. Idite na [Bezbednosno & centar za usaglašenost](https://go.microsoft.com/fwlink/?linkid=2086958) i idite na **pretraživanje** sadržaja za pretraživanje  >  **sadržaja**  >  **+ Nova pretraga**.
+1. Idite u centar za [& usaglašenosti](https://go.microsoft.com/fwlink/?linkid=2086958) i idite na pretragu pretrage  >  **sadržaja**+  >  **Nova pretraga.**
 1. Unesite ključne reči i uslove koje želite da pretražite.
-1. Na dnu stranice navedite lokacije za pretraživanje (kao što su e-pošta, poruke timova, SharePoint lokacije) ili izaberite stavku **sve lokacije**.
-1. Kliknite na dugme **sačuvaj & pokreće**. Imenujte upit za pretragu, a zatim kliknite na dugme **Sačuvaj**. Upit se pokreće i prikazuje vam rezultate.
+1. Na dnu stranice navedite lokacije za pretragu (kao što su e-poruke, Teams poruke, SharePoint sajtovi) ili izaberite stavku **Sve lokacije.**
+1. Kliknite na **dugme Sačuvaj & pokreni**. Imenujte upit za pretragu, a zatim kliknite na **dugme Sačuvaj**. Upit će se pokrenuti i prikazati rezultate.
 
-Da biste saznali kako da izvezete rezultate pretrage, pogledajte članak [izvoz rezultata pretrage sadržaja](https://go.microsoft.com/fwlink/?linkid=2102118).
+Da biste saznali kako da izvezete rezultate pretrage, pogledajte [izvoz rezultata pretrage sadržaja.](https://go.microsoft.com/fwlink/?linkid=2102118)
 
