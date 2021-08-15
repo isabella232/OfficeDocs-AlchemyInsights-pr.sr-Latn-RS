@@ -1,5 +1,5 @@
 ---
-title: Izvršite trenutne korake koje preporučuje isplata
+title: Trenutno plaćanje – preporučeni koraci
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976771"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Izvršite trenutne korake koje preporučuje isplata
+# <a name="make-immediate-payment---recommended-steps"></a>Trenutno plaćanje – preporučeni koraci
 
-Na osnovu opisa problema, našli smo rešenje za vas. Većina klijenata mogla je samostalno da rešava svoj problem nakon praćenja dokumentacije.
+Na osnovu opisa problema, pronašli smo rešenje za vas. Većina klijenata je sama rešila problem nakon što su pratili dokumentaciju.
 
-Da biste momentalnu isplatu, uverite se da ste otklonili uklanjanje krajnjeg salda. Ako plaćanje nije Primljeno ili ako ne možemo da obradimo vašu uplatu, možete da dobijete e-poruku ili da vidite prethodna obaveštenja o krajnjim ravnotežom u centru za nalog ili Azure portal. 
+Da biste odmah platili, osigurajte rešavanje zakasnelih salda. Ako uplata nije primljena ili ako ne možemo da obradite plaćanje, možete da dobijete e-poruku ili da vidite obaveštenje o zakasnelu saldu u centru za nalog ili azure portalu. 
 
-Uplata nije uspela da se obradi ako je kreditna kartica istekla ili je banka odbila karticu. Administrator naloga može da pregleda i ažurira kreditnu karticu u centru naloga. 
+Obrada plaćanja možda nije uspela ako je kreditna kartica u datoteci istekla ili ako je banka odbila naplatu. The Account Adminmin can review and update the credit card in Account Center. 
 
-Vaša Azure pretplata je možda prekinuta zato što je kredit istekao, dostignuto vam je ograničenje potrošnje, dostignuto ograničenje kreditne kartice ili zato što je administrator naloga otkazao pretplatu.  
+Azure pretplata je možda onemogućena zato što je vaš kredit istekao, dostigli ste ograničenje potrošnje, imate račun sa kašnjenjem, dostigli ograničenje kreditne kartice ili zato što je pretplatu otkazao administrator naloga.  
 
-Ako u finansijskoj ustanovi postoji uplata na čekanju, pošto je vaša finansijska ustanova odbila karticu, pristupite finansijskoj ustanovi da biste rešili problem.  
+Ako je na kartici plaćanje na čekanju odbijeno od strane finansijske institucije, vašoj finansijskoj instituciji vašoj finansijskoj instituciji rešili problem.  
 
-Možda ćete morati da se obratite banci da biste videli:
+Možda ćete morati da se št prijavite u banku da biste videli:
 
-- Ako je međunarodna transakcija postavljena na karticu. 
-- Ako kartica ima limit kredita da reši balans 
-- Ako je periodična uplata omogućena na kartici 
+- Ako međunarodna transakcija bude postavljena na vizitkartu. 
+- Ako kartica ima kreditno ograničenje za izmirite saldo 
+- Ako je na kartici omogućeno periodično plaćanje 
 
-Ako je vaša isplata odbijena, potvrdite koji instrument plaćanja (PI) postaje odbijen ako imate više slova za koji su povezani sa pretplatom. Ako je potrebno, promenite ili uklonite PI iz pretplate. 
+Ako vam uplata bude odbijena, proverite koji instrument plaćanja (PI) se odbija u slučaju da imate više PI-ja povezanih sa pretplatom. Ako je potrebno, promenite ili uklonite PI iz pretplate. 
 
 **Preporučeni dokumenti** 
 
-- [Upravljanje informacijama o naplati za Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Preuzimanje podataka o fakturi ili korišćenju iz centra za Azure nalog](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Ponovno aktiviranje moje pretplate](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Plaćanje po fakturi za Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Upravljanje pristupom informacijama o naplati za Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Preuzmite podatke o fakturi ili korišćenjem iz centra Azure naloga](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Ponovo aktiviraj moju pretplatu](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Plaćanje fakturom za Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 

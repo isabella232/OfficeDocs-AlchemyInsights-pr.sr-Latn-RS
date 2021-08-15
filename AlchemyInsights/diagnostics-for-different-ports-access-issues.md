@@ -1,5 +1,5 @@
 ---
-title: Dijagnoza za različiti problemi sa priključkom na portove
+title: Dijagnostika za probleme sa pristupom portovima
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9035"
 - "9005220"
-ms.openlocfilehash: 3673067cad7ac55f3820422dc2ec09942c393149
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 07c108d5292965d20340da039b67744d93c0a4fc61edb8115796671f2f7f1552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030916"
 ---
-# <a name="diagnostics-for-different-ports-access-issues"></a>Dijagnoza za različiti problemi sa priključkom na portove
+# <a name="diagnostics-for-different-ports-access-issues"></a>Dijagnostika za probleme sa pristupom portovima
 
-Da biste rešili drugačiji problem pristupa portova, obavite sledeće korake:
+Da biste rešili različite probleme sa pristupom portu, izvršite sledeće korake:
 
-1. Zaustavite/o pronalaženju virtuelnog mašinskog (VR) sa portala, ponovo pokrenite Vim i testirajte ponovo. 
-2. Proverite postavke mrežne mreže za VANGOVE osobe da biste utvrdili da li imate mrežne bezbednosne grupe (NSGs) blokiranjem saobraćaja. Možete da koristite i [alatku verifikovanje IP toka sistema Network posmatrače protoka](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) da biste proverili da li su NSGs blokirali saobraćaj, User-Defined rute (Usus) preusmeravanje saobraćaja nazad na lokalno (' podrazumevani put ' 0.0.0.0/0) ili na mrežni aparat.
-Ako i dalje nailazite na probleme posle pokušaja da pokušate da uradite korake iznad, obezbedite ime za Vim i TCP port na koji pokušavate da pošaljete poštu za dalju dijagnozu.
+1. Zaustavite virtuelnu mašinu (VM) sa portala ili ga ponovo pokrenite, a zatim ponovo testirajte. 
+2. Proverite postavke mreže VM-a da biste utvrdili da li bezbednosne grupe mreže (NSG-ove) blokiraju saobraćaj. Takođe možete da koristite alatku za proveru [toka IP](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) adrese mrežnog toka da biste proverili da li NSG-ove blokiraju saobraćaj, User-Defined usmeravanja (UD-ove) koja preusmerava saobraćaj nazad na lokaciju ("Podrazumevano usmeravanje" 0.0.0.0/0) ili na mrežni uređaj.
+Ako i dalje naići na probleme nakon što ste pokušali gorenavedene korake, navedite VM ime i TCP port na koji pokušavate da pošaljete poštu na dalju dijagnostiku.
 
 **Preporučeni dokumenti**
 
-[Ograničenja i preporuke za slanje odlazne e-pošte preko porta 25](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)
+[Ograničenja i preporuke za slanje odlazne e-pošte putem porta 25](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)

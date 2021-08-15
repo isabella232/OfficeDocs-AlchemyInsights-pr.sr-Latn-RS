@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa jednim znakom za Azure AD koji se pridružuje
+title: Rešavanje problema sa jedinstvenim prijavljivanjem za Azure AD pridružene uređaje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039260"
 ---
-# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Rešavanje problema sa jednim znakom za Azure AD koji se pridružuje
+# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Rešavanje problema sa jedinstvenim prijavljivanjem za Azure AD pridružene uređaje
 
-Ako imate lokalno okruženje aktivnog direktorijuma (AD) i želite da se pridružite OGLAŠAVANJU računara koji su se pridružili programu Azure AD, to možete da postignete tako što ćete postupiti na hibridnu Azure AD. [Kako da: planirate hibridno Azure Active Directory pridruživanje](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) vam pruža srodne korake za primenu hibridnog AZURE oglašavanja u okruženju.
+Ako imate okruženje iz usluge Active Directory (AD) i želite da se pridružite računarima pridruženim AD domenu u uslugu Azure AD, to možete da postignete tako što ćete izvršiti hibridno Azure AD pridruživanje. [Kako da: planirate hibridnu primenu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) spajanja pružaju vam srodne korake za primenu hibridnog Azure AD pridruživanja u okruženju.
 
-Više informacija potražite u članku [Konfigurisanje Azure AD za priključene uređaje za lokalno Single-Sign na korišćenje Windows Helo za preduzeća](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base).
+Dodatne informacije potražite u Single-Sign Konfigurisanje [Azure AD](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)pridruženih uređaja za Single-Sign On using Windows Hello for Business .
 
-**Problemi sa Token osvežavanja (PRT)**
+**Problemi sa primarnim tokenim osvežavanja (PRT)**
 
-Primarni Token osvežavanja (PRT) je ključni artefakt za Azure AD potvrda identiteta u operativnom sistemu Windows 10, Windows Server 2016 i novije verzije, iOS i Android uređajima. To je JSON Veb Token (JWT) naročito izdat Microsoft brokerima za potpisivanje simbola, kako bi omogućili jedinstveno prijavljivanje (SSO) u aplikacijama koje se koriste na tim uređajima. Detalje o tome kako se PRT izdaje, koristi i štiti na Windows 10 uređajima potražite u članku [Šta je to simbol primarnog osvežavanja?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+Primarni token za osvežavanje (PRT) je ključni artifakt Azure AD potvrde identiteta na Windows 10, Windows Server 2016 i novijim verzijama, iOS i Android uređajima. To je JSON veb token (JWT) posebno izdat Microsoft raskidačima tokena za prve strane kako bi se omogućilo jedinstveno prijavljivanje (SSO) u svim aplikacijama koje se koriste na tim uređajima. Detalje o tome kako se PRT izdaje, koristi i štiti na Windows 10 uređajima, pogledajte šta je to primarni [token za osvežavanje?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
-**Vamdefaultsceno: da i AzureADPrt: da**
+**WamDefaultSet: YES i AzureADPrt: YES**
 
-Ova polja ukazuju na to da li je korisnik uspešno potvrdio pristup Azure AD kada se prijavi na uređaj. Ako vrednosti **nisu, to** može da bude zbog:
+Ova polja ukazuju na to da li je korisnik uspešno potvrdio identitet za Azure AD prilikom prijave na uređaj. Ako su vrednosti **NE,** to može biti zbog:
 
-- Neispravan ključ skladišta u TPM-u koji je povezan sa uređajem po registraciji (Potvrdite prijavljivanje prilikom pokretanja povećanog)
-- Alternativni ID prijavljivanja
+- Loš ključ za skladištenje u TPM-u povezanom sa uređajem nakon registracije (proverite KeySignTest dok je pokrenut sa punim punim brojem)
+- Alternativni ID za prijavljivanje
 - HTTP proxy nije pronađen
 
-Da biste rešili probleme sa uređajima pomoću komande dsregcmd, pogledajte članak [SSO](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
+Da biste rešili probleme sa uređajima pomoću dsregcmd komande, pogledajte [SSO stanje.](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)

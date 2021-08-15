@@ -1,5 +1,5 @@
 ---
-title: Upravljanje uslugom Bing mape za organizaciju
+title: Upravljanje Bing mape organizacije
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976699"
 ---
-# <a name="manage-bing-maps-for-your-organization"></a>Upravljanje uslugom Bing mape za organizaciju
+# <a name="manage-bing-maps-for-your-organization"></a>Upravljanje Bing mape organizacije
 
-Kada uključite Bing mape u okviru **ugrađeni sadržaj** u centru administracije Power Platform, korisnici će videti klijenta u usluzi Bing MAPS kada vide kontakte, klijente ili naloge.
+Kada uključite Bing mape u  okviru stavke Ugrađeni sadržaj u centru podrške za Power Platformu, korisnici će videti klijenta u programu Bing mape kada pregledaju kontakte, potencijalne klijente ili naloge.
 
-Da biste saznali više, pogledajte članak [Upravljanje Bing mapama za vašu organizaciju](https://go.microsoft.com/fwlink/?linkid=2152757).
+Da biste saznali više, pogledajte [Bing mape organizacije.](https://go.microsoft.com/fwlink/?linkid=2152757)
