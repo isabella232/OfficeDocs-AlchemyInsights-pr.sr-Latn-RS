@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje adrese preprodate za i fakturisanje povezanu sa koracima koji se preporučuje za MCA
+title: Ažuriranje adrese prodaje i fakture povezane sa MCA -preporučenim koracima
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001522"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Ažuriranje adrese preprodate za i fakturisanje povezanu sa koracima koji se preporučuje za MCA
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Ažuriranje adrese prodaje i fakture povezane sa MCA -preporučenim koracima
 
-Možete da ažurirate adresu preprodate i fakturisanja povezanu sa Microsoft ugovorom o klijentu (MCA). 
+Možete da ažurirate adresu prodaje i fakture povezanu sa Microsoft korisničkim ugovorom (MCA). 
 
 > [!NOTE]
-> Samo administrator korisnika može da promeni informacije o Azure aktivnom korisničkom profilu. Ako vam nije dodeljena uloga administratora korisnika, obratite se administratoru korisnika. Više informacija o menjanju profila korisnika potražite u članku [Dodavanje ili ažuriranje informacija o korisničkom profilu pomoću usluge Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Samo administrator korisnika može da menja informacije Azure Active Directory korisničkog profila. Ako vam nije dodeljena uloga administratora korisnika, obratite se administratoru korisnika. Više informacija o promeni korisničkog profila potražite u temi Dodavanje ili ažuriranje informacija o korisničkom profilu [pomoću Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Adresa prodata** – adresa prodata je adresa i kontakt informacije organizacije ili pojedinca koji je odgovoran za nalog naplate. Prikazuje se u svim fakturama generisanim za konto naplate.
+**Adresa prodaje** – Adresa prodaje je adresa i kontakt informacije organizacije ili pojedinca koji je odgovoran za nalog za naplatu. Prikazuje se u svim fakturama generisanim za nalog za naplatu.
 
-**Adresa za fakturisanje** – adresa za fakturisanje je adresa i kontakt informacije organizacije ili pojedinca koji je odgovoran za fakture generisane za nalog za naplatu. Za nalog za naplatu za MCA, postoji adresa za svaki profil naplate i prikazuje se u fakturi generisana za profil naplate.
+Adresa **fakturisanja** – adresa fakturisanja je adresa i kontakt informacije organizacije ili pojedinca, koji su odgovorni za fakture generisane za nalog za naplatu. Za nalog za naplatu za MCA, postoji adresa fakturisanja za svaki profil naplate i ona se prikazuje na fakturi generisanoj za profil naplate.
 
-**Da biste AŽURIRALI MCA za naplatu naloga naplate**:
+**Da biste ažurirali adresu prodaje na MCA nalogu:**
 
-1. Prijavite se na Azure portal pomoću e-adrese, koja ima vlasnika ili ulogu saradnika na nalogu naplate za MCA.
-1. Traženje naplate **upravljanja troškovima**  +  .
-1. Izaberite stavku ažuriranje **Svojstva**  >  **prodato**.
-1. Unesite novu adresu i kliknite na dugme **Sačuvaj**.
+1. Prijavite se na Azure portal pomoću adrese e-pošte, koja ima ulogu vlasnika ili saradnika na nalogu za naplatu za MCA.
+1. Potražite **naplatu za**  +  **upravljanje troškovima**.
+1. Izaberite **stavku**  >  **"Ažuriraj svojstva" prodatog u**.
+1. Unesite novu adresu i kliknite na **dugme Sačuvaj**.
 
-Neki nalozi zahtevaju dodatnu potvrdu pre ažuriranja adrese za prodaju. Ako nalog zahteva ručno odobravanje, od vas će se tražiti da kontaktirate Azure podršku.
+Neki nalozi zahtevaju dodatnu verifikaciju da bi adresa prodaje mogli da se ažurira. Ako vaš nalog zahteva ručno odobrenje, od vas će se tražiti da se obratite Azure podršci.
 
-**Da biste AŽURIRALI MCA za nalog naplate**: 
+**Da biste ažurirali adresu MCA naloga za naplatu:** 
 
-1. Prijavite se na Azure portal pomoću e-adrese, koja ima vlasnika ili ulogu saradnika na nalogu naplate ili profilu naplate za na MCA.
-1. Traženje naplate **upravljanja troškovima**  +  .
-1. Izaberite stavku **Profili naplate** i izaberite profil naplate da biste ažurirali adresu fakturisanja.
-1. Izaberite stavku  >  **Adresa za ažuriranje** svojstva.
-1. Unesite novu adresu, a zatim kliknite na dugme **Sačuvaj**.
+1. Prijavite se na Azure portal pomoću adrese e-pošte, koja ima ulogu vlasnika ili saradnika na nalogu za naplatu ili profilu naplate za MCA.
+1. Potražite **naplatu za**  +  **upravljanje troškovima**.
+1. Izaberite **stavku Profili naplate** i izaberite profil naplate da biste ažurirali adresu fakturišem.
+1. Izaberite **stavku**  >  **Svojstva Ažuriraj adresu**.
+1. Unesite novu adresu, a zatim kliknite na **dugme Sačuvaj.**
 
 **Preporučeni dokumenti**
 
-[Promena informacija o kontaktu za Azure nalog za naplatu](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Promena kontakt informacija za nalog za naplatu za Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
 [Ažuriranje postavki naloga za naplatu](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Razumevanje uloga administracije Microsoft aranžmana sa klijentima u Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Razumevanje administrativnih uloga Microsoft korisničkog ugovora u sistemu Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
