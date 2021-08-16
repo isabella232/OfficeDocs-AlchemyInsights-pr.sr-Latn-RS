@@ -1,5 +1,5 @@
 ---
-title: Konfigurisanje obaveštenja o karantinu poslatih korisnicima
+title: Konfigurisanje obaveštenja o karantinu koje se šalju korisnicima
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035200"
 ---
-# <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurisanje obaveštenja o karantinu poslatih korisnicima
+# <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurisanje obaveštenja o karantinu koje se šalju korisnicima
 
-Da biste slali obaveštenja korisnicima u vezi sa karantinom:
+Da biste korisnicima poslali obaveštenja o tome šta je u karantinu:
 
-1. U centru administracije idite na stavku **administrator bezvredne administracije**  >  **Exchange** centra  >    >  .
-2. Izaberite smernice za filtriranje bezvredne pošte za koje želite da uključite obaveštenja.
-3. U desnom oknu odaberite povezivanje sa **obaveštenjima o spam krajnjim korisnicima** .
-4. U sledećem dijalogu odaberite stavku **Omogućavanje obaveštenja o spam krajnjim korisnicima**. Odaberite da omogućite spam obaveštenja za ovu smernicu.
-5. U **svakom programu slanje obaveštenja o spam krajnjim korisnicima**, navedite koliko često šaljete obaveštenja o bezvredne korisnicima. Podrazumevana vrednost je 3 dana. Možete navesti između 1 i 15 dana. Ako navedete 7 dana, na primer, obaveštenje će sadržati listu svih poruka namenjenih za tog korisnika u poslednjih 7 dana koji su poslati u spam karantin.
-6. Na **jeziku obaveštavanja** odaberite jezik na kojem ćete napisati obaveštenja o nepristupačni korisnici za ovu smernicu.
-7. Odaberite stavku **Sačuvaj**.
+1. U centru za administratovanje, izaberite stavke centri Exchange Filter za zaštitu  >  **od**  >    >  pošte.
+2. Izaberite smernice za filtriranje pošte za koje želite da uključite obaveštenja.
+3. U desnom oknu odaberite vezu Konfiguriši **obaveštenja o spam e-pošti za krajnje korisnike.**
+4. U sledećem dijalogu odaberite stavku Omogući **obaveštenja o spam porukama za krajnje korisnike.** Odaberite da omogućite obaveštenja o spam porukama za ove smernice.
+5. U **1. datoteci** Šalji obaveštenja o bez-pošti krajnjim korisnicima svakih (dana) navedite koliko često treba slati obaveštenja o bez-pošti korisnika. Podrazumevana vrednost je 3 dana. Možete da navedete datum između 1 i 15 dana. Na primer, ako navedete 7 dana, obaveštenje će uključivati listu svih poruka koje su namenjene tom korisniku u proteklih 7 dana i koje su umesto toga poslate u karantin za bez-pošte.
+6. Na **jeziku obaveštenja** odaberite jezik na kojem želite da pišete obaveštenja o korisničkoj spam e-pošti za ove smernice.
+7. Odaberite **stavku Sačuvaj**.
