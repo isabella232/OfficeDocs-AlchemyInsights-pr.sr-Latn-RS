@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032284"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Kreiranje smernica za deljenje da bi se korisnicima omogućilo da dele kalendar sa osobama izvan vaše organizacije
 
-1. Na microsoft 365 lokaciji za admin center da biste išli na **exchange server za administ** da biste  >  **išli** na exchange server.
+1. Na Microsoft 365 centar administracije tabli idite na Exchange   >  .
 2. Idite na deljenje **u**  >  **organizaciji**.
 3. U prikazu liste, u okviru **Pojedinačno deljenje** izaberite **stavku Novo.**
 4. U **novoj smernici za** deljenje, u polju Ime smernica otkucajte prijateljsko ime za **smernice za** deljenje.
@@ -41,5 +41,5 @@ ms.locfileid: "51816286"
 **Da biste potpuno razumeli ovu temu, pročitajte:**
 
 - [Kreiranje smernica za deljenje u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Primena smernica za deljenje na poštanske sandučiće u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Izmena, onemogućavanje ili uklanjanje smernica za deljenje u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Primena smernica za deljenje na poštanske sandučiće u Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Izmena, onemogućavanje ili uklanjanje smernica za deljenje u Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

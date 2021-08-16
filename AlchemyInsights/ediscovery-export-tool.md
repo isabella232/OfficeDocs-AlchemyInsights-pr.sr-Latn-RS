@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101316"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ne možete da instalirate ili pokrenete alatku za izvoz e-discovery?
 
@@ -28,7 +28,7 @@ Ako ne možete da instalirate ili pokrenete alatku za izvoz e-discovery da biste
   
 - Računar koji koristite ispunjava ove preduslove:
 
-  - 32-bitna ili 64-bitna verzija operativnog sistema Windows 7 i novije verzije
+  - 32-bitna ili 64-bitna verzija sistema Windows 7 i novije verzije
 
   - Microsoft .NET Framework 4.7
 
@@ -38,13 +38,13 @@ Ako ne možete da instalirate ili pokrenete alatku za izvoz e-discovery da biste
 
     Ili
 
-  - Internet Explorer 10 i novije verzije
+  - Internet Explorer 10 novijim verzijama
 
     Drugi pregledači, kao što su Google Chrome i Mozilla Firefox nisu podržani.
 
 - Vaša organizacija može da se poveže sa krajnjim tačkom u programu Azure, što je **\* .blob.core.windows.net** (džoker predstavlja jedinstveni identifikator vašeg posla izvoza).
 
-- Dodeljena vam je uloga za izvoz u Microsoft 365 centru za &amp; usaglašenost. Ova uloga se podrazumevano dodeljuje samo grupi uloga menadžera e-discovery. Pogledajte [dodela dozvola za e-discovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Dodeljena vam je uloga za izvoz u Microsoft 365 za &amp; usaglašenost bezbednosti. Ova uloga se podrazumevano dodeljuje samo grupi uloga menadžera e-discovery. Pogledajte [dodela dozvola za e-discovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Dodatne informacije potražite u [temi Izvoz rezultata pretrage sadržaja.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 

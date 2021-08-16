@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071058"
 ---
 # <a name="change-the-domain-for-microsoft-365-group"></a>Promena domena za Microsoft 365 grupu
 
-Ako želite da promenite domen za Microsoft 365 grupu tokom kreiranja, pratite korake iz članka Izbor domena koji će se koristiti prilikom kreiranja [Microsoft 365 grupa.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
+Ako želite da promenite domen za grupu Microsoft 365, pratite korake u temi Izbor domena koji će se koristiti prilikom kreiranja [Microsoft 365 grupe.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
   
-Kada je Microsoft 365 grupa već kreirana, trenutno ne postoji način da promenite domen. Jedini način je da kreirate novu Microsoft 365 grupu i izbrišete staru ako je potrebno (dodatne e-adrese mogu da se dodaju putem Exchange centra [admin center](https://outlook.office365.com/ecp.aspx)).
+Kada je Microsoft 365 grupa, trenutno ne postoji način da promenite domen. Jedini način je da kreirate novu grupu Microsoft 365 i izbrišete staru ako je potrebno (dodatne adrese e-pošte mogu da se dodaju putem [Exchange centra za administarcije](https://outlook.office365.com/ecp.aspx)).

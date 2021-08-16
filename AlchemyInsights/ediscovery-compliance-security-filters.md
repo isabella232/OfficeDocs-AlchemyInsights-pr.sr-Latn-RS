@@ -1,5 +1,5 @@
 ---
-title: Nije vraćen nijedan rezultat tokom pretrage/izvoza sadržaja
+title: Nisu vraćeni rezultati tokom pretrage/izvoza sadržaja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101280"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Nije vraćen nijedan rezultat tokom pretrage/izvoza sadržaja
+# <a name="no-results-returned-during-content-searchexport"></a>Nisu vraćeni rezultati tokom pretrage/izvoza sadržaja
 
-Ako imate problema sa sledećim scenarijima za eDiscovery:
+Ako imate problema sa sledećim scenarijima e-discovery:
 
-- Pretraga sadržaja/izvoz ne vraća podatke ili neočekivane podatke
-- Pretraga e-otkrivanja ili izvoz nije uspeo
+- Pretraga/izvoz sadržaja ne vraća nikakve podatke ili neočekivane podatke
+- Pretraga e-discovery ili izvoz nisu uspeli
 
-To je možda zbog određenih bezbednosnih filtera koje je postavio određeni administrator i koji nisu komunicirali sa svim administratorima.
+To može da bude zbog određenih filtera za bezbednost usaglašenosti koje je instalirao određeni administator i koji nisu preneti svim administancima.
 
-Da biste rešili ovaj problem, uverite se da postoje filteri za bezbednost usaglašenosti koji možda uzrokuju ove probleme:
+Da biste rešili ovo, proverite da li postoje filteri za bezbednost usaglašenosti koji možda izazivaju ove probleme:
 
-1. Povezivanje sa PowerShell centra za bezbednost i usaglašenost
-2. Uradite sledeće zapovesti:
+1. Povezivanje powershell centra za bezbednost i usaglašenost
+2. Pokrenite sledeće komande:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Dodatne informacije o bezbednosnim filterima usaglašenosti potražite [u članku filtriranje dozvola za pretraživanje sadržaja](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Dodatne informacije o filterima za bezbednost usaglašenosti potražite u temi [Filtriranje dozvola za pretragu sadržaja](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

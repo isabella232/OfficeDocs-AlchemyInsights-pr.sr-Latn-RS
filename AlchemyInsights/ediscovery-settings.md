@@ -1,5 +1,5 @@
 ---
-title: Postavke ediscovery-a
+title: Ediscovery settings
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101244"
 ---
-# <a name="ediscovery-settings"></a>Postavke ediscovery-a
+# <a name="ediscovery-settings"></a>Ediscovery settings
 
-pretrage eDiscovery/Search omogućavaju vam da pretražujete, držite i izvezete sadržaj iz Exchange online poštanskog sandučića, SharePoint Online i OneDrive for Business lokacije, Skype za posao razgovore, Microsoft timove i Microsoft 365 grupe.
+Pretrage e-pošte/sadržaja vam omogućavaju da pretražite, zadržite i izvezete sadržaj iz Exchange Online poštanskih sandučića, SharePoint Online i OneDrive for Business lokacija, Skype za posao razgovora, Microsoft Teams i Microsoft 365 grupa.
 
-- Ako tražite opcije menija pretraga e-otkrivanja ili sadržaja, pogledajte članak [problemi sa eotkriжu](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Saznajte više o dozvolama potrebnim za izvođenje eDiscovery pretraga sa [dozvole potrebnih za pretraživanje ediscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Ako pretraga ne daje očekivane rezultate, pogledajte članak [Pretraga ne vraća očekivane rezultate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Ako tražite opcije menija "E-discovery" ili "Pretraga sadržaja", pogledajte problemi [sa e-distribucijom.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Saznajte više o dozvolama potrebnim za izvršavanje pretraga e-discovera iz dozvola potrebnih za [pretrage e-discovery.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Ako pretraga ne vraća očekivane rezultate, pogledajte [pretragu koja ne vraća očekivane rezultate.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Više informacija o eotkrivanju potražite u članku [ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Više informacija o ovom monotonom e-pošti potražite u temi [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

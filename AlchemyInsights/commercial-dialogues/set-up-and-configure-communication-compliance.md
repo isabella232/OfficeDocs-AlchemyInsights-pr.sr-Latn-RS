@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 8892a49dc1fb4a5bb18d743807f80302360f9c29
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8c82c89dce2025f7d818e0ae65310b40200551c4c6ea34306c4104dc8557efcf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070770"
 ---
 # <a name="set-up-and-configure-communication-compliance"></a>Podešavanje i konfigurisanje usaglašenosti komunikacije
 
-Za buduću opciju, korisnici koje nadgleda usaglašenost komunikacije moraju imati Microsoft 365 E5 licenci ili Office 365 Enterprise E3.
+Korisnici koje usaglašenost komunikacije nadgleda ubuduće moraju da imaju licencu Microsoft 365 E5 Compliance ili licencu za Office 365 Enterprise E3.
 
-* Ako želite da podesite ili konfigurišete usaglašenost komunikacije, pogledajte članak [Prvi koraci uz usaglašenost komunikacije](https://go.microsoft.com/fwlink/?linkid=2111549).
-* Ako nemate postojeći Enterprise E5 plan i želite da pokušate da probate, [upisujete se za probnu verziju sistema Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279).
+* Ako želite da podesite ili konfigurišete usaglašenost u komunikaciji, pogledajte prvi [koraci uz usaglašenost komunikacije.](https://go.microsoft.com/fwlink/?linkid=2111549)
+* Ako nemate postojeći Enterprise E5 plan, a želite da isprobate superviziju, prijavite se za probnu Office 365 Enterprise [E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)
