@@ -1,5 +1,5 @@
 ---
-title: Incident usluge u toku
+title: Incident sa uslugom u toku
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -18,19 +18,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 8da7304ca776700322dff9db351a6ee60cca71dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4e89801d500b4d75680ac2a973a7ef3adef16e414bdc0636c222dde6e462cd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052220"
 ---
-# <a name="service-incident-in-progress"></a>Incident usluge u toku
+# <a name="service-incident-in-progress"></a>Incident sa uslugom u toku
 
-Možda će biti pogođene incidentom usluge ili savetnicima koji se trenutno istražuju. Najnoviji status možete da potvrdite tako što ćete otići na stranicu " [zdravlje usluge](https://admin.microsoft.com/adminportal/home#/servicehealth) ".
+Na vas može da utiče incident usluge ili savet koji se trenutno istražuje. Najnoviji status možete da proverite tako što ćete ići na [stranicu Zdravstveno stanje](https://admin.microsoft.com/adminportal/home#/servicehealth) usluge.
   
-Ako vam je lakše, možete da pronađete rezime ovog incidenta u nastavku:
+Radi vaše ugodnosti, ispod možete da pronađete rezime ovog incidenta:
   
-> **Broj incidenta:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Broj incidenta:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
  
-> Opis uticaja: {Zagreљtdescription}
+> Opis uticaja: {ImpactDescription}

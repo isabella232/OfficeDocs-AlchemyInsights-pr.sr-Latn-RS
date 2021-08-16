@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994951"
 ---
 # <a name="set-up-an-automatic-reply"></a>Podešavanje automatskog odgovora
 
-Koristite automatske odgovore kad god želite da dozvolite osobama koje vam pošalju e-poštu obavestite da nećete odmah odgovarati na njihove poruke. Kada se uključi automatski odgovori, one se šalju jednom svakom pošiljaocu.
+Koristite automatske odgovore uvek kada želite da ljudima koji vam šalju e-poruke znaju da im nećete odmah odgovoriti. Nakon što su automatski odgovori uključeni, oni će biti poslati po jednom svakom pošiljaocu.
 
-1. Prijavite se u Outlook.com.
-2. Na traci za navigaciju odaberite stavku **Postavke**  >  **Podešavanje automatskih odgovora**. Ako se ne prikaže **automatski odgovori** , odaberite stavku **Postavke**  >    >  .
-3. Ovde promenite postavke za vaše automatske odgovore, uključujući samo Automatsko odgovaranje za određeni vremenski period, šaljite odgovor jednom svim članovima u organizaciji ili šaljite odgovor samo članovima izvan organizacije.
+1. Prijavite se na Outlook.com.
+2. Na traci zavlačenje **odaberite stavku Postavke**  >  **Postavljanje automatskih odgovora.** Ako **opcija Podesi automatske** odgovore nije prikazana, **odaberite stavku Postavke**  >  **Opcije** automatski  >  **odgovori.**
+3. Ovde promenite postavke za automatske odgovore, uključujući samo automatske odgovore u određenom vremenskom periodu, slanje odgovora jednom svim članovima u organizaciji ili slanje odgovora samo članovima izvan organizacije.

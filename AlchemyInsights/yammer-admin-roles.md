@@ -1,5 +1,5 @@
 ---
-title: O Yammer administratori
+title: O Yammer zadavaca
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989713"
 ---
-# <a name="about-yammer-admins"></a>O Yammer administratori
+# <a name="about-yammer-admins"></a>O Yammer zadavaca
 
-**Mrežni administratori**
+**Administratori mreže**
 
-Globalni administratori automatski se promovišu u verifikovana uloga administratora na Yammer mreži. U sledećim slučajevima, ovo unapređenje se možda neće ispravno pojaviti:
+Globalni administratori automatski se promovišu u ulogu verifikovanog administratora na Yammer mreži. U sledećim slučajevima, ova promocija se možda neće pravilno pojaviti:
 
-- Postoje više Yammer mreža i administrator se potpisuje na pogrešan. [Konsolidacija mreže](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) je neophodna da biste dobili jednu Yammer mrežu.
-- Azure PIM se koristi. Korisnik možda neće biti dovoljno dugo u globalnoj administraciji da se unapredi promocija. Buduća ispravka za Yammer može rešiti ovaj problem, ali najbolje je da ručno promovišemo korisnike u Global administrator.
-- Problem sa sinhronizacijom postoji na Yammer mreži. U ovom slučaju zahtevaće se zahtev za podrškom za dalju istragu.
+- Postoji Yammer više mreža, a administrator je prijavljen u pogrešnu. [Konsolidacija mreže je](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) neophodna da biste pristupili jednoj Yammer mreže.
+- Koristi se Azure PIM. Korisnik možda neće biti dovoljno dugo promovisan na globalnog korisnika da bi se odvijala promocija. Buduća ispravka usluge Yammer može da reši ovaj problem, ali je najbolje da ručno promovišete korisnike na globalnog korisnika.
+- Problem sa sinhronizacijom postoji na Yammer mreže. U ovom slučaju zahtev za podršku biće potreban radi daljeg istraživanja.
 
-Više informacija o usluzi Yammer administratora potražite u članku [Upravljanje Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)administratorima.
+Dodatne informacije o ulogama Yammer ulogama adminike potražite u Yammer [Upravljanje ulogama.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
 
-**Grupni administratori**
+**Group admins**
 
-Grupe administratora za Microsoft 365 povezanih grupa se sinhronizuju sa članstvom grupe iz usluge Azure AD. Za velike grupe, ova sinhronizacija može da preduzme duže periode.
+Adminiskusi grupe Microsoft 365 povezanim grupama sinhronizuju se sa članstvom u grupi iz Azure AD. Za velike grupe ta sinhronizacija može da produži period.

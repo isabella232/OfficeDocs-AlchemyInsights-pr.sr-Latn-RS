@@ -1,5 +1,5 @@
 ---
-title: Vodič za daljinsko Podešavanje
+title: Vodič za podešavanje udaljenog posla
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024004"
 ---
-# <a name="remote-work-setup-guide"></a>Vodič za daljinsko Podešavanje
+# <a name="remote-work-setup-guide"></a>Vodič za podešavanje udaljenog posla
 
-Sve više i više posla se obavlja daljinski. Vaš org treba da bude opremljen da upravlja povećanjem zahteva udaljenog rada.
+Sve više posla se radi daljinski. Vaša orgija mora biti opremljena kako bi upravljala povećanim zahtevima udaljenih posla.
 
-Koristite [Vodič za daljinsku instalaciju](https://go.microsoft.com/fwlink/?linkid=2142062) da biste omogućili suštinske bezbednosne funkcije i redigovali dodatne bezbednosne preporuke. Dobićete uputstvo za smanjenje napetosti na VPN infrastrukturi i opcionalno podešavanje udaljenog pristupa za računare i aplikacije. Zatim ćete pregledati opcije za primenu Microsoft timova i Office aplikacija.
+Koristite vodič [za podešavanje na daljinu za rad](https://go.microsoft.com/fwlink/?linkid=2142062) da biste omogućili osnovne bezbednosne funkcije i pregledali dodatne bezbednosne preporuke. Videćete uputstva za smanjenje naprezanja VPN infrastrukture i opcionalno podešavanje daljinskog pristupa za radne površine i aplikacije. Zatim ćete pregledati opcije za primenu aplikacija Microsoft Teams i Kancelarija aplikacija.
