@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 2dd3c97bb85254215b13ee8a1222941c0492b204
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5dad4b43efac2468b57351a4d6c96379ed505071ca144ec0aa518e975633bb18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998176"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje poruke "Trenutno ne možemo da se povežemo" u Microsoft 365 aplikacijama
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje Microsoft 365 aplikacije "Trenutno ne možemo da se povežemo"
 
 Ako primite ovu poruku, pokušajte sledeće:
 
@@ -29,7 +29,7 @@ Ako primite ovu poruku, pokušajte sledeće:
     - Automatsko podešavanje uređaja koji su povezani sa mrežom
     - Usluga "Lista mreža"
     - Svest o mrežnoj lokaciji
-    - Windows evidencija događaja
+    - Windows Evidencija događaja
 
 Ako jedna od ovih usluga nije pokrenuta, pokušajte da je pokrenete. Ako imate problema sa pokretanjem usluge, pokrenite sledeću komandu tako što ćete otvoriti komandnu liniju sa punim dozvolama:
 
@@ -37,4 +37,4 @@ Ako jedna od ovih usluga nije pokrenuta, pokušajte da je pokrenete. Ako imate p
 
 Kada se ova komanda završi, ponovo pokrenite računar.
 
-Detaljne informacije potražite u [temi "Žao nam je, ne možemo da se povežemo sa vašim nalogom. Greška "Pokušajte ponovo kasnije" kada aktivirate Office iz usluge Microsoft 365.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+Detaljne informacije potražite u [temi "Žao nam je, ne možemo da se povežemo sa vašim nalogom. Greška "Pokušajte ponovo kasnije" kada aktivirate ovu Kancelarija sa Microsoft 365.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

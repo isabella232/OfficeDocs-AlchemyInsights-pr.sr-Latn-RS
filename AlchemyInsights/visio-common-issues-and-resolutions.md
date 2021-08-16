@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 650872443ab1f94c970979e111a7ea2d287d7a7ddde1e5123a385edb48a0bb32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998186"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Uobičajeni problemi i rezolucije usluge Visio
 
@@ -25,7 +25,7 @@ Evo nekih tema koje se često zahtevaju pomoću programa Microsoft Visio:
 
 **Opcije za Visio Online**
 
-- Visio se prodaje kao [samostalna aplikacija](https://products.office.com/visio/flowchart-software). Možete da kupite pretplatu na [Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) iz Microsoft 365 centra za administaciju.
+- Visio se prodaje kao [samostalna aplikacija](https://products.office.com/visio/flowchart-software). Visio pretplatu mogu [kupiti sa Microsoft 365 centar administracije.](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription)
 
 - Visio nudi [različite planove pretplate](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Ako vam nedostaje funkcija u programu Visio, [uporedite opcije Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) da biste saznali više o razlikama između plana 1 i plana 2.  Obratite pažnju na to da Visio Online plan 1 ne obuhvata verziju programa Visio na radnoj površini.
 

@@ -1,5 +1,5 @@
 ---
-title: Pronađite rezultate u usluzi Bing Search pomoću aplikacija Azure Logic
+title: Pronalaženje rezultata u Bing pretrazi pomoću Azure Logic Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9212"
-ms.openlocfilehash: 3859e8de3dc97701eac97a9447efa28d4c36c874
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: bba3b2ebe638cc776d60abde237f53418dd5ff6c03475d0312df8f647bf8c636
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015922"
 ---
-# <a name="find-results-in-bing-search-by-using-azure-logic-apps"></a>Pronađite rezultate u usluzi Bing Search pomoću aplikacija Azure Logic
+# <a name="find-results-in-bing-search-by-using-azure-logic-apps"></a>Pronalaženje rezultata u Bing pretrazi pomoću Azure Logic Apps
 
-Pomoću usluge Bing pretraga iz aplikacije logika možete da automatizujete obradu rezultata pretrage i učinite te rezultate dostupnim za druge radnje. Na primer, možete da pronađete stavke sa vestima, a zatim da ih Twitter objavite kao tvitove u feedu.
+Pomoću Bing pretrage iz aplikacije logike možete da automatizujete obradu rezultata pretrage i da te rezultate učinite dostupnim za druge radnje. Na primer, možete da pronađete stavke vesti i da ih Twitter objavi kao tvitove u feedu.
 
-Da biste saznali više, pogledajte članak [Pronalaženje rezultata u usluzi Bing pretraga pomoću aplikacije Azure Logic](https://go.microsoft.com/fwlink/?linkid=2151928).
+Da biste saznali više, pogledajte [pronalaženje rezultata u Bing pretrazi pomoću Azure Logic Apps](https://go.microsoft.com/fwlink/?linkid=2151928).

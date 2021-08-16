@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4855d71152a158b94a19c36159b1ea9b055f626c680c43c875de1f258329c96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029386"
 ---
 # <a name="how-to-enroll-devices"></a>Kako da uklončite uređaje
 
@@ -25,7 +25,7 @@ Ovo su osnove unošenja:
 
 - Da biste saznali više o Intune unošenja, pogledajte šta je to ugostivanje uređaja [u intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Detaljnije informacije o učenicima za određene platforme, uputstva i uputstva potražite u članku Unošenje uređaja u [Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portal.
+- Detaljnije informacije o učenicima za određene platforme, uputstva i uputstva potražite u Microsoft Intune [](https://docs.microsoft.com/mem/intune/enrollment/) uređivanja uređaja.
 
 **Rešavanje problema sa unošenjem uređaja**
 
@@ -33,9 +33,9 @@ Ovo su osnove unošenja:
 
 - [Rešavanje problema sa unošenjem iOS/iPadOS uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Rešavanje problema sa unošenjem Windows uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Rešavanje Windows unošenja uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Rešavanje problema sa Windows 10 automatskim unošenjem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Rešavanje Windows 10 automatsko unošenje](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
 - [Rešavanje problema sa Android Enterprise uređajem](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
