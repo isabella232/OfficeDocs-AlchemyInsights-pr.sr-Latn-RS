@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063966"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ne primajuжi Facebook kodove pomoću Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ne primate Facebook kodove pomoću Outlook.com
 
-Ako ste zahtevali novu lozinku sa Fejsbuka, ali niste dobili lozinku za poništavanje lozinke:
+Ako ste zahtevali novu lozinku od društvenih mreža Facebook, ali niste primili e-poruku za poništavanje lozinke:
 
-- Potvrdite izbor u usluzi [spam ili pošta](https://outlook.live.com/mail/junkemail).
-- Ponovo pokušajte da [poništite vašu Facebook lozinku](https://aka.ms/facebook-password-reset).
+- Proverite fasciklu [bezvredne pošte ili neželjene pošte.](https://outlook.live.com/mail/junkemail)
+- Pokušajte ponovo da [poništite Facebook lozinku.](https://aka.ms/facebook-password-reset)
 
-Ako ne možete da poništite lozinku zato što ne možete da pristupite broju e-pošte ili mobilnog telefona na nalogu, pokušajte da koristite [savete za poništavanje lozinke na Fejsbuku](https://aka.ms/facebook-password-help).
+Ako ne možete da poništite lozinku jer ne možete da pristupite e-pošti ili broju mobilnog telefona na nalogu, isprobajte Facebook komandu "Poništavanje [lozinke" Saveti.](https://aka.ms/facebook-password-help)
