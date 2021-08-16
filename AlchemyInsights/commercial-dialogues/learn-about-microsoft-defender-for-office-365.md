@@ -1,5 +1,5 @@
 ---
-title: Saznajte više o Microsoft Defender za Office 365
+title: Saznajte više o programu Microsoft zaštitnik za Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9eac6f1b666f7b8031fe3ff7b439c5c5ddf9e998
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d384b1d0aaba2faca60870dd04727985f9e13cda43687bc6f7bc53da90db4b9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016966"
 ---
-# <a name="learn-about-microsoft-defender-for-office-365"></a>Saznajte više o Microsoft Defender za Office 365
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Saznajte više o programu Microsoft zaštitnik za Office 365
 
 Evo nekih informacija o programu Microsoft zaštitnik za Office 365:
 
-- **Šta je to Microsoft Defender za Office 365?**  
-    Zaštitnik za Office 365 je usluga filtriranja e-pošte zasnovanu na oblaku koja pomaže u zaštiti organizacija od nepoznatog malvera i virusa pružanjem snažne zaštite od nule. On uključuje funkcije za zaštitu organizacija od štetnih veza u realnom vremenu.
+- **Šta je to Microsoft zaštitnik za Office 365?**  
+    Zaštitnik za Office 365 je usluga filtriranja e-pošte zasnovana na oblaku koja pomaže u zaštiti organizacija od nepoznatog malvera i virusa tako što pruža snažnu zaštitu od nula dana. Uključuje funkcije za zaštitu organizacija od štetnih veza u realnom vremenu.
 - **Kako da aktiviram Microsoft zaštitnik za Office 365?**  
-    Bezbedni prilozi, sigurne veze i anti-phishing su deo odbrane za Office 365. Enterprise E5, edukacija a5 i Microsoft 365 Business uključuje ugrađene zaštitne službe za Office 365 funkcije. Svi drugi planovi zahtevaju pretplatu na programski dodatak za Office 365. Potrebno je da korisnicima dodelite odgovarajuće licence za zaštitu sistema Office 365. Morate da imate dozvole *globalnog administratora* ili *administratora bezbednosti* da biste pristupili odbrani za Office 365. Da biste saznali više o tome kako da masovno primenjujete licence na korisnike, pogledajte članak [dodeljivanje licenci korisnicima u sistemu Office 365 za preduzeća](https://go.microsoft.com/fwlink/?linkid=2093435).
-- **Kako da upravljam zaštitnik za Office 365 ili da saznam više o tome?**  
-  - Idite na [Setup](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
-  - U okviru **Prijavljivanje i bezbednost** Pronađite **zaštitu od napredne pretnje**, a zatim izaberite stavku [Prikaz](https://go.microsoft.com/fwlink/?linkid=2109302).
+    Sef Prilozi, Sef veze i anti-phishing su deo usluge "Zaštitnik" za Office 365. Enterprise E5, Education A5 i Microsoft 365 Posao uključuju ugrađeni zaštitnik za Office 365 funkcija. Svi ostali planovi zahtevaju programski dodatak "Zaštitnik" Office 365 pretplatu. Morate dodeliti odgovarajuće licence korisnicima kako bi ih zaštitnik zaštitio Office 365. Morate da imate *dozvole globalnog administratora* *ili administratora* bezbednosti da biste pristupili programu "Zaštitnik" Office 365. Da biste saznali više o tome kako da masovno primenite licence na korisnike, pogledajte dodeljivanje licenci korisnicima u [Office 365 za preduzeća.](https://go.microsoft.com/fwlink/?linkid=2093435)
+- **Kako da upravljam zaštitnikom za Office 365 ili saznam više o tome?**  
+  - Idite [na](https://go.microsoft.com/fwlink/p/?linkid=2075721)podešavanje .  
+  - U **okviru Prijavljivanje i bezbednost pronađite Stavku** **Povećaj zaštitu od naprednih pretnji,** a zatim [izaberite Prikaži](https://go.microsoft.com/fwlink/?linkid=2109302).

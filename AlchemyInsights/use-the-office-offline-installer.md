@@ -1,5 +1,5 @@
 ---
-title: Korišćenje Office vanmrežne instalatora
+title: Korišćenje vanmrežnog instala Kancelarija mreže
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfd666ddb0aa5edb4d0f4fc0a03c6442b201d331da7d2193e7ad8615790c36a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037946"
 ---
-# <a name="use-the-office-offline-installer"></a>Korišćenje Office vanmrežne instalatora
+# <a name="use-the-office-offline-installer"></a>Korišćenje vanmrežnog instala Kancelarija mreže
 
-Morate da budete povezani sa Internetom da biste preuzeli datoteke instalatora, ali kada to uradite, možete da instalirate Office van mreže na PC računaru po potrebi pomoću Office alatke za primenu (ODT)
+Morate biti povezani sa internetom da biste preuzeli datoteke instalacionih programa, ali kada to jednom završite, možete da instalirate Kancelarija van mreže na računaru kad vam to zatreba pomoću alatke za primenu programske dodatke Kancelarija (ODT)
 
-ODT je dizajniran za preduzeća i pokreće se sa komandne linije, tako da su koraci složeniji – ali će i dalje biti instalirani na jednom uređaju. Pogledajte članak [Korišćenje Office vanmrežne instalatora](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT je dizajniran za poslovna okruženja i pokreće se sa komandne linije, tako da su koraci složeniji – ali će i dalje raditi za instalaciju na jednom uređaju. Pogledajte [korišćenje vanmrežnog instalacioniog programa Kancelarija mreže.](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
   

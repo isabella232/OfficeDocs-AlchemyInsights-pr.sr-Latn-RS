@@ -1,5 +1,5 @@
 ---
-title: Saznajte kako Microsoft Edge podržava Windows zaštitu informacija (put)
+title: Saznajte kako Microsoft Edge podržava Windows Information Protection (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054332"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Saznajte kako Microsoft Edge podržava Windows zaštitu informacija (put)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Saznajte kako Microsoft Edge podržava Windows Information Protection (WIP)
 
-Dok se broj udaljenog radnika povećava, kao i broj ličnih i radnih aktivnosti na korporativnim uređajima. To zauzvrat povećava rizik da se podaci korporacije dele izvan radnog mesta. Da biste ublaži ovaj rizik, Microsoft Edge (verzija 81 ili novije) podržava Windows zaštitu informacija (put): funkciju Windows-10 koja pomaže u zaštiti poslovnih podataka od neovlašćenih i slučajnih otkrića.
+Kako se broj udaljenih radnika povećava, tako se povećava i broj ličnih i poslovnih aktivnosti na poslovnim uređajima. Ovim se, zasebno, povećava rizik da će korporativni podaci biti podeljeni izvan radnog mesta. Da biste ublažili ovaj rizik, Microsoft Edge (verzija 81 ili novija) podržava Windows Information Protection (WIP): funkciju Windows-10 koja štiti poslovne podatke od neovlašćenih i slučajnih otkrivanja.

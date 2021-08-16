@@ -1,5 +1,5 @@
 ---
-title: Korišćenje Microsoft Edge aplikacije za zaštitu korisnika protiv PUAs
+title: Korišćenje Microsoft Edge za zaštitu korisnika od PUA-ja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679918"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000514"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Korišćenje Microsoft Edge aplikacije za zaštitu korisnika protiv PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Korišćenje Microsoft Edge za zaštitu korisnika od PUA-ja
 
-Microsoft Edge verzije 80.0.361.50 i novije stavke preuzimanja potencijalno neželjenih aplikacija (PUAs) i povezanih URL adresa. Da biste uključili ovu funkciju, uradite sledeće:
+Microsoft Edge verzijama 80.0.361.50 i novijim blokirajte preuzimanja potencijalno neželjenih aplikacija (PUA-ovima) i povezanih UR-ovima. Da biste uključili ovu funkciju, uradite sledeće:
 
-1. Idite na   >  **privatnost i usluge** postavki u pregledaču.
+1. Idite na **Postavke**  >  **Privatnost i usluge** u pregledaču.
 
-2. Pomerajte se nadole do odeljka " **usluge** " i uverite se da su uključeni **Microsoft Defender SmartScreen** i **blokiraju potencijalno neželjene aplikacije** .
+2. Pomerite se nadole **do** odeljka  Usluge **i uverite se SmartScreen filter Microsoft zaštitnika** su uključene potencijalno neželjene aplikacije.
 
-    Kada sledeći put Microsoft Defender SmartScreen otkrije tip, blokiraće ga i obavestiti vas u skladu sa tim.
+    Kada sledeći SmartScreen filter Microsoft zaštitnika otkrije PUA, blokiraće je i obavestiti vas u skladu sa time.
 
-    Da biste saznali više, pogledajte [Kako da blokirate sa URL adresama koje nisu povezane](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Da biste saznali više, pogledajte [kako da blokirate u odnosu na PUA-e UL-e.](https://go.microsoft.com/fwlink/?linkid=2133024)

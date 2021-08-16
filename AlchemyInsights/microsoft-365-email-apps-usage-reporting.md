@@ -1,5 +1,5 @@
 ---
-title: Sticanje uvid u korišćenje aplikacija za e-poštu u organizaciji
+title: Steknite uvid u korišćenje aplikacija za e-poštu u organizaciji
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 37a1c97793558c3842f62e43616a022d194611fb
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 67c2cbbb8b66cd4d1f6bce908569cc6a42a860e09f4b17f2d564aba724d0fc41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000586"
 ---
-# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Sticanje uvid u korišćenje aplikacija za e-poštu u organizaciji
+# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Steknite uvid u korišćenje aplikacija za e-poštu u organizaciji
 
-Kontrolna tabla Microsoft 365 izveštava prikazuje pregled aktivnosti u okviru proizvoda u organizaciji. Možete da vežgoite u pojedinačnim, izveštajima na nivou proizvoda da biste dobili uvid u aktivnosti izvršene u svakom proizvodu. Na primer, možete da koristite kontrolnu tablu da biste provjerili kako se koriste Microsoft 365 aplikacije na svim platformama. Da biste videli izveštaje, morate biti globalni administrator, globalni čitač ili čitač izveštaja u programu Microsoft 365 ili administrator za Microsoft Exchange, SharePoint, timove usluge, timove komunikacije ili Skype za posao.
+Na Microsoft 365 Izveštaji prikazuje pregled aktivnosti u proizvodima u organizaciji. Možete da izvršite sažetiji izveštaji na nivou proizvoda kako biste dobili uvid u aktivnosti izvršene u okviru svakog proizvoda. Na primer, kontrolnu tablu možete da koristite da biste proverili kako se Microsoft 365 aplikacije koriste na svim platformama. Da biste videli izveštaje, morate da budete globalni dobavljač, globalni čitač ili čitač izveštaja u programu Microsoft 365 ili da budete dobavljač usluga Microsoft Exchange, SharePoint, Teams Service, Teams Communications ili Skype za posao.
 
-Izveštaj o *korišćenju aplikacija e-pošte* je deo kontrolne table i prikazuje broj aplikacija za e-poštu povezanim sa programom Microsoft Exchange online. Takođe prikazuje informacije o verziji Microsoft Outlook aplikacija koje se koriste, tako da možete da zahtevate da se korisnici zamene sa podržanim verzijama programa Outlook.
+Izveštaj *o korišćenje aplikacije za e-poštu* deo je dasave table i prikazuje broj aplikacija za e-poštu koje su povezane sa Microsoft Exchange Online. Takođe prikazuje informacije o verziji Microsoft Outlook aplikacija koje se koriste, tako da možete da zatražite da se korisnici prebace sa nepodržanih verzija na podržane verzije Outlook.
 
-Da biste pristupili izveštaju o korišćenju aplikacije za e-poštu, slijedite ove korake:
+Da biste pristupili izveštaju o korišćenje aplikacije za e-poštu, pratite ove korake:
 
-1. U Microsoft 365 centru administracije izaberite stavku upotreba **izveštaja**  >  [](https://go.microsoft.com/fwlink/?linkid=2140342).
-2. U padajućem meniju **Izbor izveštaja** **Izaberite stavku**  >  **Upotreba aplikacije za e-poštu**.
+1. U polju Microsoft 365 centar administracije izaberite stavku **Korišćenje**  >  [izveštaja](https://go.microsoft.com/fwlink/?linkid=2140342).
+2. U **padajućem meniju Izbor** izveštaja izaberite stavku **Exchange**  >  **Korišćenje aplikacije za e-poštu**.
 
-Da biste saznali više, pogledajte članak [interpretacija izveštaja e-pošte](https://go.microsoft.com/fwlink/?linkid=2140508).
+Da biste saznali više, pogledajte [tumačenje izveštaja o aplikacijama za e-poštu.](https://go.microsoft.com/fwlink/?linkid=2140508)

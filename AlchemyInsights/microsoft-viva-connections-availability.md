@@ -1,5 +1,5 @@
 ---
-title: Dostupnost Microsoft Viva veze
+title: Microsoft Viva veze Dostupnost
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
-ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
+ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000478"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Dostupnost Microsoft Viva veze
+# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva veze Dostupnost
 
-Microsoft Viva veze će biti dostupni za računare u prvoj polovini 2021 i za mobilne uređaje u leto 2021. Dodatne funkcije će se okrenuti na kursu 2022.
+Microsoft Viva veze će biti dostupni za radnu površinu u prvoj polovini 2021. i za mobilne uređaje u letu 2021. Dodatne funkcije će biti uvrštene tokom 2022. godine.
 
-Više informacija potražite u članku kako [Microsoft Viva veze pomažu svima da ostanu vereni i obavešteni](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
+Dodatne informacije potražite u Microsoft Viva veze [pomaže svima da ostanu angažvani i informisani.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
