@@ -1,5 +1,5 @@
 ---
-title: Otkrivanje lokacija
+title: Otkrivanje sajta
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
-ms.translationtype: MT
+ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50694559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030772"
 ---
-# <a name="do-site-discovery"></a>Otkrivanje lokacija
+# <a name="do-site-discovery"></a>Otkrivanje sajta
 
-Ako organizacija i dalje koristi zastarele Veb aplikacije i planove za korišćenje programa Internet Explorer (koje većina klijenata ima), trebalo bi da uradite nešto dodatno otkrivanje lokacije.
+Ako vaša organizacija i dalje koristi zakasnele veb aplikacije i planove za korišćenje režima pregledača Internet Explorer (što radi većina korisnika), trebalo bi da uradite neko dodatno otkrivanje sajta.
 
-**Već ste rasporedili stariju verziju Microsoft Edge**
+**Već ste primenili stariju verziju programa Microsoft Edge**
 
-Ako ste već konfigurisali listu preduzeća da radi za nasleđenu verziju sistema Microsoft Edge, otkrivanje lokacije će biti gotovo gotovo. Jedina stvar koju treba da uradite je da dodate neutralne lokacije.
+Ako ste već konfigurisali listu sajtova preduzeća da radi za zatamnjenu verziju usluge Microsoft Edge, otkrivanje sajta je skoro gotovo. Trebalo bi da dodate neutralne sajtove.
 
-Neutralne lokacije najčešće su lokacije koje pružaju jedinstveno prijavljivanje (SSO). Ako odete na neutralnu lokaciju sa lokacije Microsoft Edge, želite da ostanete u aplikaciji Microsoft Edge da biste se potvrdili autentičnosti. Ako odete na neutralnu stranicu u režimu programa Internet Explorer, zatim želite da ostanete u režimu programa Internet Explorer da biste potvrdili autentičnost.
+Neutralni sajtovi su obično sajtovi koji obezbeđuju jedinstveno prijavljivanje (SSO). Ako odete na neutralni sajt iz usluge Microsoft Edge, onda želite da ostanete u Microsoft Edge biste potvrdili identitet. Ako odete na neutralnu lokaciju u režimu pregledača Internet Explorer, želite da ostanete u režimu pregledača Internet Explorer da biste potvrdili identitet.
 
-Identifikujte SSO ili druge neutralne lokacije koje koristite i dodajte ih na listu poslovnih lokacija.
+Identifikujte sve SSO ili druge neutralne sajtove koje koristite i dodajte ih na listu lokacija preduzeća.
 
 **Internet Explorer je podrazumevani pregledač**
 
-Ako sada koristite samo Internet Explorer, možda ne znate koje su lokacije nadograđene na moderne Veb standarde i koje i dalje zahtevaju Internet Explorer. Ove lokacije ćete želeti da pronađete i dodate na listu lokacije preduzeća kako biste mogli da koristite Internet Explorer samo za te lokacije.
+Ako sada samo koristite Internet Explorer, možda ne znate koje lokacije su izvršile nadogradnju na moderne veb standarde i koje i dalje zahtevaju Internet Explorer. Te lokacije ćete želeti da pronađete i dodate na listu sajtova preduzeća kako biste mogli da koristite režim pregledača Internet Explorer samo za te lokacije.
 
 > [!NOTE]
-> [Otkrivanje lokacije preduzeća](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) otkriva lokacije kojima je možda potreban Internet Explorer režim. Možete prikupiti podatke na računarima koji rade pod operativnim sistemom Windows Internet Explorer 8 putem Internet Explorer 11 u operativnom sistemu Windows 10, Windows 8,1 ili Windows 7.
+> [Otkrivanje sajtova preduzeća](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) otkriva sajtove koji su možda potrebni režimu programa Internet Explorer. On može da prikuplja podatke na računarima koji koriste Windows Internet Explorer 8 kroz Internet Explorer 11 na Windows 10, Windows 8.1 ili Windows 7.
 
-**Analiza podataka**
+**Analiziranje podataka**
 
-Pošto ste prikupili podatke na sajtu, preporučujemo da sledeći proces iz četiri koraka analizira podatke:
+Kada prikupite podatke sajta, preporučujemo vam da analizirate podatke u četiri koraka:
 1. Sortirajte podatke po domenu, a zatim po URL adresi.
-2. Definišite granice aplikacije za konfiguraciju za Internet Explorer režim. Želite da dodate sve lokacije i Veb kontrole koje definišu aplikaciju, ali ne želite da dodate dodatne lokacije i kontrole. Neke lokacije mogu biti jednostavne kao i *https://contoso.com/app1* dok će drugi možda zahtevati da definišete više sajtova i stranica.
-3. Testirate aplikaciju da biste proverili da li izvorno radi. Mnoge lokacije će ponuditi moderan sadržaj kada otkriju moderni pregledač i ponude zastareli sadržaj samo kada otkriju Internet Explorer.
-4. Dodajte aplikaciju na listu poslovnih lokacija ako ne uspe da testira.
+2. Definišite granice aplikacije da biste konfigurisali režim programa Internet Explorer. Želite da uključite sve lokacije i veb kontrole koje definišu aplikaciju, ali ne želite da uključite dodatne lokacije i kontrole. Neki sajtovi mogu biti jednostavni, *https://contoso.com/app1* dok drugi mogu zahtevati da definišete više sajtova i stranica.
+3. Testirajte aplikaciju da biste potvrdili da ona ne radi kako treba. Mnogi sajtovi će ponuditi moderan sadržaj kada otkriju moderan pregledač i nude zatamnjeni sadržaj samo kada otkriju Internet Explorer.
+4. Dodajte aplikaciju na listu lokacije preduzeća ako testiranje ne uspe.
 
 > [!NOTE]
-> Kao najbolju praksu, grupišete sve lokacije koje sačinjavaju aplikaciju. Na ovaj način, kada nadogradite aplikaciju, možete lakše da uklonite celu stranicu iz režima programa Internet Explorer i počnete da koristite moderan pregledač za tu aplikaciju.
+> Kao najbolju praksu, grupišite sve lokacije koje se sastoje od aplikacije. Na taj način ćete lakše ukloniti celu lokaciju iz režima pregledača Internet Explorer i početi da koristite moderan pregledač za tu aplikaciju.
 
-Kada završite sa otkrivanjem sajta i analizirajte podatke, spremni ste da počnete da tražite strategiju kanala.
+Kada završite sa otkrivanjem sajta i analizirate podatke, spremni ste da počnete da gledate strategiju kanala.
 

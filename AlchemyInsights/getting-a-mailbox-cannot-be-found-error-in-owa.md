@@ -14,20 +14,20 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056504"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Dobijate grešku "Nije pronađeno poštansko sanduče" u programu Outlook na vebu?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Dobijate grešku "Nije pronađeno poštansko sanduče" Outlook na vebu?
 
-Ako koristite Outlook na vebu i  ne možete da dobijete grešku u Poštanskom sandučetu, nalog koji ste koristili za povezivanje sa programom Outlook na vebu nema Exchange Online licencu i zbog toga nijedno poštansko sanduče nije povezano sa nalogom. Vaš administart može da dodeli licencu vašem nalogu tako što će pratiti ove korake:
+Ako koristite Outlook na vebu i dobijate poruku  o grešci nije moguće pronaći poštansko sanduče, nalog koji ste koristili za povezivanje sa uslugom Outlook na vebu nema licencu za Exchange Online zato nije povezano nijedno poštansko sanduče sa nalogom. Vaš administart može da dodeli licencu vašem nalogu tako što će pratiti ove korake:
 
-1. Otvorite [Microsoft 365](https://portal.office.com/adminportal/home#/homepage) centar za administaciju i idite na stavku Aktivni korisnici u odeljku Korisnici i izaberite korisnika koji vidite grešku.  
+1. Otvorite prozor [Microsoft 365 centar administracije](https://portal.office.com/adminportal/home#/homepage) idite na stavku  **Aktivni korisnici** u okviru odeljka Korisnici i izaberite korisnika koji vidite grešku.
 
-2. Na stranici korisnika koja se  otvori, idite na odeljak Licence i aplikacije, izaberite odgovarajuću vrednost lokacije i dodelite licencu koja sadrži Exchange Online (razvijte licencu da biste videli detalje o njoj).  Kada završite, kliknite na dugme **Sačuvaj promene.**
+2. Na stranici korisnika koja se  otvori, idite na odeljak Licence i aplikacije, izaberite odgovarajuću vrednost Lokacije i dodelite licencu koja sadrži Exchange Online (razvijte licencu da biste videli detalje o njoj).  Kada završite, kliknite na dugme **Sačuvaj promene.**
 
 U nekim slučajevima, ako je licenca već dodeljena korisničkom nalogu, uklanjanje i ponovna dodela licence pomaže u rešavanju problema i ispravno je obezbeđena u sistemu: 
 

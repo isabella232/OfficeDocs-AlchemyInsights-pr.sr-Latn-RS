@@ -1,5 +1,5 @@
 ---
-title: Upravljanje delegatom dozvolama za jednu fasciklu u programu Outlook za Mac
+title: Upravljanje dozvolama za delegate za jednu fasciklu u Outlook za Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 1d6e8c916a6910e4d0ad5fc3e8395d25399389fd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066810"
 ---
-# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Upravljanje delegatom dozvolama za jednu fasciklu u programu Outlook za Mac
+# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Upravljanje dozvolama za delegate za jednu fasciklu u Outlook za Mac
 
-1. U oknu za navigaciju Odaberite fasciklu koju želite da promenite.
-2. U okviru kartica **Organizovanje** odaberite stavku **dozvole** u kalendaru i odaberite stavku **dozvole za fasciklu** u aplikaciji "Pošta" ili "osobe".
+1. U oknu za navigaciju odaberite fasciklu koju želite da promenite.
+2. U okviru **kartice Organizovanje** odaberite stavku Dozvole **u kalendaru** i odaberite stavku **Dozvole fascikle u pošti** ili osobama.
 3. Kliknite na ime osobe za koju želite da promenite dozvole.
-4. Na listi **nivo dozvole** odaberite željeni nivo pristupa. Pojedinačni nivoi dozvole automatski se popunjavaju na osnovu izbora na listi.
+4. Sa **liste Nivo dozvole** odaberite nivo pristupa koji želite. Pojedinačni nivoi dozvola se automatski popunjavaju na osnovu izbora na listi.
 
-Da biste prilagodili nivoe dozvola, potvrdite izbor u poljima za potvrdu za željene stavke, a zatim u okviru **Uređivanje stavki** i **Brisanje stavki** odaberite željeni nivo dozvole.
+Da biste prilagodili nivoe dozvola, potvrdite izbor u po  polju za potvrdu za stavke koje želite, a zatim u okviru Uredi stavke i Izbriši stavke odaberite nivo dozvole koji želite.
 
 > [!NOTE]
-> Ako podesite nivo dozvole na **nijedan**, delegat ostaje na listi, što vam omogućava da kasnije brzo vratite dozvole. Informacije o nivoima dozvola potražite u članku [o deljenju i delegaciji](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).
+> Ako nivo dozvole postavite na **Nijedno,** delegat ostaje na listi, što vam omogućava da kasnije brzo ponovo instalirate dozvole. Informacije o nivoima dozvola potražite u temi [O deljenju i delemenosti.](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5)

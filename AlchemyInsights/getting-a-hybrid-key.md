@@ -1,5 +1,5 @@
 ---
-title: Dobijanje hibridnog ključa
+title: Pribavljanje hibridnog ključa
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056540"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Dobijanje Exchange hibridnog ključa
+# <a name="getting-an-exchange-hybrid-key"></a>Pribavljanje Exchange hibridnog ključa
 
-Da biste povezali lokalnu organizaciju na Exchange Online u programu Microsoft 365, morate da podesite najmanje jedan Exchange server u lokalnoj organizaciji. Ovaj server se koristi za kreiranje hibridnog raspoređivanja koje povezuje lokalno Exchange organizaciju sa Exchange serverom. Da biste dobili hibridni ključ za ovaj server, slijedite korake u programu [Exchange hibridni čarobnjak za distribuciju proizvoda](https://aka.ms/hybridkey).
+Da biste povezali svoju Exchange Online organizaciju sa Exchange Online u Microsoft 365, morate da podesite bar jedan Exchange server u svojoj Exchange organizaciji. Taj server se koristi za pravljenje hibridne primene koja povezuje Exchange organizaciju sa Exchange Online. Da biste nabavili hibridnu šifru za ovaj server, pratite korake u Exchange za distribuciju [hibridnih šifri proizvoda.](https://aka.ms/hybridkey)
   

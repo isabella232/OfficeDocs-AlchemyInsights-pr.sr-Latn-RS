@@ -1,5 +1,5 @@
 ---
-title: Nedostaje uslovi iz prodavnice termina za usluge SharePoint online
+title: Uslovi koji nedostaju u SharePoint skladištu termina na mreži
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039620"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Nedostaje uslovi iz prodavnice termina za usluge SharePoint online
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Uslovi koji nedostaju u SharePoint skladištu termina na mreži
 
-Uslovi u SharePoint online usluzi za termine koje očekujete da vidite se ne pojavljuju ili se povremeno pojavljuju.
+Termini u SharePoint Skladište termina na mreži koje očekujete da se ne pojavljuju ili se ne pojavljuju periodično.
   
-Ako je prošlo više od 24 časa od kada ste prvi put videli ovaj problem, prijavite se u slučaju podrške. Shvatamo da 24 časa mogu da izgledaju kao dugo vremena. U mnogim slučajevima, već radimo na rešenju zato nam dajte najmanje 24 časa.
+Ako prođe više od 24 časa od kada ste prvi put videli ovaj problem, prijavite slučaj podrške. Razumemo da 24 časa mogu izgledati kao dugo vreme. U mnogim slučajevima već radimo na rešenju, pa nam dajte najmanje 24 sata.
   

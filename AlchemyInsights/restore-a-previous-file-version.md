@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720624"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039584"
 ---
 # <a name="restore-a-previous-file-version"></a>Vraćanje prethodne verzije datoteke
 
-Pomoću istorije verzija na mreži možete da vidite i vratite starije verzije datoteka u usluzi OneDrive ili SharePoint. Istorija verzija radi sa svim tipovima datoteka, uključujući PDFs, CAD datoteke, fotografije i video zapise. Da biste vratili prethodnu verziju datoteke:
+Uz istoriju verzija na mreži možete da vidite i vratite starije verzije datoteka u programima OneDrive ili SharePoint. Istorija verzija funkcioniše sa svim tipovima datoteka, uključujući PDF-ove, CAD datoteke, fotografije i video zapise. Da biste vratili prethodnu verziju datoteke:
   
-1. Otvorite SharePoint biblioteku dokumenata ili OneDrive lokaciju.
+1. Otvorite biblioteku SharePoint ili OneDrive lokaciju.
     
-2. Kliknite sa leve strane datoteke da biste je izabrali, a zatim izaberite stavku **Istorija verzija**. Ako ne vidite istoriju verzija na komandnoj traci, kliknite na dugme još ( **...** ). 
+2. Kliknite sa leve strane datoteke da biste je izabrali, a zatim izaberite stavku **Istorija verzija.** Ako ne vidite stavku Istorija verzija na komandnoj traci, kliknite na dugme Više ( **...** ). 
     
-3. Kliknite na verziju koju želite da prikažete ili kliknite na dugme još ( **...** ) sa desne strane verzije, a zatim kliknite na dugme **Vrati u prethodno stanje**.
+3. Kliknite na verziju koju želite da prikažete ili izaberite stavku Više ( **...** ) sa desne strane verzije, a zatim kliknite na dugme Vrati **u prethodno stanje.**
     
 

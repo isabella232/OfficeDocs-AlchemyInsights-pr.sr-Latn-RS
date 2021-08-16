@@ -1,5 +1,5 @@
 ---
-title: Primer Microsoft Defender za Office 365 smernice za bezbedne priloge
+title: Primer microsoft zaštitnik za smernice Office 365 Sef priloga
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988309"
 ---
-# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Primer Microsoft Defender za Office 365 smernice za bezbedne priloge
+# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Primer microsoft zaštitnik za smernice Office 365 Sef priloga
 
-Ove postavke omogućavaju smernice pod imenom *bez kašnjenja* koje odmah šalju poruke, a zatim ponovo prilaže priloge posle skeniranja:
+Ove postavke omogućavaju  smernicu pod nazivom Nema kašnjenja koja odmah isporučuje poruke, a zatim ponovo prilaže priloge nakon skeniranja:
 
-- **Ime**: nema kašnjenja
-- **Opis**: dostavlja poruke odmah i ponovo prilaže priloge posle skeniranja.
-- **Odgovor**: izaberite opciju **Dinamičko** rešenje. Više informacija potražite u članku [Dinamičko isporučivanje u smernicama bezbednog priloga](https://go.microsoft.com/fwlink/?linkid=2092328).
-- Odeljak " **Preusmeravanje priloga** ": izaberite opciju **Omogućavanje preusmeravanja**, a zatim unesite e-adresu Microsoft 365 globalnog administratora, administratora bezbednosti ili analitičara koji će istražiti zlonamerne priloge.
-- **Primeni na** odeljak: izaberite **domen primaoca**, a zatim izaberite domen. Izaberite stavku **Dodaj**, a zatim kliknite na **dugme u redu**. Kada završite, izaberite stavku **Sačuvaj**.
+- **Ime:** Bez kašnjenja
+- **Opis:** Isporučuje poruke odmah i ponovo prilaže priloge nakon skeniranja.
+- **Odgovor:** Izaberite **opciju Dinamička isporuka.** Dodatne informacije potražite u [temi Dinamička isporuka u Sef Smernice za priloge.](https://go.microsoft.com/fwlink/?linkid=2092328)
+- **Odeljak** Preusmeravanje priloga: Izaberite opciju Omogući preusmeravanje **,** Microsoft 365 e-adresu globalnog administratora, administratora bezbednosti ili analitičara bezbednosti koji će istražiti zlonamerne priloge.
+- **Odeljak Primenjen** na: **Izaberite stavku Domen primaoca je**, a zatim izaberite domen. Izaberite **stavku dodaj**, a zatim izaberite U **redu**. Kada završite, izaberite stavku **Sačuvaj**.
 
-Da biste saznali više, pogledajte odeljak [bezbedni prilozi u programu Microsoft zaštitnik za Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).
+Da biste saznali više, [pogledajte članak Sef Prilozi u programu Microsoft zaštitnik za Office 365.](https://go.microsoft.com/fwlink/?linkid=2092213)
