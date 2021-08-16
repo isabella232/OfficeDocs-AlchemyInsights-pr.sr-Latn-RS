@@ -1,5 +1,5 @@
 ---
-title: Premeštanje datoteka u OneDrive for Business od drugog dobavljača usluga u oblaku
+title: Premeštanje datoteka u OneDrive for Business drugog dobavljača usluga u oblaku
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fe549e85c469938dd609eb8754160b00c8544ad73a563a5ec80a918ceec508c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986275"
 ---
-# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Premeštanje datoteka u OneDrive for Business od drugog dobavljača usluga u oblaku
+# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Premeštanje datoteka u OneDrive for Business drugog dobavljača usluga u oblaku
 
-Ako migriranje podataka iz drugih dobavljača usluga u oblaku u OneDrive ili SharePoint, [Mover](https://go.microsoft.com/fwlink/?linkid=2132453) podržava migraciju sa više od deset dobavljača usluga u oblaku, uključujući Box, Dropbox, Egnyte i Google Disk. Mover se može koristiti i za migriranje iz jednog SharePoint zaku objekta u drugi ili iz OneDrive potrošača ili OneDrive.com.
+Ako migriranje podataka iz drugih dobavljača usluga u oblaku u OneDrive ili SharePoint, [Mover](https://go.microsoft.com/fwlink/?linkid=2132453) podržava migraciju sa više od deset dobavljača usluga u oblaku, uključujući Box, Dropbox, Egnyte i Google disk. Mover se može koristiti i za migriranje iz jednog SharePoint zakutca u drugi ili iz OneDrive potrošača ili OneDrive.com.
 
 [Saznajte više o kodu Mover](https://go.microsoft.com/fwlink/?linkid=2132453).
 
-Saznajte više o dodatnim metodama za premeštanje datoteka koje skladištite u usluzi [Microsoft OneDrive](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) ili drugim uslugama skladištenja datoteka zasnovanih na oblaku u OneDrive for Business u usluzi Office 365.
+Saznajte više o dodatnim metodama za premeštanje datoteka koje skladištite u sistemu [Microsoft OneDrive](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) ili drugim uslugama skladišta datoteka zasnovanim na oblaku u OneDrive for Business u Office 365.

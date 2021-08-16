@@ -1,5 +1,5 @@
 ---
-title: Pronalaženje i oporavak nestale ili izbrisane e-pošte, događaja iz kalendara ili kontakata
+title: Pronalaženje i oporavak e-pošte, događaja iz kalendara ili kontakata koji nedostaju ili su izbrisani
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: b7ad905df95526547b9247162a35f1a5c62cdda6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e91a27bebcd10e1cbeb3635a59fbb6bfe8fdf33db1d21e094794fc82d9f0e608
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983251"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Pronalaženje i oporavak nestale ili izbrisane e-pošte, događaja iz kalendara ili kontakata u programu Outlook na vebu
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Pronalaženje i oporavak e-pošte, događaja iz kalendara ili kontakata koji nedostaju ili su izbrisani u Outlook na vebu
 
-- U aplikaciji pošta koristite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Traka **za pretragu** na vrhu stranice za [pretraživanje poruka ili kontakata](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
+- U pošti koristite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Traka** za pretragu na vrhu stranice za [traženje poruka ili kontakata](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
 
 - U kalendaru koristite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Traka **za pretragu** na vrhu stranice da biste [tražili događaje pomoću reči, imena ili fraze](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477). Ako imate više od jednog kalendara otvorenog, pretraga će biti usmerena na kalendar koji je trenutno izabran.
+ **Traka** za pretragu na vrhu stranice za [traženje događaja pomoću reči, imena ili fraze](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477). Ako je otvoreno više kalendara, pretraga će se fokusirati na kalendar koji je trenutno izabran.
 
-- Ako slučajno izbrišete poruku, događaj kalendara ili kontakt, možete da [oporavite te stavke ako su i dalje u fasciklama "Izbrisane stavke" ili "Neželjena pošta](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)".
+- Ako slučajno izbrišete poruku, događaj iz kalendara ili kontakt, te stavke možete da oporavite ako se i dalje nalazite u fasciklama "Izbrisane stavke" ili "Neželjena [e-pošta".](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)

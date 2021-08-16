@@ -1,5 +1,5 @@
 ---
-title: Prvi koraci uz usaglašenost komunikacije
+title: Započinjanje uz usaglašenost komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 704091ede595bfa7e721f8059241825daddb20db
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034696"
 ---
-# <a name="get-started-with-communication-compliance"></a>Prvi koraci uz usaglašenost komunikacije
+# <a name="get-started-with-communication-compliance"></a>Započinjanje uz usaglašenost komunikacije
 
-Pre nego što počnete, vaša organizacija mora imati jednu od sledećih pretplata ili dodataka:
+Pre nego što počnete, vaša organizacija mora da ima jednu od sledećih pretplata ili dodatak:
 
-* Microsoft 365 E5 pretplata (plaжena ili probna verzija)
-* Microsoft 365 E3 pretplata + Microsoft 365 E5 dodatak usaglašenosti
-* Microsoft 365 E3 pretplata + Microsoft 365 E5 Insider Management
-* Microsoft 365 a5 pretplata (plaжena ili probna verzija)
-* Microsoft 365 a3 pretplata + Microsoft 365 a5 programski dodatak usaglašenosti
-* Microsoft 365 a3 pretplata + Microsoft 365 a5 Insider Management
-* Microsoft 365 G5 pretplata (plaжena ili probna verzija)
-* Microsoft 365 G5 pretplata + Microsoft 365 G5 dodatak usaglašenosti
-* Microsoft 365 G5 pretplata + Microsoft 365 G5 Insider Management
-* Office 365 Enterprise E5 (plaćen ili probna verzija)
-* Office 365 Enterprise E3 (pretplata + Office 365 napredni programski dodatak usaglašenosti (više nije dostupan za nove pretplate, pogledajte članak napomena)
+* Microsoft 365 E5 pretplatu (plaćena ili probna verzija)
+* Microsoft 365 E3 + Microsoft 365 E5 Compliance programski dodatak
+* Microsoft 365 E3 + dodatak Microsoft 365 E5 Insider Risk Management
+* Microsoft 365 A5 pretplatu (plaćena ili probna verzija)
+* Microsoft 365 A3 + programski dodatak Microsoft 365 A5 Usaglašenost
+* Microsoft 365 A3 + dodatak Microsoft 365 A5 Insider Risk Management
+* Microsoft 365 G5 pretplata (plaćena ili probna verzija)
+* Microsoft 365 Pretplata na G5 + Microsoft 365 G5 usaglašenost
+* Microsoft 365 G5 pretplata + dodatni Microsoft 365 G5 Insider Risk Management
+* Office 365 Enterprise E5 pretplata (plaćena ili probna verzija)
+* Office 365 Enterprise E3 pretplata + Office 365 napredna usaglašenost programski dodatak (više nije dostupan za nove pretplate, pogledajte natpis)
 
     > [!NOTE]
-    > Ako nemate postojeći Office 365 Enterprise E5 plan i želite da pokušate Insider Management za rizik, možete da [dodate Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) u postojeću ili da se upišete za probnu verziju sistema Office 365 Enterprise E5.
+    > Ako nemate postojeći plan za Office 365 Enterprise E5, a želite da isprobate insajdersko upravljanje rizikom, možete da dodate Microsoft 365 u postojeću pretplatu ili se prijavite za probnu Office 365 Enterprise E5. [](https://go.microsoft.com/fwlink/?linkid=2130508)

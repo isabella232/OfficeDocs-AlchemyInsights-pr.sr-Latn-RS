@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051608"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Deljenje datoteka u usluzi OneDrive sa osobama izvan organizacije
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Deljenje datoteka u OneDrive sa osobama izvan organizacije
 
-1. Koristite pokretanje aplikacija da biste išli u OneDrive u Veb pregledaču. 
+1. Koristite pokretanje aplikacija da biste OneDrive u veb pregledaču. 
     
-2. Izaberite datoteku ili fasciklu koju želite da delite, a zatim izaberite stavku **deli**. 
+2. Izaberite datoteku ili fasciklu koju želite da delite, a zatim izaberite **stavku Deli**. 
     
-3. Ako je tip veze podešen na "osobe u programu" \<your organization\> , kliknite na strelicu nadole i izaberite jednu od sledećih opcija: 
+3. Ako je tip veze postavljen na opciju "Osobe u ", kliknite na \<your organization\> strelicu nadole i izaberite nešto od sledećeg: 
     
-  - **Svako** daje pristup svima koji primaju ovu povezanost, da li je primaju direktno od vas ili prosleđene iz nekog drugog. To može da ukljucuje osobe izvan vaše organizacije. 
+  - **Svako** omogućava pristup svakome ko dobije ovu vezu, bilo da su je primili direktno od vas ili im je vezu prosledio neko drugi. To može da obuhvata osobe izvan vaše organizacije. 
     
-  - **Određene osobe** daju pristup samo osobama koje navedete, iako drugim osobama možda već imaju pristup. Ako ljudi prosleđuje poziv za deljenje, samo će osobe koje imaju pristup stavci moći da koriste tu povezanost. 
+  - **Određene osobe** omogućava pristup samo osobama koje ste naveli, mada druge osobe možda već imaju pristup. Ako osobe proslede poziv za deljenje, samo osobe koje već imaju pristup stavci moći će da koriste vezu. 
     
     > [!NOTE]
-    > Ako jedna od ovih opcija nije dostupna ili ako želite da se neki drugi tip veze podrazumevano pojavi, možete da promenite postavke širom organizacije tako što ćete otići u OneDrive centar administracije i izabrati stavku **Deljenje** u levom oknu. [uči više](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ako jedna od ovih opcija nije dostupna ili ako želite da se podrazumevano pojavi drugi tip veze, možete da promenite postavke  na celom organizaciji tako što ćete otvoriti OneDrive centar za administracionu organizaciju i izabrati stavku Deljenje u levom oknu. [uči više](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. **Uređivanje** je podrazumevano uključeno. Ako želite da ljudi vide samo datoteke, opozovite izbor u polju za potvrdu. 
+4. Opcija Dozvoli uređivanje podrazumevano **je** uključena. Ako želite da ljudi samo prikazuju datoteke, poništite izbor u polju za potvrdu. 
     
-5. Ako želite, unesite imena osoba sa kojima želite da delite i poruku.
+5. Unesite imena ljudi sa kojima želite da delite i poruku, ako želite.
     
 6. Kada budete spremni da pošaljete vezu, kliknite na dugme **Pošalji**. 
     

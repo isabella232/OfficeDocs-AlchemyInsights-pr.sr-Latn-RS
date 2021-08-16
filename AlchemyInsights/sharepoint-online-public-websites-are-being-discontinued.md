@@ -1,5 +1,5 @@
 ---
-title: Nije bilo nastavka SharePoint online javnih veb sajtova
+title: SharePoint Javne veb lokacije na mreži se obustavljaju
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051284"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Nije bilo nastavka SharePoint online javnih veb sajtova
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Javne veb lokacije na mreži se obustavljaju
 
-Ako ste kreirali SharePoint online javnu Veb lokaciju, možete da nastavite da je koristite do 2018 31. Ako želite da nastavite sa javnom Veb lokacijom, morate da kreirate novu pomoću novog dobavljača. Sadržaj na SharePoint online javnoj Veb lokaciji će biti izbrisan, tako da morate da kopirate sadržaj koji želite da zadržite.
+Ako ste kreirali veb lokaciju SharePoint Online, možete da nastavite da je koristite do 31. marta 2018. Ako i dalje želite da imate javni veb sajt, morate da kreirate novi kod novog dobavljača. Sadržaj na vašoj SharePoint online javnoj veb lokaciji biće izbrisan, tako da morate da kopirate bilo koji sadržaj koji želite da zadržite.
   
-Reklamni natpis se sada pojavljuje na vrhu SharePoint online javne Veb lokacije kao obaveštenje da će se lokacija ukloniti. Ne možete da isključite ovu zastavu. Informacije o čuvanju i kopiranju sadržaja na Veb lokaciji partnera potražite [u članku detalji o procesu prekida funkcije](https://go.microsoft.com/fwlink/?linkid=866980).
+Baner se sada pojavljuje u vrhu javne SharePoint na mreži kao obaveštenje da će lokacija biti uklonjena. Ne možete da isključite ovaj baner. Informacije o čuvanju i kopiranju sadržaja na veb lokaciji partnera potražite u članku Detalji o [procesu obustavljanja funkcije.](https://go.microsoft.com/fwlink/?linkid=866980)
   

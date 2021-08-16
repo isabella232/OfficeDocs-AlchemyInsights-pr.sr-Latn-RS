@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Defender
+title: Microsoft 365 zaštitnik
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026812"
 ---
-# <a name="microsoft-365-defender"></a>Microsoft 365 Defender
+# <a name="microsoft-365-defender"></a>Microsoft 365 zaštitnik
 
-- [MTP pregled](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [Pregled MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Preduslovi](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Zahtevi za licencu](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Kako-da omogućite MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [MTP rešavanje problema](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Zahtevi licence](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Kako da omogućite MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Rešavanje problema sa MTP-om](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Kako da potvrdite izbor u polju za licencu: potreban vam je dodeljen administrator naplate ili uloga globalnog čitača u usluzi Azure AD da biste prikazali licencu. Idite u [Centar administracije](https://admin.microsoft.com/) i idite na licence **naplate**  >  **Licenses** da biste videli postojeće licence.
+Kako da proverite licenciranje: Da biste prikazali licencu, morate da vam dodelite ulogu "Azure AD" ili "Globalni čitač" u programu Azure AD. Idite u [centar administarcije](https://admin.microsoft.com/) i idite na licence za  >  **naplatu** da biste prikazali postojeće licence.
