@@ -1,5 +1,5 @@
 ---
-title: Daljinski rešite probleme sa sistemom Windows 10 uređajima na dodatnu zaštitu pretnje u usluzi Microsoft Defender
+title: Daljinsko rešavanje problema sa Windows 10 uređaja u Microsoft zaštitnik Napredna zaštita od pretnji
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034048"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Daljinski rešite probleme sa sistemom Windows 10 uređajima na dodatnu zaštitu pretnje u usluzi Microsoft Defender
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Daljinsko rešavanje problema sa Windows 10 uređaja u Microsoft zaštitnik Napredna zaštita od pretnji
 
-Ako možete da pristupite udaljenom računaru, slijedite ove korake:
+Ako možete da pristupite udaljenom računaru, sledite ove korake:
 
-1. Preuzmite dijagnostičku alatku za [Povezivanje klijenata](https://go.microsoft.com/fwlink/?linkid=2143466) .
-2. Izdvajanje i pokreće Mdatpanalycer. cmd.
-3. Pronađite evidenciju dijagnostike u MDATPClientAnalyzerResult fascikli, koja je ista fascikla u kojoj je preuzeta alatka analitička.
-4. Da biste pronašli probleme sa povezivanjem ili postavkama Internet proxy servera, pregledajte MDATPClientAnalyzer.txt datoteku evidencije.
+1. Preuzmite [dijagnostiku analizatora klijentskih](https://go.microsoft.com/fwlink/?linkid=2143466) povezivanja.
+2. Izdvajanje i pokretanje MDATPAnalyzer.cmd.
+3. Pronađite evidenciju dijagnostike u fascikli MDATPClientAnalyzerResult, koja je ista fascikla u kojoj je preuzeta alatka analyzer.
+4. Da biste pronašli probleme sa povezivanjem ili postavkama internet proxy servera, pregledajte datoteku evidencije MDATPClientAnalyzer.txt.
 
-Da biste saznali više, pogledajte članak [problemi sa onboarnim mašinama](https://go.microsoft.com/fwlink/?linkid=2143634).
+Da biste saznali više, pogledajte [problem sa mašinama za ulaženje u avion](https://go.microsoft.com/fwlink/?linkid=2143634).

@@ -1,5 +1,5 @@
 ---
-title: Primena procesa primene aplikacije
+title: Proces primene Aplikacije Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034444"
 ---
-# <a name="intune-app-deployment-process"></a>Primena procesa primene aplikacije
+# <a name="intune-app-deployment-process"></a>Proces primene Aplikacije Intune
 
-Primena aplikacija sa Intune prati proces ispod.
+Primena aplikacija uz Intune prati sledeći proces:
 
-- Dodavanjem aplikacije-možete da dodate aplikaciju prodavnice aplikacija ili da otpremite red poslovne aplikacije.
-- Dodeljivanje aplikacije – utvrđivanje opsega primene aplikacije.
-- Nadgledanje aplikacija – Prikažite status instalacije aplikacija, liste pronađene aplikacije i upravljajte aplikacijama kupljenim iz prodavnica aplikacija.
-- [Aplikacija je sprovela usluge Intune. Listu aplikacija koje podržavaju SDK potražite u članku Microsoft Intune zaštićene aplikacije](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Dodavanje aplikacije – Možete da dodate aplikaciju Iz prodavnice aplikacija ili da otpremite aplikaciju Line of Business.
+- Dodeljivanje aplikacije – Određivanje načina primene aplikacije.
+- Nadgledanje aplikacija – Prikaz statusa instalacije aplikacija, navode otkrivene aplikacije i upravljaju aplikacijama kupljenim u prodavnicama aplikacija.
+- [Aplikacija je primenila Intune SDK. Listu aplikacija koje podržavaju SDK, pogledajte Microsoft Intune zaštićene aplikacije.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Pročitajte više o primeni primene i upravljanju aplikacijama...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Pročitajte više o Intune primeni i upravljanju aplikacijama...](https://docs.microsoft.com/mem/intune/apps/app-management)

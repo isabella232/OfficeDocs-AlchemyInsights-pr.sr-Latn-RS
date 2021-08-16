@@ -1,5 +1,5 @@
 ---
-title: Dozvole potrebne za kreiranje nalepnica osetljivost i upravljanje njima
+title: Dozvole potrebne za kreiranje oznaka osetljivosti i upravljanje e-oznakama osetljivosti
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 51c4f60757bea997b68dbcb25d9dd36efd126228
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: ecca5fd33b1f4010013b85429f15c6c565493aa69c6488c5432a7bb29432f738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034228"
 ---
-# <a name="permissions-required-to-create-and-manage-sensitivity-labels"></a>Dozvole potrebne za kreiranje nalepnica osetljivost i upravljanje njima
+# <a name="permissions-required-to-create-and-manage-sensitivity-labels"></a>Dozvole potrebne za kreiranje oznaka osetljivosti i upravljanje e-oznakama osetljivosti
 
-Članovima tima za usaglašenost koji će kreirati oznake poverljivosti treba dozvole za Microsoft 365 centar za usaglašenost, Microsoft 365 Security Center ili centar za bezbednost & bezbednosti.
+Članovima tima za usaglašenost koji će kreirati oznake osetljivosti potrebne su dozvole za Microsoft 365 centar za usaglašenost, Microsoft 365 centar za bezbednost ili centar za & usaglašenost.
 
-Globalni administratori po podrazumevanoj vrednosti imaju pristup ovim administratorskim centrima i mogu da daju pristup oficirima za usaglašenost i drugim osobama bez davanja svih dozvola administratora zakupca. Za ovaj delegirani ograničeni Access pristup, sa stranice " **dozvole** ", dodajte korisnike u administrator za usaglašenost, administratora usaglašenosti ili grupi uloga administratora bezbednosti.
+Globalni administratori za vašeg zakupca podrazumevano imaju pristup ovim centrima administracije i mogu da daju pristup službenicima za usaglašenost i drugim osobama, bez pružanja svih dozvola administratoru zakupca. Za ovaj delegirani ograničeni administratorski pristup, na stranici Dozvole dodajte korisnike u grupu uloga administratora podataka za usaglašenost, administratora usaglašenosti ili administratora bezbednosti. 
 
-Više informacija potražite u članku [dozvole potrebne za kreiranje nalepnica osetljivost i upravljanje njima](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-sensitivity-labels).
+Dodatne informacije potražite u [temi Dozvole potrebne za kreiranje oznaka osetljivosti i upravljanje oznakama osetljivosti.](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-sensitivity-labels)

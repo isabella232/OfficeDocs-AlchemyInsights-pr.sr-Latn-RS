@@ -1,5 +1,5 @@
 ---
-title: Ponovno upisivanje uređaja
+title: Upisivanje uređaja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101964"
 ---
-# <a name="device-writeback"></a>Ponovno upisivanje uređaja
+# <a name="device-writeback"></a>Upisivanje uređaja
 
-Upisivanje uređaja se koristi u sledećim slučajevima:
+Upisivanje uređaja se koristi u sledećim scenarijima:
 
-- Omogućavanje [operativnog sistema Windows Helo za preduzeća pomoću hibridnog raspoređivanja poverenja](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Omogućavanje uslovnog pristupa na osnovu uređaja za ADFS (2012 R2 ili novije) zaštićene aplikacije (pouzdanu stranačku stranku)
+- Omogućavanje [Windows Hello za preduzeća pomoću primene pouzdanosti hibridnog certifikata](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Omogućavanje uslovnog pristupa na osnovu uređaja u ADFS (2012 R2 ili noviju) zaštićene aplikacije (pouzdane nezavisne vesti)
 
     > [!NOTE]
-    > Pretplata na Azure AD Premium je neophodna za ponovno upisivanje uređaja.
+    > Za pisanje uređaja potrebna Premium Azure AD pretplata.
 
-Ovo pruža dodatnu bezbednost i garanciju da se pristup aplikacijama odobrava samo pouzdanim uređajima. Više informacija o uslovnom pristupu potražite u članku [upravljanje rizikom pomoću uslovnog pristupa](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) i [Podešavanje lokalnog uslovnog pristupa pomoću usluge Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview).
+To pruža dodatnu bezbednost i garanciju da će pristup aplikacijama biti dodeljen samo pouzdanim uređajima. Dodatne informacije o uslovnom pristupu potražite u temi Upravljanje rizikom pomoću uslovnog pristupa i Podešavanje Azure Active Directory [registracije uređaja.](https://docs.microsoft.com/azure/active-directory/devices/overview) [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-Više informacija o omogućavanju upisivanja uređaja za uređaje potražite u članku [Omogućavanje upisivanja uređaja](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Dodatne informacije o omogućavanju pisanje uređaja za uređaje potražite u temi Omogućavanje [upisavanja uređaja.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
