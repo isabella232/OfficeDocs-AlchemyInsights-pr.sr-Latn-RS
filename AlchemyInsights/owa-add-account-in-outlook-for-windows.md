@@ -1,5 +1,5 @@
 ---
-title: Dodavanje programa Outlook na Veb nalogu u programu Outlook za Windows
+title: Dodajte Outlook na vebu nalog u Outlook za Windows
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,21 +10,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdb570c354c10798471eff282628b04400ad33abc9daea0abce6cb4bcc55e41d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671314"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010702"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Dodavanje programa Outlook na Veb nalogu u programu Outlook
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Dodajte Outlook na vebu nalog u Outlook
 
-Ovi koraci su isti bilo da dodajete prvi nalog e-pošte ili dodatne naloge e-pošte u Outlook.
+Ovi koraci su isti bez obzira na to da li dodajete prvi nalog e-pošte ili dodatne naloge e-pošte Outlook.
 
-1. Izaberite **stavku**  >  **Dodaj nalog**.
-1. Ono što vidite dalje zavisi od vaše verzije programa Outlook:
-    - Za **Outlook za Office 365** i **Outlook 2016**, unesite e-adresu i kliknite na dugme **Poveži**se.
-    - Za **outlook 2013** i **Outlook 2010**unesite svoje ime, e-adresu i lozinku i kliknite na dugme **dalje**.
-1. Ako vam bude zatraženo, ponovo unesite lozinku, a zatim kliknite na **dugme u redu**  >  **Finish** da biste počeli da koristite nalog e-pošte u programu Outlook.
+1. Izaberite **stavku**  >  **Dodaj nalog datoteke**.
+1. Ono što vidite sledeće zavisi od verzije programa Outlook:
+    - Na **Outlook adresu Office 365** i **Outlook 2016**, unesite adresu e-pošte i kliknite na dugme **Povezivanje.**
+    - Za **Outlook 2013** i **Outlook 2010,** unesite ime, adresu e-pošte i lozinku, a zatim kliknite na **dugme Dalje.**
+1. Ako se to od vas zatraži, ponovo unesite lozinku, a zatim kliknite na dugme **U redu** Završi da biste počeli da koristite  >   nalog e-pošte u programu Outlook.
 
-Više informacija potražite u članku [Dodavanje naloga e-pošte u Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).
+Dodatne informacije potražite u [temi Dodavanje naloga e-pošte Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)

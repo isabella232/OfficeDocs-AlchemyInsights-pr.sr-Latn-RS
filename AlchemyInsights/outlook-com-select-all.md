@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010810"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>Kako da "izaberem sve" u Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>Kako da "izaberete sve" na Outlook.com
 
-Možete da izaberete samo ako su sve poruke vidljive. Ovo je sprečavanje slučajnih radnji na porukama koje ne možete da vidite.
+Možete izabrati sve samo ako su sve poruke vidljive. Na ovaj način sprečavate slučajne radnje na porukama koje ne možete da vidite.
 
-**Pritiskom na kombinaciju tastera CTRL + izaberite** više pojedinačnih poruka.
+**Pritiskom na kombinaciju tastera CTRL +** klik bira se više pojedinačnih poruka.
 
-**SHIFT +** SELECT SELECT bira sve poruke između prve i poslednje poruke koju izaberete.
+**Taster SHIFT + klik** bira sve poruke između prve i poslednje poruke koju izaberete.
