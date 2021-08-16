@@ -1,5 +1,5 @@
 ---
-title: Kreiranje poštanskog sandučeta arhive
+title: Kreiranje arhivnog poštanskog sandučeta
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7c97232417175178031213c1050d224fcb86e9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6ff41f9f5b890c968483718544c5b4961397b37b144bb14ea1451d7aac24ebb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017326"
 ---
-# <a name="create-an-archive-mailbox"></a>Kreiranje poštanskog sandučeta arhive
+# <a name="create-an-archive-mailbox"></a>Kreiranje arhivnog poštanskog sandučeta
 
-Arhiviranje poštanskih sandučića pruža korisnicima dodatni prostor za skladištenje e-pošte. Korisnici mogu da pomeraju ili kopiraju stavke u poštansko sanduče arhive, a administratori mogu da kreiraju smernice za arhiviranje koje automatski pomeraju stavke da bi arhiviraju Poštanske sandučiće. Evo kako da kreirate poštansko sanduče arhive:
+Arhivski poštanski sandučići pružaju korisnicima dodatni prostor za skladištenje e-pošte. Korisnici mogu da premeštaju ili kopiraju stavke u svoje arhivski poštanski sandučić, a korisnici mogu da kreiraju smernice za arhiviranje koje automatski premeštaju stavke u arhive poštanskih sandučića. Evo kako da napravite arhivski poštanski sandučić:
 
-1. Idite u [Centar za bezbednost & bezbednosti]( https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Odaberite **arhivu upravljanja podacima**  >  .
-3. Izaberite korisnika čije arhiviranje poštanskog sandučeta želite da omogućite, a zatim u oknu sa detaljima sa desne strane izaberite stavku **Omogućavanje** , a zatim u okviru poruka upozorenja kliknite na dugme **da** .
-4. Arhiviranjem arhivskih poštanskih sandučića takođe možete da razradite tako što ćete izabrati više korisnika (koristite **SHIFT** ili **Ctrl** ), a zatim kliknuti na dugme **Omogućavanje** u oknu sa detaljima.
-5. Posle nekoliko minuta, nova fascikla će se pojaviti u Outlook aplikaciji korisnika koja se zove *arhiva na mreži <`name` >*. U programu Outlook na vebu se zove *arhiv*.
-6. Recite korisniku da prevucite i otpustite e-poštu u arhivu.
+1. Idite u centar za [& usaglašenost.]( https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Odaberite **Arhiva za upravljanje**  >  **podacima**.
+3. Izaberite korisnika čije arhivski poštansko sanduče želite da omogućite,  a zatim  u oknu sa detaljima sa desne strane izaberite stavku Omogući, a zatim kliknite na dugme Da u okviru sa porukom upozorenja.
+4. Možete i masovno da omogućite arhivske poštanske sandučiće tako što ćete  izabrati više korisnika (pomoću **tastera Shift** ili **Ctrl** tastera), a zatim izabrati stavku Omogući u oknu sa detaljima.
+5. Nakon nekoliko minuta, pojaviće se nova fascikla u aplikaciji za Outlook koja se zove Arhiva na mreži *– <. `name` >* In Outlook na vebu it's called *In-Place Archive*.
+6. Recite korisniku da prevuče i otpusti e-poruku u arhivu.
