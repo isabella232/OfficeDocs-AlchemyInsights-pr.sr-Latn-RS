@@ -1,5 +1,5 @@
 ---
-title: 1800021 kako da kreirate pravilo u programu Outlook za Mac
+title: 1800021 Kako kreirati pravilo u programu Outlook za Mac
 ms.author: supravee
 author: supravee
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e83453ed21348cc723b25bbf071709363d1eeaf2efda5e630c6431f62d348037
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015742"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kako da kreirate pravilo u programu Outlook za Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kreiranje pravila u programu Outlook za Mac
 
-1. Da biste kreirali fasciklu za držanje e-poruka poslatih po pravilu, izaberite osnovno poštansko sanduče, na kartici **Organizovanje** , izaberite stavku **Nova fascikla**, otkucajte ime fascikle i pritisnite taster ENTER.
+1. Da biste kreirali fasciklu za čuvanje e-poruka koje je poslalo pravilo, izaberite osnovno poštansko sanduče, na kartici Organizovanje izaberite stavku Nova fascikla, otkucajte ime **fascikle** i pritisnite taster Enter.
 
-2. Na listi poruka izaberite e-poruku za koju želite da o kreirate pravilo.
+2. Na listi poruka kliknite na e-poruku za koju želite da kreirate pravilo.
 
-3. Na kartici **Početak** izaberite stavku **pravila**, a zatim izaberite stavku **Kreiraj pravilo**.
+3. Na **kartici Početak** izaberite stavku **Pravila,** a zatim izaberite **stavku Kreiraj pravilo.**
 
-4. U okviru **kada nova poruka stigne** na uređivanje kriterijuma za vaše potrebe. 
+4. U **okviru Kada stigne nova poruka uredite** kriterijume tako da odgovaraju vašim potrebama. 
 
-Detaljna uputstva o kreiranju prilagođenih pravila potražite u članku [Kreiranje pravila u programu Outlook za Mac](https://aka.ms/AA1uy0v)
+Detaljna uputstva o kreiranju prilagođenih pravila možete da vidite u Outlook [za Mac](https://aka.ms/AA1uy0v)
   

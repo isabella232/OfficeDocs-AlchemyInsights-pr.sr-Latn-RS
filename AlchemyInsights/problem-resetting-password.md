@@ -1,5 +1,5 @@
 ---
-title: Problem pri ponovnom podešavanju lozinke
+title: Problem sa poništavanje lozinke
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,65 +13,65 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039980"
 ---
-# <a name="problems-resetting-password"></a>Problemi pri ponovnom podešavanju lozinke
+# <a name="problems-resetting-password"></a>Problemi sa poništavanje lozinke
 
-Slede neki od problema sa kojima možete da se suoиite prilikom ponovnog podešavanja lozinke i mogućih rešenja:
+U nastavku slede neki od problema sa kojima se možete suočiti prilikom poništavanja lozinke i do mogućih rešenja:
 
-**Imam problem sa poništavanju lozinke koje nisu obuhvaćene drugim kategorijama**
+**Imam problem sa poništavanje lozinke koje nije pokriveno u drugim kategorijama**
 
-- Uverite se da ste ovlašćeni za poništavanje lozinki. Samo globalna, lozinka i administratori administratora mogu da resetuju korisničke lozinke. Globalni administratori mogu da resetuju i druge privilegovane administratorske lozinke.
-- Uverite se da razumete zahteve licenciranja:
-    - Morate imati bar jednu licencu dodeljenu u organizaciji
-        - Samo oblaci korisnici – bilo koji Office 365 (O365) plaćeni MJ ili Azure AD Basic
-        - Cloud i/ili lokalno korisnici – Azure AD Premium P1 ili P2, Enterprise mobilnost + Security (EMS) ili bezbedno preduzeće (SPE)
-        - Da biste pročitali više o zahtevima licenciranja pogledajte [zahteve za licenciranje članaka za Azure AD samouslužno poništavanje lozinke](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Uverite se da ste ovlašćeni za poništavanje lozinki. Samo globalni, lozinka i administratori korisnika mogu da ponište korisničke lozinke. Globalni administratori takođe mogu da ponište lozinke drugih privilegovanih administratora.
+- Uverite se da razumete zahteve za licenciranje:
+    - Morate imati dodeljenu najmanje jednu licencu u organizaciji
+        - Samo korisnici u oblaku – Svi Office 365 (O365) plaćeni SKU ili Azure AD Basic
+        - Oblak i/ili korisnici – Azure AD Premium P1 ili P2, Enterprise Mobility + Security (EMS) ili Secure Productive Enterprise (SPE)
+        - Da biste pročitali više o zahtevima za licenciranje, pogledajte članak Zahtevi licenciranja za samouslužno poništavanje lozinke za [Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Imam problema sa ispitivanjem smernica za poništavanje lozinke koju sam podesio**
+**Imam problema sa testiranjem smernica za poništavanje lozinke koje postavim**
 
-- Nedavno zatvorene smernice mogu potrajati nekoliko minuta radi replikaciju u svim centrima podataka i krajnjim tačkama. Fizički razdaljina iz centra za podatke će takođe uticati na primenu primene promena.
-- Testiranje sa krajnjim korisnikom, ne administratorom i pilotu sa malim skupom korisnika. Smernice podešene na Azure portovi primenjuju se samo na krajnje korisnike, ne na administratore. Microsoft obavezuje podrazumevane smernice za poništavanje lozinke sa dve kapije za bilo koju Azure administratorsku ulogu (primer: globalni administrator, HelpDesk administrator, administrator lozinki itd.)
-    - Saznajte više o [smernicama za administratore](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences).
+- Nedavno primenjene smernice može potrajati nekoliko minuta da se replicira u svim centrima podataka i krajnjim tačkama. Fizička udaljenost od centra podataka utiče i na brzinu primene promena.
+- Testirajte sa krajnjim korisnikom, ne sa administratorom i isprobajte ga sa malim skupom korisnika. Smernice konfigurisane na Azure portalu važe SAMO za krajnje korisnike, a ne za administratore. Microsoft nalaže jake smernice za poništavanje lozinke sa dva mrežna prolaza za svaku ulogu administratora usluge Azure (primer: Globalni administrator, administrator tehničke podrške, administrator lozinke itd.)
+    - Saznajte više [o smernicama za administratore.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 
-**Želim da pokrenem poništavanje lozinke, ali ne želim da moji korisnici registruju dodatne bezbednosne informacije**
+**Želim da primenim poništavanje lozinke, ali ne želim da korisnici registruju dodatne bezbednosne informacije**
 
-Unapred popunjavate podatke za korisnike tako da ne moraju! -Kao administrator možete da postavite svojstva telefona i e-pošte za korisnike pre nego što izazovete poništavanje lozinki na organizaciju. To možete da uradite koristeći API, PowerShell ili Azure AD Connect. Više informacija potražite u člancima:
-- [Primena početne vrednosti poništavanja bez potrebe korisnika da se registruju](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
-- [Koje podatke koristi poništavanje lozinke](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+Unapred popunite podatke za korisnike kako oni to ne bi morali! – Kao administrator možete da podesite svojstva telefona i e-pošte za korisnike pre nego što u vašoj organizaciji postavite poništavanje lozinke. To možete da uradite pomoću API-ja, programa PowerShell ili Azure AD Povezivanje. Više informacija potražite ovde:
+- [Primena poništavanja lozinke bez korisnika koji moraju da se registruju](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
+- [Koje podatke poništavanje lozinke koristi](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Dugme "poništi lozinku" je premačeno**
+**Dugme za poništavanje lozinke je zasićeno**
 
-Nemate dozvolu da poništite lozinke ovog korisnika. Samo globalna, lozinka i administratori administratora mogu da resetuju korisničke lozinke. Globalni administratori mogu da resetuju i druge privilegovane administratorske lozinke.
+Niste ovlašćeni da poništite lozinke ovog korisnika. Samo globalni, lozinka i administratori korisnika mogu da ponište korisničke lozinke. Globalni administratori takođe mogu da ponište lozinke drugih privilegovanih administratora.
 
-**Ne vidim nož za poništavanje lozinke**
+**Ne vidim blejd za poništavanje lozinke**
 
-Nemate dozvolu da poništite lozinke. Samo globalna, lozinka i administratori administratora mogu da resetuju korisničke lozinke. Globalni administratori mogu da resetuju i druge privilegovane administratorske lozinke.
+Niste ovlašćeni za poništavanje lozinki. Samo globalni, lozinka i administratori korisnika mogu da ponište korisničke lozinke. Globalni administratori takođe mogu da ponište lozinke drugih privilegovanih administratora.
 
-**Ne mogu da vidim lokalnu oљtricu za integraciju u polju za poništavanje lozinke**
+**Ne vidim besmisleni blejd integracije u poništavanje lozinke**
 
-- Oљtrica lokalno integracije se pojavljuje samo u hibridne okruženja – što znači da koristite ispravnu lozinku za manipulisanje lozinkama korisnika.
-- Ne vidite ovaj nož ako:
-    - Ne koristite ponovno upisivanje lozinki
-    - Postoji problem sa instalacijom/povezivanjem lozinke za poništavanje lozinki
-    - Postoji problem sa instalacijom/povezivanjem Azure AD Connect
-    - Više koraka za rešavanje problema sa lozinkama pri vraćanju lozinki potražite u odeljku [Rešavanje problema sa lozinkom](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support) ispravkom
+- Blejd integracije se pojavljuje samo u hibridnim okruženjima – što znači da koristite pisanje lozinkom da biste manipulisali lozinkama korisnika.
+- Ovaj blejd ne vidite ako:
+    - Ne koristite pisanje lozinkom
+    - Došlo je do problema sa instalacijom/povezivanjem za upisivanja lozinke
+    - Postoji problem sa instalacijom/povezivanjem Azure AD Povezivanje
+    - Za više koraka za rešavanje problema sa pisanjem lozinke, pogledajte odeljak Rešavanje problema [sa pisanjem lozinke](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Ne znam kako da poništim lozinku korisnika**
 
-1. Prijavite se na Azure portal kao odgovarajući administrator.
-1. Idite na Blade za korisnike i grupe, izaberite stavku **Svi korisnici**.
+1. Prijavite se na Azure portal kao odgovarajući portal.
+1. Idite na blejd Korisnici i grupe i izaberite stavku **Svi korisnici.**
 1. Izaberite korisnika sa liste.
-1. Za izabranog korisnika, izaberite stavku **Pregled**, a zatim na komandnoj traci kliknite na dugme **Poništi lozinku**.
-1. Izvršite uputstva na ekranu.
-    - Samo resetima koji se izvršavaju putem Azure portala podržavaju ponovno upisivanje lozinki.
+1. Za izabranog korisnika izaberite **stavku** Pregled , a zatim na komandnoj traci izaberite stavku Poništi **lozinku.**
+1. Sledite uputstva na ekranu.
+    - Samo poništavanje izvršeno putem upisa lozinke za Azure portal.
 
-**Resetovao sam lozinku lokalnog korisnika sa Office 365 portala administracije ili Office 365 mobilnog aplikacije, ali korisnik i dalje ne može da se prijavi**
+**Poništavam lozinku korisnika u Office 365 administracija portalu ili Office 365 aplikaciji za mobilne uređaje, ali korisnik i dalje ne može da se prijavi**
 
-Povratni lozinku nije podržan na ovom portalu. Ponovo poništite lozinku korisnika u Azure portalu – portal.azure.com
+Pisanje lozinkom nije podržano na ovom portalu. Ponovo poništite lozinku korisnika na Azure portalu – portal.azure.com
 

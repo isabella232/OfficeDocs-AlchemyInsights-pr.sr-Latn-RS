@@ -1,5 +1,5 @@
 ---
-title: Sprečavanje Microsoft pretrage u usluzi Bing da se instalira pomoću Microsoft 365 aplikacija
+title: Sprečavanje Microsoft Search in bing instalacionim programom za Microsoft 365 aplikacije
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040124"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Sprečavanje Microsoft pretrage u usluzi Bing da se instalira pomoću Microsoft 365 aplikacija
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Sprečavanje Microsoft Search in bing instalacionim programom za Microsoft 365 aplikacije
 
-Da biste sprečili instalaciju usluge Microsoft Search u usluzi Bing pomoću usluge Microsoft 365 Apps za Enterprise, koristite neku od sledećih opcija:
+Da biste sprečili pozadinsku uslugu za Microsoft Search u usluzi Bing pomoću programa Microsoft 365 Apps za preduzeće, koristite jednu od sledećih opcija:
 
-- Alatka za primenu sistema Office ili smernica grupe
-- Upravljač konfiguracije Microsoft krajnjeg zareza (trenutna grana) ili Microsoft Intune
+- Alatka Kancelarija za primenu ili smernice grupe
+- Microsoft Endpoint Configuration Manager (aktuelna grana) ili Microsoft Intune
 
-Da biste saznali više, pogledajte [Kako da sprečite da se Microsoft Search u usluzi Bing instalira pomoću microsoft 365 aplikacija za Enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).
+Da biste saznali više, pogledajte kako da sprečite da se usluga u pozadini Microsoft Search u [usluzi Bing instalira sa aplikacijom Microsoft 365 Apps za preduzeće.](https://go.microsoft.com/fwlink/?linkid=2151946)

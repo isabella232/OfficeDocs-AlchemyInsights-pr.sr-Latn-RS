@@ -1,5 +1,5 @@
 ---
-title: 204 kako da pronađete stavku nedostaje ili oporavljate nestalu Outlook poštu, kalendar ili kontakte
+title: 204 Kako da pronađete ili oporavite poruke koje nedostaju Outlook pošte, kalendara ili kontakata
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029170"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kako da pronađete i spasete nestale poruke, kontakte ili stavke kalendara koje nedostaje u programu Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kako pronaći i oporaviti poruke, kontakte ili kalendarske stavke u programu Outlook
 
-1. U programu Outlook idite na listu fascikli e-pošte, a zatim izaberite stavku **Izbrisane stavke**. **Važno**: ako ne vidite fasciklu " **Izbrisane stavke** ", ali umesto toga vidite fasciklu " **smeće** ", nalog ne podržava oporavku stavke koja se više ne nalazi u fascikli " **Izbrisane stavke** ".
+1. Na Outlook, idite na listu fascikli e-pošte, a zatim izaberite **stavku Izbrisane stavke**. **Važno:** Ako ne vidite  fasciklu "Izbrisane stavke", već umesto toga vidite fasciklu "Smeće", vaš nalog ne podržava oporavak stavke koja se više ne nalazi u fascikli "Izbrisane  stavke". 
 
-2. U meniju **Početak** izaberite stavku **spasavanje izbrisanih stavki sa servera**. **Važno**: ako u meniju ne postoji komanda " **oporavi izbrisane stavke** ", nalog ne podržava oporavljanje stavke koja se više ne nalazi u fascikli " **Izbrisane stavke** ".
+2. U **meniju "Početne"** izaberite **stavku "Oporavi izbrisane stavke sa servera".** **Važno:** Ako u meniju ne postoji komanda Oporavi izbrisane stavke sa **servera,** vaš nalog ne podržava oporavljanje stavke koja se više ne nalazi u fascikli "Izbrisane **stavke".**
 
-3. Izaberite stavke koje želite da oporavite, izaberite stavku **Vrati izabrane stavke**, a zatim kliknite na dugme **u redu**.
+3. Izaberite stavke koje želite da oporavite, izaberite stavku Vrati **izabrane stavke** u prethodno stanje , a zatim kliknite na dugme **U redu.**
 
-**Gde se oporavljene stavke odlaze?** Kada oporavite stavke iz fascikle "stavke koje se mogu spasti," one se premeštaju u fasciklu " **Izbrisane stavke** ". Kada oporavite stavku, možete da je pronađete u fascikli " **Izbrisane stavke** ", a zatim je možete premestiti u drugu fasciklu.
+**Gde idu oporavljene stavke?** Kada oporavite stavke iz fascikle "Stavke koje mogu da se oporave", one se premeštaju u **fasciklu "Izbrisane stavke".** Kada oporavite stavku, možete je  pronaći u fascikli "Izbrisane stavke", a zatim možete da je premestite u drugu fasciklu.
 
-Možete da koristite i [problem sa slanjem, primavši ili pronalaženjem e-poruka alatke](https://aka.ms/SaRA-OutlookSendReceive) **na računaru**na kojoj utiče. Ova alatka će provjeriti brojne probleme i predložiti moguća rešenja.
+Takođe možete da koristite alatku [za slanje,](https://aka.ms/SaRA-OutlookSendReceive) prijem ili pronalaženje e-poruka na računaru na koji **to utiče.** Ova alatka će proveriti da li ima više problema i predložiće moguća rešenja.
