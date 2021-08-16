@@ -10,27 +10,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28ebe2b1375b142ca63dc686c7afbbe88abfd539a93780cff3861f80de40b411
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021862"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Rešenja za probleme u vezi sa instaliranjem sistema Office na serveru terminala
 
-Da biste koristili aktivaciju deljenog računara, morate imati pretplatu koja uključuje Microsoft 365 aplikacije za preduzeća.
+Da biste koristili aktivaciju deljenog računara, morate imati pretplatu koja uključuje Microsoft 365 Apps za preduzeće.
   
 - Potvrda da je omogućena aktivacija deljenog računara
 - Potvrdite da je aktivacija uspela
 - Pregledajte poruke o grešci za aktivaciju deljenog računara:
-- "Proizvodi koje smo pronašli na vašem nalogu ne mogu da se koriste za aktiviranje sistema Office u scenarijima deljenog računara"
+- "Proizvodi koje smo pronašli na vašem nalogu ne mogu da se koriste za Kancelarija u scenarijima deljenog računara"
   
-Ova greška znači da nemate pretplatu koja uključuje Microsoft 365 aplikacije za velika preduzeća.
+Ova greška znači da nemate pretplatu koja uključuje Microsoft 365 Apps za preduzeće.
 
 "Nelicencisani proizvod"
 
-- Proverite da li je korisniku dodeljena licenca za Microsoft 365 aplikacije za preduzeća.
+- Proverite da li mu je dodeljena licenca za Microsoft 365 Apps za preduzeće.
 - Proverite da li se korisnik prijavio na svoj korisnički nalog.
 - Proverite da li postoji veza između deljenog računara i interneta.
 

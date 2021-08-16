@@ -1,5 +1,5 @@
 ---
-title: Popravljanje Microsoft 365 aplikacija Žao nam je, imamo poruku o privremenim problemima sa serverom
+title: Popravljanje Microsoft 365 aplikacije Žao nam je, imamo poruku o privremenim problemima sa serverom
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021610"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Rešavanje poruke "Žao nam je, imamo privremene probleme sa serverom" za Microsoft 365 aplikacije
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Popravljanje Microsoft 365 aplikacije "Žao nam je, imamo privremene probleme sa serverom"
 
 Ako primite ovu poruku, pokušajte sledeće:
 
@@ -29,7 +29,7 @@ Ako primite ovu poruku, pokušajte sledeće:
     - Automatsko podešavanje uređaja koji su povezani sa mrežom
     - Usluga "Lista mreža"
     - Svest o mrežnoj lokaciji
-    - Windows evidencija događaja
+    - Windows Evidencija događaja
 
 Ako jedna od ovih usluga nije pokrenuta, pokušajte da je pokrenete. Ako imate problema sa pokretanjem usluge, pokrenite sledeću komandu tako što ćete otvoriti komandnu liniju sa punim dozvolama:
 
