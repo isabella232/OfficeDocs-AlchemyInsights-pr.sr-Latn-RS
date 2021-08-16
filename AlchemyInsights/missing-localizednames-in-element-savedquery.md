@@ -1,5 +1,5 @@
 ---
-title: Nedostaje "Lokalizednanazivi" u "sačuvani elementa"
+title: Nedostaje "LocalizedNames" u elementu "savedquery"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065622"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Nedostaje "Lokalizednanazivi" u "sačuvani elementa"
+# <a name="missing-localizednames-in-element-savedquery"></a>Nedostaje "LocalizedNames" u elementu "savedquery"
 
-Pomoć za pomoć u vezi sa nestalim "Lokalizedovim imenima" potražite [u članku "sadquery element". Opcija "Lokalizedimena" se javlja prilikom uvoza dinamičkih 365 rešenja](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Pomoć za nestajanje 'LocalizedNames', pogledajte ["Element "savedquery" ima nekompletan sadržaj. Lista mogućih elemenata koji se očekuje: greška "LocalizedNames"" javlja se prilikom uvoza Dynamics 365 rešenja.](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)
 
-Potražite posebne znakove u imenu prikaza koje može da izazove problem. Uklonite sve specijalne znakove u imenu za prikaz i ponovo izvezete rešenje.
+U imenu prikaza možda ćete videti specijalne znakove koji mogu dozvati problem. Uklonite sve specijalne znakove u imenu prikaza i ponovo izvezite rešenje.

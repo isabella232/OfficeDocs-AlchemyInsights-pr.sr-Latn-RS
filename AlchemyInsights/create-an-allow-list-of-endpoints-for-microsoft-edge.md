@@ -1,5 +1,5 @@
 ---
-title: Kreiranje liste dozvola za krajnji poen za Microsoft Edge
+title: Pravljenje liste dozvoljenih krajnjih taka za Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: d29364e683893e21d5d0a47ecdcc619f102e5bb3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: cabea25a316a22c9eb3b63daf74c6ac213d24f35be5319276cff641b1d9a27b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49679005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032104"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Kreiranje liste dozvola za krajnji poen za Microsoft Edge
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Pravljenje liste dozvoljenih krajnjih taka za Microsoft Edge
 
-Da biste imali kompletnu grupu funkcija korporacije Microsoft Edge na raspolaganju, morate da je povežete sa Internetom. Pored toga, da biste pregledaču dozvolili da komunicira kroz zaštitne zidove i druge bezbednosne mehanizme na internetu, morate da dodate skupu URL adresa na [listu dozvoli krajnjim tačkama](https://go.microsoft.com/fwlink/?linkid=2135054).
+Da biste imali kompletan niz Microsoft Edge funkcija koje su vam na raspolaganju, morate ga imati povezanog sa internetom. Pored toga, da biste omogućili pregledaču da komunicira putem zaštitnih zidova i drugih bezbednosnih mehanizama na internetu, morate da dodate skup UL adresa domena na listu dozvoljenih krajnjih taka [.](https://go.microsoft.com/fwlink/?linkid=2135054)

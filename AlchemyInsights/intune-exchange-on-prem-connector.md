@@ -1,5 +1,5 @@
 ---
-title: Intune Exchange konektor
+title: Intune Exchange -besmisleni konektor
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808143"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013978"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange konektor
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange -besmisleni konektor
 
-Detalje o podešavanju konektora između Intune i razmene koji se hostujete u lokalnom članku potražite u sledećoj dokumentaciji:
+Detalje podešavanja konektora između usluge Intune i usluge Exchange koja se hostuje besmisleno potražite u sledećoj dokumentaciji:
 
-[Podešavanje lokalnog Exchange konektora Intune u programu Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Podešavanje Exchange Intune konektora u Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**NAJČEŠĆA pitanja**
+**Faq:**
 
-P: vidim grešku kao što je "verzija Exchange konektora nije podržana" prilikom pokušaja podešavanja Exchange konektora. Šta može da bude uzrok?
+P: Vidim grešku kao što je "Verzija Exchange Connector nije podržana" prilikom pokušaja postavljanja konektora Exchange podataka. Koji uzrok može da bude?
 
-A: nalog koji koristite je licenciran na odgovarajući način – mora da ima aktivnu licencu za Intune
+O: Nalog koji koristite je licenciran na odgovarajući način – mora da ima aktivnu Intune licencu
 
-Q: da li je moguće imati više Exchange konektora?
+P: Da li je moguće imati više konektora Exchange više?
 
-A: možete da podesite samo jedan Exchange konektor po Intune stanari po Exchange organizaciji. Konektor može da se instalira samo na jednom serveru u Exchange organizaciji multi server.
+O: Možete da podesite samo jedan konektor Exchange po Intune zakuponu po Exchange organizaciji. Konektor može da se instalira samo na jednom serveru u organizaciji sa više servera.
 
-Takođe, ne možete da imate konektore podešene za razmenu na mreži i Exchange online konfigurisani u istom zakupcu.
+Takođe, nije moguće podesiti konektore konfigurisane za Exchange i za Exchange Online konfigurisan u istom zakupca.
 
-Q: da li konektor može da koristi niz Kas kao vezu sa Exchange serverom?
+P: Da li konektor može da koristi CAS niz kao vezu sa Exchange?
 
-A: Navođenje niza Kas Kas nije podržana konfiguracija u podešavanju konektora. Samo jedan server treba da bude naveden i treba da bude u okviru datoteke konfiguracije konektora koji se može pronaći u
+O: Navođenje CAS niza nije podržana konfiguracija u instalaciji konektora. Samo jedan server treba da bude naveden i trebalo bi ga čvrsto koditi u konfiguracionoj datoteci konektora koju je moguće pronaći u
 
-programdata\microsoft\microsoft Intune na lokalno Exchange Connector \ OnpremiseExchangeConnectorServiceConfiguration.xml
+podaci programa\microsoft\microsoft Intune (Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Pronađite sledeću stavku ```<ExchangeWebServiceURL />``` i zamenite URL adresu Exchange serverom.
+Pronađite sledeću ```<ExchangeWebServiceURL />``` stavku i zamenite URL sa Exchange serverom.
 
-**Primer**
+**Primer:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Pogledajte sledeću dokumentaciju za dodatnu rešavanje problema: [Rešavanje problema sa Intune lokalno Exchange konektorom](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Pogledajte sledeću dokumentaciju za dodatno rešavanje problema: Rešavanje problema sa Exchange [Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Omogućavanje ispravnog vođenja evidencije za Exchange konektor**
+**Omogućavanje evidentiranje pomoću "pošiljalaca" Exchange spajanja**
 
-1. Otvorite datoteku konfiguracije praćenja Exchange konektora za uređivanje.  
-Datoteka se nalazi na lokaciji:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Otvorite konfiguracionu datoteku Exchange Connector tracing radi uređivanja.  
+Datoteka se nalazi na lokaciji: %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Primer**
+**Primer:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Pronađite Tracesourselin sa sledećim ključem: Onpremisesexchangeonline Service  
+2. Pronađite TraceSourceLine sledećim ključem: OnPremisesExchangeConnectorService  
   
-3. Promena vrednosti čvora SourceLevel iz praćenja Aktivacijefunkcija (podrazumevano) za verbalno Aktivacijepraćenje  
+3. Promena vrednosti SourceLevel node sa Information ActivityTracing (podrazumevano) na "Rebose ActivityTracing"  
 
-**Primer**
+**Primer:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Datoteka se nalazi na lokaciji:%ProgramData%\Microsoft\Windows Intune Exchange C
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Ponovno pokretanje usluge Microsoft Intune Exchange  
-5. Potpuna sinhronizacija u Intune Portovu dok se ne završi, a zatim ponovo promenite XML u "aktivaciju podataka" i ponovo pokrenite Exchange Microsoft Intune Exchange.  
+4. Ponovo pokrenite Microsoft Intune Exchange Usluge  
+5. Potpuna sinhronizacija na Intune portalu dok se ne završi, a zatim vratite XML u "Information ActivityTracing" i ponovo pokrenite Microsoft Intune Exchange Service.  
 6. Lokacija evidencija je: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
