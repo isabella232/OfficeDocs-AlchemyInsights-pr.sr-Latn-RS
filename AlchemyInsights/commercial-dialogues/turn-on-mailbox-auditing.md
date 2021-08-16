@@ -1,5 +1,5 @@
 ---
-title: Uključivanje nadgledanja poštanskog sandučeta
+title: Uključi nadzor poštanskog sandučeta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: aa0ff925ae891d28e31394ec66eb17c2d9710008
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 797dd57aaa43e879c015a36c79c8c9fb13e04ae894b33b0f7c6d9694d1ae1960
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483542"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058052"
 ---
-# <a name="turn-on-mailbox-auditing"></a>Uključivanje nadgledanja poštanskog sandučeta
+# <a name="turn-on-mailbox-auditing"></a>Uključi nadzor poštanskog sandučeta
 
-Da biste uključili nadzor poštanskog sandučeta za jednog korisnika ili celu organizaciju, uradite sledeće cmdlet lokacije iz udaljenog PowerShell:
+Da biste uključili nadzor poštanskih sandučića za jednog korisnika ili celu organizaciju, pokrenite sledeće cmdlet kontrole iz udaljenog interfejsa PowerShell:
 
-- **Pojedinačni korisnik**: Set-Mailbox-identitet "Džejn Dow" – $TRUE
-- **Organizacija**: Get-Mailbox-Rezultsize neograničen-filter {RecipientTypeDetails-EQ "Korisnikopoštansko sanduče"} | Set-Mailbox-Revizoit $true
+- **Pojedinačni korisnik**: Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
+- **Organizacija**: Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
 
-Da biste saznali više, pogledajte članak [Upravljanje nadgledanjem poštanskog sandučeta](https://go.microsoft.com/fwlink/?linkid=2103668).
+Da biste saznali više, pogledajte [upravljanje nadzorom poštannih sandučića.](https://go.microsoft.com/fwlink/?linkid=2103668)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 07f93f4d9ffc300d19e38e771a512f0bd1db9cda10d1648e789917d85a1a39df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012034"
 ---
 # <a name="modern-commerce-user-role"></a>Moderna uloga korisnika trgovine
 
-Uloga modernog korisnika u trgovini određenim korisnicima daje dozvolu za pristup Microsoft 365 centru trgovine i levih stavki navigacije za stavke "Kuća", "Naplata" i podrška **.**   Sadržaj dostupn u ovim oblastima kontrolišu uloge specifične za trgovinu dodeljene korisnicima za upravljanje proizvodima koje su kupili za sebe ili organizaciju. To može da obuhvata zadatke kao što su plaćanje računa ili pristup nalozima naplate i profilima naplate.
+Uloga "Moderni korisnik trgovine" određenim korisnicima daje dozvolu za pristup lokaciji Microsoft 365 centar administracije prikaz leve stavke navigacije za stavke "Kuća", "Naplata" i **"Podrška".** Sadržaj dostupn u ovim oblastima kontrolišu uloge specifične za trgovinu dodeljene korisnicima za upravljanje proizvodima koje su kupili za sebe ili organizaciju. To može da obuhvata zadatke kao što su plaćanje računa ili pristup nalozima naplate i profilima naplate.
 
 Korisnici sa ulogom modernog korisnika trgovine obično imaju administrativne dozvole u drugim Microsoft sistemima za kupovinu, ali nemate privilegije globalnog administratora ili administratora naplate.
 

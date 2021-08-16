@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049358"
 ---
 # <a name="teams-admin-center"></a>Teams centar administracije
 
@@ -32,5 +32,5 @@ Ako se korisnici ne pojavljuju u Teams centru administracije, proverite sledeće
 
 - Da li ste kreirali korisnike ili dodeljivali licence u protekla 24 časa? Uverite se da ste sačekali najmanje 24 časa pre otvaranja tiketa za podršku.
 - Proverite da li ste dodelili odgovarajuće licence?
-- Ako imate lokalnu uslugu Active Directory, proverite da li je vrednost [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) ili SIP adrese u polju ProxyAddresses u lokalnoj sistemu Active Directory jedinstvena, a format se podudara sa sip: Korisničko ime korisnika iz [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)centra za adminitre.
-- Ako nameravate da zadržite primenu sistema Skype za posao Server i imate korisnike koji koriste kućnu primenu i na mreži: pratite **"Podešavanje hibridne** primene sa uslugama Teams i Skype za posao Online" na kontrolnoj tabli sistema Skype za posao Server i premestite korisnike na mrežu.
+- Ako imate lokalnu uslugu Active Directory, proverite da li je vrednost [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) ili SIP adrese u polju ProxyAddresses u lokalnoj uslugi Active Directory jedinstvena, a format se podudara sa sip: Korisničko ime korisnika sa lokacije [Microsoft 365 centar administracije.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Ako nameravate da zadržite primenu usluge Skype za posao Server i imate korisnike koji koriste kućnu primenu i na mreži: pratite "Podešavanje **hibrida** sa uslugama Teams i Skype za posao Na mreži" na Skype za posao Server kontrolnoj tabli i premestite korisnike na mrežu.

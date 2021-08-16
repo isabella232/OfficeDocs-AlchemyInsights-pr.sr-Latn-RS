@@ -1,5 +1,5 @@
 ---
-title: Režim Microsoft tima
+title: Microsoft Teams Režim zajedno
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012250"
 ---
-# <a name="microsoft-teams-together-mode"></a>Režim Microsoft tima
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Režim zajedno
 
-Objedinjavanjem možete da objedinite decenije istraživanja i razvoja proizvoda za učesnike u video pozivu da se pojavljuju u virtuelnom prostoru, na primer auditorijum, sobe za sastanke ili kafić. 
+Režim spajanja kombinuje kombinacije istraživanja i razvoja proizvoda kako bi učesnici u video pozivu izgledali kao da su zajedno u virtuelnom prostoru, kao što je auditorium, soba za sastanke ili kafena traka. 
 
-Nova funkcija razilaze tradicionalnu koordinatnu mrežu kutija, stvarajuжi okruženje koje korisnici kažu ima dubok uticaj na video konferenciju i pruža više kohezije grupi. Da biste saznali više o režimu veze, pogledajte [Kako da dobijete najviše od zajedniиkog režima](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Nova funkcija zaobilazi tradicionalnu koordinatnu mrežu polja i kreira okruženje za koje korisnici kažu da ima veliki uticaj na osećaj video konferencije i pruža veću koheziju za grupu. Da biste saznali više o režimu "Zajedno", pogledajte [Kako da najačite iz režima "Zajedno"](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
 
-Više informacija o tome kada će režim biti dostupan za vašu organizaciju potražite u članku Microsoft 365 putokaz, [režim "zajednički Microsoft timovi](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942) "
+Više informacija o tome kada će režim "Zajedno" biti dostupan za vašu organizaciju potražite u Microsoft 365", Microsoft Teams [" Režim zajedno"](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

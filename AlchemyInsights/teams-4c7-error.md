@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea3e8f23c07103e604fc6b264047582b9c3e26b6b73237adc30eba574e06cfd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049322"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>4c7 greška u aplikaciji Microsoft Teams
+# <a name="4c7-error-in-microsoft-teams"></a>4c7 greška u Microsoft Teams
 
-Do ove greške dolazi zato što Microsoft Teams zahteva potvrdu identiteta obrasca. Kada primenite Active Directory usluge za ukidanje (AD FS), potvrda identiteta obrazaca nije podrazumevano omogućena za intranet. Ako Windows integrisana potvrda identiteta ne uspe, bićete upitani da se prijavite pomoću potvrde identiteta obrasca.
+Do ove greške dolazi zato Microsoft Teams zahteva potvrdu identiteta obrazaca. Kada primenite Active Directory usluge za ukidanje (AD FS), potvrda identiteta obrazaca nije podrazumevano omogućena za intranet. Ako Windows integrisana potvrda identiteta ne uspe, biće vam zatraženo da se prijavite pomoću potvrde identiteta obrasca.
 
 Da biste rešili ovaj problem, omogućite potvrdu identiteta obrasca pomoću proširenja konzole AD FS Microsoft Management Console (MMC) na računaru koji ima lokalnu kopiju usluge Active Directory. Da biste to uradio, sledite ove korake: 
 
