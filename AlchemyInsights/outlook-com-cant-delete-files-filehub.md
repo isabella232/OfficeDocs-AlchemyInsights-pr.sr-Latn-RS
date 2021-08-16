@@ -1,5 +1,5 @@
 ---
-title: Nije moguće izbrisati fotografije ili datoteke iz datoteka u Outlook.com
+title: Nije moguće izbrisati fotografije ili datoteke iz fascikle Datoteke na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064326"
 ---
 # <a name="cant-delete-files-or-photos-from-files"></a>Nije moguće izbrisati datoteke ili fotografije iz datoteka
 
-U Outlook.com **datoteke** prikazuju datoteke i fotografije koje su priložene porukama u poštanskom sandučetu. Da biste uklonili datoteke i fotografije iz datoteka, morate da izbrišete e-poruke kojima su priložene. Nakon brisanja poruka, morate da ih izbrišete i iz fascikle "Izbrisane stavke".
+Na Outlook.com datoteka **prikazuje datoteke** i fotografije priložene porukama u poštanskom sandučetu. Da biste uklonili datoteke i fotografije iz fascikle Datoteke, morate da izbrišete e-poruke kojima su te e-poruke priložene. Kada izbrišete poruke, takođe morate da ih izbrišete iz fascikle "Izbrisane stavke".
 
-Da biste saznali više, pročitajte [Kako da izbrišete datoteke ili fotografije u Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste saznali više, [pročitajte kako da izbrišete datoteke ili fotografije na Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)

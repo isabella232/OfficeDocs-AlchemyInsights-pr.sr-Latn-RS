@@ -1,5 +1,5 @@
 ---
-title: Nepodudaranje sa uslugom OneDrive
+title: OneDrive PuID midmatch
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096744"
 ---
-# <a name="onedrive-puid-mismatch"></a>Nepodudaranje sa uslugom OneDrive
+# <a name="onedrive-puid-mismatch"></a>OneDrive PuID midmatch
 
-Izgleda da imate [Nepodudaranje sa ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -om u usluzi OneDrive for Business. Da biste nam omogućili da vam prvi pomognemo, uradite sledeće korake:
+Izgleda da imate predugački [ID u](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive for Business. Da biste nam omogućili da vam pomognemo u najranijem periodu, uradite sledeće:
 
-1. Izaberite stavku  **Podrška za kontakt**, a zatim  **novi zahtev za uslugom**.
-2. Ostavite naslov i opis kao  **pogrešno podudaranje korisnika usluge OneDrive**.
-3. Kada se ulaznica prosledi, ažurirajte je pomoću sledećih informacija:
-    - URL adresa lokacije OneDrive koja je pogođena.
-    - Glavno korisničko ime (UPN) pogođene korisnike.
+1. Izaberite **stavku Obratite se podršci**, a **zatim stavku Novi zahtev za uslugom.**
+2. Ostavite naslov i opis kao **OneDrive korisničkog ID-a lokacije.**
+3. Kada je tiket prosleđen, ažurirajte ga sledećim informacijama:
+    - OneDrive na koju to utiče.
+    - Glavno korisničko ime (UPN) ugroženog korisnika.
