@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069978"
 ---
 # <a name="conditional-access-issues"></a>Problemi sa uslovnim pristupom
 
-**Rešavanje problema sa dijagnostičkim rešenjem**
+**Rešavanje problema sa dijagnostičkim prijavljivanjem**
 
-Možete brzo da saznate šta se dešava ili pronađu probleme u vezi sa prijavljivanjem korisnika pomoću [dijagnostike za prijavljivanje](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom):
+Pomoću dijagnostike za prijavljivanje možete brzo da saznate šta se dogodilo ili da ustanovite probleme u vezi sa prijavljivanjem [korisnika:](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 
-1. Pokrenite dijagnostiku prijavljivanja.
-1. Pronađite događaj koji treba analizirati tako što ćete uneti detalje koje imate o korisniku, aplikaciji, vremenu prijavljivanja, ID-u zahteva ili ID korelacije.
-1. Pregledajte rezultate dijagnoze koji prikazuju detalje šta se dogodilo i koje radnje možete preduzeti da biste izvršili promene (ako su potrebne promene).
+1. Pokrenite dijagnostiku za prijavljivanje.
+1. Pronađite događaj za analiziranje tako što ćete uneti detalje koje imate o korisniku, aplikaciji, vremenu prijave, ID-u zahteva ili ID-u korelacije.
+1. Pregledajte dijagnostički rezultate koji pokazuju detalje o tome šta se dogodilo i koje radnje možete preduzeti da biste promenili (ako su potrebne neke promene).
 
 **Koraci za rešavanje problema sa prijavljivanjem** 
 
-1. Idite na stranicu za prijavljivanje na Azure AD.
-1. Prijavljivanje na filtriranje pomoću korisnika, vremenske vrednosti, zatvaranja, statusa, aplikacije klijenta itd.
-1. Izaberite događaj prijavljivanja i prikažite karticu uslovno pristup da biste videli koje smernice se procenjuju.
-1. Kliknite na redu smernica da biste prikazali detalje o politici i razumeli zašto se to odnosi.
+1. Prešli na stranicu za prijavljivanje u Azure AD.
+1. Filtriranje prijava po korisniku, vremenskom opsegu, aplikaciji, statusu, klijentnoj aplikaciji i tako dalje.
+1. Izaberite događaj prijava i prikažite karticu Uslovni pristup da biste videli koje smernice su procenjene.
+1. Kliknite na red smernica da biste prikazali detalje smernica i razumeli zašto je primenjena.
 
-**Alatke za rešavanje problema sa uslovnim pristupom**
+**Alatke za rešavanje problema sa smernicama uslovnog pristupa**
 
-- Režim samo za izveštavanje omogućava vam da procenite smernice bez zaostalih korisnika.
-- Alatka "Šta-ako" vam omogućava da simulirate događaje prijavljivanja i vidite koje se smernice primenjuju.
-- Radna sveska sa shvatanju i prijavljivanju prikazuje uticaj svake smernice u realnom vremenu.
+- Režim samo za izveštaje vam omogućava da procenite smernice bez uticaja na korisnike.
+- Alatka "Šta-ako" vam je dozvolila da simulirate događaje za prijavljivanje i vidite koje smernice se primenjuju.
+- Uvidi i izveštavanja o radnoj svesci prikazuju uticaj svake smernice u realnom vremenu.
 
 **Smernice za zaštitu osnovnih linija**
 
-Smernice za zaštitu osnovnih linija su neodobrene. Više se ne primenjuju i uskoro će biti uklonjene iz Azure portala. Preporučujemo omogućavanje [postavki bezbednosti](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Smernice za zaštitu osnovnih linija su uklonjene. One se više ne nagomilaju i uskoro će biti uklonjene sa Azure portala. Preporučujemo da omogućavate [podrazumevane vrednosti bezbednosti.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
-Više informacija o uslovnom pristupu potražite u članku:
+Dodatne informacije o uslovnom pristupu potražite u:
 
-[Najbolje prakse za uslovno pristup u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Uslovi u uslovnom pristupu](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+[Najbolje prakse za uslovni pristup u programu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Conditions in Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
  [Kontrole u uslovnom pristupu](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
  [Lokacije u uslovnom pristupu](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)

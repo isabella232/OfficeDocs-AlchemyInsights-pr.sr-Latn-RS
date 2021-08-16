@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070014"
 ---
 # <a name="whats-a-domain"></a>Šta je to domen
 
-Domen je deo e-adrese koja se nalazi iza simbola @. Na primer, u adresi rob@contoso.com, domen **contoso.com**. Većina preduzeća preferira da koristi sopstveno ime domena na svojoj e-adresi.
+Domen je deo adrese e-pošte posle simbola @. Na primer, u polju za rob@contoso.com, domen se **contoso.com.** Većina preduzeća radije koristi sopstveno ime domena u svojoj e-adresi.
 
-Slede neki saveti vezani za domene:
+Slede neki saveti u vezi sa domenima:
 
-- Možete da kupite ime domena od korporacije Microsoft. Na ovaj način ćete imati prilagođenu e-adresu.
-- Možete i da dodate domen koji već posedujete u Office 365.
+- Možete kupiti ime domena od korporacije Microsoft. Na taj način ćete imati prilagođenu e-adresu.
+- Možete i jednostavno da dodate domen koji već posedujete u Office 365.
 
-Više informacija potražite u [ovom sjajnom video zapisu](https://www.youtube.com/watch).
+Za više informacija pogledajte [ovaj sjajan video.](https://www.youtube.com/watch)
