@@ -1,5 +1,5 @@
 ---
-title: 8000001 isključite fokusirano Prijemno sanduče
+title: 8000001 isključivanje fokusiranog prijemnog sandučeta
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797094"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038711"
 ---
 # <a name="turn-off-focused-inbox"></a>Isključivanje fokusiranog prijemnog sandučeta
 
-1. Izaberite stavku **Postavke** \> **fokusirano Prijemno sanduče**.  
+1. Izaberite **Postavke** \> **Fokusirano prijemno sanduče**.  
 
-2. U okviru **kada se primi e-pošta**, izaberite stavku **ne Sortirajte poruke**.
+2. U **okviru stavke Kada se primi** e-pošta **izaberite stavku Ne sortiraj poruke**.
 
-3. Izaberite stavku **u redu**.
+3. Izaberite **stavku U redu**.
 
-Da biste saznali više, pogledajte odeljak [fokusirano prijemno poštansko sanduče za Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste saznali više, pogledajte [fokusirano prijemno sanduče za Outlook.](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)

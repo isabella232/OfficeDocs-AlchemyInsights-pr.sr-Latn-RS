@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996644"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ne može da se poveže sa javnim fasciklama
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook povezivanje sa javnim fasciklama
 
 Ako pristup javnoj fascikli ne funkcioniše za neke korisnike, pokušajte sledeće:
 
-Povežite se sa EXO PowerShell i konfigurišite DefaultPublicFolderMailbox parametar na problemnom korisničkom nalogu da bi se podudarao sa parametarom na radnom korisničkom nalogu.
+Povezivanje na EXO PowerShell i konfigurišite Parametar DefaultPublicFolderMailbox na korisničkom nalogu problema tako da se podudara sa parametarom na radnom korisničkom nalogu.
 
 Primer:
 
@@ -33,18 +33,18 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Sačekajte najmanje jedan čas da bi promena stupila na snagu.
 
-Ako problem ostane, pratite ovu proceduru da biste rešili [probleme](https://aka.ms/pfcte) sa pristupom javnoj fascikli pomoću programa Outlook.
+Ako problem ostane, pratite ovu proceduru [da](https://aka.ms/pfcte) biste rešili probleme sa pristupom javnim fasciklama pomoću Outlook.
  
-**Da biste kontrolisali koji korisnici mogu da pristupe javnim fasciklama pomoću programa Outlook:**
+**Da biste kontrolisali koji korisnici mogu da pristupe javnim fasciklama Outlook:**
 
 1.  Koristite Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ili $false  
       
-    $true: Dozvoljavanje korisnicima da pristupe javnim fasciklama u programu Outlook  
+    $true: Omogućite korisnicima da pristupe javnim fasciklama u Outlook  
       
-    $false: Sprečite korisnički pristup javnim fasciklama u programu Outlook. Ovo je podrazumevana vrednost.  
+    $false: Sprečite korisnički pristup javnim fasciklama u Outlook. Ovo je podrazumevana vrednost.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Napomišite** Ova procedura može da kontroliše veze samo sa Outlook klijentima za računare za Windows. Korisnik može da nastavi da pristupa javnim fasciklama koristeći program OWA ili Outlook za Mac.
+**Napomišite** Ova procedura može da kontroliše veze samo sa Outlook na radnoj površini Windows klijentima. Korisnik može da nastavi da pristupa javnim fasciklama koristeći program OWA Outlook za Mac.
  
-Više informacija potražite u [članku Najavljivanje podrške za kontrolisane veze sa javnim fasciklama u programu Outlook.](https://aka.ms/controlpf)
+Više informacija potražite u [članku Najavljivanje podrške za kontrolisane](https://aka.ms/controlpf)veze sa javnim fasciklama u programu Outlook.

@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996500"
 ---
 # <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Nije moguće dodati ili kreirati novi potpis u programu Outlook
 
-Ovo je poznati problem. Radimo na tome da ga popravimo i status će se ažurirati u programu [Outlook ako kliknete na dugme potpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Ovo je poznat problem. Radimo na tome da to popravimo i status će se ažurirati u Outlook se zamrzava [kada kliknete na dugme Potpis.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)
 
-Da biste rešili ovaj problem, prvo [isprobajte korake](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) da biste deinstalirali unapred instalirane Microsoft Office aplikacije za stone računare. 
+Da biste rešili ovaj problem, prvo [isprobajte](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) korake da biste deinstal Microsoft kancelarija aplikacije za stone računare. 
 
-Ako to ne funkcioniše za pogođene mašine, isprobajte rešenje koje se [zasniva na registratoru](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Ako to ne funkcioniše za računar na koji ovo utiče, isprobajte ovo zaokupanje zasnovano na [registratoru.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)

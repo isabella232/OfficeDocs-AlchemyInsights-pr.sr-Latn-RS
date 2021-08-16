@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988417"
 ---
 # <a name="enable-the-audit-log"></a>Omogućavanje evidencije nadzora
 
-Usaglašenost zahteva evidentiranje nadzora kako bi se prikazala obaveštenja i praćenje radnji oporavka. Evidentiri nadzora su rezime svih aktivnosti povezanih sa definisanom organizacionom politikom, uključujući promene smernica za komunikaciju sa komunikacijom. Da biste uključili evidentiranje nadzora:
+Usaglašenost komunikacije zahteva evidencije nadzora da bi se prikazala obaveštenja i pratile radnje remediacije koje su preduzeli redaktori. Evidencije nadzora su rezime svih aktivnosti povezanih sa definisanim smernicama organizacije, uključujući uvek kada se promene smernice za usaglašenost komunikacije. Da biste uključili evidenciju nadzora:
 
-1. U [centru za bezbednost & zaštite](https://go.microsoft.com/fwlink/?linkid=2101341) **potražite pretragu**  >  **evidencije nadgledanja**.
-2. Izaberite stavku **Uključi nadgledanje**.
+1. U centru za [& za bezbednost i usaglašenost](https://go.microsoft.com/fwlink/?linkid=2101341)idite na Pretraga   >  **evidencije nadzora pretrage.**
+2. Izaberite **stavku Uključi nadzor**.
 
-    Kada uključite nadzor, prikazuje se poruka u kojoj se navodi da se evidencija nadzora priprema i možete da izvršite pretragu za nekoliko sati nakon dovršavanja pripreme. Ovu radnju morate da uradite samo jednom.
+    Kada uključite nadzor, prikazuje se poruka koja sažeta da se evidencija nadzora priprema i možete da pokrenete pretragu nekoliko sati nakon završetaka pripreme. Ovu radnju treba da uradite samo jednom.
 
-Da biste saznali više, pogledajte članak [Uključivanje ili isključivanje pretrage evidencije nadzora](https://go.microsoft.com/fwlink/?linkid=2129077) i [Pretraga evidencije nadzora](https://go.microsoft.com/fwlink/?linkid=2123729).
+Da biste saznali više, pogledajte [stavke Uključivanje ili isključivanje pretrage evidencije](https://go.microsoft.com/fwlink/?linkid=2129077) nadzora [i Pretraga evidencije nadzora.](https://go.microsoft.com/fwlink/?linkid=2123729)

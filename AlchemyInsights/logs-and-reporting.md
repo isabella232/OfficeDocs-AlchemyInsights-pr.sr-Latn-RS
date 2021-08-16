@@ -1,5 +1,5 @@
 ---
-title: Evidentira i izveštavanje
+title: Evidencije i izveštavanje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004331"
 - "7727"
-ms.openlocfilehash: 7349efb02f8d6ac5d73f6d6cd06eef6308ffe9be
-ms.sourcegitcommit: 117c64e1fbcb5eec04f94eadad71423b974e7b14
+ms.openlocfilehash: 03d77c17622a1aac5ecb035bb5b73efdbbfe5e6b141e6b266eef8783f612c8b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067026"
 ---
-# <a name="logs-and-reporting"></a>Evidentira i izveštavanje
+# <a name="logs-and-reporting"></a>Evidencije i izveštavanje
 
-[Azure Active Directory izveštavanje sa najčešćim](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) odgovorima najčešća pitanja o prijavljivanju Azure Active Directory (AZURE AD) izveštavanju. Više informacija potražite u članku [Azure Active Directory izveštavanje](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports).
+[Azure Active Directory odgovore na najčešća](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) pitanja o izveštavanju o Azure Active Directory (Azure AD). Dodatne informacije potražite u [Azure Active Directory izveštavanja.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 
-**Rešavanje problema sa revizijom**
+**Rešavanje problema sa nadzorom**
 
-1. Ako imate problema sa viđenjem nekih aktivnosti nadzora, a aktivnost koja nedostaje se nalazi na ovoj [listi](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities), prijavite karticu podrške.
-2. Ako imate problema sa viđenjem bilo kakvih evidencija nadzora u zakupcu, prijavite karticu podrške.
-3. Ako se vaše kontrole nadzora ne pojavljuju odmah na Azure portalu, Pregledajte naše [informacije o kašnjenju](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) i prijavite karticu za podršku ako kašnjenje premašuje dokumentovano kašnjenje.
-4. [Azure reklama za čuvanje evidencija aktivnosti](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
-5. Ako ne vidite sve kontrole za datum koji ste izabrali, možete da preuzmete do 250 k redova (sortiranih po najnovijoj) prijavljivanjem sa Azure portala. Više informacija potražite u članku [Preuzimanje nadzorne aktivnosti](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report).
+1. Ako imate problema sa pregledom nekih aktivnosti nadzora, a aktivnost koja nedostaje je na ovoj [listi,](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities)arhivite tiket za podršku.
+2. Ako imate problema sa pregledom evidencija nadzora u zakupca, arhivujte tiket za podršku.
+3. Ako se aktivnosti nadgledanja ne pojave odmah na Azure [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) portalu, pogledajte naše informacije o kašnjenju i arhivu tiket za podršku ako kašnjenje premašuje dokumentovano kašnjenje.
+4. [Zadržavanje evidencije Azure AD aktivnosti](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
+5. Ako ne vidite sve nadzore za opseg datuma koji ste izabrali, možete da preuzmete do 250K redova (sortiranih po najnovijim) prijava sa Azure portala. Dodatne informacije potražite u [temi Preuzimanje aktivnosti nadzora.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report)
 
 **Rešavanje problema sa prijavljivanjem**
 
-1. Možete da vidite samo posljednjih 30 dana podataka ako imate karticu Azure AD Premium (P1 ili P2) za zakupca.
-2. Prijavljivanje je dostupno samo za Azure AD Premium zakupce. Nije dostupno za besplatne ili prijavljene zakupce.
-3. Ako vaš stanar ima Premium P1 licencu i ne možete da vidite prijavljivanje, Pregledajte naše [informacije o kašnjenju](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) i prijavite karticu za podršku ako kašnjenje premašuje dokumentovano kašnjenje.
-4. Ako ne vidite sve prijave za izabrani opseg datuma, imajte u vidu da možete da preuzmete do 250 k redova (sortiranih po najnovijoj) prijavljivanjem sa Azure portala. Više informacija potražite u članku [Preuzimanje aktivnosti prijavljivanja](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities).
+1. Podatke iz proteklih 30 dana možete da vidite samo ako imate Azure AD Premium (P1 ili P2) licencu za zakupca.
+2. Prijavljivanje je dostupno samo za Azure AD Premium zakupce. Nije dostupna za besplatne ili osnovne licencirane zakuzije.
+3. Ako vaš zakupca ima licencu za Premium P1 i ne možete da [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) vidite prijava, pogledajte naše informacije o kašnjenju i arhivu tiket za podršku ako kašnjenje premašuje dokumentovano kašnjenje.
+4. Ako ne vidite sva prijava za opseg datuma koji ste izabrali, imajte naznaku da možete da preuzmete do 250K redova (sortirate po najnovijim) za prijavljivanje sa Azure portala. Dodatne informacije potražite [u temi Preuzimanje aktivnosti prijavljivanje.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities)
 
-**Rešavanje problema sa bezbednosnim izveštajima (korisnici označeni rizikom, riziиno prijavljivanje)**
+**Rešavanje problema sa bezbednosnim izveštajima (korisnici označeni zastavicom na rizik, rizično prijavljivanje)**
 
-1. [Korisnici koji se označavaju zastavicom za bezbednost](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
-2. [Izveštaj o rizičnom prijavljivanju na portalu Azure aktivnog direktorijuma](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
-3. [Događaji rizika za Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)
+1. [Users flagged for risk security report](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
+2. [Risky sign-ins report in the Azure Active Directory portal](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
+3. [Azure Active Directory događaja rizika](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)
