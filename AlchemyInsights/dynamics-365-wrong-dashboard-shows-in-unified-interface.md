@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365-pogrešan instrument Kontrolna tabla u programu Dynamics 365 objedinjeno interfejs
+title: Dynamics 365 – Pogrešna kontrolna tabla prikazuje se u Dynamics 365 unifikovanom interfejsu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1edb2a7e9e0c270c7e98eb43d2f6514d70c39a19ea97d189322ca387b6842a18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101496"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Pogrešna Kontrolna tabla prikazuje u dinamici Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Pogrešna kontrolna tabla prikazuje se u Dynamics 365 unifikovanom interfejsu
 
-Postoji nekoliko razloga zbog kojih možete da vidite drugu kontrolnu tablu od one koju očekujete:
+Postoji nekoliko razloga zbog kojih možete da vidite drugačiju tablu od one koja je očekivana:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Korisnik je podesio podrazumevani instrument-tablu 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Korisnik je postavio podrazumevanu dashboard korisnika 
 
-Najčešće možete identifikovati korisničku početnu kontrolnu tablu ako se dugme **Postavi kao podrazumevano** ne prikaže na komandnoj traci kontrolne table. Kontrolna tabla korisnika će zameniti sve druge podrazumevane kontrolne table, čak i ako podrazumevana Kontrolna tabla korisnika nije u trenutnoj aplikaciji.
+Obično možete da identifikujete podrazumevanu korisničku dashboard is set if the **Set As Default button** does not show in the dashboard command bar. Korisnička podrazumevana dashboard će poništiti sve druge podrazumevane komandne table, čak i ako podrazumevana komandna tabla korisnika nije u trenutnoj aplikaciji.
 
-Koristite sledeće zaobilaženje problema da biste osmestili podrazumevanu kontrolnu tablu.
+Koristite sledeće zaostavnje da biste poništili njihovu podrazumevanu dasku.
 
-1. Kreirajte novu ličnu tablu.
+1. Kreirajte novu ličnu dashboard.
 
-2. Postavi tu novu kontrolnu tablu kao podrazumevanu vrednost korisnika.
+2. Postavite tu novu dashboard kao podrazumevanu korisnika.
 
-3. Izbrišite tu kontrolnu tablu.
+3. Izbrišite tu dashboard.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Kontrolna tabla je postavljena na mapi sajta
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Dashboard is set in the sitemap
 
-Možda ste odredili početnu kontrolnu tablu organizacije tako što ćete izabrati kontrolnu tablu i izabrati stavku "Postavi kao podrazumevano" u okviru "Prilagođavanje sistema". Međutim, Kontrolna tabla koja je definisana u dizajneru "sajt" će imati prvenstvo iznad ove kontrolne table ako korisnik ima pristup.
+Možda ste podesili podrazumevanu e-tablu organizacije tako što ste izabrali stavku "Šta treba da se koristi" i odabrati stavku "Postavi kao podrazumevano" u okviru stavke "Prilagođavanje sistema". Međutim, što je definisano u dizajneru mape sajta, imaće prestst u vezi sa ovom dashboard, ako korisnik ima pristup.
 
-Da bi korisnici videli kontrolnu tablu koju ste odredili kao podrazumevanu organizaciju, možete da:
+Da bi korisnici videli tablu koje ste postavili kao podrazumevanu organizaciju, možete:
 
-* Podesite kontrolnu tablu na mapi sajta
+* Postavljanje te dashboard in the sitemap
 
-* Uklanjanje pristupa definisanoj kontrolnoj tabli za te korisnike
+* Uklanjanje pristupa definisanoj tabli mape sajta za te korisnike
