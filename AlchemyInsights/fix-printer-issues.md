@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf532c2b2ce54a33cfbd122a2b8032d8343df881634d51c507b3c743d7ed1d6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068610"
 ---
 # <a name="troubleshoot-your-printer"></a>Rešavanje problema sa štampačem
 
@@ -27,4 +27,4 @@ Ako imate problema sa štampačem, najpre pokušajte da izvršite ciklus **napaj
 2. Sačekajte 30 sekundi.
 3. Ponovo priključite i uključite štampač.
 
-Ako to nije rešilo problem, pokrenite alatku za rešavanje problema sa štampačem tako što ćete ići na dugme Pokreni ažuriranje postavki  >    >  **& problema sa**  >  **bezbednostom.** Izaberite **štampač**, a zatim izaberite **stavku Pokreni alatku za rešavanje problema**.
+Ako to nije rešilo problem, pokrenite alatku za rešavanje problema sa štampačem tako što ćete ići na dugme Postavke  >    >  **Ažuriraj & problema sa**  >  **bezbednostom.** Izaberite **štampač**, a zatim izaberite **stavku Pokreni alatku za rešavanje problema**.

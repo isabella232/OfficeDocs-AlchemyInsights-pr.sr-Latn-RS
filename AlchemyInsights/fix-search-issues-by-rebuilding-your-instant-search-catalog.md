@@ -1,5 +1,5 @@
 ---
-title: 1800005 rešite probleme sa pretragom tako što ćete ponovo izgraditi katalog trenutnih pretraga
+title: 1800005 rešavanje problema sa pretragom obnovom kataloga trenutne pretrage
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,26 +13,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a51c7c24e63820a5abbfdc9d72f9f18554b9a9f42c5c804e944137df928efa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068532"
 ---
 # <a name="troubleshoot-search-issues"></a>Rešavanje problema sa pretragom
 
-Ako imate problema sa pretragom u programu Outlook, pogledajte dolenavedene veze za pomoć i rešavanje problema.
+Ako imate problema sa pretragom u programu Outlook, pogledajte veze u nastavku da biste potražili pomoć i rešavanje problema.
 
-To su najčešći problemi i dobro mesto za početak:
+Ovo su najčešći problemi i dobra su mesto za početak:
 
-- [Outlook pretraga ne vraća rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Outlook Search vraća nepotpune rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Outlook pretraga ne može da pronađe starije e-poruke](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook pretrage ne daje rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook pretrage daje nepotpune rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook ne možete da pronađete starije e-poruke](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-Moguća rešenja za manje uobičajene probleme možete da pronađete ovde:
+Moguća rešenja za ređe probleme možete pronaći ovde:
 
-- [Outlook 2016 samo: kartica pretraga je nedostupna](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [Deljeno poštansko sanduče: problemi sa rezultatima pretrage](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Greška: performanse pretrage će biti uticajeni zbog problema sa načinom na koji je Outlook konfigurisan](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [Fascikle za pretragu prikazuju neočekivane stavke Personmetapodataka bez teme](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook 2016 samo: Kartica "Pretraga" je zasivučena](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Deljeno poštansko sanduče: Problemi sa rezultatima pretrage](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Greška: Performanse pretrage će uticati na vas zbog problema sa konfigurisanje Outlook pretrage](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Search folders show unexpected PersonMetadata items with no subject](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

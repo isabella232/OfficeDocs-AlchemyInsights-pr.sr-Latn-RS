@@ -1,5 +1,5 @@
 ---
-title: Problemi sa oblikovanjem fonta u programu Excel 2016
+title: Problemi sa oblikovanjem fonta u Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068214"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemi sa oblikovanjem fonta u programu Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemi sa oblikovanjem fontova u Excel
 
-U programu Excel 2016, oblikovanje fonta se možda neće ispravno pojavljivati u ćeliji. To se može dogoditi ako ćelija sadrži više vrsta oblikovanja fontova. Na primer, ako su neki znakovi podebljani, a drugi nisu podebljani, možda nećete videti podebljani oblik. Ili ako imate drugačiji obojeni karakter u istoj ćeliji, možda nećete videti da li se boje ispravno pojavljuju. Naš inženjer za inženjering je svestan ovog problema i trenutno radi na ispravci. U međuvremenu, pokušajte da koristite drugačiji font. Ili, pokušajte da izbegnete korišćenje više vrsta oblikovanja u istoj ćeliji dok se ne popravi ovaj problem.
+U Excel 2016, oblikovanje fonta se možda neće ispravno pojaviti u ćeliji. Do ovoga može doći ako ćelija sadrži više vrsta oblikovanja fonta. Na primer, ako su neki znakovi podebljani, a drugi nisu podebljani, možda nećete videti da se pojavljuje podebljani oblik. Odnosno, ako imate različite znakove u boji u istoj ćeliji, možda nećete videti da se boje ispravno prikazuju. Naš tim inženjera zna za ovaj problem i trenutno radi na popravci. U međuvremenu, pokušajte da koristite drugi font. Ili pokušajte da izbegnete korišćenje više vrsta oblikovanja u istoj ćeliji dok se ovaj problem ne popravi.
   

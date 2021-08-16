@@ -1,5 +1,5 @@
 ---
-title: Podešavanje sistema SharePoint
+title: Podešavanje SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023464"
 ---
-# <a name="set-up-sharepoint"></a>Podešavanje sistema SharePoint
+# <a name="set-up-sharepoint"></a>Podešavanje SharePoint
 
-[Vodič za SharePoint podešavanje](https://go.microsoft.com/fwlink/?linkid=2071425) pomaže vam da podesite SharePoint Storage prostor za skladištenje i upravljanje sadržajem, kreirate lokacije, konfigurišete spoljno deljenje, migrirate podatke i konfigurišete napredne postavke i angažovanost korisnika i komunikaciju u okviru organizacije.
+Vodič [SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) za podešavanje pomaže vam da podesite skladištenje dokumenata SharePoint sadržaj, kreirate lokacije, konfigurišete spoljno deljenje, migrirate podatke i konfigurišete napredne postavke i podstaknete angažovanje korisnika i komunikaciju u okviru organizacije.
 
-Pratićete korake za konfigurisanje smernica za omogućavanje deljenja sadržaja, izbor alatki za sinhronizaciju migracije, kao i omogućavanje bezbednosnih postavki za SharePoint okruženje.
+Sledite korake za konfigurisanje smernica za dozvole za deljenje sadržaja, izbor alatki za sinhronizovanje migracije i omogućavanje bezbednosnih postavki za SharePoint okruženje.
