@@ -1,5 +1,5 @@
 ---
-title: Pronalaženje e-pošte u fascikli arhive u aplikaciji Outlook
+title: Pronalaženje e-pošte u fascikli arhive Outlook aplikaciji
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: fd13949e477c40801874bfd1a235f8c477e686c4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 10703fea4789b0861e0e5714ccba976ef52ac9088eb7d38d4ff8e95236a413c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968031"
 ---
-# <a name="find-email-in-archive-folder-in-outlook-app"></a>Pronalaženje e-pošte u fascikli arhive u aplikaciji Outlook
+# <a name="find-email-in-archive-folder-in-outlook-app"></a>Pronalaženje e-pošte u fascikli arhive Outlook aplikaciji
 
-U programu Outlook 2016, fascikla arhive je jedna od podrazumevanih fascikli programa Outlook, kao što je Prijemno sanduče, poslate stavke i fascikla "Izbrisane stavke". Nije moguće izbrisati fasciklu arhive. Ako koristite Outlook sa Office 365 nalogom, smernice za fascikle kao što su smernice za zadržavanje primenjuju se na fasciklu arhive.
+U Outlook 2016, fascikla arhive je jedna od Outlook fascikli, kao što su fascikle "Prijemno poštansko sanduče", "Poslate stavke" i "Izbrisane stavke". Ne možete da izbrišete fasciklu arhive. Ako koristite Outlook nalogu, smernice Office 365 fascikle, kao što su smernice za zadržavanje, primenjuju se na fasciklu arhive.
 
 Da biste pronašli fasciklu arhive:
 
-1. U programu Outlook Odaberite karticu **Prikaz** > **okno fascikle**  >  **Normal**.
+1. U Outlook na kartici Prikaz **izaberite stavku** > **Okno fascikle**  >  **Normalno.**
 2. Fascikla arhive se nalazi na listi fascikli.
-3. Kada tražite Outlook stavke pomoću funkcije pretraga trenutnog poštanskog sandučeta na vrhu spiska fascikli, Outlook pretražuje celo poštansko sanduče, uključujući fasciklu arhive.
+3. Kada tražite stavke Outlook koristeći funkciju "Pretraži trenutno poštansko sanduče" na vrhu liste fascikli, Outlook pretražuje celo poštansko sanduče, uključujući fasciklu arhive.

@@ -1,5 +1,5 @@
 ---
-title: Promena pogrešnih informacija o garanciji
+title: Promena neispravnih informacija o garanciji
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9755"
 - "9005679"
-ms.openlocfilehash: 8f51aff29d0b456409a0ff2c015ba3a950b16657
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: a5f239b7ecf9ddee88e3da083325b62d485ec8b06f0de32128fc6a750044af36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018262"
 ---
-# <a name="change-incorrect-warranty-information"></a>Promena pogrešnih informacija o garanciji
+# <a name="change-incorrect-warranty-information"></a>Promena neispravnih informacija o garanciji
 
-Ako na garanciji imate netačne informacije, agent podrške može da vam pomogne da rešite problem. Imajte u vidu da imate dokaz kupovine (kao što je originalna prijemnica ili faktura) spremna kada se obratite podršci za korisnike.
+Ako postoje netačne informacije o garanciji, agent za podršku vam može pomoći da rešite problem. Kada se obratite podršci za korisnike, pripremite dokaz o kupovini (kao što je originalna priznanica ili faktura).
 
-Da biste došli do agenta, kliknite na dugme **obratite nam** se na dnu leve strane ekrana.
+Da biste stupili u kontakt sa agentom, kliknite na dugme **Obratite** nam se u donjem levom vašoj strani ekrana.

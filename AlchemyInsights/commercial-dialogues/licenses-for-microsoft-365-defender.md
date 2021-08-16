@@ -1,5 +1,5 @@
 ---
-title: Licence za Microsoft 365 Defender
+title: Licence za Microsoft 365 zaštitnik
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967995"
 ---
-# <a name="licenses-for-microsoft-365-defender"></a>Licence za Microsoft 365 Defender
+# <a name="licenses-for-microsoft-365-defender"></a>Licence za Microsoft 365 zaštitnik
 
-Sledeće licence pružaju besplatan pristup funkcijama programa Microsoft 365 Defender u Microsoft 365 centru bezbednosti:
+Sledeće licence pružaju besplatan pristup funkcijama Microsoft 365 zaštitnik u Microsoft 365 za bezbednost:
 
-- Microsoft 365 E5 ili a5
-- Microsoft 365 E5 Security ili a5 Security
-- Windows 10 Enterprise E5 ili a5
-- Enterprise mobilnost + Security (EMS) E5 ili a5
-- Office 365 E5 ili a5
-- Microsoft Defender za krajnju tačku
-- Microsoft Defender za identitet
-- Bezbednost aplikacije Microsoft Cloud
-- Microsoft zaštitnik za Office 365 (plan 2)
+- Microsoft 365 E5 ili A5
+- Microsoft 365 E5 Security ili A5 bezbednost
+- Windows 10 Enterprise E5 ili A5
+- Enterprise Mobility + Security (EMS) E5 ili A5
+- Office 365 E5 ili A5
+- Microsoft zaštitnik za krajnje tačke
+- Microsoft zaštitnik za identitet
+- Microsoft Cloud App Security
+- Microsoft zaštitnik za Office 365 (Plan 2)
 
     > [!NOTE]
-    > U ovom trenutku, probne licence za Office 365 ne pružaju pristup Microsoft 365 Defender.
+    > U ovom trenutku, probne licence za Office 365 ne pružaju pristup Microsoft 365 zaštitnik.
 
-Više informacija potražite u članku [Poređenje Microsoft 365 Enterprise plana](https://go.microsoft.com/fwlink/?linkid=2143458).
+Dodatne informacije potražite u Microsoft 365 Enterprise [Poređenje planova.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Još nemate licencu? [Pokušajte ili kupite pretplatu na Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2143625).
+Još uvek nemate licencu? [Isprobajte ili kupite Microsoft 365 pretplatu](https://go.microsoft.com/fwlink/?linkid=2143625).

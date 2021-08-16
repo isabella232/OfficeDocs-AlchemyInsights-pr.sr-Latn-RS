@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 24c5fdd23482c96c7f7c901881e9bfa2c1b61ea8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d597fa0020beedd481e017ab707a5a4f5192219ac87609a894d8ba7345ce3110
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005716"
 ---
 # <a name="shared-mailboxes-cant-open-encrypted-messages"></a>Deljeni poštanski sandučići ne mogu da otvore šifrovane poruke
 
-- Deljeni poštanski sandučići ne mogu da otvore šifrovane poruke, bez obzira na to koju aplikaciju klijenta koristite (na primer, Outlook 2016 ili Outlook na vebu).
-- Možete da šaljete šifrovane poruke iz deljenog poštanskog sandučeta. Podesite adresu za šifrovanje kao što biste bilo koje poštansko sanduče drugog korisnika u organizaciji. Na primer, ako ste podesili šifrovanje poruka za sve e-poruke poslate iz vaše organizacije, Deljeno poštansko sanduče će podrazumevano biti uključeno.
+- Deljeni poštanski sandučići ne mogu da otvaraju šifrovane poruke, bez obzira na to koju klijentsku aplikaciju koristite (na primer, Outlook 2016 ili Outlook na vebu).
+- Šifrovane poruke možete da šaljete iz deljenog poštanskog sandučeta. Podesite adresu za šifrovanje kao što biste to podesili za poštansko sanduče bilo kog drugog korisnika u organizaciji. Na primer, ako ste podesili šifrovanje poruka za sve e-poruke poslate iz organizacije, podrazumevano se uključuje deljeno poštansko sanduče.

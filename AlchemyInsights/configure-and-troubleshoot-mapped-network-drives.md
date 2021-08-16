@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: a47ee5cc3f8599c850e59e46c0f636715f1d12bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1a367eb7431d774bb8d5e6e6b11dbca97cf7fdc753cb6dd34363d6d73f1a9d1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044966"
 ---
 # <a name="configure-and-troubleshoot-mapped-network-drives"></a>Konfigurisanje i rešavanje problema samašenih mrežnih diskova
 
-Mapiranje biblioteke kao mrežne disk jedinice je privremeno i podržano samo putem programa Internet Explorer. Umesto toga, [sinhronizuj SharePoint](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)datoteke pomoću novog OneDrive klijenta za sinhronizaciju koji obezbeđuje [datoteke na zahtev.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) Pristupite svim datotekama u usluzi OneDrive bez korišćenja lokalnog prostora za skladištenje.
+Mapiranje biblioteke kao mrežne disk jedinice je privremeno i podržano samo putem programa Internet Explorer. Umesto toga, [SharePoint datoteke sinhronizuj pomoću novog klijenta OneDrive aplikacija za sinhronizaciju](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)koji obezbeđuje [datoteke na zahtev.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) Pristupite svim datotekama u OneDrive bez korišćenja lokalnog prostora za skladištenje.
 
 - [Rešavanje problema samačenim mrežnim disk jedinicama koje se povezuju sa uslugom SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

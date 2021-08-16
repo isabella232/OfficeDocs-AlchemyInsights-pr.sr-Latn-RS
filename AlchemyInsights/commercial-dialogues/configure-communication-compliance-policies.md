@@ -1,5 +1,5 @@
 ---
-title: Konfigurisanje smernica usaglašenosti komunikacije
+title: Konfigurisanje smernica za usaglašenost komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968139"
 ---
-# <a name="configure-communication-compliance-policies"></a>Konfigurisanje smernica usaglašenosti komunikacije
+# <a name="configure-communication-compliance-policies"></a>Konfigurisanje smernica za usaglašenost komunikacije
 
-Posle izdavanja usaglašenosti komunikacije u Microsoft 365 usaglašenosti u februaru 2020, nadzor u sistemu Office 365 se penzioniљe. Smernice nadzora više neće biti dostupne za kreiranje i smernice će se na kraju ukloniti, nakon produženog perioda pristupa samo za čitanje.
+Nakon objavljivanja usaglašenosti komunikacije u Microsoft 365 u februaru 2020, supervizija u programu Office 365 se poništaava. Smernice za nadgledanje više neće biti dostupne za kreiranje i smernice će na kraju biti uklonjene posle produženog perioda pristupa samo za čitanje.
 
 > [!IMPORTANT]
-> Ako koristite nadzor, imajte na umu da:
+> Ako koristite superviziju, imajte na umu da:
 >
-> 1. Počevši od 15 juna, 2020, stanari neće imati mogućnost pravljenja novih smernica nadzora.
-> 2. Počevši od 31. avgust 2020, postojeće smernice će prestati da primaju nove poruke.
-> 3. Počevši od 2020, postojeće smernice će biti izbrisane.
+> 1. Počev od 15. juna 2020, zakunjači neće imati mogućnost da kreiraju nove smernice za nadgledanje.
+> 2. Od 31. avgusta 2020. postojeće smernice će prestati da hvataju nove poruke.
+> 3. Počev od 26. oktobra 2020. godine postojeće smernice će biti izbrisane.
 
-Aktivno podstićemo klijente koji trenutno istražuju ili koriste nadzor u sistemu Office 365 da bi koristili novo [rešenje usaglašenosti komunikacije u usluzi Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) da biste rešili praćenje nadzora ili regulatorne osobe pomoću mnogo bogatijeg skupa pametnih mogućnosti.
+Aktivno podstičemo klijente koji trenutno istražuju ili koriste nadzor u programu Office 365 da koriste novo rešenje za usaglašenost komunikacije u programu [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) kako bi ispunili zahteve nadgledanja komunikacije ili regulatornih potreba pomoću mnogo bogatijeg skupa inteligentnih mogućnosti.
