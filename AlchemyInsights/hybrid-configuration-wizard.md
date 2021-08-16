@@ -13,19 +13,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015058"
 ---
 # <a name="hybrid-configuration-wizard"></a>Čarobnjak za hibridnu konfiguraciju
 
-Čarobnjak za hibridnu konfiguraciju je aplikacija koja vam pomaže da podesite novu hibridnu primenu između lokalne Exchange organizacije i Microsoft 365. Ako već imate podešen hibrid, čarobnjak vam pomaže da ažurirate svoje hibridne postavke. Više informacija potražite u člancima:
+Čarobnjak za hibridnu konfiguraciju je aplikacija koja vam pomaže da podesite novu hibridnu primenu između Exchange organizacije i Microsoft 365. Ako već imate podešenu hibridnu primenu, čarobnjak vam pomaže da ažurirate postavke hibridne primene. Za više informacija pogledajte:
   
-- [Čarobnjak za pokretnoj konfiguraciji](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Pokretanje čarobnjaka za hibridnu konfiguraciju](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
 - [Čarobnjak za hibridnu konfiguraciju](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Čarobnjak za hibridne konfiguracije](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Hibridna pitanja čarobnjaka za konfiguraciju](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
