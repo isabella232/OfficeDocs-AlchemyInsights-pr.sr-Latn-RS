@@ -1,5 +1,5 @@
 ---
-title: 'Da biste konfigurisali automatski odgovor za sve e-poruke poslate korporaciji Microsoft 365:'
+title: 'Da biste konfigurisali automatski odgovor za sve e-poruke poslate Microsoft 365 grupi:'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "8586"
 - "9003200"
-ms.openlocfilehash: c3c1d4e6b16b54d92771d7bdecdc9cb12bbf888c
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
-ms.translationtype: MT
+ms.openlocfilehash: 3ed937d38627c1089c9203550498ce7b21ce01c0c5a2deea7326f8057f5338d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036146"
 ---
-# <a name="to-configure-auto-reply-for-all-emails-sent-to-microsoft-365-group"></a>Da biste konfigurisali automatski odgovor za sve e-poruke poslate korporaciji Microsoft 365:
+# <a name="to-configure-auto-reply-for-all-emails-sent-to-microsoft-365-group"></a>Da biste konfigurisali automatski odgovor za sve e-poruke poslate Microsoft 365 grupi:
 
-**Povežite se sa EXO PowerShell pomoću naloga administratora zakupca i koristite sledeću komandu**:
+**Povezivanje exO PowerShell pomoću naloga administraatora zakupaca i koristite sledeću komandu:**
 
 `Set-MailboxAutoReplyConfiguration -Identity groupmailbox -AutoReplyState Enabled -InternalMessage "Internal auto-reply message." -ExternalMessage "External auto-reply message`
 
 > [!NOTE]
-> Promenite **gruppoštansko sanduče** u ime grupe na koje želite da konfigurišete Automatsko odgovaranje.
+> Promenite **poštansko sanduče grupe** u ime grupe na koje želite da konfigurišete automatski odgovor.
 

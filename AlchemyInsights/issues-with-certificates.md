@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027910"
 ---
 # <a name="issues-with-certificates"></a>Problemi sa certifikatima
 
-Za uputstva o rešavanju problema sa certifikatima, pogledajte sledeće članke:
+Uputstva za rešavanje problema u vezi sa certifikatima potražite u sledećim člancima:
 
-- [Prvi koraci uz potvrdu verodostojnosti zasnovane na certifikatima u okviru Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  – koraci za konfigurisanje i korišćenje potvrde identiteta zasnovane na certifikatima za korisnike stanovnika u sistemu Office 365 Enterprise, Business, edukacija i planovi američke vlade.
+- Prvi koraci uz potvrdu identiteta zasnovanu na certifikatu u sistemu [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) – koraci za konfigurisanje i korišćenje potvrde identiteta zasnovane na certifikatu za korisnike zakupi u Office 365 Enterprise, poslovnim, obrazovnim planovima i vladinim planovima SAD.
 
-- [Rešavanje problema sa uslugom Azure AD Certificate-Based potvrda identiteta](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – informacije koje vam pomažu da rešite probleme sa autentifikacijom zasnovane na certifikatima.
+- [Rešavanje problema sa uslugom Azure AD Certificate-Based potvrde identiteta](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – informacije koje vam pomažu da rešite probleme sa potvrdom identiteta zasnovanom na certifikatu.
 
-- [Upravljajte certifikatima za federovano jedinstveno prijavljivanje u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  – najčešća pitanja i informacije u vezi sa certifikatima koje Azure Active Directory (AZURE AD) kreiraju da biste uspostavili federativne jedinstveno prijavljivanje (SSO) za softver kao uslugu (SaaS).
+- Upravljanje certifikatima za jedinstveno prijavljivanje na Azure Active Directory – Uobičajena pitanja i [informacije](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) u vezi sa certifikatima koje kreira Azure Active Directory (Azure AD) za uspostavljanje federanog jedinstvenog prijavljivanje (SSO) sa softverom kao aplikacija usluge (SaaS).
 
-- [Više opcija za potpisivanje certifikata u vidu Token za aplikacije galerije u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  – Saznajte više o tri opcije potpisivanja AZURE AD AD.
+- Napredne opcije potpisivanja certifikata u [SAML tokenu](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) za aplikacije galerije u programu Azure Active Directory – Saznajte više o tri opcije za potpisivanje certifikata za Azure AD.

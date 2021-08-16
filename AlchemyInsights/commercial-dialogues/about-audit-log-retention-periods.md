@@ -1,5 +1,5 @@
 ---
-title: O periodima za zadržavanje nadzora
+title: O periodima zadržavanja evidencija nadzora
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006333"
 ---
-# <a name="about-audit-logs-retention-periods"></a>O periodima za zadržavanje nadzora
+# <a name="about-audit-logs-retention-periods"></a>O periodima zadržavanja evidencija nadzora
 
-Period zadržavanja za evidentiranje nadzora zavisi od pretplate na Office 365.
+Period zadržavanja za evidencije nadzora zavisi od pretplate organizacije na Office 365.
 
-- **Office 365 E3**: 90 dana.
-- **Office 365 E5**: 365 dana. Trenutno se zadržavanje u jednogodišnjoj pregledu.
-- **E3 i Office 365 napredni dodatak usaglašenosti**: 365 dana. Trenutno se zadržavanje u jednogodišnjoj pregledu.
-- Da biste se prijavili u pregledu pregleda, prijavite zahtev pomoću Microsoft podrške i obuhvatite sledeće kao opis onoga što vam je potrebna pomoć za: **dugoročni Office 365 evidencija nadzora**.
+- **Office 365 E3:** 90 dana.
+- **Office 365 E5:** 365 dana. Jednogodišnje zadržavanje je trenutno u preliminarnim pregledima.
+- **E3 i Office 365 napredna usaglašenost dodatak:** 365 dana. Jednogodišnje zadržavanje je trenutno u preliminarnim pregledima.
+- Da biste se prijavili u program za pregled, arhivujte zahtev uz Microsoft podršku i uključite sledeće kao opis onoga za šta vam je potrebna pomoć: dugoročni Office 365 pregled evidencije **nadzora.**
 > [!NOTE]
-> Period zadržavanja je zasnovan na licenciranju po korisniku. Na primer, ako korisnik u vašoj organizaciji ima licencu E3, zatim se zapisi nadzora za aktivnosti koje izvršava taj korisnik zadržavaju za 90 dana. Ako drugi korisnik ima pretplatu na E5, njihovi zapisi nadzora se zadržavaju za godinu dana.
+> Period zadržavanja se zasniva na licenciranja po korisniku. Na primer, ako korisnik u organizaciji ima E3 licencu, zapisi nadzora za aktivnosti koje je izvršio taj korisnik zadržavaju se 90 dana. Ako drugi korisnik ima licencu za E5, zapisi nadzora se zadržavaju godinu dana.
 
-Da biste saznali više, pogledajte ova [najčešća pitanja](https://go.microsoft.com/fwlink/?linkid=2115336).
+Da biste saznali više, pogledajte ova pitanja [o tome.](https://go.microsoft.com/fwlink/?linkid=2115336)
