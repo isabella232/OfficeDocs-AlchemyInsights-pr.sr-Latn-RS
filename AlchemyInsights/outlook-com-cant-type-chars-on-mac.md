@@ -1,5 +1,5 @@
 ---
-title: 9000071 ne može da otkuca oznaku @ na Mac računaru
+title: 9000071 Ne možete da otkucate @ simbol na Mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: a682ad3ebb196df818e894c129ded59cd0e2880a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01d4a3a2a59afe797d8b43c86bbe382ab19ba029a64b0f66be11201201b9d319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984583"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>Kako otkucati specijalne znakove na Mac računaru
+# <a name="how-to-type-special-characters-on-a-mac"></a>Kako da otkucate specijalne znakove na Mac
 
-Da biste otkucali specijalne znakove na Mac računaru, otvorite meni **Specijalni znakovi** sa tasterskim prečicom za ⌘ **Command**  +  **Control**  +  **Space**.
+Da biste otkucali specijalne znakove na Mac računaru, otvorite meni Specijalni znakovi pomoću tasterske prečice ⌘ **Prostor za komandnu**   +    +  **kontrolu.**
 
-Kratka prečica za @ je takođe **Alt**  +  **64**.
+Brza prečica za @ je takođe **ALT**  +  **64.**

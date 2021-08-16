@@ -1,5 +1,5 @@
 ---
-title: 'OneDrive: datoteke ili fascikle koje nedostaju'
+title: 'OneDrive: Datoteke ili fascikle koje nedostaju'
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,15 +8,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: a81179e0a9523f43c538a41af7c49f6dd7c485ae
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50d413ae7389c3ecd281b3a87d64736be8fc8044f1b20a103bd3f45c97473502
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064722"
 ---
-# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: rešavanje problema "obrada promena"
+# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: Rešavanje problema "Obrada promena"
 
-Ako vidite "obrada promena" u duže vreme, može da bude otvorena datoteka na mreži, broj datoteka zaglavljene u redu ili vrlo velika sinhronizacija, pogledajte [OneDrive: rešavanje problema "obrada promena"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) da bi se rešilo ovaj problem.
+Ako tokom dužeg vremenskog perioda vidite reč "Obrada promena", to može biti zbog otvorene datoteke na mreži, nekoliko datoteka zaglavljenih u redu za čekanje ili veoma velike sinhronizacije datoteka, pogledajte OneDrive Rešavanje problema "Obrada [promena"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) da biste rešili ovaj problem.
 
-Takođe ćete videti ovu poruku ako imate datoteku koja se stalno menja (kao što je Outlook. PST datoteka ili baze podataka). Saznajte kako da [premestite Outlook datoteke sa podacima](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) koje redovno koristite iz usluge OneDrive.
+Ovu poruku ćete videti i ako imate datoteku koja se uvek menja (kao što je Outlook. PST datoteka ili baza podataka). Saznajte [kako da premestite Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) datoteke sa podacima koje redovno koristite van OneDrive.

@@ -1,5 +1,5 @@
 ---
-title: Uvoz. pst datoteke u Outlook za Mac iz programa Outlook za Windows
+title: Uvezite .pst datoteku u Outlook za Mac iz Outlook za Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,103 +13,103 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7efb5035ee293bc2d0e8e3f36c1dd1203c6e6c12
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987409"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Uvoz. pst datoteke iz programa Outlook za Windows u Outlook za Mac 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Uvoz .pst datoteke iz Outlook za Windows u Outlook za Mac 
 
-Da biste preneli poruke i druge stavke sa računara zasnovanog na operativnom sistemu Windows na Mac, Outlook za Mac može da uvozi Outlook datoteke sa podacima (. pst) kreirane u programu Outlook za Windows.
+Da biste preneli poruke i druge stavke sa računara zasnovanog na operativnom sistemu Windows na Mac računar, Outlook za Mac može da uveze Outlook datoteke sa podacima (.pst) koje su kreirane u programu Outlook for Windows.
 
-**U novije verzije – uvoz. pst datoteke sa Windowsa na Mac**
+**U novijim verzijama – uvoz .pst datoteke iz Windows na Mac**
 
-1. U meniju **datoteka** Outlook za Mac izaberite stavku **Uvezi**.
+1. U meniju Outlook za Mac **izaberite** stavku **Uvezi**.
 
-2. Odaberite stavku **Outlook za Windows arhivu datoteka (. pst)**, a zatim kliknite na dugme **Nastavi**.
+2. Odaberite **Outlook datoteku Windows arhive (.pst),** a zatim kliknite na **dugme Nastavi.**
 
-3. Pronađite datoteku sa podacima na računaru i kliknite na dugme **Uvezi**.
+3. Pronađite datoteku sa podacima na računaru, a zatim kliknite na dugme **Uvezi**.
 
-4. Kada se proces uvoza završi, kliknite na dugme **Završi**.
+4. Kada se proces uvoza dovrši, kliknite na dugme **Završi.**
 
-   Uvezene stavke se pojavljuju u oknu za navigaciju ispod **računara**.
+   Uvezene stavke se pojavljuju u oknu za navigaciju u **okviru Na mom računaru.**
 
 
-**U sistemu Office 2011 – uvoz. pst datoteke iz programa Outlook za Windows**
+**U Kancelarija 2011 – uvoz .pst datoteke iz sistema Outlook za Windows**
 
-1. Prebacite. pst datoteku na Macintosh računar.
+1. Prenesete .pst datoteku na Macintosh računar.
 
-2. U meniju **datoteka** Outlook za Mac izaberite stavku **Uvezi**.
+2. Iz menija Outlook Za Mac **izaberite** stavku **Uvezi**.
 
-3. Izaberite stavku **Outlook datoteka sa podacima**, a zatim kliknite na strelicu nadesno.
+3. Izaberite **Outlook datoteku sa podacima**, a zatim kliknite na strelicu nadesno.
 
 4. Izaberite **Outlook za Windows datoteku sa podacima**, a zatim kliknite na strelicu nadesno.
 
-5. Pronađite datoteku sa podacima na računaru i kliknite na dugme **Uvezi**.
+5. Pronađite datoteku sa podacima na računaru, a zatim kliknite na dugme **Uvezi**.
 
-6. Kada se proces uvoza završi, kliknite na dugme **gotovo**.
+6. Kada se proces uvoza dovrši, kliknite na dugme **Gotovo.**
 
-   Uvezene stavke se pojavljuju u oknu za navigaciju ispod **računara**.
+   Uvezene stavke se pojavljuju u oknu za navigaciju u **okviru Na mom računaru.**
 
 > [!NOTE]
-> Outlook za Mac može da uvozi. pst datoteke zasnovane na Unicode sistemima, koje su standardni format za datoteke ličnih fascikli za Outlook (za Windows) 2003 i novije verzije. ANSI oblikovane. pst datoteke, poznate i kao Outlook 97-2002 datoteke ličnih fascikli, bio je standardni format lične fascikle za čuvanje podataka u programu Outlook za Windows u verzijama sistema 97-2002. Nije moguće uvesti ovaj format datoteke u Outlook za Mac. Ako imate stariju verziju datoteke. pst oblikovane u ANSI oblikovanu, ne postoji automatska procedura za konvertovanje te datoteke u noviji format datoteke. Međutim, možete da kreirate novu Outlook datoteku sa podacima (. pst) u programu Microsoft Outlook za Windows 2003 ili noviju verziju, a zatim da uvezete stavke iz starije datoteke u novu datoteku. Zatim možete da uvezete novu. pst datoteku u Outlook za Mac. Više informacija o kreiranju. pst datoteka i uvoženje stavki potražite u članku **pomoć** za svoju verziju programa Outlook za Windows.
+> Outlook za Mac može da uvozi samo .pst datoteke zasnovane na Unikodu, što je standardni format za datoteke ličnih fascikli za Outlook (za Windows) 2003 i novije verzije. ANSI-oblikovane .pst datoteke, poznate i kao Outlook 97-2002 datoteke ličnih fascikli, bio je standardni format lične fascikle za čuvanje podataka u programu Outlook za Windows u verzijama 97-2002. Ovaj format datoteke ne može da se uveze u Outlook za Mac. Ako imate stariju verziju ANSI-oblikovane .pst datoteke, ne postoji automatizovana procedura da biste tu datoteku konvertovali u noviji format datoteke. Međutim, možete da kreirate novu Outlook datoteku sa podacima (.pst) u programu Microsoft Outlook za Windows 2003 ili novije verzije, a zatim uvezete stavke iz starije datoteke u novu datoteku. Zatim možete da uvezete novu .pst datoteku u Outlook za Mac. Dodatne informacije o tome kako se prave .pst datoteke i kako se uvoze stavke potražite u pomoći za svoju verziju programa Outlook za Windows. 
 
-**Otvaranje Outlook datoteke sa podacima (. pst ili. Olm)**
+**Otvaranje Outlook sa podacima (.pst ili .olm)**
 
-Možete da uvezete Outlook za Windows datoteku sa podacima (. pst) ili Outlook za Mac datoteku sa podacima (. Olm). Ove datoteke sa podacima mogu da sadrže velike količine podataka više tipova stavki. Outlook datoteke sa podacima se često koriste kao arhiv ili za prenos podataka između računara.
+Možete da uvezete Outlook za Windows datoteku sa podacima (.pst) ili Outlook za Mac datoteku sa podacima (.olm). Te datoteke sa podacima mogu da sadrže velike količine podataka više tipova stavki. Outlook Datoteke sa podacima često se koriste kao arhive ili za prenos podataka između računara.
 
-1. U meniju Datoteka Outlook za Mac izaberite stavku **Uvezi**.
+1. U meniju Outlook za Mac izaberite stavku **Uvezi**.
 
-2. Izaberite stavku **Outlook datoteka sa podacima**, a zatim kliknite na strelicu nadesno.
+2. Izaberite **Outlook datoteku sa podacima**, a zatim kliknite na strelicu nadesno.
 
 3. Izaberite tip datoteke sa podacima, a zatim kliknite na strelicu nadesno.
 
-4. Pronađite datoteku sa podacima na računaru i kliknite na dugme **Uvezi**.
+4. Pronađite datoteku sa podacima na računaru, a zatim kliknite na dugme **Uvezi**.
 
-5. Kada se proces uvoza završi, kliknite na dugme **gotovo**.
+5. Kada se proces uvoza dovrši, kliknite na dugme **Gotovo.**
 
-Uvezene stavke se pojavljuju u oknu za navigaciju ispod **računara**.
-
-> [!NOTE]
-> Outlook za Mac može da uvozi samo. pst datoteke zasnovane na Unikod formatu koje su standardni format za datoteke ličnih fascikli za Outlook (za Windows) 2003 i novije verzije. ANSI oblikovane. pst datoteke, poznate i kao Outlook 97-2002 datoteke ličnih fascikli, ne mogu da se uvezu u Outlook za Mac. Ako imate stariju verziju datoteke. pst oblikovane u ANSI oblikovanu, ne postoji automatska procedura za konvertovanje te datoteke u noviji format datoteke. Međutim, možete da kreirate novu Outlook datoteku sa podacima (. pst) u programu Microsoft Outlook za Windows 2003 ili noviju verziju, a zatim da uvezete stavke iz starije datoteke u novu datoteku. Zatim možete da uvezete novu. pst datoteku u Outlook za Mac. Više informacija o kreiranju. pst datoteka i uvoženje stavki potražite u članku pomoć za svoju verziju programa Outlook za Windows. 
-
-**Otvaranje stavki aplikacije iz arhive ili starije verzije**
-
-Možete da uvezete stavke kao što su e-poruke, kontakti i događaji iz pratnje 2004, pratnja 2008 ili pratnja 2008, izdanje Veb usluga. Ove stavke možete da uvezete i iz arhive pratnje, koja ima oznaku tipa datoteke. rge.
-
-1. U meniju **datoteka** Outlook za Mac izaberite stavku **Uvezi**.
-
-2. Izaberite stavku **informacije o pratnji iz arhive ili starije verzije**, kliknite na strelicu nadesno, a zatim sledi uputstva.
+Uvezene stavke se pojavljuju u oknu za navigaciju u **okviru Na mom računaru.**
 
 > [!NOTE]
-- Ako ste koristili Microsoft Exchange nalog sa uslugom "prati", sve stavke u Exchange nalogu preuzimaju se sa Exchange servera nakon dovršavanja procesa uvoza. Sva pravila ili rasporedi koji se odnose na Exchange nalog moraće da se ponovo konfiguriše u programu Outlook.
+> Outlook za Mac može da uvozi samo .pst datoteke zasnovane na Unikodu što je standardni format za datoteke ličnih fascikli za Outlook (za Windows) 2003 i novije verzije. ANSI-oblikovane .pst datoteke, poznate i kao Outlook 97-2002 datoteke ličnih fascikli, ne mogu da se uvezu u Outlook za Mac. Ako imate stariju verziju ANSI-oblikovane .pst datoteke, ne postoji automatizovana procedura da biste tu datoteku konvertovali u noviji format datoteke. Međutim, možete da kreirate novu Outlook datoteku sa podacima (.pst) u programu Microsoft Outlook za Windows 2003 ili noviju, a zatim uvezete stavke iz starije datoteke u novu datoteku. Zatim možete da uvezete novu .pst datoteku u Outlook za Mac. Dodatne informacije o tome kako se prave .pst datoteke i kako se uvoze stavke potražite u pomoći za svoju verziju programa Outlook za Windows. 
 
-- Ako uvozite stavke sa lokacije da 2004 ili pratnja 2008, informacije o kategorijama na Exchange nalogu se ne uvoze u Outlook. Međutim, 2008 sa uslugom, veb uslugama Edition, informacije o kategoriji preuzeće se sa Exchange servera.
+**Otvaranje entourage stavki iz arhive ili starije verzije**
 
-- Outlook ne podrazumeva centar za projekte. Ako ste centar za projekte koristili u usluzi, a zatim uvezete informacije o Pratanju u Outlook, veze centra projekta se konvertuju u kategorije. Na primer, ako ste dodali stavke u projekat koji je nazvan "istraživanje papira" u usluzi "sazove", ove stavke se dodeljuju kategoriji koja se zove "istraћivaиki papir" u programu Outlook.
+Stavke kao što su e-poruke, kontakti i događaji možete da uvezete iz usluge Entourage 2004, Entourage 2008 ili Entourage 2008, Web Services Edition. Ove stavke možete da uvezete i iz Entourage arhive, koja ima oznaku tipa .rge.
 
-- Prilagođeni prikazi, postavke pretrage i informacije o vremenu putovanja iz pratnje se ne uvoze u Outlook. Outlook događaji ne uključujući nikakve informacije o vremenu putovanja.
+1. Iz menija Outlook Za Mac **izaberite** stavku **Uvezi**.
 
-**Premeštanje stavke iz fascikle arhive u drugu fasciklu u programu Outlook**
+2. Izaberite **stavku Entourage informacije iz arhive** ili starije verzije , kliknite na strelicu nadesno, a zatim pratite uputstva.
+
+> [!NOTE]
+- Ako ste uz Entourage koristili Microsoft Exchange, sve stavke sa Exchange naloga preuzimaju se sa Exchange servera kada se proces uvoza dovrši. U programu Exchange moraju ponovo da se Outlook pravila ili rasporedi u vezi sa Outlook.
+
+- Ako stavke uvozite iz proizvoda Entourage 2004 ili Entourage 2008, informacije o kategoriji za stavke na Exchange nalogu ne uvoze se u Outlook. Međutim, uz Entourage 2008, Web Services Edition, informacije o kategoriji preuzimaju se sa Exchange servera.
+
+- Outlook ne uključuje Project Centar. Ako ste koristili Project Entourage, a zatim uvezete Entourage informacije u Outlook, povezanosti Project centru se konvertuju u kategorije. Na primer, ako ste u Entourage dodali stavke u projekat pod nazivom "Istraživački rad", ovim stavkama se dodeljuje kategorija koja se zove "Istraživački rad" u okviru Outlook.
+
+- Prilagođeni prikazi, postavke pretrage i informacije o vremenu putovanja događaja iz programa Entourage ne uvoze se u Outlook. Outlook događaji ne uključuju informacije o vremenu putovanja.
+
+**Premeštanje stavke iz fascikle arhive u drugu fasciklu u Outlook**
 
 1. Izaberite stavku koju želite da premestite.
 
-2. Na kartici **Početak** odaberite stavku **Premesti**, a zatim izaberite stavku **Odaberi fasciklu**.
+2. Na kartici **Početak** odaberite stavku Premesti , **a zatim** izaberite stavku **Odaberi fasciklu**.
 
-3. U polje za pretragu unesite ime fascikle koju želite da premestite, a zatim kliknite na dugme **Premesti**.
+3. U polje za pretragu unesite ime fascikle koju želite da premestite i kliknite na dugme **Premesti.**
 
 > [!TIP]
-> Da biste kopirali stavku iz fascikle arhive u drugu fasciklu u programu Outlook, jednostavno prevucite stavku u fasciklu u kojoj želite da smestite kopiju.
+> Da biste kopirali stavku iz fascikle arhive u drugu fasciklu u Outlook, jednostavno prevucite stavku u fasciklu u koju želite da postavite kopiju.
 
 **Takođe pogledajte**
 
 - [Uvoz informacija u Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
 
-- [Uvoz iCal ili Adresarnih stavki u Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
+- [Uvoz iCal ili stavki adresara u Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
 
 
 - [Izvoz ili ručno arhiviranje Outlook stavki](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
 
-- [Automatsko arhiviranje ili pravljenje rezervne kopije Outlook stavki](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Automatsko arhiviranje ili čuvanje Outlook stavki](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

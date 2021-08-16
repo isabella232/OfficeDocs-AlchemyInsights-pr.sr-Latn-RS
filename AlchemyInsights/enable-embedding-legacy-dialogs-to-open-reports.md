@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: c8a5634d5d79cbd584284b675e5db4e448a0d157
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e1ad34e8a5cefe168b86727ac3ca208d90f8d4478696cef58a7d0b04475fba56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003403"
 ---
 # <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Omogućavanje ugrađivanje zakasnelih dijaloga za otvaranje izveštaja
 
@@ -31,6 +31,6 @@ Izveštaji ne uspevaju da se učitaju u UCI sa greškom "Opis obrasca je bez vre
 
 **Rešenje**
 
-1. Idite na **karticu Postavke >Administracija > Postavke sistema > Opšte postavke.**
+1. Idite na Postavke >**Administracija > System Postavke > General tab**.
 
 2. Postavite opciju "Omogući ugrađivanje određenih zatamnjenih dijaloga u klijentu pregledača "Ujedinjeni interfejs" na **da.**

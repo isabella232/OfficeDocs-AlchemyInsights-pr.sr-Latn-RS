@@ -1,5 +1,5 @@
 ---
-title: Identifikacija zadrške postavljene na poštanskim sandučićima
+title: Identifikovanje zadrška postavljenih u poštanske sandučiće
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987583"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identifikovanje zadrške postavljene na poštanskim sandučićima
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifikovanje zadrška postavljenih u poštanske sandučiće
 
-Da li imate Microsoft 365 sadržaj koji **zadržavanje** **zadrške** koji ne možete da identifikujete? Treba da **saznate** gde se nalazi nalazi na **poštanskom sandučetu** ? *Zadržavanje (funkcije zadržavanja*) može se primeniti na neki od sledećih metoda:
+Da li imate Microsoft 365 sadržaj koji se zadržava **zadržan** u **zadršci koji ne** možete da identifikujete? Treba da **saznate gde** se nalazi zadrška u **poštanskom sandučetu?** Zadrške (*funkcije zadržavanja*) mogu da se primene na jedan od sledećih metoda:
   
-- Sporni čekanje
+- Zadržavanje u e-pošti za zadržavanje u e-po
 
-- eDiscovery hold
+- Zadržavanje e-discovery
 
-- Na mestu čekanje
+- In-Place čekanje
 
-- Microsoft 365 smernice za zadržavanje 
+- Microsoft 365 za zadržavanje 
 
-  - Određene smernice za zadržavanje lokacija
+  - Smernice za zadržavanje za određenu lokaciju
 
-  - Smernice za zadržavanje za celu organizaciju
+  - Smernice za zadržavanje u celom organizaciji
 
 - Microsoft 365 nalepnice
 
-Da biste identifikovali tip čekanja koji se odnosi na poštansko sanduče korisnika, pogledajte [članak kako da identifikujete tip čekanja postavljeno u Exchange online poštanskom sandučetu](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Da biste identifikovali koji tip čuvanja se primenjuje na poštansko sanduče korisnika, pogledajte kako da identifikujete tip čuvanja zadrške postavljenog na [Exchange Online poštanskom sandučetu.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
