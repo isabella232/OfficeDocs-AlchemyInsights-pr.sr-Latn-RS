@@ -1,5 +1,5 @@
 ---
-title: Automatski kreirane nove oznake za zadržavanje
+title: Nove oznake zadržavanja koje su automatski kreirane
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6cf95d51c7cd4914f6a69588fbf78ea0ba023b3ce8921b6efef6d97ab8bf66c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097530"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automatski kreirane nove oznake za zadržavanje
+# <a name="new-retention-labels-created-automatically"></a>Nove oznake zadržavanja koje su automatski kreirane
 
-Možda ćete videti [tri nove nalepnice za zadržavanje](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) automatski kreirane u organizaciji u okviru opcije **zadržavanja** u bezbednosnoj ili usaglašnoj centru administracije. Imena nalepnica su:
+Možda ćete videti [tri nove](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) oznake zadržavanja koje  su automatski kreirane u organizaciji u okviru Oznake za zadržavanje u centru za bezbednost ili usaglašenost. Imena oznaka su:
 
 - Operativna procedura
-- Opšte poslovanje
+- Opšte preduzeće
 - Ugovor o ugovoru
 
-To će se desiti kada prvi put odaberete **plan datoteke** ako ne bude napravljena nijedna druga nalepnica za zadržavanje. Ove nalepnice se automatski kreiraju i, ako je potrebno, mogu se ukloniti ako još uvek nisu zatvorene na sadržaj. Da biste uklonili oznake:
+To će se desiti kada prvi put odaberete stavku **Plan** datoteka ako nema drugih oznaka za zadržavanje. Ove oznake se kreiraju automatski i, ako je potrebno, mogu da se uklone ako još uvek nisu primenjene na sadržaj. Da biste uklonili nalepnice:
 
-1. U centru bezbednosti ili administracije usaglašenosti **Odaberite**  >  **Labels**  >  karticu**zadržavanje** nalepnica na nalepnicama.
+1. U centru za bezbednost ili usaglašenost odaberite **karticu Zadržavanje**  >    >  **oznaka za klasifikaciju.**
 
-1. Izaberite oznake za zadržavanje koje želite da uklonite > **Izbrišite oznaku**  >  **da** da biste izbrisali nalepnicu.
+1. Izaberite oznake za zadržavanje koje želite da uklonite, a > **izbrišete**  >  **nalepnicu Da da** biste izbrisali nalepnicu.
 
-Sa upravnikom plana datoteke možete da upravljate oznakama za zadržavanje i smernice u organizaciji – više informacija potražite u članku [Pregled upravljača za planiranje datoteka](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+Uz upravljač planovima datoteka možete da upravljate oznakama za zadržavanja i smernicama u organizaciji – više informacija potražite u pregledu upravljača [planovima datoteka.](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)

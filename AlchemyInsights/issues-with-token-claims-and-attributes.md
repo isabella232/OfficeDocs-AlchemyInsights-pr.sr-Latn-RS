@@ -1,5 +1,5 @@
 ---
-title: Problemi sa Simbomnim tvrdnjama i atributima
+title: Problemi sa zahtevima i atributima tokena
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012898"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Problemi sa Simbomnim tvrdnjama i atributima
+# <a name="issues-with-token-claims-and-attributes"></a>Problemi sa zahtevima i atributima tokena
 
-**Ažuriranje, konfigurisanje ili uklanjanje simbola simbola**
+**Ažuriranje, konfigurisanje ili uklanjanje zahteva tokena**
 
-1. Pomoću Azure aktivnog direktorijuma (Azure AD) možete da [prilagodite tip zahteva za pretenzije](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) na oznaku za odgovor koji primite kada odobrite aplikaciju.
-2. Programeri aplikacije mogu da koriste opcionalne zahteve u svojim Azure AD aplikacijama da bi naveli koje tvrdnje žele u željama koje su poslate u aplikaciju. Više informacija potražite u članku [obezbeđivanje opcionalnih tvrdnji za aplikaciju](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-3. [Podesite grupne zahteve za aplikacije pomoću usluge Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
-4. Ako koristite Nesmetna jedinstveno prijavljivanje u aplikaciji, pogledajte članak [Prilagođavanje tvrdnji izdatih u znaku semla za preduzeća](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
+1. Korišćenjem Azure Active Directory (Azure AD), možete [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) da prilagodite tip zahteva za zahtev uloge u tokenu odgovora koji primite kada ovlastite aplikaciju.
+2. Projektanti aplikacije mogu da koriste opcionalne zahteve u Azure AD aplikacijama da bi naveli koje zahteve žele u tokenima koji se šalju aplikaciji. Dodatne informacije potražite u [temi Naveli opcionalne zahteve za aplikaciju.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+3. [Konfigurišite grupne zahteve za aplikacije Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. Ako koristite nesometno jedinstveno prijavljivanje u aplikaciji, pogledajte prilagođavanje zahteva izdatih u [SAML tokenu za poslovne aplikacije.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
-**Mapiranje atributa potraživanja**
+**Mapiranje atributa "Zahtevi"**
 
-1. Da biste konfigurisali smernice za mapiranje potraživanja pomoću programa PowerShell, pogledajte članak [Prilagođavanje tvrdnji koje se automatski emituje za određenu aplikaciju u zakupcu (pregled)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-2. Atributi proširenja šeme direktorijuma obezbeđuju način skladištenja dodatnih podataka u usluzi Azure Active Directory na korisničkim objektima i drugim objektima direktorijuma kao što su grupe, detalji zakupca, direktori usluga. Samo produženi atributi na korisničkim objektima mogu da se koriste za emitovanje tvrdnji u aplikacijama. [Korišćenje atributa proširenja šeme direktorijuma u tvrdnjama](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) objašnjava kako se koriste atributi proširenja šeme direktorijuma za slanje korisničkih podataka u aplikacije u zahtevima za Token.
+1. Da biste konfigurisali smernice za mapiranje zahteva pomoću programa PowerShell, pogledajte prilagodite zahteve emitovane u tokenima za određenu aplikaciju u zakupca [(Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+2. Atributi proširenja šeme direktorijuma pružaju način za skladištenje dodatnih podataka u Azure Active Directory na objektima korisnika i drugim objektima direktorijuma kao što su grupe, detalji o zakupcu, principali usluga. Samo atributi proširenja u objektima korisnika mogu da se koriste za emitiranje tužbi u aplikacijama. Korišćenje atributa proširenja šeme direktorijuma u zahtevima opisuje kako da [koristite](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) atribute proširenja šeme direktorijuma za slanje korisničkih podataka aplikacijama u tužbama tokena.
 
-Više informacija o simbomnoj tvrdnji potražite u članku:
+Više informacija o zahtevima za token potražite u:
 
-- [Potraživanja u Access tokenima](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
+- [Zahtevi u tokenima za pristup](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
 - [Zahtevi u id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Tvrdnje](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) koje možete OČEKIVATI od ID-ova i Access tokena koje izda AZURE AD B2C
-- [Zahtev za SEML Token](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
+- [Zahtevi koje](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) možete da očekujete u ID tokenima i tokenima za pristup koje izdaje Azure AD B2C
+- [Referenca za zahteve za SAML token](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
