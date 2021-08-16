@@ -1,5 +1,5 @@
 ---
-title: Verifikacija Yammer zakupca je u osnovnom režimu
+title: Proverite da Yammer zakuca nalazi u native režimu
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070266"
 ---
-# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Verifikacija Yammer zakupca je u osnovnom režimu
+# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Proverite da Yammer zakuca nalazi u native režimu
 
-Ovaj stepenik je opcionalan. U osnovnom režimu, svi Yammer korisnici su u usluzi Azure Active Directory (Azure AD), sve grupe su Microsoft 365 grupe i sve datoteke se skladište u usluzi SharePoint online. Yammer stanar mora biti u osnovnom režimu da bi omogućio smernice usaglašenosti komunikacije za skeniranje i identifikovanje rizičnih razgovora u privatnim porukama i razgovorima zajednice u usluzi Yammer.  
+Ovaj korak je opcionalan. U modusu "Yammer" svi Azure Active Directory (Azure AD), sve grupe su Microsoft 365 Grupe, a sve datoteke se skladište u SharePoint Online. Zakupca Yammer u privatnom režimu da bi se smernice za usaglašenost komunikacije omogućile za skeniranje i identifikovanje rizičnih razgovora u privatnim porukama i razgovorima zajednice u Yammer.  
   
-Više informacija o konfigurisanju usluge Yammer u osnovnom režimu potražite u članku [Pregled usluge Yammer u sistemu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) i [Konfigurisanje Yammer mreže za izvorni režim za Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772).
+Dodatne informacije o konfigurisanju funkcije Yammer u funkciji "Nemanji režim" potražite u članci [Pregled Yammer Native Mode](https://go.microsoft.com/fwlink/?linkid=2129829) u programu Microsoft 365 i Konfigurisanje Yammer mreže za nematernji režim za [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2129772)

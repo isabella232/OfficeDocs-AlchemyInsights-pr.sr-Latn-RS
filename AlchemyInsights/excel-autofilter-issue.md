@@ -1,5 +1,5 @@
 ---
-title: Excel problem sa automatskim filtriranjem
+title: Excel Problem sa automatskim filterom
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100560"
 ---
-# <a name="excel-autofilter-issue"></a>Excel problem sa automatskim filtriranjem
+# <a name="excel-autofilter-issue"></a>Excel Problem sa automatskim filterom
 
-Prilikom korišćenja programa Excel 2016, ako padajuća lista automatski filter ne prikazuje sva dostupna polja za potvrdu ili se ne mogu kliknuti na dugme, možda je u prethodnim verzijama programa Excel poznat problem. 
+Kada koristite Excel 2016, ako padajuće liste automatski filter ne pokazuje sva dostupna polja za potvrdu ili ako nije moguće kliknuti na polja za potvrdu, to može biti zbog poznatog problema u ranijim izdanjima Excel. 
   
-Ovaj problem je sada rešen u **verziji 1707 (8326,2073)** ili novijoj verziji. Da biste odmah preuzeli ispravku, otvorite Excel i odmah **File** odaberite \> **Account** \> **ispravku opcije ažuriranja** naloga datoteka \> **Update Now**.
+Ovaj problem je rešen u **verziji 1707 (8326.2073) ili novijim.** Da biste odmah ažurirali ispravku, otvorite ovu Excel odaberite stavku **Opcije** ažuriranja \> **naloga** \> **datoteke** \> **Odmah ažuriraj.**
   
 
