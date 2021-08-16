@@ -1,5 +1,5 @@
 ---
-title: Šta je to Automatsko čuvanje
+title: Šta je to automatskogskladnog prihvatanja
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 36e4b57d518010c8a77bba5dd3828fe26178d20e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4792cff9989feb672784ae9bf1534a35a7535f21177c6cd41169796536fb41ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069294"
 ---
-# <a name="what-is-autosave"></a>Šta je to Automatsko čuvanje?
+# <a name="what-is-autosave"></a>Šta je to automatskog arhiva?
 
-Automatsko čuvanje je funkcija dostupna u programima Excel, Word i PowerPoint za Microsoft 365 pretplatnika koje automatski čuvaju datoteku na svakih nekoliko sekundi dok radite. 
+Automatsko čuvanje je funkcija dostupna u Excel, Word i PowerPoint za Microsoft 365 pretplatnicima koja automatski čuva vašu datoteku na svakih nekoliko sekundi, dok radite. 
 
-Za najčešća pitanja pogledajte [Šta je to Automatsko čuvanje?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+Najčešća pitanja pogledajte u temi [Šta je to automatskosklaDoštenje?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)

@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa isporukom e-pošte u javne fascikle sa omogućenom poštom
+title: Rešavanje problema sa isporukom e-pošte u javne fascikle omogućene za poštu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: ff1400f694ae037a8658356af068b4c20b8fa9d9908dafedb90db7bb6859530f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068826"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Rešavanje problema sa isporukom e-pošte u javne fascikle sa omogućenom poštom
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Rešavanje problema sa isporukom e-pošte u javne fascikle omogućene za poštu
 
-Ako spoljni pošiljaoci ne mogu da šalju poruke u javne fascikle sa omogućenom poštom pošte, a pošiljaoci imaju grešku: **nije bilo moguće pronaći (550 5.4.1)**, proverite da li je domen e-pošte za javnu fasciklu konfigurisan kao unutrašnji domen relej umesto autoritativno domen:
+Ako spoljni pošiljalac ne može da pošalje poruke u javne fascikle pošte, a pošiljalac dobija grešku: nije moguće pronaći **(550 5.4.1),** proverite da li je domen e-pošte javne fascikle konfigurisan kao interni relejni domen umesto ovlašćenog domena:
 
-1. Otvorite [Exchange centar administracije (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Otvorite [Exchange za administaciju (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Idite na **protok pošte** \> **prihvaćeni**domeni, izaberite prihvaćeni domen, a zatim kliknite na dugme **Uredi**.
+2. Idite na **Prihvaćeni** \> **domeni pošte**, izaberite prihvaćeni domen, a zatim kliknite na dugme **Uredi**.
 
-3. Na stranici "Svojstva" koja se otvara, ako je tip domena podešen na **autoritativno**, promenite vrednost u **unutrašnji relej** , a zatim kliknite na dugme **Sačuvaj**.
+3. Na stranici sa svojstvima koja se otvori, ako je tip domena postavljen na "Ovlašćeno", promenite vrednost u Interni **relej,** a zatim kliknite na dugme **Sačuvaj**.
 
-Ako spoljni pošiljaoci dobiju grešku **nemate dozvolu (550 5.7.13)**, uradite sledeće komande u [Exchange online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) da biste videli dozvole za anonimne korisnike u javnoj fascikli:
+Ako spoljni pošiljalac dobije grešku da nemate dozvolu **(550 5.7.13),** pokrenite sledeću komandu u programu [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) da biste videli dozvole za anonimne korisnike u javnoj fascikli:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Na primer, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Na `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` primer, .
 
-Da biste dopustili spoljnim korisnicima da šalju e-poštu u ovu javnu fasciklu, dodajte dugme Createstavke pravo na anonimni korisnik. Na primer, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .
+Da biste spoljnim korisnicima dozvolili da šalju e-poštu u ovu javnu fasciklu, dodajte pristup CreateItems odmah korisniku Anonimno. Na `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` primer, .
