@@ -1,5 +1,5 @@
 ---
-title: Office uređaji iz napredne zaštite pretnji u usluzi Microsoft Defender
+title: Offboard devices from Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f991a1c02318fbf5ebc4c4449331939e4d06bb3c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967851"
 ---
-# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Office uređaji iz napredne zaštite pretnji u usluzi Microsoft Defender
+# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard devices from Microsoft Defender Advanced Threat Protection
 
-Pogledajte odeljak Koski [Windows 10 uređaji](https://go.microsoft.com/fwlink/?linkid=2143629) ili [Offboard bez Windows uređaja](https://go.microsoft.com/fwlink/?linkid=2143630).
+Pogledajte [video osloba Windows 10 uređaje](https://go.microsoft.com/fwlink/?linkid=2143629) [ili Isključite uređaje koji Windows uređaje.](https://go.microsoft.com/fwlink/?linkid=2143630)

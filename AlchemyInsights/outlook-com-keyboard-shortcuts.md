@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: b40efccdb0c38c3b24919c36983d71814a4be7c4
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 875363cc21eb62ecd77c460991e3fe9773e4ec85268eb813da3dbd13bb6bb079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041456"
 ---
-# <a name="keyboard-shortcuts-in-outlookcom"></a>Tasterske prečice u Outlook.com
+# <a name="keyboard-shortcuts-in-outlookcom"></a>Tasterske prečice na Outlook.com
 
-U Outlook.com možete da koristite iste tasterske prečice kao uslugu e-pošte sa kojom ste korišćeni za rad, kao što je gmail, yahoo pošta ili Outlook.com.
+U usluzi Outlook.com možete da koristite iste tasterske prečice kao i usluga e-pošte sa pomoću koje ste navikli da radite, kao što su Gmail, Yahoo Mail ili Outlook.com.
 
-Idite na **Postavke** [postavki pristupačnosti](https://go.microsoft.com/fwlink/?linkid=2080840) 
- > **Prikaz svih postavki**  >  programa Outlook **Opšte postavke**  >  **Pristupačnost**) i odaberite koje tasterske prečice želite da koristite.
+Idite na [postavke pristupačnosti](https://go.microsoft.com/fwlink/?linkid=2080840) **Postavke** 
+ > **Prikaži sve Outlook postavke**  >  **Opšte**  >  **Pristupačnost**) i odaberite koje tasterske prečice želite da koristite.
 
-Da biste videli kompletnu listu tasterskih prečica, pogledajte [Outlook.com tasterske prečice](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd).
+Da biste videli kompletnu listu tasterskih prečica, [pogledajte Outlook.com tasterske prečice.](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
