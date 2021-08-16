@@ -1,5 +1,5 @@
 ---
-title: 976-kako-to-omogućiti-čekanje
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067530"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Postavite poštansko sanduče na pravnom čekanju
+# <a name="place-a-mailbox-on-legal-hold"></a>Postavite poštansko sanduče na zakonsko čekanje
 
-- Da biste postavili poštansko sanduče na čekanju ili na licu mesta, potrebna je [licenca](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Exchange online plan 2 licence. Ako je poštanskom sandučetu dodeljen licencirani plan 1, možete da dodelite zasebnu Exchange online Arhit za licenciranje licence [Exchange online Arhit za arhiviranja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Da biste poštansko sanduče stavili u zadržavanje u zadržavanju u parnižnom In-Place, potrebna Exchange Online plan 2 licenca za [Plan Exchange Online 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) je neophodna za Plan 2 licencu. Ako je poštanskom sandučetu dodeljena licenca za Plan 1, možete da dodelite zasebnu licencu Exchange Online arhiviranje licence za [dodatak Exchange Online arhiviranje dodatku](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Da biste omogućili sporni korak za jednog korisnika, [slijedite ove korake](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Kada se omogući čekanje, sav sadržaj u poštanskom sandučetu se čuva.
+- Da biste omogućili čuvanje podataka u paru za jednog korisnika, [pratite ove korake.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) Kada se omogući zadržavanje u sporu, čuva se sav sadržaj u poštanskom sandučetu.
 
-- Da biste sačuvali sadržaj u svim poštanskim sandučićima u organizaciji ili da biste kreirali druge tipove zadržavanja, koristite smernice za zadržavanje ili nalepnice. Imajte u vidu da se za smernice za zadržavanje u celoj organizaciji automatski dodeljuju novim korisnicima. Više informacija potražite u članku [Saznajte više o smernicama za zadržavanje i nalepnicama za zadržavanje](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
+- Da biste očuvali sadržaj u svim poštanskim sandučićima u organizaciji ili da biste napravili druge tipove zadržavanja, koristite smernice za zadržavanje ili nalepnice. Imajte napomogućeno da se za smernice za zadržavanje na celom organizaciji novi korisnici automatski dodeljuju smernicama. Više informacija potražite u članku Saznajte više o smernicama za [zadržavanje i oznakama za zadržavanje.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) 

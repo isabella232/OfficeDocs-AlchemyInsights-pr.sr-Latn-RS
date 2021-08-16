@@ -1,5 +1,5 @@
 ---
-title: Smernice za zadržavanje u Exchange centru aktivnosti ne rade
+title: Smernice za zadržavanje Exchange centru za administaciju ne rade
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074946"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Smernice za zadržavanje u Exchange centru administrovanja
+# <a name="retention-policies-in-exchange-admin-center"></a>Smernice za zadržavanje u Exchange centru za administrovanje
 
 Ako želite da pokrenemo automatske provere postavki koje su pomenute ispod, kliknite na dugme "nazad< – na vrhu ove stranice, a zatim unesite adresu e-pošte korisnika koji ima problema sa smernicama za zadržavanje.
 
-Ako imate problema sa smernicama za zadržavanje u Exchange centru adminimenata koje se ne primenjuju na poštanske sandučiće ili stavke koje se ne premeštaju u arhivski poštansko sanduče, proverite sledeće:
+Ako imate problema sa smernicama za zadržavanje u Exchange centru aktivnosti koji se ne primenjuju na poštanske sandučiće ili stavke koje se ne premeštaju u arhivski poštansko sanduče, proverite sledeće:
 
 **Osnovni uzroci:**
 
@@ -38,7 +38,7 @@ Ako imate problema sa smernicama za zadržavanje u Exchange centru adminimenata 
  
 **Napomogućeno:** Ako je poštansko sanduče manje od 10 MB, pomoćnik za kontrolisane fascikle neće automatski obraditi poštansko sanduče.
  
-Više informacija o smernicama za zadržavanje u Exchange centru admin center potražite u članku:
+Dodatne informacije o smernicama za zadržavanje u Exchange centru za administaciju potražite u članku:
 
 - [Oznake za zadržavanje i smernice za zadržavanje](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

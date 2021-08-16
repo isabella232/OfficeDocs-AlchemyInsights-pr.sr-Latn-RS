@@ -1,5 +1,5 @@
 ---
-title: Smernice za nadogradnju
+title: Teams za nadogradnju
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998705"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Timovi koriste više resursa na računaru nego što je očekivano
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams koristi više resursa za računare nego što je očekivano
 
-Sjajne performanse i iskustvo korisnika su najvažnije za Microsoft. Vreme lansiranja reprezentacija se poboljšava i mi ćemo nastaviti da poboljšavamo timove, uključujući potrošnju ukupnog resursa.  
+Odlične performanse i iskustvo korisnika najviše se brinu u korporaciji Microsoft. Teams vremena pokretanja poboljšavamo i nastavićemo Teams, uključujući ukupnu potrošnju resursa.  
 
-Informacije o korišćenju timova i resursu za resurse potražite u članku [kako Microsoft timovi koriste memoriju](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  i  [timove se spore tokom video sastanaka na laptop računarima na laptopovima u 4K/HDR monitorima](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Informacije o Teams korišćenja resursa i resursa potražite u Microsoft Teams Kako [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) koristi memoriju i Teams je spor tokom video sastanaka na laptopovima usidravani na [4K/HDR monitora.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)
