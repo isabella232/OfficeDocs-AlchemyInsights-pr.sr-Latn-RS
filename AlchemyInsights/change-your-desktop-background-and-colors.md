@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818158"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045768"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Promena pozadine radne površine i boja
 
-Da biste promenili postavke boja, izaberite stavku Start Postavke Personalizacija boja , a zatim odaberite svoju boju ili pustite Windows da povuče boju naglašavanje  >    >    >  sa vaše pozadine.
+Da biste promenili postavku boja, izaberite stavku Početak Postavke Personalizacija boja , a zatim odaberite sopstvenu boju ili pustite Windows povuče boju naglašavanje  >    >    >  sa pozadine.
 
-![Personalizujte boje u operativnom sistemu Windows.](media/windows-personalization-colors.png)
+![Personalizujte boje po Windows.](media/windows-personalization-colors.png)
 
-Da biste promenili pozadinu radne površine, idite na početnu pozadinu za personalizaciju postavki , a zatim odaberite sliku, neprobojnu boju ili kreirajte projekciju  >    >    >  slajdova sa slikama. 
+Da biste promenili pozadinu radne površine, izaberite stavku Početak   >  **Postavke**  >  **Pozadina za personalizaciju**, a zatim odaberite sliku, neprobojnu boju ili kreirajte projekciju  >  slajdova sa slikama. 
 
-![Promenite pozadinu Windows radne površine.](media/windows-desktop-background.png)
+![Promenite pozadinu Windows radnoj površini.](media/windows-desktop-background.png)
 
-Želite više pozadina radne površine i boja? Posetite [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) da biste odabrali jednu od brojnih besplatnih tema.
+Želite više pozadina radne površine i boja? Posetite [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) da biste odabrali između desetina besplatnih tema.
