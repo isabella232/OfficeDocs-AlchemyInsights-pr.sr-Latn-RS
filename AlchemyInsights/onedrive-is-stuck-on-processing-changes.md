@@ -1,5 +1,5 @@
 ---
-title: OneDrive je zaglavljena u obradi promena
+title: OneDrive proces obrade promena je zaglavljen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076071"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive je zaglavljena u obradi promena
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive proces obrade promena je zaglavljen
 
-Ako OneDrive već dugo prikazuje "obrade Promena", to može biti zato što imate otvorenu datoteku na mreži, mnogo datoteka koje su zaglavljene u redu ili veoma velika sinhronizacija. Pročitajte  [OneDrive se nalazi na "obradi promene"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) za predložene korake i više informacija.
+Ako OneDrive prikazuje stavku "Obrada promena" dugo vremena, to može biti zbog toga što ste otvorili datoteku na mreži, mnogo datoteka je zaglavljeno u redosledu ili se sinhronizuje veoma velika datoteka. Pročitana [OneDrive je zaglavljena na "Obrada promena" za](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) predložene korake i više informacija.
 
-Ako vam je potrebna veća pomoć, možete da  [pošaljete OneDrive podršku](https://go.microsoft.com/fwlink/p/?LinkId=528676).
+Ako vam je potrebna veća pomoć, možete da pošaljete [e-poruku OneDrive podršku.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

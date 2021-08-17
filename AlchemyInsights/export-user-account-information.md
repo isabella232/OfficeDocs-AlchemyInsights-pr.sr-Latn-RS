@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: c50f10adb47827428002db36371a7c2370b201f9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 64df79b2080c25fadd2ce2089a870963f62f01b2819e7c0439fe6d378fa7d048
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043706"
 ---
 # <a name="export-user-account-information"></a>Izvoz informacija o korisničkom nalogu
 
-Da biste izvezli informacije o korisničkom nalogu u Microsoft 365 centru administarcije, uključujući informacije o licencama, smernicama za lozinke, blokirani nalozima, statusu AAD sinhronizacije i još mnogo toga, idite na stranicu Korisnici aktivni korisnici, a zatim izaberite stavku Izvezi  >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) korisnike. 
+Da biste izvezli informacije o korisničkom nalogu u Microsoft 365 centar administracije uključujući informacije o licencama, smernicama za lozinke, blokirani nalozi AAD Sync ma, statusu korisnika i još mnogo toga, idite na stranicu Korisnici aktivni korisnici, a zatim izaberite stavku Izvezi  >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) korisnike. 
