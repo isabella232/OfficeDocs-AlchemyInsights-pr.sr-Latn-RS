@@ -13,27 +13,28 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918373"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891693"
 ---
 # <a name="alert-policies"></a>Smernice za obaveštenja
 
-Centar za Microsoft 365 za bezbednost & nudi [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) podrazumevane smernice za obaveštenja koje aktiviraju upozorenja za organizacije sa pretplatom na Office 365 Enterprise ili Office 365 GOVERNMENT E1/G1, E3/G3 ili E5/G5. Stoga, administatori mogu da dobiju obaveštenje putem e-pošte koje šalje Office365Alerts@microsoft.com putem reda za temu kao što je "Obaveštenje o niskoj stepenu ozbiljnosti: ime smernica za obaveštenja ". Obaveštenja se šalju kada se upozorenja pokrenu za uobičajene aktivnosti, na primer kada korisnici:
+Microsoft 365 sadrži podrazumevane smernice za obaveštenja koje aktiviraju upozorenja za organizacije sa pretplatom na Microsoft 365 Enterprise ili Microsoft 365 US Government E1/G1, E3/G3 ili E5/G5. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Stoga, adminimenzatori mogu da dobiju obaveštenje putem e-pošte koje šalje Office365Alerts@microsoft.com putem reda za temu kao što je "Upozorenje niskog stepena ozbiljnosti: ime smernica *za* obaveštenja ". Obaveštenja se šalju kada se upozorenja pokrenu za uobičajene aktivnosti, na primer kada korisnici:
 
 - Kreirajte pravila prijemnog poštanskog sandučeta koja proslećuju e-poštu.
 - Dodelite dozvole svom poštanskom sandučetu.
-- Delite ili izbrišite veliki broj datoteka u SharePoint datoteke.
+- Delite ili izbrišite veliki broj datoteka u SharePoint deljenje datoteka.
 - Kreirajte pretrage e-discovery i izvezite rezultate pretrage.
 
 Da biste pregledali i reagovali na obaveštenje:
 
-1. Idite u centar za [& za usaglašenost](https://protection.office.com) i prijavite se.
-2. Izaberite **stavku**  >  **Upozorenja Prikaz obaveštenja.**
-3. Kliknite na obaveštenje da biste prikazali iletnu stranicu sa informacijama o obaveštenju.
+1. Uradite nešto od sledećeg:
+   - U e-Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na **Obaveštenja**. Ili, da biste direktno prešli na **stranicu Obaveštenja,** koristite <https://compliance.microsoft.com/compliancealerts> .
+   - Na portalu Microsoft 365 zaštitnik <https://security.microsoft.com> , idite na **Incidenti & upozorenja** \> . Ili, da biste direktno prešli na **stranicu Obaveštenja,** koristite <https://security.microsoft.com/alerts> .
+2. Kliknite na obaveštenje da biste prikazali iletnu stranicu sa informacijama o obaveštenju.
 
 Možete da preduzmete radnju na obaveštenju, kao što je [uklanjanje sumnjivog pravila prijemnog sandučeta.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Možete i jednostavno da zatvorite upozorenje tako što ćete izabrati stavku **Reši** na iletnoj stranici obaveštenja.
 
@@ -45,4 +46,4 @@ Više informacija o konfigurisanju smernica za obaveštenja i upravljanju smerni
 - Provera bezbednosnih detalja naloga
 - Ponovo potvrdite identitet
 
-Ako primite ovakvu e-poruku, ona nije poslata od strane korporacije Microsoft i trebalo bi da je smatrate phishing prevarom. Ako dođe do toga, [prijavite to korporaciji Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
+Ako primite e-poruku sa ovim tipovima zahteva, korporacija Microsoft je ne šalje i trebalo bi da je smatra phishing prevarom. Ako primite poruku sa ovakvim zahtevima, [prijavite poruku korporaciji Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)

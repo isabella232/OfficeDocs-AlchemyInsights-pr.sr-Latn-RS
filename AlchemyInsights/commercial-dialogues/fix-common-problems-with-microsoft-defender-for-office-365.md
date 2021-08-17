@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750743"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898258"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Rešavanje uobičajenih problema sa programom Microsoft zaštitnik za Office 365
 
-Evo nekih rešenja za uobičajene probleme sa programom Microsoft Defender za Office 365:
+Evo nekih rešenja za uobičajene probleme sa programom Microsoft zaštitnik za Office 365:
 
-- **Kašnjenje poruka:** Ako nailazite na probleme prilikom koje je isporuka poruka odložena, želite da koristite **dinamičke Opcije isporuke** u okviru smernica bezbednog priloga. Da biste saznali više, pogledajte članak [Dinamičko isporučivanje u smernicama bezbednog priloga](https://go.microsoft.com/fwlink/?linkid=2094106).
-- **Prijavite lažne pozitivne ili negativne rezultate:** Prijavite poruku korporaciji Microsoft pomoću ove veze: [portal odziva na Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2092835).
-- **Omogućavanje zaštite bezbedne povezanosti:**
-    1. Prijavite se u [Office 365 Security & centar za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-    2. Smernice za **Upravljanje pretnjama**  >    >  **potražite bezbednim vezama.**
-    3. U okviru **smernice koje se primenjuju na određene primaoce** otvorite stavku konfigurisane smernice.
-    4. U okviru **Postavke** izaberite stavku **primene bezbedne veze ka porukama poslatih unutar organizacije**.
+- **Kašnjenje poruke:**
+
+  Odlaganja u isporuci e-pošte mogu da izazovu skeniranje Sef priloga poruka. Dodatne informacije potražite u [Sef Postavki smernica za priloge.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+
+- **Prijava pozitivnih ili negativnih rezultata:**
+
+  Dodatne informacije potražite u [članku Izveštavanje poruka i datoteka korporaciji Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
+
+- **Omogućavanje Sef za zaštitu veze:**
+
+  1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e&** Smernice za saradnju & Smernice za pretnju pravilima Sef Veze u odeljku \>  \>  \>  Smernice. 
+
+     Da biste prešli direktno **na stranicu Sef Veze,** koristite <https://security.microsoft.com/safelinksv2> .
+
+  2. Na stranici **Sef Veze izaberite** smernicu tako što ćete kliknuti na ime smernice.
+  3. U iskačetom prozoru sa detaljima koji se pojavljuje, uradite nešto od sledećeg:
+     - Da biste dodali nove smernice, izaberite **stavku + Kreiraj**. Pokrenuće se čarobnjak koji će vam pomoći da definišete postavke smernica.
+     - Da biste uredili postojeće smernice, izaberite je tako što ćete kliknuti na ime smernice. U iskačetom prozoru sa detaljima koji se pojavljuje izaberite **stavku** Uredi **u odeljku Postavke** zaštite.
+  4. Na stranici **Postavke zaštite** konfigurišite sledeće postavke:
+     - Uključi **Izaberite radnju za nepoznate potencijalno zlonamerne UL-ove u porukama.**
+     - Izaberite **stavku Primeni bezbedne veze na poruke poslate u okviru organizacije.**
+
+  Više informacija potražite u [članku Podešavanje smernica za Sef veze u programu Microsoft zaštitnik za Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

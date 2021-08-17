@@ -13,23 +13,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083244"
 ---
 # <a name="winsock-error-10061"></a>Winsock greška 10061
 
-Ovaj kôd greške znači da Microsoft nije mogao da uspostavi TCP priključak (vezu) sa ciljem ciljnog domaćina. Najverovatniji uzrok ove greške je problem sa konfiguracijom zaštitnog zida. Da biste rešili problem, potvrdite izbor u ovim postavkama:
+Ovaj kôd greške znači da Microsoft ne može da uspostavi TCP socket (vezu) sa ciljnim hostom. Najverovatnije uzrok ove greške je problem sa konfiguracijom zaštitnog zida. Da biste rešili problem, proverite ove postavke:
 
-- Verifikacija konfiguracije zaštitnog zida pomoću informacija u [Microsoft 365 URL adresama i opsezima IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Verifikacija konfiguracije zaštitnog zida sa [informacijama iz Microsoft 365 UL-ovima i IP adresama](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Ako je greška karakteristična za Exchange online Protection (EOP), trebalo je da budete prethodno obavešteni na [IP adrese Exchange online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Ako je greška specifična za Exchange Online Protection (EOP), trebalo bi da ste prethodno bili obavešteni o promeni [Exchange Online Protection IP adresa.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-- Potvrdite da dobavljač Internet usluga (ISP) ne blokira port.
+- Proverite da dobavljač internet usluga (ISP) ne blokira port.
 
-- Potvrdite pametne postavke domaćina i odredišne servere u konektorima.
+- Proverite postavke pametnog hosta i ciljnog servera u konektorima.
 
-Imajte na umu da Microsoft 365 ne blokira *dolazne* veze na ovaj način.
+Imajte na Microsoft 365 na ovaj način *ne* blokira dolazne veze.
