@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891693"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312701"
 ---
 # <a name="alert-policies"></a>Smernice za obaveštenja
 
-Microsoft 365 sadrži podrazumevane smernice za obaveštenja koje aktiviraju upozorenja za organizacije sa pretplatom na Microsoft 365 Enterprise ili Microsoft 365 US Government E1/G1, E3/G3 ili E5/G5. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Stoga, adminimenzatori mogu da dobiju obaveštenje putem e-pošte koje šalje Office365Alerts@microsoft.com putem reda za temu kao što je "Upozorenje niskog stepena ozbiljnosti: ime smernica *za* obaveštenja ". Obaveštenja se šalju kada se upozorenja pokrenu za uobičajene aktivnosti, na primer kada korisnici:
+Microsoft 365 sadrži podrazumevane smernice za obaveštenja koje aktiviraju upozorenja za organizacije sa pretplatom na Microsoft 365 Enterprise ili Microsoft 365 US Government E1/G1, E3/G3 ili E5/G5. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Stoga, adminimenzatori mogu da dobiju obaveštenje putem e-pošte koje šalje Office365Alerts@microsoft.com putem reda za temu kao što je "Upozorenje niskog stepena ozbiljnosti: ime smernica *za obaveštenja*". Obaveštenja se šalju kada se upozorenja pokrenu za uobičajene aktivnosti, na primer kada korisnici:
 
 - Kreirajte pravila prijemnog poštanskog sandučeta koja proslećuju e-poštu.
 - Dodelite dozvole svom poštanskom sandučetu.

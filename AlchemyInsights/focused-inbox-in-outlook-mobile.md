@@ -1,5 +1,5 @@
 ---
-title: 1800019 fokusirano Prijemno sanduče u programu Outlook
+title: 1800019 fokusiranog prijemnog sandučeta na mobilnom Outlook mobilnom uređaju
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117066"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Fokusirano Prijemno sanduče za Outlook mobilni
+# <a name="focused-inbox-for-outlook-mobile"></a>Fokusirano prijemno sanduče za Outlook mobilne uređaje
 
-[Šta je to fokusirano Prijemno sanduče?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Šta je to fokusirano prijemno sanduče?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Kako da uređujem pravila koja pomeraju e-poštu u fokusiranom prijemnom poštanskom sandučetu?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Kako da uredim pravila koja premeštaju e-poštu u fokusirano prijemno sanduče i iz njih?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Kako da isključim fokusirano prijemno poštansko sanduče ili da promenim da li se moja značka i obaveštenja sinhronizuju sa fokusiranim Prijemno sanduče?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Kako da isključim fokusirano prijemno sanduče ili da promenim da li se bedž sa brojem bedžova i obaveštenja sinhronizuje sa fokusiranom prijemnom sandučetom?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Kako da isključim fokusirano prijemno poštansko sanduče ili da se promenim](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Kako da isključim fokusirano prijemno sanduče ili da promenim da li se obaveštenja sinhronizuju sa fokusiranom prijemnom sandučetom?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Kako da se preklopim između fokusiranog i drugog?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Kako da se preklopim sa fokusiranog na drugo?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Saznajte više: [Preuzimanje pomoći u aplikaciji za Outlook za iOS i Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Saznajte više: [Dobijanje pomoći u aplikaciji Outlook za iOS i Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

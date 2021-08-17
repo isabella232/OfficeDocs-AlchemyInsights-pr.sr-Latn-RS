@@ -1,5 +1,5 @@
 ---
-title: Korišćenje alatke za primenu sistema Office
+title: Korišćenje alatke Kancelarija za primenu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083784"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Korišćenje alatke za primenu u sistemu Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Korišćenje alatke Kancelarija za primenu (ODT)
 
-Koristite Office alatku za primenu (ODT) da biste primenili Office 365 verzije sistema Office. Alatka "Office" za primenu (setupodt.exe) se pokreće sa komandne linije i koristi XML datoteku konfiguracije da bi odredila koje postavke treba da primenjuju prilikom primene sistema Office.
+Alatku za Kancelarija primenu (ODT) koristite za Office 365 verzije sistema Kancelarija. Alatka Kancelarija za primenu (setup.exe) pokreće se sa komandne linije i koristi konfiguracionu XML datoteku da bi utvrdila koje postavke treba primeniti prilikom primene programa Kancelarija.
   
-1. Preuzmite najnoviju verziju alatke "Office" za primenu sa [lokacije Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Preuzmite najnoviju verziju alatke Kancelarija za primenu sa [lokacije Microsoft Download Center.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. Koristite [alatku za prilagođavanje sistema Office (OCT)](https://config.office.com) da biste izabrali željene postavke primene i kreirali XML datoteku konfiguracije. Izvezite datoteku za konfiguraciju i stavite je lokalno u istu fasciklu u kojoj se nalazi setupodt.exe.
+2. Koristite [alatku Kancelarija za prilagođavanje (OCT)](https://config.office.com) da biste izabrali željene postavke primene i napravili XML datoteku konfiguracije. Izvezite konfiguracionu datoteku i stavite je lokalno u istu fasciklu u kojoj se setup.exe nalazi.
 
-    **Napomena:** Problemi sa instalacijom sistema Office obično se dešavaju zbog problema sa konfiguracionim datotekama za konfiguraciju. Da biste izbegli takve probleme, preporučujemo da koristite alatku za prilagođavanje sistema Office da biste kreirali datoteku konfiguracije. Možete i da uvezete postojeće konfiguracione datoteke u alatku za prilagođavanje sistema Office.
+    **Napokon:** Kancelarija problema sa instalacijom obično dolazi zbog neiskonfigurisanih ili neoblikiranih datoteka konfiguracije. Da biste izbegli takve probleme, preporučujemo da koristite alatku Kancelarija za prilagođavanje da biste napravili konfiguracionu datoteku. U alatku za prilagođavanje možete da uvezete i postojeće konfiguracione datoteke Kancelarija alatki za prilagođavanje.
 
-3. Sa otvorene komandne linije, prebacite se na lokaciju na kojoj setupodt.exe čuva i pokreće Office alatku za primenu u režimu preuzimanja i navedite datoteku za konfiguraciju koju ste upravo sačuvali. U ovom primeru, datoteka za konfiguraciju se zove Configuration.xml:
+3. Sa komandne linije sa punim veličinama prebacite se na lokaciju na kojoj setup.exe nalazite i pokrenite alatku za Kancelarija za primenu u režimu preuzimanja i navedite konfiguracionu datoteku koju ste upravo sačuvali. U ovom primeru, konfiguraciona datoteka se zove Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. izvršite alatku za primenu sistema Office u režimu konfigurisanja i navedite datoteku za konfiguraciju.
+4.Pokrenite alatku Kancelarija za primenu u režimu konfigurisanja i navedite datoteku konfiguracije.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Napomena:** Morate da izvršite ovaj korake sa klijentskog računara na kojem želite da instalirate Office i morate da imate dozvole za lokalnu administratorsku dozvolu na tom računaru.
+**Napomogućeno:** Ovaj korak morate da pokrenete sa klijentskog računara na kojem želite da instalirate Kancelarija i morate da imate lokalne administratorske dozvole na tom računaru.
 
-Da biste saznali više o korišćenju Office alatke za primenu za Microsoft 365 aplikacije za scenarije primene preduzeća, pogledajte članak [pregled alatke za primenu sistema Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Više detalja o tome kako da koristite alatku za prilagođavanje sistema Office potražite [u članku Pregled alatke za prilagođavanje sistema Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Da biste saznali više o korišćenju Kancelarija alatke za primenu za scenarije Microsoft 365 Apps za preduzeće primene, pogledajte pregled alatke [za Kancelarija primenu.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Za više detalja o tome kako da koristite alatku Kancelarija za prilagođavanje pogledajte pregled [alatke Kancelarija za prilagođavanje.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

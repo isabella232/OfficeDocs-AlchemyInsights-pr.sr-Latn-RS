@@ -1,5 +1,5 @@
 ---
-title: Slanje šifrovane e-pošte pomoću programa Outlook
+title: Slanje šifrovane e-pošte Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59b6b6bae745edb18148b92e4a5514d62e2aa086
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081554"
 ---
-# <a name="send-encrypted-email-using-outlook"></a>Slanje šifrovane e-pošte pomoću programa Outlook
+# <a name="send-encrypted-email-using-outlook"></a>Slanje šifrovane e-pošte Outlook
 
-Korisnici mogu da šifruju e-poruke na osnovu predmeta pomoću programa Outlook bez dodatnog podešavanja. Da biste to uradili, izvršite sledeće korake:
+Korisnici mogu da šifruju e-poruke od slučaja do slučaja koristeći Outlook bez dodatnog podešavanja. Da biste to uradio, izvršite sledeće korake:
 
-1. U Outlook aplikaciji: a. Kreirajte e-poruku i odaberite stavku **opcije > šifrovanje**. 
-    -. Kliknite na dugme **samo za šifrovanje** ili na **Prosledi**.
+1. U Outlook: a. Kreirajte e-poruku i odaberite **stavku Opcije > Šifruj**. 
+    b. Izaberite **stavke Samo šifruj** ili **Ne prosleđij.**
 
-2. U programu Outlook na vebu: a. Kreirajte e-poruku i odaberite stavku **> šifrovanje**.
-    -. Izaberite stavku **Šifruj** ili **Nemoj proslediti**.
+2. U Outlook na vebu: a. Kreirajte e-poruku i odaberite stavku **> Šifruj**.
+    b. Izaberite stavku **Šifruj ili** **Ne prosleđij.**
 
 > [!TIP]
-> Poznati formati datoteka su zaštićeni. Međutim, datoteke poslate kao prilozi iz usluge OneDrive for Business nisu šifrovane. Listu svih podržanih tipova datoteka potražite [u članku tipovi datoteka koje podržava Azure klijent za zaštitu informacija](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types).
+> Poznati formati datoteka su zaštićeni. Međutim, datoteke poslate kao OneDrive for Business nisu šifrovane. Listu svih podržanih tipova datoteka potražite u temi Tipovi datoteka [koje podržava Azure Information Protection klijent.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
 
-Više informacija potražite u članku [Slanje, prikaz i odgovaranje na šifrovane poruke u programu Outlook za PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Dodatne informacije potražite u [temi Slanje, prikaz i odgovaranje na šifrovane](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)poruke u Outlook za računar.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Prijavljivanje sumnjivih e-poruka, URL adresa ili priloga
+title: Prijavite sumnjive e-poruke, UL adrese ili priloge
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 15efe9acf4fab9ced09674784ea130b5ddfd645d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091146"
 ---
-# <a name="report-suspicious-emails-urls-or-attachments"></a>Prijavljivanje sumnjivih e-poruka, URL adresa ili priloga
+# <a name="report-suspicious-emails-urls-or-attachments"></a>Prijavite sumnjive e-poruke, UL adrese ili priloge
 
-Razumem da vam je potrebna pomoć oko sumnjive e-pošte ili e-pošte koja je pogrešno filtrirana. Mogu da vam pomognem da prosledite problem za analizu pomoću Explorera koji će vam dati momentalne povratne informacije. Evo rezimea koraka:
+Razumem da vam je potrebna pomoć u istraživanju sumnjive e-poruke ili e-poruke koja je pogrešno filtrirana. Mogu da vam pomognem da prosledite problem na analizu pomoću istraživača prosleđivanja, što će vam pružiti trenutne povratne informacije. Evo rezimea koraka:
 
-1. Idite na [Office 365 Security & centar za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim idite na stavku **Upravljanje pretnjama za pretnju**  >  [](https://go.microsoft.com/fwlink/?linkid=2101521).
-2. Izaberite stavku **+ novo prosleđivanje**. Pojaviće se isplata sa opcijom za prosleđivanje e-pošte, URL adrese ili datoteke.
+1. Idite u [Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)& za usaglašenost, a zatim idite na Prosleđivanja **za upravljanje**  >  [pretnjama.](https://go.microsoft.com/fwlink/?linkid=2101521)
+2. Izaberite **stavku + Nova prosleđivanje**. Ilet će se pojaviti sa opcijom za prosleđivanje e-poruke, URL adrese ili datoteke.
     > [!NOTE]
-    > Obavestite korisnike da bi trebalo da prijave bilo koje sumnjive poruke u svom prijemnom poštanskom sandučetu korporaciji Microsoft pomoću [programskog dodatka Message report](https://go.microsoft.com/fwlink/?linkid=2092385).
+    > Obavestite korisnike da bi trebalo da prijave sve sumnjive poruke u prijemnom sandučetu korporaciji Microsoft pomoću [programnog dodatka Poruka izveštaja.](https://go.microsoft.com/fwlink/?linkid=2092385)
