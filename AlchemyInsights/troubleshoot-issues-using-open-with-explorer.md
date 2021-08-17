@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema pomoću funkcije "Otvori pomoću programa Explorer"
+title: Rešavanje problema pri korišćenju funkcije "Otvori pomoću programa Explorer"
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048170"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Rešavanje problema sa otvorenim programom Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Rešavanje problema sa programom Explorer
 
-Rešite uobičajene probleme sa otvaranjem biblioteke dokumenata u sistemu SharePoint ili OneDrive pomoću komande " **Otvori pomoću programa Explorer** ": 
+Rešite uobičajene probleme sa otvaranjem biblioteke dokumenata SharePoint ili OneDrive koristite **komandu Otvori pomoću programa Explorer:** 
   
-- Koristite Internet Explorer 10 ili Internet Explorer 11. **Otvori pomoću programa Explorer** nije kompatibilan sa Microsoft Edge, Google Chrome, Firefox i drugima. **Otvaranje pomoću pregledača** je onemogućiti u svim pregledačima osim u programu Internet Explorer. 
+- Koristite Internet Explorer 10 ili Internet Explorer 11. **Postavka Otvori** uz Explorer nije kompatibilna sa programima Microsoft Edge, Google Chrome, Firefox i drugim. **Postavka Otvori u** programu Explorer je onemogućena u svim pregledačima osim u programu Internet Explorer. 
     
-- **Otvori pomoću programa Explorer** nije dostupan u modernom iskustvu za SharePoint biblioteke. Umesto toga koristite **prikaz u istraživaču datoteka** . Izaberite stavku **Opcije prikaza** \> **u istraživaču datoteka**. Prikaz u istraživaču datoteka nije kompatibilan sa aplikacijom Microsoft Edge, Google Chrome, Firefox i drugima. **Prikaz u istraživaču datoteka** je dostupan samo u programu Internet Explorer. 
+- **Postavka Otvori** u programu Explorer nije dostupna u modernom iskustvu SharePoint bibliotekama. Umesto toga **koristite prikaži u istraživaču** datoteka. Izaberite **stavku Prikaz opcija Prikaz** u \> **istraživaču datoteka**. Prikaz u istraživaču datoteka nije kompatibilan sa programima Microsoft Edge, Google Chrome, Firefox i drugim. **Prikažite u istraživaču datoteka u** dostupnim samo u programu Internet Explorer. 
     
-- Proverite da li je pokrenuta usluga Webklijenta. U polju Windows pretraga otkucajte funkcija Run, izaberite stavku pokreće aplikaciju za računare, otkucajte usluge. msc, a zatim pritisnite taster ENTER. Pomerajte se nadole do usluge Webklijenta i uverite se da kolona **statusa** prikazuje "pokretanje". Ako nije, kliknite dvaput na uslugu, kliknite na dugme **Start**, a zatim kliknite na dugme **u redu**. (Možda ćete prvo morati da omogućite uslugu tako što ćete izabrati stavku **ručno** ili **automatski** u polju **Tip pokretanja** .) 
+- Uverite se da je usluga WebClient pokrenuta. U Windows pretragu otkucajte pokreni, izaberite aplikaciju za računare Pokreni, otkucajte services.msc, a zatim pritisnite taster Enter. Pomerite se nadole do usluge WebClient i uverite se da **kolona Status** prikazuje "Pokrenuto". Ako se to ne ukaže, kliknite dvaput na uslugu, izaberite stavku **Start**, a zatim kliknite na dugme **U redu.** (Možda ćete prvo morati da omogućite uslugu tako što ćete izabrati stavku **Ručno** ili **Automatsko** u polju Tip **pokretanja.)** 
     
 > [!NOTE]
-> Otvaranje biblioteke u istraživaču datoteka je korisno ako jednom treba da kopirate ili premestite više datoteka i fascikli, ali ako želite da redovno radite u biblioteci, preporučujemo da je sinhronizuju. Da biste rešili probleme prilikom otvaranja u istraživaču datoteka, pogledajte članak [Otvaranje u programu Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informacije o podešavanju sinhronizacije potražite [u članku sinhronizovanje SharePoint datoteka sa novim OneDrive klijentom za sinhronizaciju](https://go.microsoft.com/fwlink/?linkid=871666).
+> Otvaranje biblioteke u istraživaču datoteka je dobro ako treba da kopirate ili premestite više datoteka i fascikli jednom, ali ako želite redovno da radite u biblioteci, preporučujemo da je sinhronizujete. Da biste rešili probleme sa otvaranjem u istraživaču datoteka, pogledajte [otvaranje u programu Explorer.](https://go.microsoft.com/fwlink/?linkid=871665) Informacije o podešavanju sinhronizacije potražite u SharePoint [Sinhronizacija datoteka pomoću novog OneDrive aplikacija za sinhronizaciju klijenta.](https://go.microsoft.com/fwlink/?linkid=871666)
   
-Pročitajte članak [Kako da koristite komandu "Otvori pomoću Explorera" da biste dobili dodatne informacije o rešavanju problema u sistemu SharePoint online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
+Više informacija potražite u [članku Korišćenje komande "Otvori pomoću programa Explorer"](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) za rešavanje problema u programu SharePoint Online. 
   
 
