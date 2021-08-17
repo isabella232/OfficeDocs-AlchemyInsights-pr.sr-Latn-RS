@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107139"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Zalihe softvera nedostaju ili su netačni
 
-Zalihe softvera u ATP za Microsoft zaštitnik pruža ime ili prodavca proizvoda, broj najnovije verzije i otkrivene slabosti i ranjivosti. Više informacija potražite u članku [Zalihe softvera – Upravljanje pretnjama i ranjivim mestima.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
+Zalihe softvera u usluzi Microsoft zaštitnik ATP pruža ime ili prodavca proizvoda, broj najnovije verzije i otkrivene slabosti i ranjivosti. Više informacija potražite u članku [Zalihe softvera – Upravljanje pretnjama i ranjivim mestima.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
 Tako što ćete pratiti ove korake, možete prijaviti nejasne ili nepotpune informacije, netačne brojeve verzija ili remeditovane informacije o zalihama softvera.  
 
