@@ -1,5 +1,5 @@
 ---
-title: 182 molimo vas da pokrenete Saru da biste dijagnostikovali i rešili probleme sa Outlook potvrdom
+title: 182 Pokrenite alatku da SaRA dijagnostikovali i rešili Outlook sa potvrdom identiteta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461424e2c5726deb3a63e6588d1043278d4835e4b2d891e9a5413d54bc445a72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040727"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Korišćenje alatke SaRA za dijagnozu i rešavanje problema sa potvrdom identiteta u programu Outlook
 
-**Napomena**: proverite da li je omogućena [Podrazumevana podrazumevana](https://aka.ms/securitydefaults) vrednost za vašu organizaciju. Ako je stanar kreiran posle 21 oktobra, 2019 i Outlook vam više puta traži lozinku, možda imate omogućene **podrazumevane vrednosti bezbednosti** za zakupca.
+**Natpis:** Proverite da li je [u vašoj](https://aka.ms/securitydefaults) organizaciji omogućena podrazumevana vrednost bezbednosti. Ako je vaš zakunjač kreiran posle 21. oktobra 2019. i Outlook vam više  puta traži lozinku, u zakuca vam je možda omogućena bezbednosna podrazumevana vrednost.
 
-Preporučuje se da koristite Outlook i [dalje traži moju dijagnostiku lozinki](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) na pomoću koje utiče na računar radi rešavanja problema sa problemima na kojima Outlook neprestano ponavlja lozinku. Ova dijagnostika za [Saru](https://diagnostics.office.com/#/) vrši automatizovanu proveru i daje moguća rešenja koja ćete koristiti za rešavanje problema sa otkrivenim problemima.
+Preporučujemo da koristite [](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) Outlook stalno traži moju dijagnostiku lozinke na računaru na koji to utiče da biste rešili probleme gde Outlook neprestano traži lozinku. Ova SaRA dijagnostika automatizuje provere i vraća moguća rešenja koja možete da koristite za rešavanje otkrivenih problema. [](https://diagnostics.office.com/#/)

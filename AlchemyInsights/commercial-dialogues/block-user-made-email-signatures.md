@@ -1,5 +1,5 @@
 ---
-title: Blokiranje potpisa korisnika e-pošte
+title: Blokiranje potpisa e-pošte koje je napravio korisnik
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103566"
 ---
-# <a name="block-user-made-email-signatures"></a>Blokiranje potpisa korisnika e-pošte
+# <a name="block-user-made-email-signatures"></a>Blokiranje potpisa e-pošte koje je napravio korisnik
 
-Sledeće rešenje primenjuje se na potpise e-pošte kreiranim u programu Outlook na vebu. Možete da blokirate samo potpise u Outlook aplikaciji ako imate lokalni Exchange server.
+Sledeće rešenje se odnosi samo na potpise e-pošte napravljene u Outlook na vebu. Potpise u aplikaciji Outlook možete da blokirate samo ako imate Exchange server.
 
-1. U centru administracije odaberite stavku **administrativni centri**  >  **Exchange**.
-2. Izaberite stavku **dozvole** za  >  **Outlook Web App smernice**.
-3. Izaberite smernice, a zatim kliknite na ikonu olovke da biste je uredili.
-4. Izaberite stavku **funkcije**  >  **Više opcija**.
-5. U okviru **iskustvo korisnika** opozovite izbor u polju za potvrdu **potpis e-pošte** , a zatim kliknite na dugme **Sačuvaj**.
+1. U centru Exchange stavku Centri  >  **Exchange.**
+2. Izaberite **stavku dozvole**  >  **Outlook Web App smernicama**.
+3. Izaberite smernicu, a zatim kliknite na ikonu olovke da biste je uredili.
+4. Izaberite **funkcije**  >  **Još opcija.**
+5. U **okviru Korisničko iskustvo** opozovite izbor u polju za **potvrdu** Potpis e-pošte, a zatim kliknite na **dugme Sačuvaj**.
 
-**Važno:** Ako je potpis dodat pre nego što opozovete izbor u ovom polju za potvrdu, korisnik će i dalje moći da ga koristi. Zamolite ih da je uklone.
+**Važno:** Ako je potpis dodat pre opozivanja ovog polja za potvrdu, korisnik će i dalje moći da ga koristi. Zatražite od njih da ga uklone.
