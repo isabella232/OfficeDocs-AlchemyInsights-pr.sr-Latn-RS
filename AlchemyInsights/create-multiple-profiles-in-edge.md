@@ -1,5 +1,5 @@
 ---
-title: Kreiranje više profila u usluzi Microsoft Edge
+title: Kreiranje više profila u programu Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103422"
 ---
-# <a name="create-multiple-profiles-in-microsoft-edge"></a>Kreiranje više profila u usluzi Microsoft Edge
+# <a name="create-multiple-profiles-in-microsoft-edge"></a>Kreiranje više profila u programu Microsoft Edge
 
-Profili daju većem broju korisnika da funkcionišu u deljenoj okolini dok održavaju pristup personalizovanim postavkama pregledača, obeleživačima i oznakama tipa datoteke. Da biste dodali više profila u usluzi Microsoft Edge, slijedite ove korake:
+Profili omogućavaju da više korisnika radi u deljenom okruženju i istovremeno održava pristup personalizovanim postavkama pregledača, obeleživačima i proširenjima. Da biste dodali više profila u Microsoft Edge, sledite ove korake:
 
 1. Pokrenite Microsoft Edge.
-    - Ako niste prijavljeni, izaberite ikonu profila > se **Prijavite**. To će vas automatski odneti na stranicu **Upravljanje postavkama profila** .
-    - Ako ste prijavljeni, izaberite ikonu profila > **Upravljajte postavkama profila**.
-2. Izaberite stavku **> profile + dodajte profil > Dodaj**.
-3. Izaberite stavku **Prijavi se da biste sinhronizovali podatke** da biste se povezali sa postojećim nalogom.
-4. Izaberite **da** da biste uključili sinhronizaciju za prijavljivanje, a zatim izaberite stavku **Potvrdi**.
+    - Ako niste prijavljeni, kliknite na ikonu profila na > **Prijavite se**. To će vas automatski odvesti na **stranicu Upravljanje postavkama profila.**
+    - Ako ste prijavljeni, izaberite ikonu profila > **Upravljanje postavkama profila.**
+2. Izaberite **stavke Profil > + Dodaj profil > Dodaj**.
+3. Izaberite **prijavljivanje da biste sinhronizovali** podatke da biste se povezali sa postojećim nalogom.
+4. Izaberite **stavku** Da da biste uključili sinhronizaciju prijave, a zatim izaberite **stavku Potvrdi.**
 
     Dodatni profil je sada dostupan za upotrebu.

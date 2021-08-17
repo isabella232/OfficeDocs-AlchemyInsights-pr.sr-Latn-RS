@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa SSPR
+title: Rešavanje problema sa SSPR-om
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038972"
 ---
-# <a name="troubleshoot-sspr"></a>Rešavanje problema sa SSPR
+# <a name="troubleshoot-sspr"></a>Rešavanje problema sa SSPR-om
 
-**Imam problema sa konfigurisanjem poništavanja lozinke**
+**Imam problema pri konfigurisanju poništavanja lozinke**
 
-- Ako ste administrator i tražite kako da omogućite samouslužno poništavanje lozinke, pogledajte [članak uputstvo za omogućavanje SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)da biste konfigurisali poništavanje lozinke za organizaciju. Možda ćete želeti da pregledate i [zahteve za licenciranje](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support). Morate da imate najmanje jednu licencu dodeljenu u organizaciji.
-    - **Samo oblaci korisnici** – bilo koji Office 365 (O365) plaćeni MJ ili AZURE AD Basic
-    - **Cloud i/ili lokalno korisnici** – AZURE AD Premium P1 ili P2, Enterprise mobilnost + Security (Ems) ili bezbedno preduzeće (SPE)
-- Za dodatna pitanja o poništavanju lozinke za samouslužno, pregledajte [naša najčešća pitanja](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Ako ste administrator i tražite kako da omogućite samouslužno poništavanje lozinke, pogledajte uputstvo za [omogućavanje usluge SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)za konfigurisanje poništavanje lozinke za organizaciju. Možda ćete želeti i da [pregledate zahteve za licenciranje.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) Morate imati barem jednu licencu dodeljenu u organizaciji.
+    - **Samo korisnici u oblaku** – Svi Office 365 (O365) plaćeni SKU ili Azure AD Basic
+    - **Oblak i/ili** korisnici – Azure AD Premium P1 ili P2, Enterprise Mobility + Security (EMS) ili Secure Productive Enterprise (SPE)
+- Za dodatna pitanja o samouslužnom poništavanje lozinke, pregledajte [najčešća pitanja.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Dobijam poruku o grešci**
 
-Pregledajte ovaj članak da biste pronašli uobičajene greške i njihova rešenja: [Rešavanje problema samouslužnog poništavanja lozinke](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
+Pregledajte ovaj članak da biste pronašli uobičajene greške i njihova rešenja: Rešavanje problema sa [samouslužnim poništavanje lozinke](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Imam problem sa smernicama za poništavanje lozinke**
 
-- Ako se vaša smernica za poništavanje lozinke ne ponaša po očekivanom ili ako imate pitanja o smernicama za poništavanje lozinki, pregledajte ovaj članak: [smernice za lozinke i ograničenja u usluzi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Smernice za poništavanje lozinke se ne primenjuju na administratore. Korporacija Microsoft obavezuje podrazumevane smernice za poništavanje lozinke sa dva vrata za bilo koju ulogu usluge Azure. Uverite se da testirate sa korisnikom koji nije administrator. Više informacija o administratorskim smernicama administratora potražite u članku: administrator je [poništilo razlike u smernicama](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).
+- Ako se smernice za poništavanje lozinke ne ponašaju na očekivani način ili ako imate pitanja o smernicama za poništavanje lozinke, pregledajte ovaj članak: Smernice i ograničenja lozinke u [okviru Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Smernice za poništavanje lozinke ne primenjuju se na administratore. Microsoft nalaže jake smernice za poništavanje lozinke sa dva mrežna prolaza za svaku ulogu administratora usluge Azure. Proverite da li testirate sa korisnikom koji nije administrator. Više informacija o smernicama za poništavanje administratora potražite u ovom članku: [Razlike u smernicama administratora za poništavanje.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
 
-**Ne želim da moji korisnici registruju dodatne bezbednosne informacije za poništavanje lozinke**
+**Ne želim da korisnici registruju dodatne bezbednosne informacije za poništavanje lozinke**
 
-Možete unapred da popunjavate podatke (e-poštu i telefonske atribute) za korisnike koristeći API, PowerShell ili Azure AD Connect. Da biste saznali kako se čita:
+Možete unapred da popunite podatke (atribute e-pošte i telefona) za korisnike pomoću API-ja, programa PowerShell ili Azure AD Povezivanje. Da biste saznali kako da čitate:
 
-- [Primena početne vrednosti poništavanja bez potrebe korisnika da se registruju](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
-- [Koje podatke koristi poništavanje lozinke](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Primena poništavanja lozinke bez korisnika koji moraju da se registruju](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [Koje podatke poništavanje lozinke koristi](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Želim da moji korisnici registruju dodatne bezbednosne informacije za poništavanje lozinke**
 
-1. Neka vaši korisnici registruju svoje bezbednosne informacije za poništavanje lozinke samouslužavanja tako što ćete ih usmeriti na [aka.MS/ssprsetup](https://mysignins.microsoft.com/security-info).
-1. Kada su podaci naseljeni za korisnika (korisnik ili administrator), usmerite korisnika na [aka.MS/sspr](https://passwordreset.microsoftonline.com/) kako bi korisnici mogli da imaju ovlašćenja da ponovo postave sopstvene lozinke.
-1. Ako korisnici i dalje imaju **problema, oni su najverovatnije automatski** automatski ili **hash sinhronizovanje lozinki** . To znači da je verovatno problem sa uslugom poništavanje lozinki.
+1. Neka korisnici registruju svoje bezbednosne informacije za samouslužno poništavanje lozinke tako što će ih usmeriti [na aka.ms/ssprsetup.](https://mysignins.microsoft.com/security-info)
+1. Kada se podaci za korisnika (odrede korisnik ili od strane korisnika), usmerite korisnika da koristi [aka.ms/sspr](https://passwordreset.microsoftonline.com/) kako bi korisnici mogli da se podstaknu da ponište sopstvene lozinke.
+1. Ako korisnici i dalje nailazite na probleme ako su najverovatnije **fedeterni korisnici** ili korisnici koji **imaju sinhronizovanu** lozinku. To znači da verovatno postoji problem sa uslugom "Pisanje lozinke".

@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017146"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303591"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Pronalaženje IP adrese u evidenciji nadzora
 
-1. IP adresa koja odgovara aktivnosti koju je izvršio korisnik ili administrator prikazana je u evidencijama nadzora. Informacije o klijentu su takođe evidentirane. Evo kako da identifikujete IP adresu:
+IP adresa koja odgovara aktivnosti koju je izvršio korisnik ili administrator prikazana je u evidencijama nadzora. Informacije o klijentu su takođe evidentirane. Evo kako da identifikujete IP adresu:
 
-1. Idite u Office 365 [centra za & usaglašenost.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Izaberite **pretraga**  >  **[evidencije nadzora pretrage](https://go.microsoft.com/fwlink/?linkid=2103759)**.
-    > [!NOTE]
-    > Ako vidite obaveštenje da treba da uključite nadzor, uključite ga odmah. Ako ova funkcija nije omogućena, rezultati pretrage neće moći da povlače podatke iz prethodnih datuma.
-1. Ako vas zanima određena aktivnost, izaberite je sa **liste Aktivnosti;** u suprotnom, sve aktivnosti će podrazumevano biti vraćene za izabranog korisnika. Imajte u cilju da određene aktivnosti možda neće biti dostupne za izbor iz **menija Aktivnosti;** međutim, te stavke nadzora će biti vraćene ako je **izabrana stavka Prikaži rezultate** za sve aktivnosti (podrazumevana postavka).
-1. Navedite opseg datuma i u polju **Korisnici** izaberite korisničko ime za korisnika koje želite da istražite.
-1. Izaberite **stavku Pretraga**. Aktivnosti se pojavljuju u okviru **Rezultati.** Možete da vidite IP adresu za svaku aktivnost.
-1. Da biste prikazali detalje, izaberite aktivnost, a zatim izaberite **stavku Više informacija.**
+1. Uradite nešto od sledećeg:
+   - U e-Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na Nadzor . Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://security.microsoft.com/auditlogsearch> .
 
-Da biste saznali više, pogledajte pretragu [evidencije Office 365 nadzora da biste rešili uobičajene scenarije.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Napom:** Ako vidite obaveštenje o tome da treba da uključite nadzor, uključite ga odmah. Ako ova funkcija nije omogućena, rezultati pretrage neće moći da povlače podatke iz prethodnih datuma.
+
+2. Na stranici **Nadzor** potvrdite da je **izabrana** kartica Pretraga, a zatim konfigurišite sledeće postavke:
+   - **Opseg datuma i vremena:** Izaberite opseg datum/vreme u pocima **Početak** **i** Kraj.
+   - **Aktivnosti:** Ako ste zainteresovani za određenu aktivnost, izaberite je sa liste; U suprotnom, **podrazumevana vrednost Prikaži rezultate za** sve aktivnosti vratiće se sve aktivnosti. Imajte na raspolaganju određene aktivnosti za izbor; međutim, te stavke nadzora će biti **vraćene ako je izabrana stavka Prikaži rezultate** za sve aktivnosti.
+   - **Korisnici:** Prihvatite praznu podrazumevanu vrednost da biste vratili rezultate za sve korisnike ili unesite jednog korisnika ili više njih.
+
+3. Kada završite, kliknite na dugme **Pretraži**. Aktivnosti se pojavljuju na novoj stranici **Pretraga nadzora.**
+
+4. U rezultatima izaberite stavku **Filtriraj rezultate** i **otkucajte Set-Mailbox** u polju filtera aktivnosti.
+
+5. Izaberite zapis nadzora u rezultatima da biste otvorili **iskačeći** prozor Detalji.
+
+Više informacija potražite u video zapisu [Pretraga evidencije nadzora da biste istražili uobičajene probleme sa podrškom.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

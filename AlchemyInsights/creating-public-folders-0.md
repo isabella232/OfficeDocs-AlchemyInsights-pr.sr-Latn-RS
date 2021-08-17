@@ -12,24 +12,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f380ad158108e07c08d50daafd415a5847df730c1bf4715d70aab7c30860f4d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103314"
 ---
 # <a name="creating-public-folders"></a>Kreiranje javnih fascikli
 
-Pre nego što korisnici mogu da koriste javne fascikle, moraćete da kreirate najmanje jedno poštansko sanduče javne fascikle. Da biste kreirali:
+Da bi korisnici mogli da koriste javne fascikle, potrebno je da napravite barem jedno poštansko sanduče javne fascikle. Da biste napravili:
   
-1. U Microsoft 365 centru administracije idite na Exchange **centre administracije** \> **Exchange**.
+1. Na Microsoft 365 centar administracije centra za **administaciju** i \> **Exchange.**
 
-2. Idite na **javne fascikle** \> **Poštanske sandučiće za javnu fasciklu**, a zatim kliknite na dugme **Dodaj**.
+2. Premestite se na poštanske **sandučiće** \> **javnih fascikli**, a zatim kliknite na **dugme Dodaj**.
 
-3. U **poštanskom sandučetu javne fascikle**Navedite ime za poštansko sanduče javne fascikle.
+3. U **poštanskom sandučetu javne fascikle** nađite ime za poštansko sanduče javne fascikle.
 
 4. Kliknite na dugme **Sačuvaj**.
 
-Kada se napravi poštansko sanduče, možete da počnete da kreirate pojedinačne fascikle ili da korisnicima kaћete da [počnu da kreiraju i koriste javne fascikle u programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Kada se napravi poštansko sanduče, možete da počnete da pravite pojedinačne fascikle ili da kažete korisnicima da počnu da kreiraju i koriste javne fascikle [u programu Outlook.](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)
   
