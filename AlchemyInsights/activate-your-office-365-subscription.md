@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889328"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314290"
 ---
 # <a name="activate-your-subscription"></a>Aktiviranje pretplate
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889328"
 
 - Da biste korisnicima dali pristup usluzi, dodelite im licencu. Da biste saznali kako, pogledajte [dodeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Ako već imate dodeljenu licencu, možete da pronađete aplikacije koje možete da preuzmete sa stranice [Moj nalog.](https://portal.office.com/account/#installs) Na ovoj stranici se nalazi lista aplikacija koje su dostupne za preuzimanje na osnovu dodeljenih licenci.
-- Ako ste već preuzeli Kancelarija aplikacije, možda ćete morati da se prijavite u aplikacije sa poslovnim ili školskim nalogom. To možete da uradite u bilo kom Kancelarija aplikaciji (Word, Excel itd.) tako što ćete izabrati stavke **Datoteka >** Nalog (pri dnu). U okviru Informacije o korisniku izaberite **stavku Promeni nalog.** Više informacija potražite u članku [Instaliranje Office aplikacija](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Ako ste već preuzeli Kancelarija aplikacije, možda ćete morati da se prijavite u aplikacije sa poslovnim ili školskim nalogom. To možete da uradite u bilo Kancelarija aplikaciji (Word, Excel itd.) tako što ćete izabrati stavke **Datoteka >** Nalog (pri dnu). U okviru Informacije o korisniku izaberite **stavku Promeni nalog.** Više informacija potražite u članku [Instaliranje Office aplikacija](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Ponovno aktiviranje pretplate**
 
@@ -40,5 +40,5 @@ Dodatne informacije potražite u članku [Ponovno aktiviranje pretplate](https:/
 
 **Aktiviranje nove pretplate pomoću šifre proizvoda**
 
-- Da biste aktivirali novu Microsoft 365 sa šifrom proizvoda, pogledajte gde možete da [unesete šifru Kancelarija proizvoda.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Da biste aktivirali novu Microsoft 365 sa šifrom proizvoda, pogledajte gde [se unosi šifra Kancelarija proizvoda.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Unesite Microsoft 365 šifru proizvoda i pratite korake za aktivaciju pretplate. Ako imate problema sa aktivacijom, pogledajte ovu [listu najčešćih grešaka i rešenja za šifru proizvoda](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

@@ -1,5 +1,5 @@
 ---
-title: Softverske ispravke se ne raspoređuju
+title: Ispravke softvera nisu primenjene
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084540"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Softverske ispravke se ne raspoređuju
+# <a name="software-updates-are-not-being-deployed"></a>Ispravke softvera nisu primenjene
 
-Ako ste konfigurisali softverske ispravke pomoću ringa Windows 10 Update, ali ispravke se ne primenjuju, pokušajte sledeće:  
+Ako ste konfigurisali softverske ispravke putem kruga Windows 10 ažuriranja, ali ispravke nisu primenjene, pokušajte sledeće:  
 
-- Razmotrite promene Windows servisiranja iz  **polugodišnjeg**  tipa objavljivanja kanala na striktniju, češće tip izdavanja.
-- Potvrdite deferralan period radi  **ažuriranja kvaliteta**  i  **ispravke funkcije**. Period deferrala može dovesti do kašnjenja dopuna za do 180 dana.
+- Razmotrite promenu Windows servisiranje iz tipa izdanja **Polugodišnji** kanal u stroži, čestiji tip izdanja.
+- Proverite period odloženja za ažuriranje **kvaliteta i** **ispravku funkcije.** Period odlaganja može dovesti do odlaganja u ažuriranju u roku od do 180 dana.

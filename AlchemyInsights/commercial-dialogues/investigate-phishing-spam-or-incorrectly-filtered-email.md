@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948969"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894409"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Istražite phishing, spam ili pogrešno filtriranu e-poštu
 
 Koristite Istraživač prosleđivanje da biste prosledili poruku korporaciji Microsoft. Odmah ćete dobiti povratne informacije o filtriranju poruka i razlogu zbog kojeg je došlo do problema. Evo rezimea koraka:
 
-1. Idite u [Office 365 centar](https://go.microsoft.com/fwlink/p/?linkid=2077143)za & usaglašenost, izaberite Prosleđivanja za upravljanje pretnjama , a zatim izaberite stavku   >   **+Novo prosleđivanje.**
-2. Navedite detalje u **iletu "Novo prosleđivanje".**
-3. Obavestite korisnike da bi trebalo da prijave sumnjive [e-poruke](https://go.microsoft.com/fwlink/?linkid=2092385) korporaciji Microsoft i da je programski dodatak "Poruka izveštaja" alatka koju treba da koriste u tu svrhu.
+1. Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na **E-& Prosleđivanje** \> **saradnje**.
+
+   Da biste prešli direktno **na stranicu Prosleđivanje,** koristite <https://security.microsoft.com/reportsubmission> .
+
+2. Na stranici **Prosleđivanje** potvrdite da je izabrana kartica Prosleđeno na analizu, a zatim kliknite na **dugme + Prosledi korporaciji Microsoft na analizu.** 
+
+3. Ilet će se pojaviti sa opcijom za prosleđivanje e-poruke, URL adrese ili datoteke. Dodatne informacije potražite u članku Korišćenje prosleđivanje podataka za prosleđivanje podataka za neposrednu pošiljku, [phish, UL](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)datoteke i datoteke korporaciji Microsoft .
+
+4. Obavestite korisnike da treba da prijave sve sumnjive poruke u prijemnom poštanskom sandučetu pomoću programskog dodatka "Poruka izveštaja" ili programskog dodatka ["Izveštaj o phishingu"](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

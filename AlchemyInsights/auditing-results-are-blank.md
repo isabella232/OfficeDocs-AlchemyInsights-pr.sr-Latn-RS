@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: cfb9996bda7d18453d1fe14b398f0f6dfcbd0d9965cb6e7674f3b6bb8fbc143f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d63158872c817ea6b856378367acc6f41f41e055
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893113"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313856"
 ---
 # <a name="auditing-results-are-blank"></a>Rezultati nadzora su prazni
 
@@ -27,6 +27,6 @@ Da biste prikazali izveštaj o nadzoru SharePoint kolekciji lokacija, morate bit
   
 **Pretraga evidencije nadzora**
   
-Morate da budete globalni Microsoft 365 centar za usaglašenost za rad sa evidencijom nadzora na Microsoft 365 centar za usaglašenost na <https://compliance.microsoft.com/auditlogsearch> Microsoft 365 zaštitnik portalu <https://security.microsoft.com/auditlogsearch> . Pre nego što počnete, uključite evidenciju nadzora. Zatim možete da pokrenete pretragu evidencije nadzora.
+Morate da budete globalni Microsoft 365 centar za usaglašenost za rad sa evidencijom nadzora na Microsoft 365 centar za usaglašenost na <https://compliance.microsoft.com/auditlogsearch> Microsoft 365 zaštitnik portalu <https://security.microsoft.com/auditlogsearch> na . Pre nego što počnete, uključite evidenciju nadzora. Zatim možete da pokrenete pretragu evidencije nadzora.
   
 [Saznajte kako da pretražite evidenciju nadzora](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

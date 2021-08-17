@@ -1,5 +1,5 @@
 ---
-title: Outlook ne sinhronizuje fascikle
+title: Outlook ne sinhronizujete fascikle
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111234"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook ne sinhronizuje fascikle
+# <a name="outlook-not-synching-folders"></a>Outlook ne sinhronizujete fascikle
 
-Ako Outlook ne sinhronizuje fascikle na očekivani način, postoje neke stvari koje možete da pokušate da rešite.
+Ako Outlook fascikle na očekivani način, postoje neke stvari koje možete da pokušate da biste rešili problem.
 
-1. Smanjite broj fascikli u primarnom ili deljenom poštanskom sandučetu. [Pogledajte probleme sa performansama u programu Outlook kada ima previše stavki ili fascikli u fascikli keširani režim. ost ili. pst](https://support.microsoft.com/help/2768656).
-2. Onemogućavanje keširanja svih deljenih fascikli.
-3. Promena konfiguracije sekundarnog Exchange poštanskog sandučeta u drugi Exchange nalog u profilu.
+1. Smanjite broj fascikli u primarnom ili deljenom poštanskom sandučetu. Pogledajte Outlook problema sa performansama kada postoji previše stavki ili fascikli u keščenom režimu .ost ili [.pst fascikli datoteke.](https://support.microsoft.com/help/2768656)
+2. Onemogućite kešing svih deljenih fascikli.
+3. Promenite konfiguraciju sekundarnog poštanskog Exchange na drugi Exchange nalogu na profilu.
 
-Više informacija potražite u članku [problemi sa performansama i sinhronizacijom kada radite sa fasciklama u pomoćnom poštanskom sandučetu u programu Outlook](https://support.microsoft.com/help/3115602).
+Dodatne informacije potražite u temi Problemi sa performansama i sinhronizacijom prilikom rada sa fasciklama u sekundarnom poštanskom sandučetu [u Outlook.](https://support.microsoft.com/help/3115602)

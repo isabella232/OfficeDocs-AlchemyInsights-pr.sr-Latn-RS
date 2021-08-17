@@ -13,14 +13,14 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 822407858ddbdcd8e7cae6286fce7893e3eae5cfcdef44b1c8ad332c67a3ee77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ac634375569cca71ec597929ecaedda529e47414
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882765"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313974"
 ---
-# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft zaštitnik za Office 365 u SharePoint i OneDrive
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft zaštitnik za Office 365 u programima SharePoint i OneDrive
 
 Pogledajte sledeće:
 - [Microsoft zaštitnik za Office 365 za SharePoint, OneDrive i Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

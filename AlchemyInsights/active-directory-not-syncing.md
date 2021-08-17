@@ -14,16 +14,16 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d4615d335b9aeef69148cd93ff9f44bec6d7d876
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889232"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314218"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory se ne sinhronizuje
 
-Ako dobijate greške prilikom sinhronizacije, kao što je "nema nedavne sinhronizacije" ili primetite status sinhronizacije direktorijuma na Kancelarija portalu za adminitre, "Poslednji put sinhronizovano pre više od 3 dana", moguće je da AADConnect ima neispravne postavke ili nedovoljne dozvole za izvršavanje sinhronizacije.  
+Ako dobijate greške prilikom sinhronizacije, na primer "nema nedavne sinhronizacije" ili primetite da status sinhronizacije direktorijuma na Kancelarija portalu za adminitre kaže "Poslednji put sinhronizovano pre više od 3 dana", moguće je da AADConnect ima neispravne postavke ili nedovoljne dozvole za izvršavanje sinhronizacije.  
 
 Poništavanje usluge AADConnect pomoću ekspresnih postavki može brzo da reši problem:
 
@@ -33,4 +33,4 @@ Poništavanje usluge AADConnect pomoću ekspresnih postavki može brzo da reši 
 
 Azure AD Connect mora da se instalira na Windows serveru 2012 ili novijoj verziji. Ovaj server mora da bude pridružen domenu i može da bude kontroler domena ili server član. Kompletnu listu zahteva i preduslova za Azure AD Povezivanje, pregledajte preduslove za [Azure AD Povezivanje.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
 
-Više informacija o AADConnect nalozima usluge potražite u temi [Azure AD Povezivanje:](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)Nalozi i dozvole.
+Više informacija o AADConnect nalozima usluge potražite u temi [Azure AD Povezivanje: Nalozi i dozvole.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
