@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: a727c0cfae0caf93e19148087e8b4cf903489ab6
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1d5876918729ffe531f0d8973a98cb219a3776241344335a10b4cde4d0775a99
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52564643"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891016"
 ---
 # <a name="preparing-for-tls-12-in-office-365"></a>Priprema za TLS 1.2 u Office 365
 
-Da bi klijentima pružio najbolje šifrovanje u klasi, Microsoft će ukoniti Transport Layer Security (TLS) verzije 1.0 i 1.1 u verzijama Office 365 i Office 365 GCC. 
+Da bi klijentima pružio najbolje šifrovanje u klasi, Microsoft će ukloniti Transport Layer Security (TLS) verzije 1.0 i 1.1 u verzijama Office 365 i Office 365 GCC. 
 
 Za više informacija pogledajte:
 
-- [Priprema za TLS 1.2 u Office 365 i Office 365 GCC](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
-- [Kôd greške: 0x8004deb4 prilikom prijava u OneDrive](https://support.microsoft.com/office/error-code-0x8004deb4-when-signing-in-to-onedrive-e8a8d97c-a87e-4dda-a67e-bae4fef05dcb)
-- [Greške u potvrdi identiteta se javljaju kada klijent nema TLS 1.2 podršku](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
-- [Greške u potvrdi identiteta prilikom povezivanja sa SharePoint ili OneDrive sa Windows 8 ili 7](/sharepoint/troubleshoot/administration/authentication-errors-windows7)
+- [Priprema za TLS 1.2 u Office 365 i Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+- [Kôd greške: 0x8004deb4 prilikom prijavljivanje u OneDrive](https://support.microsoft.com/office/error-code-0x8004deb4-when-signing-in-to-onedrive-e8a8d97c-a87e-4dda-a67e-bae4fef05dcb)
+- [Greške u potvrdi identiteta se javljaju kada klijent nema TLS 1.2 podršku](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+- [Greške u potvrdi identiteta prilikom povezivanja sa SharePoint ili OneDrive iz Windows 8 ili 7](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-windows7)
