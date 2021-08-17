@@ -1,5 +1,5 @@
 ---
-title: Kreiranje tima iz postojećeg tima
+title: Kreiranje tima od postojećeg tima
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004404"
 - "7975"
-ms.openlocfilehash: 009a41b5e457cd775deee25024e02191844e3d2c
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 715525cbda3baa6523a5071c8c914eebca70943f54df1a13d8e77f5298d450e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950098"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080184"
 ---
-# <a name="creating-a-team-from-an-existing-team"></a>Kreiranje tima iz postojećeg tima
+# <a name="creating-a-team-from-an-existing-team"></a>Kreiranje tima od postojećeg tima
 
-Neki klijenti su prijavili problem sa kreiranjem tima iz postojećeg tima (ili kloniranjem tima) kada odaberu da kopiraju iznad članova tima. Da biste rešili ovaj problem, ne kopirajte članove kao deo procesa kreiranja i umesto toga dodajte članove nakon kreiranja tima.
+Neki klijenti su prijavili problem sa kreiranjem tima od postojećeg tima (ili kloniranjem tima) kada izaberu da kopiraju preko članova tima. Da biste zaobišli ovaj problem, nemojte kopirati članove kao deo procesa kreiranja i umesto toga dodajte članove nakon kreiranja tima.
 
-Više informacija potražite u članku [Kreiranje tima iz postojećeg tima](https://support.microsoft.com/office/create-a-team-from-an-existing-team-f41a759b-3101-4af6-93bd-6aba0e5d7635).
+Više informacija potražite u [temi Pravljenje tima od postojećeg tima.](https://support.microsoft.com/office/create-a-team-from-an-existing-team-f41a759b-3101-4af6-93bd-6aba0e5d7635)

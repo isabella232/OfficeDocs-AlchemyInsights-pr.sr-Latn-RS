@@ -1,5 +1,5 @@
 ---
-title: Greške sa SharePoint dozvolama
+title: SharePoint grešaka sa dozvolama
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab3e2accbb9c2e765dd77fc64b92305dce748cd5da3bf0c6c6dd8414737c709f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107661"
 ---
-# <a name="sharepoint-permissions-errors"></a>Greške sa SharePoint dozvolama
+# <a name="sharepoint-permissions-errors"></a>SharePoint grešaka sa dozvolama
 
 Postoji mnogo scenarija koji mogu da upitaju jednu od tih poruka. Dozvole za korisnika ili administratora najčešće su neispravno konfigurisane ili uopšte nisu konfigurisane. 
 

@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070374"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882581"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Podešavanje smernica Sef povezivanje u programu Microsoft zaštitnik za Office 365
 
-Podrazumevane smernice za Sef veze u programu Microsoft zaštitnik Office 365 su već kreirane za vas. Da biste promenili konfiguracije:
+1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e&** Smernice za saradnju & Smernice za pretnju pravilima Sef Veze u odeljku \>  \>  \>  Smernice. 
 
-1. Idite u Office 365 [centra za & usaglašenost.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Izaberite **Smernice za upravljanje**  >  **pretnjama**. Na stranici **Smernice** izaberite [stavku Microsoft zaštitnik za Office 365 Sef veze.](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. U **odeljku Smernice koje se primenjuju na celu organizaciju** izaberite **stavku Podrazumevano**, a zatim izaberite **ikonu** Uredi.
-4. U **odeljku Blokiranje sledećih URL-ova** navedite jednu ili više UL-ova koje želite da sprečite da osobe u vašoj organizaciji posete. Da biste saznali više, [pogledajte "Blokiranje sledećih UL adresa" za Sef Veze.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. U **odeljku Postavke koji se odnose na** sadržaj osim na e-poštu izaberite (ili opozovite) opcije koje želite da koristite. (Preporučuje se da izaberete sve opcije.)
-6. Izaberite **Sačuvaj**.
+   Da biste prešli direktno **na stranicu Sef Veze,** koristite <https://security.microsoft.com/safelinksv2> .
+
+2. Na stranici **Sef Veze** uradite nešto od sledećeg:
+   - Da biste dodali nove smernice, izaberite **stavku + Kreiraj**. Pokrenuće se čarobnjak koji će vam pomoći da definišete postavke smernica.
+   - Da biste uredili postojeće smernice, izaberite je tako što ćete kliknuti na ime smernice. U iskačetom prozoru sa detaljima koji se **pojavljuje** izaberite stavku Uredi u odeljku koji sadrži postavke koje želite da konfigurišete.
+   - Da biste blokirali UL-ove iz programa Sef Links zaštita ili konfigurisali postavke za Sef Veze u podržanim Office 365 aplikacijama, izaberite stavku **Globalne** postavke, konfigurišite postavke koje želite, a zatim kliknite na dugme **Sačuvaj**.
+
+3. Kada pregledate postavke, izaberite stavku **Prosledi (novo)** ili Sačuvaj **(uredi).**
+
+Više informacija potražite u sledećim člancima:
+
+- [Podešavanje smernica Sef za veze u programu Microsoft zaštitnik za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Konfigurisanje globalnih postavki Sef veza u programu Microsoft zaštitnik za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

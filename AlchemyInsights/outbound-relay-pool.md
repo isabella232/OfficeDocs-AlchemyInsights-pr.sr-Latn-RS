@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041600"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883145"
 ---
 # <a name="outbound-relay-pool"></a>Outbound relay pool
 
-Microsoft pravi neke promene konfiguracije za slanje ili prosleđivanje e-pošte putem Microsoft 365. Poruke se u određenim scenarijima prosleđene ili se šalju putem Microsoft 365 uz pomoć specijalne relejskog prostore. Poruke poslate korišćenjem relejskog grupa mogu da završe u fascikli sa neželjenom poštom primaoca. Više informacija potražite u temi o [odlaznom isporuki](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft pravi neke promene konfiguracije za slanje ili prosleđivanje e-pošte putem Microsoft 365. Poruke se u određenim scenarijima prosleuju ili se šalju putem Microsoft 365 uz pomoć specijalne relejskog prostore. Poruke poslate korišćenjem relejskog grupa mogu da završe u fascikli sa neželjenom poštom primaoca. Više informacija potražite u temi o [odlaznom isporuki](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Da biste izbegli scenario pomoću grupa releja, uverite se da prosleđene/prenete poruke ispunjavaju jedan od sledećih kriterijuma:
 
 - Odlazni pošiljalac je prihvaćeni domen zakuca.
-- SPF (SPF) prelazi kada poruka bude u Microsoft 365.
-- Pošta koju je identifikovao DomainKeys (DKIM) na domenu P2 pošiljaoca prelazi kada poruka dođe do Microsoft 365.
+- SPF(SPF) prelazi kada poruka dođe do Microsoft 365.
+- Pošta koju je identifikovao DomainKeys (DKIM) na domenu P2 pošiljaoca prođe kada poruka dođe do Microsoft 365.
  
 Poruke koje ispunjavaju gorenavedeni kriterijum ne šalju se putem grupa releja.
 

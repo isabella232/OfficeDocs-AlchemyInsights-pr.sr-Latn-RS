@@ -1,5 +1,5 @@
 ---
-title: Pronalaženje događaja koji se izvršavaju na pravilima prijemnog poštanskog sandučeta
+title: Pronalaženje događaja izvršenih na pravilima prijemnog poštanskog sandučeta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: deb83d278a2b398b4ea6fc31b043c33309b736e3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483702"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882649"
 ---
-# <a name="find-events-performed-on-inbox-rules"></a>Pronalaženje događaja koji se izvršavaju na pravilima prijemnog poštanskog sandučeta
+# <a name="find-events-performed-on-inbox-rules"></a>Pronalaženje događaja izvršenih na pravilima prijemnog poštanskog sandučeta
 
-Kada se pravila prijemnog poštanskog sandučeta kreiraju, menjaju ili brišu, događaji se snimaju u evidenciji nadzora. Evo kako da ih pregledate:
+Kada se kreiraju, menjaju ili brišu pravila prijemnog poštanskog sandučeta, događaji se snimaju u evidenciji nadzora. Evo kako da ih pregledate:
 
-1. Idite na [Office 365 Security & centar za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Izaberite stavku Pretraga > pretraga nadzora.
+1. Uradite nešto od sledećeg:
+   - Na Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na Nadzor . Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://security.microsoft.com/auditlogsearch> .
 
     > [!NOTE]
-    > Ako vidite obaveštenje koje treba da uključite u nadzor, odmah ga uključite. Ako ova funkcija nije uključena, rezultati pretrage neće moći da izvuku podatke iz prethodnih datuma.
-1. Izaberite polje aktivnosti i pronađite usluge Exchange poštanskog sandučeta, a zatim izaberite New-InboxRule Kreirajte pravilo za Prijemno sanduče iz programa Outlook Web App. Kada završite, kliknite izvan okna da biste smanjili okno "aktivnosti".
-1. Navedite opseg datuma, a zatim u polju korisnici izaberite korisničko ime za korisnika kojeg želite da istražite. Možete da izaberete više korisnika odjednom.
-1. Izaberite stavku Pretraži. Aktivnosti se pojavljuju u okviru rezultati.
-1. Da biste prikazali detalje, izaberite aktivnost, a zatim izaberite stavku još informacija. U odeljku parametri možete da vidite ime pravila, postavljene uslove i radnje koje će pravilo preduzeti.
+    > Ako vidite obaveštenje da treba da uključite nadzor, uključite ga odmah. Ako ova funkcija nije uključena, rezultati pretrage neće moći da povlače podatke iz prethodnih datuma.
 
-Da biste saznali više, pogledajte članak pretraga Office 365 evidencije nadzora radi rešavanja problema sa uobičajenim scenarijima.
+2. Na **kartici Pretraga** na **stranici** Nadzor konfigurišite sledeće postavke:
+   - **Opseg datuma i vremena:** Izaberite opseg datum/vreme u pocima **Početak** **i** Kraj.
+   - **Aktivnosti: Odaberite** **stavku Novo prijemno poštansko sanduče Napravi pravilo prijemnog poštanskog sandučeta od Outlook Web App**
+
+3. Kada završite, kliknite na dugme **Pretraži**. Aktivnosti se pojavljuju na novoj stranici **Pretraga nadzora.**
+
+4. Izaberite aktivnost u rezultatima da biste otvorili letak sa detaljima. U **odeljku Parametri** možete da vidite ime pravila, skup uslova i radnje koje će pravilo preduzeti.
+
+Da biste saznali više, pogledajte pretragu [evidencije nadzora da biste istražili uobičajene probleme sa podrškom.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

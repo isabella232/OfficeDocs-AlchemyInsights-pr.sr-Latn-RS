@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: ccd55ee4452efa279b6f936151e2fdce6921b922
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569773"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883065"
 ---
 # <a name="admin-password-reset"></a>Poništavanje lozinke administratora
 
@@ -29,4 +29,4 @@ ms.locfileid: "52569773"
 
 - Drugi administrator može da poništi lozinku iz odeljka **Korisnici > [Aktivni korisnici](https://portal.office.com/adminportal/home#/users)**. Izaberite nalog i kliknite na ikonu tastera.  Ako su akreditivi keširani, možete da [kreirate novi nalog administracije](https://portal.office.com/adminportal/home#/users), prijavite se pomoću tog naloga, a zatim poništite sopstvenu administratorsku lozinku.
 
-Za više scenarija mirovanja lozinke, pokušajte [Resetovanje Office 365 business lozinke](/microsoft-365/admin/add-users/reset-passwords) ili otvorite predmet podrške za pomoć.
+Za više scenarija mirovanja lozinke, pokušajte [Resetovanje Office 365 business lozinke](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) ili otvorite predmet podrške za pomoć.
