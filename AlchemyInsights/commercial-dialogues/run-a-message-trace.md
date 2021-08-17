@@ -1,5 +1,5 @@
 ---
-title: Pokreće praćenje poruka
+title: Pokretanje praćenja poruka
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483579"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890612"
 ---
-# <a name="run-a-message-trace"></a>Pokreće praćenje poruka
+# <a name="run-a-message-trace"></a>Pokretanje praćenja poruka
 
-Tragovi poruka se pokreću u odeljku tok pošte Office 365 Security & centar za usaglašenost.
+Praćenje poruka možete da pokrenete iz **praćenja Exchange poruka na** Microsoft 365 zaštitnik portalu <https://security.microsoft.com> .
 
-Da biste saznali kako da pokrećete praćenje poruke, pogledajte članak [praćenje poruka u sistemu Office 365 Security & centar za usaglašenost](https://go.microsoft.com/fwlink/?linkid=2103855).
+Više informacija potražite u [temi "Praćenje poruka" na Microsoft 365 zaštitnik portalu](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)

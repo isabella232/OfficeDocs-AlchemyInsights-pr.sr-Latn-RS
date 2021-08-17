@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 662bf9929ebe2dd7a13d6fe355760bfaff58103ae599949282f86da4b7e2a8e7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994735"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890536"
 ---
 # <a name="unblock-email"></a>Deblokiranje e-pošte
 
 Ako je za slanje spama blokiran korisnički nalog e-pošte, evo kako da ga ponovo urediti:
 
 1. Odmah poništite lozinku za nalog na koji ovo *utiče.* Nemojte da šaljete novu lozinku korisniku putem e-pošte. To sprečava svakoga da joj pristupi kako bi slao spam.
-2. Idite u centar za & za usaglašenost i vidite da li se nalog nalazi na listi [Ograničeni korisnici.](https://protection.office.com/#/restrictedusers)
-3. Odaberite  ikonu "Pretraga" i unesite korisničko ime ograničenog korisnika. Na primer, ako je adresa e-pošte korisnika *rob@contoso.com,* unesite **roba**.
-4. Ako je nalog tu, izaberite **deblokiranje**. Pratite korake u oknu iletu, a zatim kliknite na dugme **Da da biste** potvrdili.  
-    > [!NOTE]
-    > Kada se deblokira, nalog bi trebalo da može da počne da šalje poruke u 3–4 časa.
+2. Idite na Microsoft 365 zaštitnik portalu za e-& Pregled saradnje ograničeni korisnici da biste videli da li <https://security.microsoft.com> \>  \>  \>  je nalog na listi. Ako je potrebno, **koristite polje pretraga** da biste pronašli korisnika na listi.
+3. Ako je korisnik na listi, izaberite korisnika, a zatim izaberite **deblokiranje**. Pratite korake u oknu iletu, a zatim kliknite na dugme **Da da biste** potvrdili.
+
+   > [!NOTE]
+   > Kada se deblokira, nalog bi trebalo da može da počne da šalje poruke u 3–4 časa.
+
+Više informacija potražite u [temi Uklanjanje blokiranih korisnika sa portala "Ograničeni korisnici".](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)
