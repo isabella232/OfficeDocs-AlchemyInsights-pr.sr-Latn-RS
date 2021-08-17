@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 7eaeff630a31d4e8ce5a3a92ff40be9211a0cdaa
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53129875"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890160"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>Konfigurisanje smernica za zadržavanje Teams lokacija
 
@@ -32,9 +32,9 @@ Da biste konfigurisali smernice za zadržavanje Teams:
 
 1. Konfigurišite postavke zadržavanja. 
 
-1. Izaberite **Dalje**, a zatim **Prosledi**.
+1. Izaberite **dalje**, a zatim **Prosledi**.
 
 Napom: Smernice za zadržavanje trenutno ne podržavaju poruke privatnog kanala.
 
-Više informacija o zadržavanju tima i poznatim problemima sa konfiguracijom potražite u temi Smernice za [zadržavanje Teams lokacijama](/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+Više informacija o zadržavanju tima i poznatim problemima sa konfiguracijom potražite u temi Smernice [za zadržavanje Teams lokacijama](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 

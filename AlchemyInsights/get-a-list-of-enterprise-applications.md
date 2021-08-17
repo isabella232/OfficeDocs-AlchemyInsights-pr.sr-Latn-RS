@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116742"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Nabavite listu Enterprise aplikacija
 
@@ -57,4 +57,4 @@ ms.locfileid: "51405514"
 
     Možete i da preuzmete listu aplikacija za sve aplikacije i u vlasništvu aplikacija u okviru Azure Active directory>Registracije aplikacija>Preuzmi>Preuzmite sve aplikacije/u vlasništvu aplikacija.
 
-    Da biste videli listu aplikacija putem usluge MS Graph, pogledajte Članak Aplikacije liste [– Microsoft Graph v1.0 i](https://docs.microsoft.com/graph/api/application-list) tip resursa aplikacije – Microsoft [Graph v1.0.](https://docs.microsoft.com/graph/api/resources/application)
+    Da biste videli listu aplikacija putem MS Graph, pogledajte Članak Aplikacije liste [– Microsoft Graph v1.0 i](https://docs.microsoft.com/graph/api/application-list) tip resursa aplikacije – Microsoft Graph [v1.0.](https://docs.microsoft.com/graph/api/resources/application)

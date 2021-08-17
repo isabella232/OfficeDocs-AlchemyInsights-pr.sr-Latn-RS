@@ -1,5 +1,5 @@
 ---
-title: 1081 Calendar-RBA kočall
+title: 1081 Kalendar – RBA hvatanje sve
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059384"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Kreiranje poštanskih sandučića sa sobama i upravljanje njima
+# <a name="create-and-manage-room-mailboxes"></a>Kreirajte poštanske sandučiće sobe i upravljajte sobom
 
-Da biste kreirali poštanski sandučići i izmenili sobe u Exchange centru administracije, pogledajte članak [Kreiranje poštanskih sandučića sa sobama](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Da biste kreirali i izmenili poštanske sandučiće sobe Exchange centru Exchange, pogledajte kreiranje poštannih sandučića [sobe i upravljanje sobom.](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)
 
-Da biste saznali više o poštanskim sandučićima sobe i opreme (poznate i kao Poštanske sandučiće resursa), pogledajte članak [Poštanski sandučići sobe i opreme](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+Da biste saznali više o poštanskim sandučićima sobe i opreme (poznati i kao poštanski sandučići resursa), pogledajte poštanske sandučiće sobe [i opreme](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
