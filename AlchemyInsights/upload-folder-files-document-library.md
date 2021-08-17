@@ -1,5 +1,5 @@
 ---
-title: Otpremanje fascikle ili datoteka u biblioteku dokumenata
+title: Otprema fascikle ili datoteka u biblioteku dokumenata
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,16 +14,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: ac6bc3ff7b3abffe3f31f67d168e51d6b779daa0
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 2241cab0c509b010d3c427e962d9204ff86e5b6ce16b76a07c6c2b6b60485b18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073254"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a>Otpremanje fascikle ili datoteka u biblioteku dokumenata
+# <a name="upload-a-folder-or-files-to-a-document-library"></a>Otprema fascikle ili datoteka u biblioteku dokumenata
 
-Možete da otpremate datoteke u biblioteku dokumenata u sistemu SharePoint tako što ćete ih prevući sa računara i baciti ih u biblioteku dokumenata.
+Datoteke možete da otpremite u biblioteku dokumenata u programu SharePoint tako što ćete ih prevlačiti sa računara i odbaciti u biblioteku dokumenata.
 
-* [Otpremanje fascikle ili datoteka u biblioteku dokumenata](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [Otpremanje pomoću usluge OneDrive Sync](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [Otprema fascikle ili datoteka u biblioteku dokumenata](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [Otprema korišćenje OneDrive sinhronizaciju](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
