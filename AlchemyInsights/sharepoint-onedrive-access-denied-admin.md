@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa pristupom "zabranjen pristup"
+title: Rešavanje problema sa porukama koje su odbijene za pristup
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9acde72f82a27c9f2faa2cf4d0417374aa5a294234da96080dc0498d07639248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085242"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Rešavanje problema sa pristupom zabranjen poruka u sistemu SharePoint/OneDrive centar administracije
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Rešavanje problema sa pristupom odbijenim porukama u sharepoint/OneDrive centru za administaciju
 
-Ako dobijate poruku o zabranjeni pristup prilikom pokušaja da posetite SharePoint/OneDrive centar administracije, uverite se da ste [korisniku dodelili licencu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Ako korisnik ima licencu, trebalo bi da se uverite da su im [dodeljene uloge administratora](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) koje mogu da pristupe administratorskim centrima.
+Ako dobijate poruku o zabranjenom pristupu prilikom pokušaja pretraživanja Sharepoint/OneDrive centra za OneDrive, proverite da li ste dodelili licencu [korisniku.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) Ako korisnik ima licencu, trebalo bi da se uverite i da mu je dodeljena [uloga administratora](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) koja može da pristupi centrima administracije.
 
-Ovaj problem takođe može da se pojavi kada se korisnik izbriše i ponovo kreira sa istim direktorom glavnog imena (UPN). Novi nalog se kreira pomoću različitog korisničkog polja (Passport unikatni ID). Kada korisnik pokuša da pristupi kolekciji lokacija ili svom OneDrive, korisnik ima neispravni PUID. Drugi scenario uključuje sinhronizaciju direktorijuma sa organizacionim jedinicama aktivnog direktorijuma (OU). Ako su se korisnici već prijavili u sistemu SharePoint, a zatim se premeštaju u drugačiji a i ponovo sinhronizuju sa sistemom SharePoint, oni mogu da doћive ovaj problem.
+Do ovog problema takođe može doći kada korisnik izbriše i ponovo kreira sa istim glavnim korisničkim imenom (UPN). Novi nalog se kreira pomoću druge PUID (Jedinstveni pasoš) vrednosti. Kada korisnik pokuša da pristupi kolekciji sajtova ili svojoj OneDrive, korisnik ima neispravan PUID. Drugi scenario uključuje sinhronizaciju direktorijuma sa Active Directory organizacionom jedinicom (OU). Ako su se korisnici već prijavili u uslugu SharePoint, a zatim premešteni u drugi OU i ponovo se ponovo SharePoint, može se ovaj problem rešiti.
 
-Da biste rešili ovaj problem, trebalo bi da vratite originalni UPN sa koracima u članku, [vratite korisnika u prethodno stanje u usluzi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Da biste rešili ovaj problem, trebalo bi da vratite originalni UPN u prethodno stanje uz korake navedene u članku Vraćanje korisnika u [prethodno stanje Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
 
-Napomena: ako OneDrive ili SharePoint centar administracije nisu dostupni većem broju korisnika koji su prethodno imali Access, možda postoji privremeno izdanje.  [Potvrdite izbor u polju za zdravstvenu zaštitu usluge](https://portal.office.com/adminportal/home#/servicehealth).
+Najava: Ako OneDrive ili SharePoint centru za administaciju nije dostupan većem broju korisnika koji su ranije imali pristup, možda postoji privremeni problem sa uslugom.  [Proverite kontrolnu tablu za zdravstveno stanje usluge](https://portal.office.com/adminportal/home#/servicehealth).
 
 

@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895133"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Prijavite sumnjive e-poruke, UL adrese ili priloge
 
-Razumem da vam je potrebna pomoć u istraživanju sumnjive e-poruke ili e-poruke koja je pogrešno filtrirana. Mogu da vam pomognem da prosledite problem na analizu pomoću istraživača prosleđivanja, što će vam pružiti trenutne povratne informacije. Evo rezimea koraka:
+Razumem da vam je potrebna pomoć u istraživanju sumnjive e-poruke ili e-poruke koja je pogrešno filtrirana. Mogu da vam pomognem da prosledite problem na analizu pomoću portala **Prosleđivanje,** što će vam pružiti trenutne povratne informacije. Evo rezimea koraka:
 
-1. Idite u [Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)& za usaglašenost, a zatim idite na Prosleđivanja **za upravljanje**  >  [pretnjama.](https://go.microsoft.com/fwlink/?linkid=2101521)
-2. Izaberite **stavku + Nova prosleđivanje**. Ilet će se pojaviti sa opcijom za prosleđivanje e-poruke, URL adrese ili datoteke.
-    > [!NOTE]
-    > Obavestite korisnike da bi trebalo da prijave sve sumnjive poruke u prijemnom sandučetu korporaciji Microsoft pomoću [programnog dodatka Poruka izveštaja.](https://go.microsoft.com/fwlink/?linkid=2092385)
+1. Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na **E-& Prosleđivanje** \> **saradnje**.
+
+   Da biste prešli direktno **na stranicu Prosleđivanje,** koristite <https://security.microsoft.com/reportsubmission> .
+
+2. Na stranici **Prosleđivanje** potvrdite da je izabrana kartica Prosleđeno na analizu, a zatim kliknite na **dugme + Prosledi korporaciji Microsoft na analizu.** 
+
+3. Ilet će se pojaviti sa opcijom za prosleđivanje e-poruke, URL adrese ili datoteke.
+
+Dodatne informacije potražite u članku Korišćenje prosleđivanje podataka za prosleđivanje podataka za neposrednu pošiljku, [phish, UL](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)datoteke i datoteke korporaciji Microsoft .
+
+> [!NOTE]
+> Obavestite korisnike da treba da prijave sve sumnjive poruke u prijemnom poštanskom sandučetu pomoću programskog dodatka "Poruka izveštaja" ili programskog dodatka ["Izveštaj o phishingu"](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

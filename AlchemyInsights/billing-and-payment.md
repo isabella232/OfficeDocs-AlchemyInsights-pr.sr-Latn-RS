@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893069"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314930"
 ---
 # <a name="billing-and-payment"></a>Naplata i plaćanje
 
-Račune možete pronaći na kartici **Naplata**  >  [& plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Podrazumevano su prikazana poslednja 3 meseca faktura.  Da biste prikazali starije fakture, prilagodite filter.  Kliknite na **vezu Preuzmi fakturu u PDF-u** da biste prikazali fakturu.
+Račune možete pronaći na **kartici Računi**  >  [& plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Podrazumevano su prikazana poslednja 3 meseca faktura.  Da biste prikazali starije fakture, prilagodite filter.  Kliknite na **vezu Preuzmi fakturu u PDF-u** da biste prikazali fakturu.
 
 **Prijem faktura putem e-pošte**
 
@@ -38,7 +38,7 @@ Ako plaćate kreditnom karticom ili računom u banci, način plaćanja povezan s
 
 Ako ste dodali novu karticu, a i dalje dobijate obaveštenje o odbijanju na staroj kreditnoj kartici, možda ćete morati da povežete tu novu karticu sa pretplatom.
 
-1. U centru aktivnosti idite na stranicu Naplata &  >  **stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru za administaciju idite na **stranicu** Računi  >  **& načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Izaberite red načina plaćanja koji treba zameniti. U desnom oknu navedeni su svi profili naplate i pojedinačne pretplate koje koriste izabrani način plaćanja.
 
@@ -46,8 +46,7 @@ Ako ste dodali novu karticu, a i dalje dobijate obaveštenje o odbijanju na star
 
 4. Da biste koristili postojeći način plaćanja, odaberite jedan sa padajuće liste, a zatim izaberite **stavku Zameni**.
 
-    > [!NOTE]
-    > Ako imate pretplate povezane sa profilom naplate, za njih možete da koristite samo kreditnu ili debitnu karticu. Ako imate račune u banci  navedene na stranici Načini plaćanja, oni nisu dostupni za biranje sa padajuće liste.
+    Naznaka: Ako imate pretplate povezane sa profilom **naplate,** možete da koristite samo kreditnu ili debitnu karticu da biste ih platili. Ako imate račune u banci  navedene na stranici Načini plaćanja, oni nisu dostupni za biranje sa padajuće liste.
 
 5. Da biste dodali novi način plaćanja, izaberite **stavku Dodaj način plaćanja.**
 

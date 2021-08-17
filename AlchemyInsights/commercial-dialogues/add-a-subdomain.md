@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5cef08bd626ae7362fd3bf33f2f58a7b83b2b7cca7a64ee5abc9efaa546acd72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5e26e2ed2aeeb12fafec9f59a57315aff813f1b0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006359"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314894"
 ---
 # <a name="add-a-subdomain"></a>Dodavanje poddomina
 
 Koraci za dodavanje poddomna su isti kao dodavanje običnog domena. 
 
-> [!IMPORTANT]
-> Da biste dodali poddomine, morate da upravljate sopstvenim DNS postavkama na veb lokaciji registra. Ako korporaciji Microsoft dozvoljavate da upravlja DNS postavkama sa NS zapisima, ne možete da dodate poddomine. 
+**Važno:** Da biste dodali poddomine, morate da upravljate sopstvenim DNS postavkama na veb lokaciji registra. Ako korporaciji Microsoft dozvoljavate da upravlja DNS postavkama sa NS zapisima, ne možete da dodate poddomine. 
 
 Da biste dodali poddomen, izvršite sledeće korake:
 
-1. U centru aktivnosti, pređite na Podešavanje sistema **> Domeni**.
+1. U centru > na stranicu **Podešavanje domena.**
 2. Izaberite **stavku Dodaj domen**.
 3. Otkucajte ime poddomena. Na primer, ako posedujete domen **contoso.com,** vaš poddomen može biti **_london.contoso.com._**
 4. Kliknite na **dugme Dalje.**

@@ -1,5 +1,5 @@
 ---
-title: Ispraznite fasciklu "Izbrisane stavke" u Outlook.com
+title: Ispraznite fasciklu "Izbrisane stavke" Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111810"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Ispraznite fasciklu "Izbrisane stavke"
+# <a name="empty-the-deleted-items-folder"></a>Pražnjenje fascikle "Izbrisane stavke"
 
-1. Otvorite fasciklu izbrisane stavke i izaberite stavku **prazna fascikla**.
-2. Izaberite **stavke koje se mogu ispraviti** na vrhu stranice i ponovo izaberite stavku **prazna fascikla** .
+1. Otvorite fasciklu "Izbrisane stavke" i izaberite Isprazni **fasciklu**.
+2. Na **vrhu stranice izaberite** stavku Stavke koje mogu da se oporave i ponovo **izaberite stavku Isprazni fasciklu.**
 
 **Nije moguće isprazniti fasciklu "Izbrisane stavke"**
 
-- Ako ste izbrisali mnogo e-pošte, možda će biti potrebno malo vremena da se te stavke premeste u fasciklu "Izbrisane stavke" ili da budu izbrisane. Ostavite otvoren prozor pregledača dok se brisanje odvija.
-- Ako e-pošta i dalje ne uspe da je izbriše, izaberite manju grupu za brisanje.
-- Ako se izbriše izbrisana e-pošta, to može biti zato što ste nedavno izbrisali puno e-pošte. Pokušajte ponovo kasnije.
+- Ako ste izbrisali mnogo e-poruka, možda će biti teško da se te stavke premešte u fasciklu Izbrisane stavke ili izbrišu iz njih. Ostavite otvoren prozor pregledača dok se brisanje odvija.
+- Ako e-poruka i dalje ne uspe ispravno da je izbriše, izaberite manji paket za brisanje.
+- Ako se izbrisana e-pošta vrati, to može biti zato što ste nedavno izbrisali mnogo e-poruka. Pokušajte ponovo kasnije.

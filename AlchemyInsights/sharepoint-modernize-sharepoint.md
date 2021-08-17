@@ -1,5 +1,5 @@
 ---
-title: Modernizuje Classic SharePoint iskustvo
+title: Modernizovanje klasičnog SharePoint pri radu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a6ea80b64d98f8def1831297768a33e65d0b3891bce564385631ad01a5a2602
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085458"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizuje Classic SharePoint iskustvo
+# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizovanje klasičnog SharePoint pri radu
 
-Da biste prešli na savremeni korisnički interfejs, pregledajte sledeće resurse:
+Da biste se prebacili na moderni korisnički interfejs, pregledajte sledeće resurse:
 
-- [Kreirajte **moderne lokacije** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (lokacija tima ili sajt za komunikaciju). Koristite [SharePoint look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) da biste napravili prelepu, moćnu intranet koja povezuje radno mesto. Pogledajte [primere](https://lookbook.microsoft.com/) i nabavite [uputstva za dizajniranje](https://spdesign.azurewebsites.net/).
-- [Povežite lokaciju sa **Microsoft 365 grupom** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) da biste povećali saradnju u sistemu Microsoft 365.
-- Transformisanje u **modernu listu i** iskustvo u biblioteci tako što ćete [omogućiti listama i bibliotekama da se prikazuju u modernom korisničkom interfejsu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-- Transformacija **stranica lokacije** iz klasičnih **Wiki**, **Veb segmenta**i **matične** stranice u [moderne stranice klijenta](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). [SharePoint modernizacioni skener](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) pruža informacije o korišćenju stranica o trenutnim Wiki i stranice sa Veb segmentima kako bi vam pomogla da odredite prioritete transformacije stranice.
+- [Kreirajte **moderne sajtove**](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (sajt tima ili sajt komunikacije). Koristite [SharePoint look Book da biste](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) napravili lep, moćan intranet koji povezuje radno mesto. Pogledajte [primere i](https://lookbook.microsoft.com/) nabavite [uputstva za dizajn.](https://spdesign.azurewebsites.net/)
+- [Povezivanje lokaciju u Microsoft 365 **kako biste povećali**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) saradnju na Microsoft 365.
+- Transformišite **se u modernu** listu i iskustvo biblioteke omogućavanjem da se liste i biblioteke prikažu [u modernom korisničkom interfejsu.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- **Transformišite stranice sajta** **od klasične wiki** **stranice,** veb **segmenta** i matičnih stranica u [moderne stranice na strani klijenta](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). Skener [SharePoint modernizacije](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) pruža informacije o korišćenjem stranica o trenutnim stranicama wiki i veb segmentima kako bi vam pomogao da odredite prioritet transformacije stranica.
 
 Dodatne informacije:
 
-- Da biste proverili prikaz klasičnog SharePoint iskustva u modernom sistemu, pogledajte članak [modernizacija klasičnog SharePoint iskustva](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
-- Pogledajte Vodič za [moderno iskustvo](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
-- Pogledajte [SharePoint Classic i savremena iskustva](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- Za kraći pregled modernizovanja klasičnog SharePoint na moderni način pogledajte modernizovanje klasičnog [SharePoint iskustva.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- Pogledajte vodič za [moderni utisak pri radu.](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
+- Pogledajte [SharePoint klasični i moderni utisak pri radu.](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)
