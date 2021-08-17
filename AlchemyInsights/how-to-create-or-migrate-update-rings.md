@@ -1,5 +1,5 @@
 ---
-title: Kako da kreirate ili migrirate ažurirane prstenove
+title: Kako se kreiraju ili migriraju krugovi ažuriranja
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078816"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Kako da kreirate ili migrirate ažurirane prstenove
+# <a name="how-to-create-or-migrate-update-rings"></a>Kako se kreiraju ili migriraju krugovi ažuriranja
 
-Pratite dolenavedene korake ako ste konfigurisali Windows 10 Update postavke u klasičnom portalu i želeli da ih migrirate u Intune na portal Azure:
+Pratite korake u nastavku ako ste konfigurisali Windows 10 ažuriranja na klasičnom Intune portalu i želeli da ih migrirate u Intune na Azure portalu:
 
-1. Idite na Azure portal i izaberite stavku **sve usluge**.
-2. U polju **Filter** otkucajte **Intune**. U rezultatima izaberite stavku **Microsoft Intune**.
-3. Izaberite stavke **ispravke**za  >  **Windows 10 ažuriranje prstenova za ažuriranje**  >  **Create**.
+1. Idite na Azure portal i izaberite stavku **Sve usluge.**
+2. U polju **Filter** otkucajte **Intune**. U rezultatima kliknite na dugme **Microsoft Intune.**
+3. Izaberite **stavku Softverske**  >  **ispravke Windows 10 "Krugovi ažuriranja"**  >  **Kreiraj.**
 4. Unesite ime, opis i kliknite na dugme **Konfiguriši**.
-5. Konfigurišite postavke ažuriranja softvera za organizacije.
-6. Izaberite stavku **u redu**.
-7. U okviru **Kreiraj ring za ažuriranje**izaberite stavku **Kreiraj**.
+5. Konfigurišite postavke softverskih ispravki za organizacije.
+6. Izaberite **stavku U redu**.
+7. U **vremenu Kreiranje kruga za ažuriranje** izaberite **stavku Kreiraj**.
