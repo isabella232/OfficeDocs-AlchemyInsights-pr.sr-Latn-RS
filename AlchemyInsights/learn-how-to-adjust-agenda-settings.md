@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054128"
 ---
 # <a name="learn-how-to-configure-agenda-settings"></a>Saznajte kako da konfigurišete postavke dnevnog reda
 
-Postavke dnevnog reda se nalaze u postavkama **kalendara** u programu Outlook na vebu. Više informacija potražite u članku [Postavke kalendara u programu Outlook na vebu](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Postavke dnevnog reda nalaze se u **postavkama** kalendara u Outlook na vebu. Dodatne informacije potražite u [temi Postavke kalendara u Outlook na vebu.](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)
 
-Administratori mogu da koriste **Podešavanje za podešavanje obaveštenja** /mdlet stavke u usluzi Exchange online PowerShell za Konfigurisanje postavki dnevnog reda. Više informacija potražite u članku [Postavljanje – kalendar obaveštenja](https://technet.microsoft.com/library/dd351284).
+Da biste konfigurisali postavke dnevnog reda, Exchange Online u programu PowerShell, a za to možete da koristite cmdlet **Set-CalendarNotification.** Dodatne informacije potražite u [temi Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).

@@ -1,5 +1,5 @@
 ---
-title: Otkazuje pretplatu Microsoft 365?
+title: Otkazivanje Microsoft 365 pretplate?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: a84baac2762f894dfd36e0007624e231713c65fa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8d086ce8c6aef187b4bed96e5dcf12f17dcaa94bfd53a05bd136e0bb033f8f18
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685784"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888536"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Otkazuje pretplatu Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Otkazivanje Microsoft 365 pretplate?
 
 Žao nam je što odlazite!
   
@@ -30,4 +30,4 @@ Na osnovu podataka vaše organizacije, mislimo da sve vaše trenutne pretplate i
   
 **Refundja:** Bilo koji odobreni kredit će vam biti vraćen u sledećem ciklusu naplate.
 
-Da biste saznali više, [pogledajte otkazivanje pretplate.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Da biste saznali više, [pogledajte otkazivanje pretplate.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

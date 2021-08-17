@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937691"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889268"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivacija Microsoft 365 aplikacija
 
@@ -29,7 +29,7 @@ Da biste aktivirali Office, pogledajte članak:
 
 - [Aktiviranje sistema Office na Mac računaru](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Napomogućeno:**  Uverite se da imate Office 365 ili Microsoft 365 koja uključuje [Kancelarija klijentsku](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)aplikaciju, na primer Microsoft 365 Business Standard, Microsoft 365 aplikacije za posao ili Microsoft 365 Apps za preduzeće. Pored toga, uverite se da korisnički nalog koji koristite za prijavljivanje u Kancelarija aplikacijama [ima dodeljenu licencu](/microsoft-365/admin/manage/assign-licenses-to-users).
+**Napomogućeno:**  Uverite se da imate Office 365 ili Microsoft 365 koja uključuje [Kancelarija klijentsku](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)aplikaciju, na primer Microsoft 365 Business Standard, Microsoft 365 aplikacije za posao ili Microsoft 365 Apps za preduzeće. Pored toga, uverite se da korisnički nalog koji koristite za prijavljivanje u Kancelarija aplikacijama [ima dodeljenu licencu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Da biste rešili probleme sa aktivacijom sistema Office, pogledajte članak:
 
@@ -48,6 +48,6 @@ Ako ne možete da se prijavite u aplikacije Microsoft 365, pratite sledeće kora
 
 3. Korišćenjem Windows **Postavke > Nalozi >Pristup poslu ili školi**, isključuje stare ili nekorišćene radne naloge
 
-4. [Vraćanje stanja aktiviranja sistema Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), a zatim [prijavljivanje u Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) aplikacije pomoću novog naloga.
+4. [Vraćanje stanja aktiviranja sistema Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), a zatim [prijavljivanje u Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) aplikacije pomoću novog naloga.
 
 Dodatne radnje za rešavanje problema potražite u članku [Pojavi se obaveštenje o pretplati kada otvorim Office 365 aplikaciju](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

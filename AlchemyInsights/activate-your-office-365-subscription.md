@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937763"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889328"
 ---
 # <a name="activate-your-subscription"></a>Aktiviranje pretplate
 
 **Aktiviranje pretplate**
 
-- Da biste korisnicima dali pristup usluzi, dodelite im licencu. Da biste saznali kako, pogledajte [dodeljivanje licenci korisnicima](/microsoft-365/admin/manage/assign-licenses-to-users).
+- Da biste korisnicima dali pristup usluzi, dodelite im licencu. Da biste saznali kako, pogledajte [dodeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Ako već imate dodeljenu licencu, možete da pronađete aplikacije koje možete da preuzmete sa stranice [Moj nalog.](https://portal.office.com/account/#installs) Na ovoj stranici se nalazi lista aplikacija koje su dostupne za preuzimanje na osnovu dodeljenih licenci.
-- Ako ste već preuzeli Kancelarija, možda ćete morati da se prijavite u aplikacije sa poslovnim ili školskim nalogom. To možete da uradite u bilo kom Kancelarija aplikaciji (Word, Excel itd.) tako što ćete izabrati stavke Datoteka **>** Nalog (pri dnu). U okviru Informacije o korisniku **izaberite stavku Promeni nalog.** Više informacija potražite u članku [Instaliranje Office aplikacija](/microsoft-365/admin/setup/install-applications).
+- Ako ste već preuzeli Kancelarija aplikacije, možda ćete morati da se prijavite u aplikacije sa poslovnim ili školskim nalogom. To možete da uradite u bilo kom Kancelarija aplikaciji (Word, Excel itd.) tako što ćete izabrati stavke **Datoteka >** Nalog (pri dnu). U okviru Informacije o korisniku izaberite **stavku Promeni nalog.** Više informacija potražite u članku [Instaliranje Office aplikacija](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Ponovno aktiviranje pretplate**
 
 Ako je vaša pretplata istekla ili ju je onemogućio Microsoft, odnosno ako ste je otkazali usred trajanja pretplate, možete ponovo da je aktivirate u Microsoft 365 centru administracije.
 
-1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru aktivnosti idite na stranicu  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi pronađite pretplatu koju želite ponovo da aktivirate. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Ponovo aktiviraj ovu pretplatu.**
 3. U **oknu Ponovo aktiviraj ovu pretplatu** izaberite način plaćanja sa padajuće liste ili izaberite stavku **Dodaj način plaćanja.**
 4. Izaberite **Sačuvaj**.
 
-Dodatne informacije potražite u članku [Ponovno aktiviranje pretplate](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Dodatne informacije potražite u članku [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktiviranje nove pretplate pomoću šifre proizvoda**
 
-- Da biste aktivirali novu Microsoft 365 sa šifrom proizvoda, pogledajte gde [da unesete šifru Kancelarija proizvoda.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
-- Unesite Microsoft 365 šifru proizvoda i pratite korake za aktivaciju pretplate. Ako imate problema sa aktivacijom, pogledajte ovu [listu najčešćih grešaka i rešenja za šifru proizvoda](/microsoft-365/commerce/product-key-errors-and-solutions).
+- Da biste aktivirali novu Microsoft 365 sa šifrom proizvoda, pogledajte gde možete da [unesete šifru Kancelarija proizvoda.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Unesite Microsoft 365 šifru proizvoda i pratite korake za aktivaciju pretplate. Ako imate problema sa aktivacijom, pogledajte ovu [listu najčešćih grešaka i rešenja za šifru proizvoda](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
