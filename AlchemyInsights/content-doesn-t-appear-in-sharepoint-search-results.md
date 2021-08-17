@@ -1,5 +1,5 @@
 ---
-title: Sadržaj se ne pojavljuje u SharePoint rezultatima pretrage
+title: Sadržaj se ne pojavljuje u rezultatima SharePoint pretrage
 ms.author: tlarsen
 author: tklarsen
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: a57711434d653f5d5667776916c9251bba2370e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca03c31def64e43935d734a17735b10373e5ca85b5f4ea0f0e886b9ea39884cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081624"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Sadržaj se ne pojavljuje u SharePoint rezultatima pretrage
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Sadržaj se ne pojavljuje u rezultatima SharePoint pretrage
 
-Slijedite ove korake za rešavanje problema kada se očekivani sadržaj ne pojavljuje u rezultatima pretrage:
+Pratite ove korake za rešavanje problema kada se očekivani sadržaj ne pojavi u rezultatima pretrage:
   
-1. Potvrdite da je **lokacija** koja sadrži očekivani sadržaj podešena da omogući da se sadržaj pojavi u rezultatima pretrage. Slijedite korake u programu [Prikaži sadržaj na sajtu u rezultatima pretrage](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Proverite da li **je lokacija** koja sadrži očekivani sadržaj podešena da dozvoli pojavljivanje sadržaja u rezultatima pretrage. Pratite korake u [okviru Prikazivanje sadržaja na lokaciji u rezultatima pretrage.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)
 
-2. Potvrdite da je **Lista** ili **Biblioteka** koja sadrži očekivani sadržaj podešena tako da omogući da se sadržaj pojavi u rezultatima pretrage. Slijedite korake u [članku prikazivanje sadržaja iz lista ili biblioteka u rezultatima pretrage](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Proverite da **li je lista** ili **biblioteka** koja sadrži očekivani sadržaj podešena da dozvoljava pojavljivanje sadržaja u rezultatima pretrage. Pratite korake iz [stavke Prikazivanje sadržaja sa lista ili iz biblioteka u rezultatima pretrage.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)
 
-3. Potvrdite da se stranica, dokument ili prilagođeni raspored na stranici objavljuje kao **glavna verzija.** Sledi treći broj u [tražanju ne vraća sve rezultate u usluzi SharePoint online](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Proverite da li je stranica, dokument ili prilagođeni raspored stranice objavljen kao **Glavna verzija.** Pratite 3. korak [u pretrazi ne vraća sve rezultate u e-SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=874525)
 
-4. Proverite da li korisnik ima **dozvole** za prikaz sadržaja. Slijedite korake u [razumevanju nivoa dozvola u sistemu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Proverite da li **korisnik ima dozvole** za prikazivanje sadržaja. Pratite korake u [temi Razumevanje nivoa dozvola u SharePoint.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
     
-5. Ako je šema pretrage promenjena tako što ćete dodati novo upravljano vlasništvo, uređivanjem upravljanog vlasništva ili uklanjanjem kontrolisanog polja, moraćete da zahtevate popisivanje i ponovno indeksiranje. **Ponovno indeksiranje** sadržaja tako što ćete pratiti korake u [ručno zahtevanje popisivanja i ponovno indeksiranje sajta, biblioteke ili liste](https://docs.microsoft.com/sharepoint/crawl-site-content). Ovo može potrajati, sačekati 24 časa pre nego što ponovo proveravate rezultate.
+5. Ako je šema pretrage promenjena dodavanjem novog upravljanog svojstva, uređivanjem upravljanog svojstva ili uklanjanjem upravljanog svojstva, zahtevanjem popisivanja i ponovnog indeksiranje će biti neophodno. **Ponovo indeksiranje** sadržaja prateći korake u okviru Ručno zahtevanje popisivanja i ponovo [indeksiranje lokacije, biblioteke ili liste.](https://docs.microsoft.com/sharepoint/crawl-site-content) Ovo može da potrajati neko vreme, sačekajte 24 časa pre nego što ponovo proverite rezultate.
 
-Više informacija potražite u članku [Omogućavanje pretraživanja sadržaja na sajtu](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Više informacija potražite u [temi Omogućavanje pretraživanja sadržaja na lokaciji.](https://docs.microsoft.com/sharepoint/make-site-content-searchable) 
   

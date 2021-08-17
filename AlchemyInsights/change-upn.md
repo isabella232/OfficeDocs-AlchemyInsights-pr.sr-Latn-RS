@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082416"
 ---
 # <a name="change-a-users-email-address"></a>Promena adrese e-pošte korisnika
 
 Promena nečije adrese e-pošte je laka! Samo sledite ove korake:
   
-1. U Microsoft 365 centru aktivnosti idite [](https://go.microsoft.com/fwlink/p/?linkid=834822) na stranicu Korisnici ili odaberite stavku Korisnici **aktivni** \> **korisnici.**
+1. U prozoru Microsoft 365 centar administracije stranicu Korisnici [ili](https://go.microsoft.com/fwlink/p/?linkid=834822) odaberite stavku Korisnici **aktivni** \> **korisnici.**
     
 2. Izaberite korisnika.
     

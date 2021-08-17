@@ -15,22 +15,22 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502406"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893069"
 ---
 # <a name="billing-and-payment"></a>Naplata i plaćanje
 
-Račune možete pronaći na **kartici Računi**  >  [& plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Podrazumevano su prikazana poslednja 3 meseca faktura.  Da biste prikazali starije fakture, prilagodite filter.  Kliknite na **vezu Preuzmi fakturu u PDF-u** da biste prikazali fakturu.
+Račune možete pronaći na kartici **Naplata**  >  [& plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Podrazumevano su prikazana poslednja 3 meseca faktura.  Da biste prikazali starije fakture, prilagodite filter.  Kliknite na **vezu Preuzmi fakturu u PDF-u** da biste prikazali fakturu.
 
 **Prijem faktura putem e-pošte**
 
 Na stranici **Obaveštenja o** naplati možete da uključite ovu funkciju i upravljate korisnicima koji će primiti fakturu kao prilog  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212)  e-poruke. Faktura će biti poslata na e-adrese korisnika sa liste primalaca obaveštenja. Lista uključuje sve naplate i globalne administacije.  Možete da upravljate ko dobija obaveštenja o fakturi tako što ćete promeniti ulogu.  Uklanjanje globalne uloge ili uloge globalnog administraatora naplate uklanja tog korisnika sa liste primalaca, a dodavanje globalne uloge ili uloge administraatora naplate će dodati korisnika na listu primalaca.
 
-Naznaka: Primićete dve zasebne e-poruke: jednu koja vas saopštava da je račun spreman, sa uputstvima da se prijavite u centar **podrške** da biste ga prikazali i drugu koja sadrži izvod o naplati u prilogu.
+Naznaka: Primićete dve zasebne e-poruke: jednu koja vas saopštava da je račun spreman, sa uputstvima da se prijavite u centar **podrške** kako biste ga prikazali i drugu koja sadrži izvod o naplati u prilogu.
 
 **Plaćanje**
 
@@ -38,7 +38,7 @@ Ako plaćate kreditnom karticom ili računom u banci, način plaćanja povezan s
 
 Ako ste dodali novu karticu, a i dalje dobijate obaveštenje o odbijanju na staroj kreditnoj kartici, možda ćete morati da povežete tu novu karticu sa pretplatom.
 
-1. U centru za administaciju idite na **stranicu** Računi  >  **& stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru aktivnosti idite na stranicu Naplata &  >  **stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Izaberite red načina plaćanja koji treba zameniti. U desnom oknu navedeni su svi profili naplate i pojedinačne pretplate koje koriste izabrani način plaćanja.
 
@@ -55,10 +55,10 @@ Ako ste dodali novu karticu, a i dalje dobijate obaveštenje o odbijanju na star
 
 7. Novi način plaćanja je već izabran na padajućim listi. Izaberite **stavku Zameni**.
 
-Da biste saznali više, pogledajte [upravljanje načinima plaćanja.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Da biste saznali više, pogledajte [upravljanje načinima plaćanja.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Učestalost naplate**
 
 Računi se generišu na mesečnom ili godišnjem nivou u zavisnosti od učestalosti naplate koju ste odabrali za odjavu.  
 
-**Na primer: Porudžbine** sa godišnjom naplatom mogu da dobiju račun sredinom perioda ako su napravljene promene, kao što su dodavanje ili uklanjanje licenci. [Promenite učestalost naplate](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Na primer: Porudžbine** sa godišnjom naplatom mogu da dobiju račun sredinom perioda ako su napravljene promene, kao što su dodavanje ili uklanjanje licenci. [Promenite učestalost naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

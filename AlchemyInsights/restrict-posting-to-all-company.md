@@ -1,5 +1,5 @@
 ---
-title: Ograničavanje knjiženja na celo preduzeće
+title: Ograničavanje objavljivanja na nalogu "Sve preduzeće"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9667"
-ms.openlocfilehash: eb7db65b163bec39a5186bc3e2339ff8a2960deb
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 8329b94e6496b8ae408ec157446333b486e25496d4c83abaf62bd22b9f8a1f3c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109326"
 ---
-# <a name="restrict-posting-to-all-company"></a>Ograničavanje knjiženja na celo preduzeće
+# <a name="restrict-posting-to-all-company"></a>Ograničavanje objavljivanja na nalogu "Sve preduzeće"
 
-Moguće je [ograničavanje svih poruka preduzeća u usluzi Yammer](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) pomoću dostupnog administratora. Korisnici će i dalje moći da odgovore na niti koje je pokrenuo administratori, osim ako administratori eksplicitno [zatvore razgovore](https://support.microsoft.com/office/pin-close-and-report-conversations-in-yammer-62a5fbc2-ff1b-4418-9334-d2b4b17062cb). Trenutno nije moguće ograničiti objavljivanje u drugim Yammer zajednicama.
+Moguće je [ograničiti sve objave preduzeća u Yammer](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) pomoću postavke dostupne za sve preduzeća. Korisnici će i dalje moći da odgovore na niti koje su započeli administranici osim ako administratovanici ne zatvore [razgovore.](https://support.microsoft.com/office/pin-close-and-report-conversations-in-yammer-62a5fbc2-ff1b-4418-9334-d2b4b17062cb) Trenutno nije moguće ograničiti objavljivanje u drugim Yammer zajednicama.

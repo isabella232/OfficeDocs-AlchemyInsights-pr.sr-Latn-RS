@@ -1,5 +1,5 @@
 ---
-title: Saznajte više o Microsoft Defender za krajnju tačku
+title: Saznajte više o Microsoft zaštitniku za krajnje tačke
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2b2a425904c63ea627332c36d67cc2b902571ee3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 891ed9f226cfab2882554e68c24f675c11f54c1aea2802f3851d42630af80df8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081912"
 ---
-# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Saznajte više o Microsoft Defender za krajnju tačku
+# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Saznajte više o Microsoft zaštitniku za krajnje tačke
 
-Microsoft zaštitnik za krajnju tačku je platforma dizajnirana da pomogne preduzećima da spreče, otkriju, istražuju i reaguju na napredne pretnje.
+Microsoft zaštitnik za krajnju tačku je platforma dizajnirana da pomogne poslovnim mrežama da sprečavaju i otkrivaju, istražuju i odgovaraju na napredne pretnje.
 
-- Microsoft Defender za Office 365 i Microsoft Defender za krajnju tačku pružaju jasne mogućnosti:
-  - **Zaštitnik za Office 365** nadgleda e-poruke, zajedno sa svakodnevnim alatkama za saradnju, na primer SharePoint, jednu disk jedinicu i timove.
-  - **Zaštitnik za krajnju tačku** štiti uređaje povezane sa krajnjim tačkama i pomaže pri identifikovanju napada koji se nalaze pored odbrambene odbrane.
-- Da biste saznali više o odbrani za krajnju tačku ili pokrenuli besplatnu probnu verziju, pogledajte [Microsoft Defender za krajnju tačku](https://go.microsoft.com/fwlink/?linkid=2094113).
+- Microsoft zaštitnik za Office 365 i Microsoft zaštitnik za krajnje tačke nude različite mogućnosti:
+  - **Zaštitnik za Office 365** nadgleda e-poruke, zajedno sa alatkama za svakodnevnu saradnju kao što su SharePoint, One Drive i Teams.
+  - **Zaštitnik za krajnje tačke** štiti uređaje povezane sa krajnjim tačkama i pomaže u identifikovanju napada koji prođu pored odbrane od kršenja.
+- Da biste saznali više o zaštitniku za krajnju tačku ili započnite besplatnu probnu članak [Microsoft zaštitnik za krajnju tačku.](https://go.microsoft.com/fwlink/?linkid=2094113)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311413"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892881"
 ---
 # <a name="view-all-quarantined-messages"></a>Prikaz svih poruka u karantinu
 
-1. Na portalu Microsoft 365 zaštitnik , idite <https://security.microsoft.com> na **E-& Pregled saradnje** \> **u** \> **karantin**.
+1. Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na **E-& Pregled saradnje** \> **u** \> **karantinu**.
 
    Da biste prešli direktno na **stranicu Karantin,** koristite <https://security.microsoft.com/quarantine> .
 
@@ -32,4 +32,4 @@ ms.locfileid: "58311413"
 Više informacija potražite u sledećim člancima:
 
 - [Pronađite i otpustite poruke u karantinu kao korisnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
-- [Upravljanje porukama i datotekama u karantinu kao admin](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+- [Upravljanje porukama i datotekama u karantinu kao administentima](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
