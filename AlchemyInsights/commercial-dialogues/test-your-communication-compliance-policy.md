@@ -1,5 +1,5 @@
 ---
-title: Testiranje smernica usaglašenosti komunikacije
+title: Testiranje smernica za usaglašenost komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: fba853749d98eb556395c7133555c0b04044c88c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e03f594bde1e12fb606cdb5f51fd98ff028f1a311d901e9f10241b027231c371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081516"
 ---
-# <a name="test-your-communication-compliance-policy"></a>Testiranje smernica usaglašenosti komunikacije
+# <a name="test-your-communication-compliance-policy"></a>Testiranje smernica za usaglašenost komunikacije
 
-Ovaj stepenik je opcionalan. Kada kreirate smernice za usaglašenost sa komunikacijom, preporučuje se da je testirate kako biste se uverili da se uslovi koje ste definisali ispravno primenjuju po smernicama.
+Ovaj korak je opcionalan. Kada kreirate smernice za usaglašenost komunikacije, dobra ideja je da ih testirate da biste se uverili da se uslovi koje ste definisali ispravno primenjeni smernicama.
 
-Možda ćete želeti da [testirate smernice za sprečavanje gubitka podataka (DLP)](https://go.microsoft.com/fwlink/?linkid=2110890) ako smernice za usaglašenost sa komunikacijom uključuje osetljive tipove informacija.
+Smernice za sprečavanje gubitka podataka [(DLP)](https://go.microsoft.com/fwlink/?linkid=2110890) možete da testirate i ako smernice za usaglašenost komunikacije sadrže osetljive tipove informacija.
 
-Da biste saznali kako, pogledajte članak [testiranje smernica usaglašenosti komunikacije](https://go.microsoft.com/fwlink/?linkid=2111304).
+Da biste saznali kako, pogledajte [testiranje smernica za usaglašenost komunikacije.](https://go.microsoft.com/fwlink/?linkid=2111304)

@@ -1,5 +1,5 @@
 ---
-title: Saveti o ponovnom pozivanju poruka
+title: Saveti o opozivu poruka
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081480"
 ---
-# <a name="tips-about-recalling-messages"></a>Saveti o ponovnom pozivanju poruka
+# <a name="tips-about-recalling-messages"></a>Saveti o opozivu poruka
 
-Evo kada možete i ne možete da opozovete poruke:
+Evo kad možete i ne možete da opozvane poruke:
 
-* Kao administrator, možete da opozovete poruke u ime korisnika pomoću programa PowerShell. Ne možete da opozovete poruke iz centra administracije.
-* Možete da opozovete poruke koje se šalju osobama u vašoj organizaciji. Ako je poruka poslata na gmail adresu, na primer, ne možete da je opozovete.
-* **Možete samo da opozovete poruke poslate iz programa Outlook 2016 za računar**. Ako korisnik pošalje poruku pomoću programa Outlook za Mac ili Outlook na vebu, ne možete da ga opozovete.
+* Kao korisnik, možete da opozvane poruke u ime korisnika tako što ćete koristiti PowerShell. Poruke iz centra za adminise ne možete da opozvane.
+* Možete da opozovite samo poruke koje su poslate ljudima u vašoj organizaciji. Na primer, ako je poruka poslata na Gmail adresu, ne možete da je se setite.
+* **Možete da opozvane samo poruke poslate sa Outlook 2016 sa računara.** Ako korisnik pošalje poruku pomoću programa Outlook za Mac ili Outlook na vebu, ne možete da je opozovete.

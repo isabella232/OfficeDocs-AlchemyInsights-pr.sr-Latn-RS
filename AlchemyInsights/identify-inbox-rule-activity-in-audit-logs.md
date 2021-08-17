@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976879"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891309"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifikovanje aktivnosti pravila prijemnog poštanskog sandučeta u evidencijama nadzora
 
-Pretragu evidencije nadzora možete da koristite u Microsoft 365 centru za bezbednost & za usaglašenost da biste prikazali događaje pravila prijemnog poštanskog sandučeta (kreiranje, izmenu i brisanje pravila prijemnog poštanskog sandučeta).
+Možete da koristite pretragu evidencije nadzora u Microsoft 365 centar za usaglašenost za prikaz događaja pravila prijemnog poštanskog sandučeta (kreiranje, menjanje i brisanje pravila prijemnog poštanskog sandučeta).
 
-1. Prijavite se u Microsoft 365 [za usaglašenost.](https://protection.office.com/)
+1. Uradite nešto od sledećeg:
+   - Na Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na Nadzor . Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://security.microsoft.com/auditlogsearch> .
 
-2. Idite na stranicu  >  **Pretraga evidencije nadzora pretrage.**
+2. Na **kartici Pretraga** na **stranici** Nadzor konfigurišite sledeće postavke:
+   - **Opseg datuma i vremena:** Izaberite opseg datum/vreme u pocima **Početak** **i** Kraj.
+   - **Aktivnosti:** Izaberite jednu ili više od sledećih vrednosti:
+     - **New-InboxRule Kreiranje pravila prijemnog poštanskog sandučeta od Outlook Web App**
+     - **Set-InboxRule Izmeni pravilo iz Outlook Web App**.
+     - **Ažuriranje pravila za prijemno poštansko sanduče Outlook klijenta**
 
-3. Izaberite opseg datuma u poljima **Datum početka** i **Datum završetka.**
+3. Kada završite, kliknite na dugme **Pretraži**. Aktivnosti se pojavljuju na novoj stranici **Pretraga nadzora.**
 
-4. U **Exchange** aktivnosti poštanskog sandučeta  proverite da li je polje Aktivnosti postavljeno na Opciju Novo prijemno poštansko **sandučeRule Kreiranje/izmena/omogućavanje/onemogućavanje pravila prijemnog poštanskog sandučeta.**
+4. Izaberite aktivnost u rezultatima da biste otvorili letak sa detaljima. Informacije o postavkama pravila prijemnog poštanskog sandučeta prikazuju se u **polju Parametri.**
 
-5. Izaberite **stavku Pretraga**.
-
-U rezultatima izaberite zapis nadzora. U iletu detalja izaberite stavku **Još informacija.** Informacije o postavkama pravila prijemnog poštanskog sandučeta prikazuju se u polju **Parametri.**
-
-Dodatne informacije potražite u [temi "Odlučivanje da li je korisnik napravio pravilo prijemnog poštanskog sandučeta"](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Dodatne informacije potražite u [temi Odlučivanje o tome da li je korisnik napravio pravilo prijemnog poštanskog sandučeta.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)
