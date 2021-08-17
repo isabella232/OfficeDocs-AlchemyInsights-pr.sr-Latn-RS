@@ -1,5 +1,5 @@
 ---
-title: Windows autopilot i Surface X pro uređaji
+title: Windows Autopilot i Surface X Pro uređaje
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047414"
 ---
-# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows autopilot i Surface X pro uređaji
+# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Autopilot i Surface X Pro uređaje
 
-Windows Autopilot je tehnologija raspoređivanja na osnovu oblaka u operativnom sistemu Windows 10. Možete da koristite Windows autopilot da biste daljinsko rasporedili i konfigurisali uređaje direktno iz polja. Windows autopilot – upravljački uređaji su identifikovani preko interneta u prvom pokretanju putem jedinstvenog potpisa uređaja koji se zove hash hash sistema. Oni su konfigurisani pomoću modernih rešenja za upravljanje, kao što je Azure Active Directory (Azure AD) i Microsoft Intune.
+Windows Autopilot je tehnologija primene zasnovana na tehnologiji oblaka u Windows 10. Možete da koristite funkciju Windows Autopilot da biste daljinski primenili i konfigurisali uređaje odmah. Windows Uređaji registrovani na autopilot uređajima identifikovani su preko interneta pri prvom pokretanju putem jedinstvenog potpisa uređaja koji se zove hash hardvera. Oni su konfigurisani pomoću modernih rešenja za upravljanje, kao što Azure Active Directory (Azure AD) i Microsoft Intune.
 
-Uređaji se mogu direktno isporučivati korisnicima. Ovaj proces uklanja ponovno fotografisanje tokom raspoređivanja, što vam omogućava da primenite nove, agilne metode upravljanja uređajima i distribucije.
+Uređaji se mogu isporučiti direktno korisnicima. Ovaj proces eliminiše reimovanje tokom primene, što vam znači da primenite nove, agilne metode upravljanja uređajima i distribucije.
 
-Da biste saznali više, pogledajte članak [Windows autopilot i Surface uređaji](https://go.microsoft.com/fwlink/?linkid=2135712).
+Da biste saznali više, [pogledajte Windows Autopilot i Surface uređaje.](https://go.microsoft.com/fwlink/?linkid=2135712)

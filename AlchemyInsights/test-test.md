@@ -1,5 +1,5 @@
 ---
-title: Nedostaje uslovi iz prodavnice termina za usluge SharePoint online
+title: Uslovi koji nedostaju u SharePoint skladištu termina na mreži
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106440"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Omogućavanje BitLocker šifrovanja pomoću Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Omogućavanje BitLocker šifrovanja pomoću funkcije Intune
 
-Smernice zaštite krajnjih tačaka mogu se koristiti za Konfigurisanje postavki usluge šifrovanje Boitlocker za Windows uređaje kao što je opisano u: Windows10 (i novije) postavkama da bi se zaštitili uređaji pomoću funkcije Intune
+Intune smernice za zaštitu krajnje tačke mogu da se koriste za konfigurisanje Postavki Boitlocker šifrovanja za Windows uređaje kao što je opisano u: Windows10 (i kasnijim) postavkama za zaštitu uređaja pomoću usluge Intune
 
-Trebalo bi da budete svesni da mnogi noviji uređaji koji koriste Windows 10 podržavaju BitLocker šifrovanje koji se pokreće bez aplikacije MDM smernica. Ovo može da utiče na primenu smernica ako su podrazumevane postavke podešene. Više detalja potražite u članku najčešća pitanja.
-
-
-Najčešća pitanja   p: koja izdanja operativnog sistema Windows podržavaju šifrovanje uređaja pomoću smernica za zaštitu krajnje tačke?
- A: postavke u smernicama za zaštitu krajnje tačke se sprovode pomoću BitLocker CSP.Ne mogu sva izdanja ili verzije operativnog sistema Windows da podrže BitLocker CSP. 
-      U ovom trenutku Windows izdanja: Enterprise; Podrška za edukaciju, mobilne uređaje i profesionalce (od 1809 ka ka njima) podržana je.
+Trebalo bi da imate na umu da mnogi noviji uređaji Windows 10 podržavaju automatsko bitlocker šifrovanje koje se pokreće bez primene MDM smernica. Ovo može da utiče na aplikaciju smernica ako su konfigurisane postavke koje nisu podrazumevane. Više detalja pročitajte u temi "Pitanja i o e-pošti".
 
 
-
-
-Q: ako je uređaj već šifrovan pomoću usluge OS BitLocker pomoću podrazumevanih postavki OS za šifrovanje i jačine šifrovanja (XTS-AES-128) primeniće se smernice sa drugim postavkama automatski pokrenuti šifrovanje disk jedinice sa novim postavkama?
-
-O: Ne. Da biste primenili nove postavke šifrovanja, disk mora biti dešifruo.
-
-Napomena za uređaje koji se upisuju sa Autoautopilot automatskim šifriranjem koji bi se dogodio tokom OOBE nije aktiviran dok se ne proceni da se smernice zasnovane na smernicama koriste umesto podrazumevanih vrednosti OS
+Najčešća pitanja Q: Koja izdanja sistema Windows podržavaju šifrovanje uređaja pomoću smernica za zaštitu krajnje tačke?
+O: Postavke u Intune smernicama za zaštitu krajnje tačke primenjuju se pomoću Bitlocker CSP datoteke.  Ne podržavaju sva izdanja i Windows Bitlocker CSP. U ovom trenutku Windows izdanja: Enterprise; Podržani su Education, Mobile, Mobile Enterprise i Professional (od revizacije 1809 pa na dalje).
 
 
 
 
-Ako je uređaj šifrovan kao rezultat aplikacije "Intune", da li će biti dešifrovana kada se ta smernica ukloni?
+P: Ako je uređaj već šifrovan pomoću funkcije BitLocker pomoću podrazumevanih postavki OS-a za metod šifrovanja i jačinu šifrovanja (XTS-AES-128) primeniće smernice sa različitim postavkama automatski će aktivirati ponovo šifrovanje disk jedinice pomoću novih postavki?
 
-A: uklanjanje povezanih smernica za šifrovanje ne prouzrokuje dešifrovanje diskova koje su konfigurisane.
+O: Ne. Da biste primenili nove postavke šifrovanja, disk jedinica prvo mora da bude dešifrena.
+
+Natpis Za uređaje koji su upisani sa funkcijom Autopilot, automatsko šifrovanje do kojeg bi dolazilo tokom korišćenja programa OOBE ne pokreće se dok se ne procene Intune smernice koje dozvoljavaju da se postavke zasnovane na smernicama koriste na mestu podrazumevanih postavki OS-a
 
 
 
 
-P: Zašto smernice za usaglašenost sa Intune prikazuju da moj uređaj nema "omogućen je BitLocker omogućen", ali da li je?
+Q Ako je uređaj šifrovan kao rezultat primene Intune smernica, da li će se dešifrovati kada se te smernice uklone?
 
-A: postavka "omogućena za BitLocker omogućeno" u Intune smernicama za usaglašenost koristi Windows uređaj za zdravstvenu proveru (DHA). Ovaj klijent Meri samo stanje uređaja u vreme pokretanja. Ako uređaj nije ponovljen od kada je BitLocker šifrovanje dovršen, funkcija DHA klijent neće prijaviti BitLocker kao aktivni.
+O: Uklanjanje smernica koje se odnose na šifrovanje NE rezultira dešifrovanjem disk jedinica koje su konfigurisane.
+
+
+
+
+P: Zašto intune smernice za usaglašenost pokazuju da moj uređaj nema omogućen BitLocker, ali jeste?
+
+O: Postavka "BitLocker je omogućen" u intune smernicama za usaglašenost koristi Windows Atestation health Device Health Attestation (DHA) klijenta. Ovaj klijent meri samo stanje uređaja pri pokretanju. Dakle, ako uređaj nije ponovo aktiviran pošto je bitLocker šifrovanje dovršeno, DHA usluga klijenta neće prijaviti bitLocker kao aktivan.
