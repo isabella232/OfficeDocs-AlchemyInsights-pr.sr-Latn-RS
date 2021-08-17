@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045146"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311413"
 ---
 # <a name="view-all-quarantined-messages"></a>Prikaz svih poruka u karantinu
 
-1. U centru za administaciju idite u centar za & [za bezbednost.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Idite na **pregled karantina**  >  **za upravljanje**  >  **pretnjama**.
+1. Na portalu Microsoft 365 zaštitnik , idite <https://security.microsoft.com> na **E-& Pregled saradnje** \> **u** \> **karantin**.
+
+   Da biste prešli direktno na **stranicu Karantin,** koristite <https://security.microsoft.com/quarantine> .
+
+2. Na stranici **Karantin potvrdite** da je izabrana **kartica** e-pošte.
 3. Poruke se podrazumevano sortiraju od najnovijih ka najstarijim na osnovu datuma kada je poruka primljena. Možete da sortirate po polju tako što ćete kliknuti na zaglavlje.
 4. Masovne operacije možete da vršite samo za do 100 stavki, tako da filtriranje može i da smanji skup rezultata ako imate više od 100 stavki.
+
+Više informacija potražite u sledećim člancima:
+
+- [Pronađite i otpustite poruke u karantinu kao korisnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Upravljanje porukama i datotekama u karantinu kao admin](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

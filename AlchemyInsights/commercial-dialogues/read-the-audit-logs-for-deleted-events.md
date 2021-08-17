@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967347"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896029"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Čitanje evidencija nadzora za izbrisane događaje
 
 Evo kako to da uradite:
 
-1. Idite u Office 365 [centra za & usaglašenost.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Izaberite **pretraga**  >  [**evidencije nadzora pretrage**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Uradite nešto od sledećeg:
+   - Na Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na Nadzor . Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Ako vidite obaveštenje da morate da uključite funkciju, uključite je odmah. Ako funkcija nije uključena, rezultati pretrage neće moći da povlače podatke iz prethodnih datuma.
-1. Izaberite **stavku Aktivnosti**, a zatim Exchange **aktivnosti poštanskog sandučeta**. Izaberite opcije **"Izbrisane poruke" iz fascikle "Izbrisane stavke"** i **"Premeštene poruke u fasciklu "Izbrisane** stavke". Kada završite, kliknite izvan okna da biste umanjili **okno Aktivnosti.**
-1. Navedite opseg datuma, a zatim **u** polju Korisnici izaberite korisničko ime za korisnika koje želite da istražite. Možete da izaberete više korisnika istovremeno.
-1. Izaberite **stavku Pretraga**. Aktivnosti se pojavljuju u okviru **Rezultati.**
-1. Da biste prikazali detalje, izaberite aktivnost, a zatim izaberite **stavku Više informacija.** Dodatne informacije o izbrisanoj stavci, kao što su red za temu i lokacija stavke kada je izbrisana, prikazuju se u polju Ugrožene **stavke.**
-    > [!NOTE]
-    > Nije moguće vratiti izbrisane stavke pomoću funkcije evidencije nadzora. Da biste vratili izbrisane stavke, pogledajte [oporavak izbrisanih stavki ili e-pošte u Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-Da biste saznali više, pogledajte [pretragu evidencije Office 365 nadzora da biste rešili uobičajene scenarije.](https://go.microsoft.com/fwlink/?linkid=2103944)
+2. Na **kartici Pretraga** na **stranici** Nadzor konfigurišite sledeće postavke:
+   - **Opseg datuma i vremena:** Izaberite opseg datum/vreme u pocima **Početak** **i** Kraj.
+   - **Aktivnosti:** Unesite **Exchange poštanskog sandučeta,** a zatim izaberite sledeće vrednosti:
+     - **Izbrisane poruke iz fascikle "Izbrisane stavke"**
+     - **Premeštene poruke u fasciklu "Izbrisane stavke"**
+
+       Kada završite, kliknite izvan okna da biste umanjili **okno Aktivnosti.**
+
+   - **Korisnici:** Prihvatite praznu podrazumevanu vrednost da biste vratili rezultate za sve korisnike ili unesite jednog korisnika ili više njih.
+
+3. Kada završite, kliknite na dugme **Pretraži**. Aktivnosti se pojavljuju na novoj stranici **Pretraga nadzora.**
+
+4. Izaberite aktivnost u rezultatima da biste otvorili letak sa detaljima. Dodatne informacije o izbrisanoj stavci, kao što su red za temu i lokacija stavke kada je izbrisana, prikazuju se u polju Ugrožene **stavke.**
+
+   > [!NOTE]
+   > Nije moguće vratiti izbrisane stavke pomoću funkcije evidencije nadzora. Da biste vratili izbrisane stavke, pogledajte [oporavak izbrisanih e-poruka u Outlook na vebu.](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+
+Više informacija potražite u video zapisu [Pretraga evidencije nadzora da biste istražili uobičajene probleme sa podrškom.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

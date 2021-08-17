@@ -12,18 +12,18 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52853883"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311305"
 ---
 # <a name="information-about-gdpr"></a>Informacije o GDPR-u
 
-- [GDPR pojednostavljeni: Vodič za malo preduzeće](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [GDPR pojednostavljeni: Vodič za malo preduzeće](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Prvi koraci se sa [Portalom za pouzdanu uslugu.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Prvi koraci se sa Portalom [za pouzdanu uslugu.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
 - Za sve što se odnosi **na ugovor o obradi** podataka (DPA), pregledajte:
 
@@ -31,7 +31,7 @@ ms.locfileid: "52853883"
 
   - [Izveštaji o nadzoru](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informacije **o zahtevima za temu** podataka (DSR) – ovde su otkrivanje, pristup, otkrivanje, ograničavanje, brisanje, [izvoz.](/microsoft-365/compliance/gdpr-dsr-office365)
+- Informacije **o zahtevima za temu** podataka (DSR) – ovde su otkrivanje, pristup, otkrivanje, ograničavanje, brisanje, [izvoz.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
 - Informacije o **obaveštenju o kršenju podataka** su [ovde.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 

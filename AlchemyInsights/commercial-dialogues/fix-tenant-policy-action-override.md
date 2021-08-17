@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748990"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896089"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Popravka smernica zakupca (zamena radnje)
 
-Smernice za borbu protiv bezvredne pošte u zakupcu su pogođene ovom porukom. Da biste pregledali smernice, uradite sledeće:
+Jedna od smernica za borbu protiv spam-pošte uticala je na ovu poruku. Da biste pregledali smernice, uradite sledeće:
 
-1. Idite na [Office 365 Security & centar za usaglašenost](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim idite na smernice **za upravljanje pretnjama** za  >    >  [borbu protiv bezvredne pošte](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Potvrdite izbor u polju za proveru da li **izvor smernica** ukazuje na sledeće:  **Add-Xzaglavlje/ModifySubject/preusmeri/Izbriši/bez radnje/Bcc poruka**
+1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnje od pravila za borbu protiv pošte u odeljku \>  \>  \>  Smernice. 
 
-    Ako je tako, na kartici **Prilagođeno** potvrdite postavke smernica koje utiču na poruku. Moguće je da su **standardne postavke** koje su primene na sve korisnike Exchange online zaštitnog klijenta pogođene porukom.
+   Da biste prešli direktno na **stranicu Smernice za borbu protiv spam e-pošti,** koristite <https://security.microsoft.com/antispam> .
 
-Više informacija o konfigurisanju smernica za filtriranje bezvredne pošte potražite u članku [Konfigurisanje smernica za filtriranje bezvredne pošte](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Na stranici **Smernice** za borbu protiv bezedne e-pošti izaberite smernicu tako  što ćete kliknuti na ime smernice **(Tip** je Prilagođena smernica za borbu protiv bezalalne **e-pošti** ili "Ime" je smernica za dolaznu vezu bez-e-pošti **(Podrazumevano)**).
+3. U iletu detalja koji se pojavljuje izaberite stavku **Uredi radnje** u **odeljku Radnje.**
+4. U  odeljku Radnje poruke pregledajte verifikacije za bezžeznu e-pošte, Bez-pošte velike pouzdanosti **,** Phishing i **Phishing** velike pouzdanosti da biste videli da li je izabrana neka od sledećih vrednosti: 
+   - **Dodavanje X-zaglavlja**
+   - **Otvaranje reda za temu unapred sa tekstom**
+   - **Preusmeravaj poruku na e-adresu**
+   - **Brisanje poruke**
+   - **Nijedna radnja**
+
+   Moguće je da su standardne postavke **primenjene** na sve Exchange Online Protection na poruke.
+
+Dodatne informacije potražite u [temi Konfigurisanje smernica za borbu protiv spam eOP-a u programu EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

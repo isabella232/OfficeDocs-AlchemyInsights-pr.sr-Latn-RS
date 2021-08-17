@@ -15,18 +15,18 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500030"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895505"
 ---
 # <a name="change-payment-method"></a>Promena načina plaćanja
 
 Način plaćanja možete da promenite **iz** Microsoft 365 centar administracije.
   
-1. U centru za administaciju idite na **stranicu** Računi  >  **& stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru aktivnosti idite na stranicu Naplata &  >  **stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 2. Izaberite red načina plaćanja koji treba zameniti. U desnom oknu navedeni su svi profili naplate i pojedinačne pretplate koje koriste izabrani način plaćanja.
 3. U desnom oknu izaberite stavku **Zameni način plaćanja za sve stavke**.
 4. Da biste koristili postojeći način plaćanja, odaberite jedan sa padajuće liste, a zatim izaberite **stavku Zameni**.
@@ -36,6 +36,6 @@ Način plaćanja možete da promenite **iz** Microsoft 365 centar administracije
 6. U oknu **Dodavanje načina plaćanja** unesite informacije o računu, a zatim izaberite **sačuvaj**. Morate da koristite način plaćanja iz iste zemlje u kojoj ste i zakuca.
 7. Novi način plaćanja je već izabran na padajućim listi. Izaberite **stavku Zameni**.
 
-Da biste saznali kako da dodate, ažurirate, zamenite ili izbrišete načine plaćanja, pogledajte upravljanje [načinima plaćanja.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Da biste saznali kako da dodate, ažurirate, zamenite ili izbrišete načine plaćanja, pogledajte upravljanje [načinima plaćanja.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Da biste saznali kako da se menjate između načina plaćanja, [pogledajte kako da platite pretplatu.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Da biste saznali kako da se menjate između načina plaćanja, [pogledajte kako da platite pretplatu.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
