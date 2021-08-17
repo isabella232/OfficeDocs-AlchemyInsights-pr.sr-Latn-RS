@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: f094d5fec9c85a7db0a3757177c3866f25e7b2227b05a41bcd554b1dda092517
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077406"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889740"
 ---
 # <a name="need-help-with-email-quarantine"></a>Da li vam je potrebna pomoć u karantinu za e-poštu?
 
-- Da **biste prikazali i objavili e-poruke** iz karantina, idite na stranicu Karantin u Office 365 centru za & za bezbednost i [usaglašenost.](https://protection.office.com/quarantine) Detaljna uputstva su [ovde.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)
-- Ako je poruka bila pogrešno u **karantinu (pozitivna na greškama),** kliknite na "Prijavite poruke korporaciji Microsoft na analizu" kada pronađete poruku na stranici karantina. 
-- Pronađite **razlog zbog kojeg je poruka bila u karantinu** u okviru polja "razlog iz karantina".
-- **Nedostaju e-poruke u karantinu?** Krajnji korisnici ne mogu da objave neke e-poruke u karantinu. To su verovatno poruke koje su klasifikovane kao phishing e-poruke visokog nivoa, malver ili putem prenosa. Administratori mogu da [pregledaju, izbrišu ili izbrišu ove poruke.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
+- Da biste kao krajnji korisnik prikazali i objavili e-poruke iz karantina,  idite na stranicu **karantin** na Microsoft 365 zaštitnik portalu Pregled karantina ili direktno na  \>  <https://security.microsoft.com/quarantine> . Detaljna uputstva možete da vidite u [karantinu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages)
+- Ako je poruka bila pogrešno u **karantinu (pozitivna na greškama),** izaberite poruku sa liste i kliknite na Prijavi poruke korporaciji Microsoft za **analizu.**
+- Pronađite **razlog zbog kojeg je poruka bila u karantinu** u polju razlog za **karantin.**
+- **E-poruka nedostaje u karantinu?** Krajnji korisnici ne mogu da prikaže ili objave neku e-poruku u karantinu. To su verovatno poruke koje su klasifikovane kao phishing velike pouzdannosti, malver ili pravilo za protok pošte (poznato i kao pravilo za prenos). Da bi ih izbrisali, mogu da izbrišu, izbrišu ili izbrišu te poruke. Dodatne informacije potražite u temi Upravljanje porukama i datotekama koje se karantin šalju [u karantin kao admin u EOP-u.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

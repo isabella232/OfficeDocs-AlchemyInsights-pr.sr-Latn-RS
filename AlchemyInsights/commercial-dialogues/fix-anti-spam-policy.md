@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898870"
 ---
 # <a name="fix-anti-spam-policy"></a>Popravljanje smernica za borbu protiv spam-a
 
-Ova poruka je uticala na prilagođene smernice za borbu protiv bezvredne pošte u zakupca. Da biste pregledali smernice, uradite sledeće:
+Jedna od smernica za borbu protiv spam-pošte uticala je na ovu poruku. Da biste pregledali smernice, uradite sledeće:
 
-1. Idite u Office 365 centar za [&](https://go.microsoft.com/fwlink/p/?linkid=2077143)usaglašenost, a zatim idite u centar za borbu protiv bezb.  >    >  [](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Na kartici **Prilagođeno** izaberite stavku Podrazumevana smernica **za filtriranje bez-pošte** ili bilo koje druge prilagođene smernice koje ste možda kreirali, a zatim izaberite stavku **Uredi smernice.**
-3. Razvijte opciju **Svojstva spam i** pregledajte postavke **Označi kao spam.**
+1. Na portalu Microsoft 365 zaštitnik, idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnje pravilima za borbu protiv \>  \>  \> **spama** u odeljku **Smernice.**
 
-Dodatne informacije o konfigurisanju smernica za filtriranje bez pošte potražite u temi Konfigurisanje postavki prilagođenih smernica [filtera bez pošte.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Da biste prešli direktno na **stranicu Smernice za borbu protiv spam e-pošti,** koristite <https://security.microsoft.com/antispam> .
+
+2. Na stranici **Smernice** za borbu protiv bezedne e-pošti izaberite smernicu tako  što ćete kliknuti na ime smernice **(Tip** je Prilagođena smernica za borbu protiv bezalalne **e-pošti** ili "Ime" je smernica za dolaznu vezu bez-e-pošti **(Podrazumevano)**).
+
+3. U iskačelom prozoru sa detaljima koji se pojavljuje  izaberite stavku Uredi prag bez-pošte i svojstva u  odeljku Prag masovne e-pošte & bez-pošte, izaberite stavku Uređivanje radnji **i** redigovanje postavki Označi kao bezednu poštu. 
+
+Dodatne informacije potražite u [temi Konfigurisanje smernica za borbu protiv spam eOP-a u programu EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

@@ -1,5 +1,5 @@
 ---
-title: Vraćanje SharePoint osnovne lokacije u prethodno stanje
+title: Vraćanje SharePoint na osnovnu lokaciju
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: fd0d3858cd073ab6f5dbfdd8b1f24adde37f8146
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 7793e28fbf17efbfa72da9bcb0a06f094b90b041f65aa500b9ab85010c234a02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109614"
 ---
-# <a name="restore-the-sharepoint-root-site"></a>Vraćanje SharePoint osnovne lokacije u prethodno stanje
+# <a name="restore-the-sharepoint-root-site"></a>Vraćanje SharePoint na osnovnu lokaciju
 
-Vraćanje izbrisane osnovne lokacije iz novog SharePoint centra administratora. Kada se vratite u prethodno stanje, zamenite lokaciju.
+Vraćanje izbrisanog osnovnog sajta iz SharePoint centra za administratore. Kada se vratite u prethodno stanje, zamenite lokaciju.
 
 1. Idite na [stranicu Izbrisani sajtovi.](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) 
 2. Izaberite osnovnu lokaciju koju treba vratiti u prethodno stanje.

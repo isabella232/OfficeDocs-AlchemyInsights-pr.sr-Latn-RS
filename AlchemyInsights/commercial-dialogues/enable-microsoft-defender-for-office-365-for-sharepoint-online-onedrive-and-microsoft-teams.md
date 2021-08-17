@@ -1,5 +1,5 @@
 ---
-title: Omogućavanje Microsoft zaštitnika za Office 365 za SharePoint online, OneDrive i Microsoft timove
+title: Omogućite Microsoft zaštitnik za Office 365 za SharePoint Mreži, OneDrive i Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1c29afdcc52e7032fea22d698371677918665fa9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058880"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Omogućavanje Microsoft zaštitnika za Office 365 za SharePoint online, OneDrive i Microsoft timove
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Omogućite Microsoft zaštitnik za Office 365 za SharePoint Mreži, OneDrive i Microsoft Teams
 
-1. Korišćenje globalnih administratora ili akreditiva administracije, prijavite se u [Office 365 centar za bezbednost i usaglašenost](https://protection.office.com/).
-2. Izaberite stavku **Upravljanje pretnjama** u levom oknu, a **zatim izaberite stavku**  >  [sigurnosni prilozi](https://protection.office.com/safeattachment).
-3. Izaberite stavku **Uključi Microsoft Defender za Office 365 za SharePoint, OneDrive i Microsoft timove**, a zatim izaberite stavku **Sačuvaj**.
+1. Prijavite se u Office 365 centar za bezbednost i usaglašenost pomoću akreditiva globalnog ili [bezbednosnog administatora.](https://protection.office.com/)
+2. Izaberite **stavku Upravljanje pretnjama** u levom oknu, a zatim **izaberite stavku**  >  [Smernice Sef priloge.](https://protection.office.com/safeattachment)
+3. Izaberite **stavku Uključi Microsoft zaštitnik za Office 365 za SharePoint, OneDrive i Microsoft Teams ,** a zatim izaberite stavku **Sačuvaj**.
     > [!TIP]
     >
-    > - Kao globalni administrator ili SharePoint online administrator, na sledećoj PowerShell cmdlet sajtu izaberite stavku *tačno*:  [setu-spojstanar](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Podešavanje upozorenja za otkrivene datoteke](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > - Kao globalni ili SharePoint na mreži, pokrenite sledeći PowerShell cmdlet sa **DisallowInfectedFileDownload** parametar postavljenim na *vrednost true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
+    > - [Podešavanje obaveštenja za otkrivene datoteke](https://go.microsoft.com/fwlink/?linkid=2092110)
 
-Više informacija potražite u članku [Microsoft zaštitnik za Office 365 za SharePoint, OneDrive i Microsoft timove](https://go.microsoft.com/fwlink/?linkid=2092041).
+Dodatne informacije potražite u [članku Microsoft Office 365 za SharePoint, OneDrive i Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
