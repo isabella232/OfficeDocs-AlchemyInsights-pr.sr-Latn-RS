@@ -1,5 +1,5 @@
 ---
-title: Problemi sa SSO adresom
+title: Problemi sa SSO URL adresom
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7812"
-ms.openlocfilehash: 7ab8c9f64e376218ca6c76056952f8f835f699ac
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 2ebad785eb966e822d7dfedbaaa0e37c6d6acb2e4aff12e1c4f85c5cc481bd65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049988"
 ---
-# <a name="sso-url-issues"></a>Problemi sa SSO adresom
+# <a name="sso-url-issues"></a>Problemi sa SSO URL adresom
 
-1. [User-generiši SSO URL](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) – preuzima URL iz preusmeravanja sa simbolom potvrde identiteta za potpisivanje datog korisnika na portal za projektovanje.
-2. Obratite pažnju na [probleme kada kliknete na hipervezu ka SSO Veb lokaciji u dokumentu](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) ako se preusmerate na stranicu za prijavljivanje ili na stranicu sa greškama ili će vam biti zatražene informacije o potvrdi identiteta kada kliknete na HIPERVEZU ka SSO Veb lokaciji u Office dokumentu.
-3. Navedite [Ovaj članak](https://docs.microsoft.com/azure/active-directory/develop/reply-url) za listu PREUSMERAVANJA Uri (URL adresa) ograničenja i ograničenja.
+1. [Korisnik – Generiši SSO URL](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) – Preuzima URL preusmeravanja koji sadrži token potvrde identiteta za potpisivanje datog korisnika na portalu za projektante.
+2. Pogledajte problemi kada kliknete na hipervezu ka [SSO](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) veb lokaciji u dokumentu ako ste preusmereni na stranicu za prijavljivanje ili na stranicu sa greškom ili ako budete upitani za informacije o potvrdi identiteta kada kliknete na hipervezu ka SSO veb lokaciji u Kancelarija dokumentu.
+3. Pogledajte [ovaj članak](https://docs.microsoft.com/azure/active-directory/develop/reply-url) za listu ograničenja i ograničenja URI preusmeravanja URI-ja (URL adrese odgovora).

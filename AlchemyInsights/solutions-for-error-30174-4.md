@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050168"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Kôd greške 30174-4 prilikom instaliranja sistema Office
+# <a name="error-code-30174-4-when-installing-office"></a>Kôd greške 30174-4 prilikom instaliranja programa Kancelarija
 
-Možda ćete videti ovu grešku ako antivirusni softver, zaštitni zid, postavke proxy servera ili veza sprečavaju da instalirate Office. Evo nekih stvari koje možete da pokušate da biste rešili problem.
+Možda ćete videti ovu grešku ako vas antivirusni softver, zaštitni zid ili proxy postavke sprečavaju da instalirate Kancelarija. Evo nekih stvari koje možete pokušati da biste rešili problem.
   
-- Korišćenje žične veze
+- Korišćenje žičane veze
 
-- Privremeno isključivanje Proxy postavki
+- Privremeno isključivanje proxy postavki
 
 - Privremeno isključivanje antivirusnog softvera
 
-[Kôd greške 30174-4 prilikom instaliranja sistema Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Kôd greške 30174-4 prilikom instaliranja programa Kancelarija](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   
