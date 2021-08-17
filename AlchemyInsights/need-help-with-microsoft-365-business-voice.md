@@ -1,5 +1,5 @@
 ---
-title: Potrebna vam je pomoć za Microsoft 365 Business Premium Voice?
+title: Potrebna vam je pomoć oko Microsoft 365 Business Premium glasom?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f8b02eb71adf56fe221d9ae7e9ace4c3566da0bdc03a93698746e938a36a283
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077268"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Potrebna vam je pomoć za Microsoft 365 Business Premium Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Potrebna vam je pomoć oko Microsoft 365 Business Premium glasom?
 
-Microsoft 365 Business Premium Voice olakšava malim i srednjim organizacijama da pretstave Microsoft Teams u moćni i fleksibilni telefonski sistem. Više informacija o poslovnom glasu potražite u [članku Šta je to Microsoft 365 Business Premium glas?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Glas olakšava malim i srednjim organizacijama da Microsoft Teams u moćni i fleksibilni telefonski sistem. Više informacija o poslovnom govoru potražite u [temi Šta je Microsoft 365 Business Premium glas?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Ako ste već nabavili Microsoft 365 Business [](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) Premium Voice, čarobnjak Prvi koraci može da vam pomogne da počnete sa radom. 
+Ako ste već nabavili Microsoft 365 Business Premium Glas, čarobnjak ["Prvi](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) koraci" može vam pomoći da počnete sa radom. 

@@ -1,5 +1,5 @@
 ---
-title: Rešavanje problema sa proverom identiteta toka
+title: Rešavanje problema Flow potvrde identiteta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3c4ad806ed446803d8c1e0ba17b3a06d591985d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e56325a2ff49e46779f0389592f8b429f38e66a9a8b74c1e84742768ce25437
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105834"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Rešavanje problema sa proverom identiteta toka
+# <a name="troubleshoot-flow-authentication-errors"></a>Rešavanje problema Flow potvrde identiteta
 
-U mnogim slučajevima protok ne radi zbog greške potvrde identiteta. Ako imate ovaj tip greške, poruka o grešci sadrži "neovlašćeno" ili kôd greške 401 ili 403. Možete da popravite grešku potvrde identiteta tako što ćete ažurirati vezu:
+U mnogim slučajevima toci ne uspevaju zbog greške pri potvrdi identiteta. Ako imate ovaj tip greške, pojavljuje se poruka o grešci koja sadrži tekst "Neovlašćeno" ili se pojavljuje kôd greške 401 ili 403. Grešku potvrde identiteta obično možete da ispravite tako što ćete ažurirani vezu:
   
-1. Na vrhu veb portala kliknite ili dodirnite ikonu zupčanika da biste otvorili meni postavke, a zatim izaberite ili dodirnite stavku **veze**.
+1. Na vrhu veb portala kliknite na ikonu zupčanika ili je dodirnite da biste otvorili Postavke, a zatim izaberite ili **dodirnite stavku Veze.**
     
-2. Pomerajte se do veze za koju ste videli neovlašćenu poruku o grešci.
+2. Pomerite se do veze za koju ste videli poruku o grešci "Neovlašćeno".
     
-3. Pored veze, kliknite ili dodirnite vezu **verifikovanja lozinke** u poruci o grešci koja nije autentični. 
+3. Pored veze kliknite na vezu  Verifikuj lozinku ili je dodirnite u poruci o tome da se ne potvrđuje identitet veze. 
     
-4. Verifikujte akreditive tako što ćete slediti uputstva koja se pojavljuju, vratite se na otkazivanje protoka, a zatim kliknite na dugme **ponovo prosledi**.
+4. Verifikujte akreditre tako što ćete slediti uputstva koja se pojave, vratiti se na neuspešno pokretanje toka, a zatim izaberite ili dodirnite stavku Ponovo **podnoži**.
     
-Dodatne pomoći potražite u članku [Rešavanje problema sa protokom](https://go.microsoft.com/fwlink/?linkid=872110).
+Dodatnu pomoć možete da vidite u [odeljku Rešavanje problema sa tokom.](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

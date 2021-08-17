@@ -1,5 +1,5 @@
 ---
-title: 1490-rešavanje problema – otkazivanje
+title: 1490-rešavanje problema-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105582"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Rešavanje problema sa pretraživanjem sadržaja
+# <a name="troubleshoot-content-search-errors"></a>Rešavanje problema sa greškama u pretrazi sadržaja
 
-Da li nailazite na probleme prilikom pretraživanja sadržaja ili neuspeha kada izvezete rezultate pretrage?
+Da li nailazite na probleme sa pretragom sadržaja ili nailazite na neuspeh prilikom izvoza rezultata pretrage?
 
-Na primer, da li primate sledeće prilikom pokretanja pretraga?
+Na primer, da li dobijate sledeće prilikom pretraživanja?
 
 - CS008 ili CS012 greške
 
-- Greške na serveru/vremensko ograničenje
+- Greške zauzetosti/vremenskog perioda servera
 
-- Došlo je do greške prilikom aplikacije
+- Došlo je do greške u aplikaciji
 
-Ili kada pretražujete ili izvozite rezultate iz velikog broja poštanskih sandučića (preko 100.000 poštanskih sandučića), da li dobijate greške izvoza?
+Ili prilikom pretrage ili izvoza rezultata iz velikog broja poštannih sandučića (preko 100.000 poštanskog sandučića), dobijate greške u izvozu?
 
-Za ove tipove grešaka ponovo pokušajte da pronađete lokacije sadržaja koje nisu uspele. Više informacija potražite u  [članku ovaj članak](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+Za ove tipove grešaka, ponovo potražite lokacije sadržaja koje nisu uspele. Više  [informacija potražite u](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) ovom članku.
 
-Ako izvozite više od 100K poštanskih sandučića, moraćete da koristite sledeće PowerShell za preuzimanje rezultata izvoza:  [izvoz rezultata iz više od 100k poštanskih sandučića](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Ako izvozite više od 100K poštannih sandučića, biće potrebno da koristite sledeći PowerShell da biste preuzeli rezultate izvoza: Izvoz rezultata iz više od  [100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)poštannih sandučića.

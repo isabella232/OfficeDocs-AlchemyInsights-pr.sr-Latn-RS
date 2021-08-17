@@ -1,5 +1,5 @@
 ---
-title: Pozovite broj telefona u timovima
+title: Pozivanje broja telefona u Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046046"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Pozovite broj telefona u timovima
+# <a name="call-a-phone-number-in-teams"></a>Pozivanje broja telefona u Teams
 
-Idite na  **pozive**, izaberite stavku  **Biraj broj**i koristite tastaturu biranjem da biste uneli broj. Zatim kliknite na dugme  **Pozovi**.
+Idite na  **Pozivi**,  **izaberite Biranje broja** i koristite tastaturu telefona da biste uneli broj. Zatim kliknite  **na Pozovi**.
 
-Ako ne vidite opciju za pozivanje broja, vaš org možda nije kupio plan poziva. Ali i dalje možete da Pozivite druge ljude u timove.  
+Ako ne vidite opciju za pozivanje broja, vaša orgija možda nije kupila plan pozivanja. Ali i dalje možete da upućujete pozive drugim osobama u Teams.  
 
-Više informacija potražite u članku [poziv telefonom iz tima](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).
+Dodatne informacije potražite u [temi Pozivanje telefonskog broja sa Teams.](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)
