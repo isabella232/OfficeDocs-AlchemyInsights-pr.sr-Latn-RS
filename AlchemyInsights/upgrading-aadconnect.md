@@ -1,5 +1,5 @@
 ---
-title: 932 nadogradnja AADConnect
+title: 932 Nadogradnja AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104826"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Nadogradnja Azure AD Connect
+# <a name="upgrade-azure-ad-connect"></a>Nadogradnja Azure AD Povezivanje
 
-Automatski Nadogradnja je podrazumevano omogućena za Azure AD Connect što pomaže da se osigura da pokrećete najnoviju verziju. Da biste verifikovali postavke automatske nadogradnje, koristite cmdlet karticu " **Nabavite-Adsynkotouprazred** " u usluzi AZURE AD PowerShell. Cmdlet će vratiti jednu od sledećih vrednosti:
+Automatska nadogradnja je podrazumevano omogućena za Azure AD Povezivanje, što vam pomaže da se uverite da imate najnoviju verziju. Da biste proverili postavke automatske **nadogradnje, koristite Get-ADSyncAutoUpgrade** cmdlet u programu Azure AD PowerShell. Cmdlet će vratiti jednu od sledećih vrednosti:
 
-- **Omogućeno**: automatsko Nadogradnja je omogućena.
+- **Omogućeno:** Automatska nadogradnja je omogućena.
 
-- **Onemogući**: automatsko Nadogradnja je onemogućiti.
+- **Onemogućeno:** Automatska nadogradnja je onemogućena.
 
-- **Obustavljeno**: sistem više ne može da prima automatska nadogradnje. Ne možete da konfigurišete ovu vrednost; Podešava ga sistem.
+- **Obustavljen:** Sistem više ne ispunjava uslove za dobijanje automatskih nadogradnji. Ne možete da konfigurišete ovu vrednost; postavstavio je sistem.
 
-Više informacija potražite u članku [Automatska nadogradnja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Dodatne informacije potražite u [temi Automatska nadogradnja.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-Da biste preuzeli najnoviju verziju usluge Azure AD Connect, idite na [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Da biste preuzeli najnoviju verziju Azure AD Povezivanje, idite na [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

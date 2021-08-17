@@ -1,5 +1,5 @@
 ---
-title: Korišćenje Microsoft Intune za primenu usluge Microsoft Edge za Megos uređaj
+title: Korišćenje Microsoft Intune za primenu Microsoft Edge na macOS uređaj
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104394"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Korišćenje Microsoft Intune za primenu usluge Microsoft Edge za Megos uređaj
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>Korišćenje Microsoft Intune za primenu Microsoft Edge na macOS uređaj
 
-Da biste primenili, konfigurisali, nadgledali i zaštitili aplikaciju na macOS uređaju, morate da dodate aplikaciju u Microsoft Intune. Aplikacija mora da bude tip koji je podržan Intune i opcije upravljanja dostupne u Intune zavisiće od tipa aplikacije. Korišćenje Intune znači da nećete morati da koristite alatku za prelamanje macOS aplikacije.
+Da biste primenili, konfigurisali, nadgledali i zaštitili aplikaciju na macOS uređaju, morate da dodate aplikaciju na Microsoft Intune. Aplikacija mora da bude tipa koju podržava Intune, a opcije upravljanja dostupne u aplikaciji Intune zavise od tipa aplikacije. Ako koristite Intune, takođe, nećete morati da koristite alatku za prelamanje aplikacija za macOS.
 
-Intune podržava Microsoft Edge. Da biste saznali više, pogledajte članak [Dodavanje korporacije Microsoft Edge u macOS uređaje pomoću Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
+Intune podržava Microsoft Edge. Da biste saznali više, [pogledajte dodavanje Microsoft Edge na macOS uređaje pomoću Microsoft Intune.](https://go.microsoft.com/fwlink/?linkid=2134949)
