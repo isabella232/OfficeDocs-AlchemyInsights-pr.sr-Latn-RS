@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 9b819fdb9ec80f6bbe9e329280de239a0517038c52ab157867f3065505acca90
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503810"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891581"
 ---
 # <a name="change-how-often-you-pay"></a>Promenite koliko često plaćate
 
@@ -30,10 +30,10 @@ Da biste promenili učešće naplate i plaćanje pretplate, dovršite sledeće k
 
 1. Idite na **stranicu "Naplata**  >  [proizvoda".](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi izaberite pretplatu koju želite da promenite.
-3. Na stranici detalji o pretplati, u odeljku **Postavke** pretplate i plaćanja izaberite stavku Uredi **učestalost naplate.**
+3. Na stranici detalji o pretplati, u odeljku Postavke pretplate i **plaćanja** izaberite stavku **Uredi učestalost naplate.**
 4. U oknu **Uređivanje učestalosti naplate** odaberite opciju za učestalost naplate, a zatim izaberite **stavku Promeni**.
 
 > [!NOTE]
 > Jedine opcije su mesečna ili godišnja naplata.
 
-Više informacija potražite u članku [Promena učestalosti naplate](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+Više informacija potražite u članku [Promena učestalosti naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

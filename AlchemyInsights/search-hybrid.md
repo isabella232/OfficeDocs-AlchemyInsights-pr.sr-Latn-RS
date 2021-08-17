@@ -1,5 +1,5 @@
 ---
-title: Pretraga i hibridno
+title: Pretraga i hibrid
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: b7c837e1230e40077f997fcdea91fcf14e374998
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e04e1f6dd0d3be08f2698ddb907a5c58ee07e38f8403926188006f799537026
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109038"
 ---
-# <a name="search-and-hybrid"></a>Pretraga i hibridno
+# <a name="search-and-hybrid"></a>Pretraga i hibrid
 
-- Da li su vam potrebne informacije o hibridnu i Federaciji u usluzi SharePoint online? Ako je tako, pogledajte [Ovaj članak](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Da li su vam potrebne informacije o hibridnim i federanim pretragama u SharePoint Online? Ako je tako, pogledajte [ovaj članak.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
 
-- Da li su vam potrebne informacije o planiranju hibridne federalne pretrage?  Ako je tako, pogledajte [Ovaj članak](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- Da li su vam potrebne informacije o planiranju hibridne federane pretrage?  Ako je tako, pogledajte [ovaj članak.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
 
 
 
