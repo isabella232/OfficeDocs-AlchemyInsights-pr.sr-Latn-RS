@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929211"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893417"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Da li su korisnici dobili zlonamernu e-poštu?
 
-- Sada možete da prijavite zlonamernu e-poštu korporaciji Microsoft putem opcije [Prosleđivanja administratora u Centru za bezbednost i usaglašenost](https://sip.protection.office.com/reportsubmission).
+Sada možete prijaviti zlonamernu e-poštu korporaciji Microsoft [pomoću prosleđivanja na Microsoft 365 zaštitnik portalu.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-Poruke koje su prosleđene u [prosleđivanja administratora](https://sip.protection.office.com/reportsubmission) se skeniraju a sledeći rezultati se prikazuju u iskačućem prozoru **detalja**:
+Poruke koje se prosleđuju [u](https://security.microsoft.com/reportsubmission?viewid=admin) prosleđivanju zaduženja se skeniraju i sledeći rezultati prikazani u iskačenom prikazu detalja:
 
 - Ako je došlo do greške prilikom potvrde identiteta e-poruke pošiljaoca u vreme isporuke.
 - Informacije o broju pogodaka smernica koji su možda uticali na odluku o poruci ili su je zamenili.
@@ -39,9 +39,9 @@ Ako se ne složite sa konačnom odlukom o poruci, URL adresi ili datoteci (bloki
 U međuvremenu zlonamernu e-poruku možete da uklonite iz prijemnog sandučeta korisnika tako što ćete pratiti uputstvo iz [ovog članka](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - Klijenti sa uslugom Microsoft zaštitnik za Office 365 mogu da:
-    - koriste [Istraživač pretnji za pronalaženje i brisanje sumnjivih e-poruka](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [koriste bezbedne veze za blokiranje pristupa](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) zlonamernim URL adresama
-    - prate korisnike koji su kliknuli na zlonamernu URL adresu i pristupili joj: [Prikažite URL koji sadrži phishing i kliknite na podatke o odluci](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Preuzmi-praćenjeURL-a](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - ručno [pokrenu automatizovano ispitivanje](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Korišćenje programa [Threat Explorer za pronalaženje i brisanje sumnjive e-pošte](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Korišćenje Sef Links za blokiranje pristupa](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) zlonamernom URL-u
+  - Pratite korisnike koji su kliknuli na zlonamerne URL adrese i pristupili im: Prikažite [phishing URL](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)adresu i kliknite na verdim podacima  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Ručno pokretanje [automatizovanog istraživanja](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Takođe možete da se zaštitite od zlonamernih datoteka i URL adresa tako što ćete pratiti uputstvo u članku [Zaštita od zlonamernih URL adresa i datoteka](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).
