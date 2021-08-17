@@ -13,18 +13,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014914"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887514"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifikovanje IP adrese i klijenta u evidencijama nadzora
 
 IP adresa koja odgovara aktivnosti koju je Microsoft 365 ili administrator prikazala u evidencijama nadzora. Informacije o klijentu su takođe evidentirane. Evo koraka za identifikovanje takvih informacija
 
-1. Prijavite se u Microsoft 365 [za usaglašenost.](https://protection.office.com/)
+1. Prijavite se u [Microsoft 365 za usaglašenost.](https://protection.office.com/)
 
 2. Idite na stranicu  >  **Pretraga evidencije nadzora pretrage.**
 
@@ -36,4 +36,4 @@ IP adresa koja odgovara aktivnosti koju je Microsoft 365 ili administrator prika
 
 U rezultatima ćete videti IP adresu za tu aktivnost u oknu sa rezultatima. Izaberite zapis nadzora da biste  videli detaljne informacije u iskačenom delu Detalji (na primer, Klijent, Korisnik koji je izvršio radnju itd.).
 
-Više informacija potražite u temi [Pronalaženje IP adrese računara koji se koristi za pristup ugroženim nalogima.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+Više informacija potražite u temi [Pronalaženje IP adrese računara koji se koristi za pristup ugroženim nalogima.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

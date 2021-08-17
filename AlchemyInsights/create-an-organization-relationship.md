@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080364"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Kreiranje odnosa organizacije kako biste korisnicima omogućili saradnju sa drugom organizacijom
 
-1. Na microsoft 365 lokaciji za admin center da biste išli na **exchange server za administ** da biste  >  **išli** na exchange server.
+1. Na Microsoft 365 centar administracije tabli idite na Exchange   >  .
 2. Idite na deljenje **u**  >  **organizaciji**.
 3. U **okviru Deljenje organizacije** izaberite **stavku Novo** .
 4. U **novoj relacije organizacije**, u polju **Ime relacije** otkucajte prijateljsko ime za relaciju organizacije.
-5. U **polju** Domeni sa kojih se deli otkucajte domen za spoljnu Office 365 ili Exchange osnovnu organizaciju sa kojoj želite da vidite kalendare. Ako treba da unesete više domena, razdvojite imena domena za razdvajanje zamorom. Na primer, contoso.com, service.contoso.com.
+5. U polju Domeni **sa** kojih se deli otkucajte domen za spoljnu Office 365 ili Exchange za koju želite da vidite kalendare. Ako treba da unesete više domena, razdvojite imena domena za razdvajanje zamorom. Na primer, contoso.com, service.contoso.com.
 6. Potvrdite izbor **u polju za potvrdu Omogući deljenje informacija o zauzetosti** iz kalendara da biste uključili deljenje kalendara sa domenima koje ste naveli. Podesite nivo deljenja za informacije o zauzetosti iz kalendara i podesite koji korisnici mogu da dele informacije o zauzetosti iz kalendara.  
 
 Da biste podesili nivo pristupa zauzetosti, izaberite jednu od sledećih opcija:
