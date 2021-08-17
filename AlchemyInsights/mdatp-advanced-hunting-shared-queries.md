@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp napredni upiti deljenih upita
+title: 9001220 naprednog deljenog upita u potrazi za naprednim deljenim upitima
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48300042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042140"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Deljenje naprednih upita za lov
+# <a name="sharing-advanced-hunting-queries"></a>Deljenje naprednih upita za pretragu
 
-Napredni lovaиki upiti mogu da se dele između korisnika u istoj organizaciji. Upite takođe možete da pronađete javno deljene u programu GitHub. Ovi upiti vam dozvoljava da brzo pratite određene scenarije traganje po pretnjama bez potrebe da pišete upite iz početka.
+Napredni upiti za pretragu mogu da se dele među korisnicima u istoj organizaciji. Takođe možete da pronađete upite koji se javno dele GitHub. Ovi upiti vam da brzo uočite određene scenarije tražinja pretnji bez pisanja upita od početka.
   
-Detalje potražite u članku [Korišćenje deljenih upita u naprednom potrazi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Detalje možete da vidite u [temi Korišćenje deljenih upita u naprednom potragi.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)
