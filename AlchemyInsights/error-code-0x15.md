@@ -13,12 +13,12 @@ ms.custom:
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: Ako dobijate grešku prilikom aktivacije sistema Kancelarija 2013 u primenama usluge udaljene radne površine (RDS), razmotrite omogućavanje usluge ADAL tako što ćete urediti registrator.
-ms.openlocfilehash: 247686bf26c11d07ed118bdb1ba190fc718e87cf140b88f79b8aa0b40c827b4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ed3770c001461c162ff5bbe24dc400a29380a03b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100776"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316700"
 ---
 # <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Greška prilikom aktivacije Kancelarija 2013 u uslugama udaljene radne površine
 
@@ -30,6 +30,5 @@ Ako dobijate grešku prilikom aktivacije sistema Kancelarija 2013 u primenama us
 
 Više informacija potražite u [temi Omogućavanje moderne potvrde identiteta za Kancelarija 2013 na Windows uređajima.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
-> [!NOTE]
->  ADAL je podrazumevano omogućen u programima Microsoft 365 Apps za preduzeće i Kancelarija 2016. Usluge udaljene radne površine (RDS) su se ranije zvane Usluge terminala.
+**Napomi:** ADAL je podrazumevano omogućen u uslugama Microsoft 365 Apps za preduzeće i Kancelarija 2016. Usluge udaljene radne površine (RDS) su se ranije zvane Usluge terminala.
   

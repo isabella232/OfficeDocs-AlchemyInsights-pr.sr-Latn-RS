@@ -15,16 +15,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045906"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899554"
 ---
 # <a name="cancel-power-bi"></a>Otkazivanje power BI
 
-Power BI možete da otkažete u Microsoft 365 centar administracije.
+Power BI se može otkazati u Microsoft 365 centar administracije.
 
 1. U centru aktivnosti idite na stranicu Naplata > **[Stranicu Vaši proizvodi.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **kartici Proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
@@ -36,4 +36,4 @@ Power BI možete da otkažete u Microsoft 365 centar administracije.
 > [!NOTE]
 > Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U **odeljku Postavke pretplate i plaćanja izaberite** stavku **Otkaži pretplatu.**
 
-Da biste saznali više, [pogledajte otkazivanje pretplate.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Da biste saznali više, [pogledajte otkazivanje pretplate.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

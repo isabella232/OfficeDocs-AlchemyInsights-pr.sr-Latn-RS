@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899346"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316372"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Upozorenje e-poruka iz smernica "Phish Delivered due to zakupca ili user override"
 
-Podrazumevana smernica za obaveštenja po imenu **Phish Delivered** zbog zamene zakupca ili korisnika dostupna je u organizacijama koje imaju licence za microsoft zaštitnik za licence za Office 365 P1 i P2. Ako ste dobili ovo obaveštenje, evo koraka koje treba da istražite:
+Podrazumevana smernica za obaveštenja koja se zove **Phish Delivered** zbog zamene zakupca ili korisnika dostupna je u organizacijama koje imaju licence za programe Microsoft zaštitnik za licence za Office 365 P1 i P2. Ako ste dobili ovo obaveštenje, evo koraka koje treba da istražite:
 
 1. U poruci upozorenja izaberite **stavku Prikaži obaveštenje** da biste **prešli** na stranicu Obaveštenja na Microsoft 365 zaštitnik portalu.
 
-2. Izaberite obaveštenje da biste videli opciju Prikaži **listu poruka ili Prikaži** poruke u **programu Explorer.** Obe ove opcije će vas odvesti do detalja poruke koja sadrži ID poruke. Imajte u toga da će veza "Istraživač pretnji" automatski filtrirati poruke koje odgovaraju kriterijumu obaveštenja. Možda ćete morati da prilagodite filter datuma u programu Threat Explorer.
+2. Izaberite obaveštenje da biste videli opciju Prikaži **listu poruka ili Prikaži** poruke u **programu Explorer.** Obe ove opcije će vas odvesti do detalja poruke koja sadrži ID poruke. Imajte napom da će veza "Istraživač pretnji" automatski filtrirati poruke koje ispunjavaju kriterijume upozorenja. Možda ćete morati da prilagodite filter datuma u programu Threat Explorer.
 
 Phishing poruka je isporučena zbog ručno konfigurisane zamene:
 
