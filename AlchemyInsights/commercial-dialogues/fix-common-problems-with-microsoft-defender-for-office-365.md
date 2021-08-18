@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898258"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330074"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Rešavanje uobičajenih problema sa programom Microsoft zaštitnik za Office 365
 
@@ -25,7 +25,7 @@ Evo nekih rešenja za uobičajene probleme sa programom Microsoft zaštitnik za 
 
 - **Kašnjenje poruke:**
 
-  Odlaganja u isporuci e-pošte mogu da izazovu skeniranje Sef priloga poruka. Dodatne informacije potražite u [Sef Postavki smernica za priloge.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Odlaganja u isporuci e-pošte mogu da izazovu skeniranje Sef priloga poruka. Dodatne informacije potražite u [Sef Postavki smernica priloga.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Prijava pozitivnih ili negativnih rezultata:**
 
@@ -33,7 +33,7 @@ Evo nekih rešenja za uobičajene probleme sa programom Microsoft zaštitnik za 
 
 - **Omogućavanje Sef za zaštitu veze:**
 
-  1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e&** Smernice za saradnju & Smernice za pretnju pravilima Sef Veze u odeljku \>  \>  \>  Smernice. 
+  1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e&** Smernice za saradnju & Smernice za pretnje pravila Sef Veze u odeljku \>  \>  \>  Smernice. 
 
      Da biste prešli direktno **na stranicu Sef Veze,** koristite <https://security.microsoft.com/safelinksv2> .
 

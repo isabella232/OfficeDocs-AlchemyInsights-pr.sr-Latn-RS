@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "491"
 - "1500032"
-ms.openlocfilehash: f7b3ed021960ec2bc4dd2b0cc6d89e0f70e5c9961a3ae48ef59a3f43994d8d04
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 4a2e35fd8fea0204c4902842f309b5236df160eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498950"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328636"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Pitanja o vašoj licenci Microsoft 365 licenci
 
 Koristite ove korake da biste pronašli koliko licenci ste kupili ili koliko licenci je dodeljeno iz pretplate.
   
-1. U centru za administaciju idite na **stranicu** \> **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru aktivnosti idite na  stranicu \> **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **kartici** Proizvodi pronađite pretplatu o koju želite da saznate više. Možete da vidite broj licenci koje plaćate i koliko ih je trenutno dodeljeno.
 
 Ako želite da dodate još licenci ili ako ih imate previše, izaberite pretplatu. Na stranici sa podacima  o pretplati  izaberite stavku Kupi licence ili Ukloni licence da biste prilagodili ukupan broj licenci za pretplatu.

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901750"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330186"
 ---
 # <a name="canceling-your-subscription"></a>Otkazuje pretplatu?
 
@@ -30,7 +30,6 @@ ms.locfileid: "57901750"
   
 **Refundnica: Bilo koji proporciran kredit će vam biti vraćen u sledećem ciklusu naplate.**
 
-> [!NOTE]
-> Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U **odeljku Postavke pretplate i plaćanja izaberite** stavku **Otkaži pretplatu.**
+**Natpis:** Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U **odeljku Postavke pretplate i plaćanja izaberite** stavku **Otkaži pretplatu.**
 
 Da biste saznali više, [pogledajte otkazivanje pretplate.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

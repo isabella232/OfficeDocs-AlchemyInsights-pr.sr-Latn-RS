@@ -16,16 +16,16 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 80b709c3474594858b3bc0e7104fdeb00343bee7cb2a5bdd414b791a1cb49564
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1cbd1e84557fcba3b5192ed06cd4b1162ba4e4ce
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899994"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330600"
 ---
 # <a name="view-my-bill-or-invoice"></a>Prikaz računa ili fakture
 
-1. Na kartici Microsoft 365 centar administracije **stranicu "Naplata** \> [& plaćanja".](https://go.microsoft.com/fwlink/p/?linkid=848039)
+1. Na kartici Microsoft 365 centar administracije stranici **Naplata** \> [i & plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
 2. Izaberite opseg datuma sa padajuće liste, a zatim odaberite redosled koji želite da prikažete.
 

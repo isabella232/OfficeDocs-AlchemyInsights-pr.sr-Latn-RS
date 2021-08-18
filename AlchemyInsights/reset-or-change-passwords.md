@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 859042d068da6410b6b46a90a14887949825567794361d262c190149530d708b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2e5f1a81aea51384a1e10a3b83f4cb59703c9ff0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898482"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328488"
 ---
 # <a name="reset-or-change-passwords"></a>Poništavanje ili promena lozinki
 
 Korisnik može da promeni svoju lozinku tako što će izabrati fotografiju korisnika ili inicijale > **Prikaži nalog.**
   
-Ako korisnik zaboravi lozinku, administuje lozinku, može da je poništi tako što će na korisnicima koji su aktivni korisnici izabrati korisnike i kliknuti na dugme  >  [](https://portal.office.com/adminportal/home#/users) **Poništi lozinku.**
+Ako korisnik zaboravi lozinku, administant može da poništi lozinku tako što će na korisnicima koji su aktivni korisnici izabrati korisnike i kliknuti na dugme  >  [](https://portal.office.com/adminportal/home#/users) **Poništi lozinku.**
   
 Da biste saznali više o lozinkama i dozvolili korisnicima da ponšaju svoje lozinke, pogledajte video [Poništavanje lozinki.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)

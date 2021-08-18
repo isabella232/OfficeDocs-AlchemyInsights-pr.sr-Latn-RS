@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085854"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328386"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versioning in SharePoint and OneDrive 
 
@@ -39,7 +39,6 @@ Dodatne informacije o izdavašcima potražite u člancima ispod.
 
 - [Ograničenja za verzije](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Ako ste korisnik Microsoft 365, kreiranje verzija je sada podrazumevano uključeno kada kreirate nove OneDrive for Business biblioteke i on će automatski sačuvati poslednjih 500 verzija dokumenta. To će vam pomoći da sprečite gubitak važnih dokumenata ili podataka. Ako imate postojeće biblioteke na OneDrive for Business lokaciji tima ili na lokaciji tima za koje nije omogućeno omogućavanje verzija, u bilo kom trenutku možete da ih uključite.
+**Nabrajanje:** Ako ste Microsoft 365, kreiranje verzija je sada podrazumevano uključeno kada kreirate nove OneDrive for Business biblioteke i automatski će sačuvati poslednjih 500 verzija dokumenta. To će vam pomoći da sprečite gubitak važnih dokumenata ili podataka. Ako imate postojeće biblioteke na OneDrive for Business lokaciji tima ili na lokaciji tima za koje nije omogućeno nije omogućeno verzijama, u bilo kom trenutku možete da uključite verzije za njih.
 
 

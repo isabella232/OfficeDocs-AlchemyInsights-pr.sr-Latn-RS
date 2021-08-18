@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090750"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329932"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Usaglašenost komunikacije u Microsoft 365
 
-Usaglašenost komunikacije je novo rešenje za usaglašenost Microsoft 365 koje organizacijama pomaže da ispunjavaju nadgledane zahteve za usaglašenost i umanjuju rizike u komunikaciji. Zasniva se na funkciji "Supervizija" i sadrži nova poboljšavanja, uključujući:
+Usaglašenost komunikacije je novo Microsoft 365 za usaglašenost koje organizacijama pomaže da ispunjavaju nadgledane zahteve za usaglašenost i smanjuju rizike u komunikaciji. Zasniva se na funkciji "Supervizija" i sadrži nova poboljšavanja, uključujući:
 
 - Inteligentni prilagodljivi predlošci
 - Fleksibilni tokovi posla za remediciju
@@ -41,7 +41,6 @@ Zahtevi licence: Korisnici koje nadgledaju smernice za komunikaciju moraju da im
 - Office 365 Enterprise E3 licenca sa dodatim dodatak Napredna usaglašenost
 - Office 365 Enterprise E5 pretplata
 
-Ako nemate ništa od navedenog, a želite da isprobate usaglašenost komunikacije, prijavite se za probnu Office 365 Enterprise **[E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Ako nemate ništa od navedenog i želite da isprobate usaglašenost komunikacije, prijavite se za probnu Office 365 Enterprise **[E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Može potrajati i do 24 časa da se e-poruke potpuno obrađuju u smernicama. Da bi komunikacije na Microsoft Teams, Yammer i nezavisnim platformama potpuno obrađile smernice, može da prouzuzmu i do 48 sati.
+**Napom:** Možda će proći i do 24 časa da bi e-poruke u potpunosti obrađene u smernicama. Da bi se smernice Microsoft Teams, Yammer i nezavisnim platformama potpuno obrade, komunikacije na platformama Yammer i nezavisnim stranama mogu potrajati i do 48 sati.

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8024"
 - "9004430"
-ms.openlocfilehash: ea38a6d4a093c3908b8987988746c2f49f052df320ca0a327446435389a90ce9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2b28a5cce29dd3956bb3891cae0f11d1c0fb874a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896205"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329136"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Korišćenje opcija komandne linije za konfigurisanje proxy postavki u Microsoft Edge
 
-U Microsoft Edge verzija 77 i novijim verzijama, mrežni stek podrazumevano koristi mrežne postavke sistema. U hibridnim scenarijima gde korisnici traže alternativu, Microsoft Edge podržava opcije komandne linije za konfigurisanje prilagođenih proxy postavki. 
+U Microsoft Edge verzijama 77 i novijim verzijama, mrežni stek podrazumevano koristi mrežne postavke sistema. U hibridnim scenarijima gde korisnici traže alternativu, Microsoft Edge podržava opcije komandne linije za konfigurisanje prilagođenih proxy postavki. 
 
 Detalje možete da vidite u:
 
