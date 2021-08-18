@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085890"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897810"
 ---
 # <a name="set-up-exchange-online-protection"></a>Podešavanje Exchange Online Protection
 
-Microsoft Exchange Online Zaštita (EOP) je usluga filtriranja e-pošte zasnovana na oblaku radi zaštite od bezvera i malvera, sa funkcijama radi zaštite organizacije od kršenja smernica za razmenu poruka.
+Microsoft Exchange Online Zaštita (EOP) je usluga filtriranja e-pošte zasnovana na oblaku radi zaštite od bezedne pošte, malvera i phofinga, sa funkcijama radi zaštite od kršenja smernica za razmenu poruka organizacije.
 
-Koristite [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) za podešavanje usluge EOP tako što biste izabrali jedan od tri scenarija primene – između tri scenarija primene – mešovitih poštanskih sandučića, hibridnih (mešavina iz mešovitih poštanskih sandučića i poštanskih sandučića u oblaku) ili svih poštanskih sandučića u oblaku – koji odgovaraju vašoj organizaciji. Vodič pruža informacije i resurse za podešavanje usluge EOP i pregled licenciranja korisnika, dodeljivanje dozvola u Microsoft 365 centar administracije, kao i za konfigurisanje smernica za borbu protiv malvera i bezvera u centru za & usaglašenost organizacije.
+Koristite vodič [Exchange Online Protection za podešavanje da](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) biste podesili EOP tako što će izabrati jedan od tri scenarija primene koji najbolje odgovaraju vašoj organizaciji:
+
+- Svimisleni poštanski sandučići.
+- Hibridni (mešavina poštannih sandučića u oblaku i prijemnih sandučića u oblaku)
+- Svi poštanski sandučići u oblaku – koji odgovaraju vašoj organizaciji.
+
+Vodič pruža informacije i resurse za podešavanje usluge EOP i pregled licenciranja korisnika, dodeljivanje dozvola u Microsoft 365 centar administracije i konfigurisanje bezbednosnih smernica organizacije.

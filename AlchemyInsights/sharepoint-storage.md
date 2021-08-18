@@ -13,28 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: a280059907e0f72c9cd5ae9a1940d14ac723a4e88b6ae703f74f8163244bdd17
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e7818d8d77efbf6d23fdefeadb3bdc99cc82a71db5cacd29741749fa74460a7a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910452"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897101"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Upravljanje skladištem SharePoint na mreži
 
-U većini organizacija, SharePoint skladištem se upravlja automatski, tako da ne morate da postavljate ograničenja po kolekciji lokacija. Dodatne informacije o tome kako se izračunava skladište zakuca na osnovu vašeg plana potražite u [temi Ograničenja po planu.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
+U većini organizacija, SharePoint skladištem se upravlja automatski, tako da ne morate da postavljate ograničenja po kolekciji lokacija. Dodatne informacije o tome kako se izračunava skladište zakuca na osnovu vašeg plana potražite u [temi Ograničenja po planu.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
 Za više informacija pogledajte:
 
-- [Upravljanje ograničenjima skladišta na lokaciji](/sharepoint/manage-site-collection-storage-limits)
+- [Upravljanje ograničenjima skladišta na lokaciji](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 
-- [Upravljanje pojedinačnim ograničenjima skladišta na lokaciji](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
+- [Upravljanje pojedinačnim ograničenjima skladišta na lokaciji](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Ako je na lokaciji malo prostora ili želite da saznate koja biblioteka ili lista utišava prostor, idite na lokaciju **Postavke**  >  **Metrika** skladišta (potrebne su administratorske dozvole kolekcije lokacija).
+Ako je lokaciji malo prostora ili želite da saznate koja biblioteka ili lista utišava prostor, idite na lokaciju **Postavke**  >  **Metrika** skladišta (potrebne su administratorske dozvole kolekcije lokacija).
 
 Za više informacija pogledajte:
 
-- [Nadgledanje ograničenja skladišta na lokaciji pomoću programa PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+- [Nadgledanje ograničenja skladišta na lokaciji pomoću programa PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
 
-- [Dodavanje prostora za skladištenje za pretplatu](/microsoft-365/commerce/add-storage-space) 
+- [Dodavanje prostora za skladištenje za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 
   

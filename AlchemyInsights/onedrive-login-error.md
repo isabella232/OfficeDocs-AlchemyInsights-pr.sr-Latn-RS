@@ -1,5 +1,5 @@
 ---
-title: Greška u OneDrive prijavljivanju AADSTS50011
+title: OneDrive greške pri prijavljivanju AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112926"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Greška u OneDrive prijavljivanju AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive greške pri prijavljivanju AADSTS50011
 
-Ako primite grešku "AADSTS50011: URL adresa odgovora navedena u zahtevu se ne podudara sa odgovorom" kada se prijavite u OneDrive aplikaciji, potražite sledeće:
+Ako dobijete grešku "AADSTS50011: URL odgovora naveden u zahtevu se ne podudara sa odgovorom" prilikom prijave u OneDrive aplikaciju, proverite sledeće:
 
-Vaša OneDrive verzija treba da bude jednaka ili veća od verzije 20.052. XXXX. XXXX. Da biste provjerili verziju, kliknite na ikonu Blue OneDrive na sistemskoj traci poslova, izaberite stavku **pomoć & postavkama > postavkama >**.
+Vaša OneDrive verzija mora da bude jednaka ili veća od verzije 20.052.XXXX.XXXX. Da biste proverili verziju, kliknite na plavu ikonu OneDrive na sistemskoj traci poslova, izaberite **stavku Pomoć & Postavke > Postavke > O**.
 
-Vaša mreža blokira saobraćaj na **g.live.com** i **oneclient.sfx.MS**. Ako je taj saobraćaj blokiran, OneDrive ne može sama da se ažurira. Radite sa administratorom mreže da biste se uverili da imate pristup tim URL adresama. [Ove krajnje tačke](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) treba da se pristupačnu za klijente pomoću Microsoft 365 planova.
+Mreža može da blokira saobraćaj za **g.live.com** i **oneclient.sfx.ms.** Ako je taj saobraćaj blokiran, možete OneDrive ažurirate samu sebe. Radite sa administratorom mreže da biste se uverili da imate pristup tim UL-ama. [Te krajnje tačke treba](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) da budu dostupne klijentima koji koriste Microsoft 365 planove.
 
-Ako treba da ručno nabavite trenutnu verziju usluge OneDrive, posetite [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Ako treba ručno da nabavite trenutnu verziju sistema OneDrive, posetite [https://aka.ms/getonedrive](https://aka.ms/getonedrive) lokaciju .

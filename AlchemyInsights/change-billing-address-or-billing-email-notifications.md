@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 2f1f907a23e0f65cf8c230c8cf27b671e681d92565fd83bb5d39ebf3c53ab9fd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504026"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897430"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Promena adrese za naplatu ili obaveštenja putem e-pošte za naplatu
 
@@ -33,7 +33,7 @@ ms.locfileid: "54504026"
 
 3. Na stranici Detalji **o načinu plaćanja** kliknite na dugme **Uredi.**
 
-4. Ažurirajte adresu faktura, a zatim **kliknite na sačuvaj > Gotovo**.
+4. Ažurirajte adresu faktura, a zatim **kliknite na dugme Sačuvaj > Gotovo**.
 
 **Promena alternativne adrese e-pošte na koju se šalju obaveštenja o naplati** 
 
@@ -45,4 +45,4 @@ ms.locfileid: "54504026"
 
 4. U polju **Alternativna adresa e-pošte** otkucajte alternativnu adresu e-pošte koju želite da koristite, a zatim kliknite na dugme **Sačuvaj**.
 
-Više informacija o promenama adrese i obaveštenja potražite u članku Promena adresa fakturiše [za Microsoft 365 za preduzeća.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Više informacija o promenama adrese i obaveštenja potražite u članku Promena adresa [fakturiše za Microsoft 365 za preduzeća.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
