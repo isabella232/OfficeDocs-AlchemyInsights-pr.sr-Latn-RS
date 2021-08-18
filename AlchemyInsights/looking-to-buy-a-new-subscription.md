@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895461"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326239"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Tražite da kupite novu pretplatu?
 
-Ako već imate pretplatu na Microsoft 365 za preduzeća i želite da kupite drugu pretplatu za organizaciju, idite na stranicu Usluge kupovine naplate da biste videli listu pretplata koje su dostupne vašoj  \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) organizaciji.
+Ako već imate pretplatu na Microsoft 365 za preduzeća i želite da kupite drugu pretplatu za organizaciju, idite na stranicu Usluge naplate kupovine da biste videli listu pretplata koje su dostupne vašoj  \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) organizaciji.
  
 1. Izaberite pretplatu koju želite, a zatim izaberite stavku **Kupi .**
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896089"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326811"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Popravka smernica zakupca (zamena radnje)
 
 Jedna od smernica za borbu protiv spam-pošte uticala je na ovu poruku. Da biste pregledali smernice, uradite sledeće:
 
-1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnje od pravila za borbu protiv pošte u odeljku \>  \>  \>  Smernice. 
+1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnju pravilima za borbu protiv \>  \>  \> **spama**  u odeljku Smernice.
 
    Da biste prešli direktno na **stranicu Smernice za borbu protiv spam e-pošti,** koristite <https://security.microsoft.com/antispam> .
 
@@ -36,6 +36,6 @@ Jedna od smernica za borbu protiv spam-pošte uticala je na ovu poruku. Da biste
    - **Brisanje poruke**
    - **Nijedna radnja**
 
-   Moguće je da su standardne postavke **primenjene** na sve Exchange Online Protection na poruke.
+   Moguće je da su standardne postavke **primenjene** na sve Exchange Online Protection su uticale na poruku.
 
 Dodatne informacije potražite u [temi Konfigurisanje smernica za borbu protiv spam eOP-a u programu EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

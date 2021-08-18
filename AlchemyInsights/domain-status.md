@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874409"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326591"
 ---
 # <a name="domain-status---no-services-selected"></a>Status domena – Nije izabrana nijedna usluga
 
-**Nijedna** usluga nije izabrana znači da niste izabrali nijednu Microsoft 365 usluge kao što su Exchange Online, Skype za posao ili Intune i Upravljanje mobilnim uređajima za Microsoft 365 koristite sa prilagođenim domenom. Ako koristite hibridnu uslugu Exchange (Exchange premeštene u uslugu Exchange Online) ili filtriranje spoljne bezbedne pošte sa uslugom Exchange i nijednom drugom Microsoft usluge, možete da zanemarite ovu poruku. Status zdravstvenog stanja domena dostupan je samo za domene koji su direktno povezani sa uslugom.
+**Nijedna** usluga nije izabrana znači da niste izabrali nijednu Microsoft 365 usluge kao što su Exchange Online, Skype za posao ili Intune i Upravljanje mobilnim uređajima za Microsoft 365 koristite sa prilagođenim domenom. Ako koristite hibridni Exchange (Exchange premešteni sa uslugom Exchange Online) ili filtriranje spoljne bezbedne pošte sa uslugom Exchange i nijednom drugom Microsoft usluge, možete da zanemarite ovu poruku. Status zdravstvenog stanja domena dostupan je samo za domene koji su direktno povezani sa uslugom.
 
 Da biste izabrali usluge za domen:
 

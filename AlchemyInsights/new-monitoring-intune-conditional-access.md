@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025516"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327571"
 ---
 # <a name="monitor-intune-conditional-access"></a>Nadgledanje Intune uslovnog pristupa
 
@@ -39,5 +39,4 @@ Korisnici na koje je usmeren uslovni pristup primiće e-poruku sa obaveštenjem 
 - [Smernice za rešavanje problema](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Nadgledanje usaglašenosti Intune uređaja](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> Ovi koraci su korisni samo za rešavanje problema Azure Active Directory uslovni pristup. Uređaj takođe može da karantin blokira pristup e-pošti pomoću Exchange smernica. Više informacija o upravljanju Exchange uređajima možete pronaći [**ovde.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+**Napoome:** Ovi koraci su korisni samo za rešavanje problema Azure Active Directory funkcije "Uslovni pristup". Uređaj takođe može da karantin blokira pristup e-pošti pomoću Exchange smernica. Više informacija o Exchange upravljanju uređajima možete pronaći [**ovde.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893209"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327535"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomver napad u SharePoint ili OneDrive
 
@@ -29,7 +29,7 @@ ms.locfileid: "57893209"
 
 3.  Da li na sve datoteke na vašem OneDrive Ili SharePoint na koje utiče Ransomver, Malware ili Crypto virus? 
 
-Odmah zaustavite/pauzirajte OneDrive Sinhronizaciju (ako ga ima) ili prekinite vezu prikaza Istraživača sa bibliotekom sa računara na koji to utiče (ako ga ima), a zatim možete da vratite celu OneDrive ili SharePoint biblioteku u prethodno stanje pomoću funkcije vraćanja datoteka u prethodno stanje. 
+Odmah zaustavite/pauzirajte OneDrive Sinhronizaciju (ako ga ima) ili prekinite vezu prikaza Programa Explorer sa bibliotekom sa računarom na koji to utiče (ako ga ima), a zatim možete da vratite celu OneDrive ili SharePoint biblioteku u prethodno stanje tako što ćete koristiti funkciju vraćanja datoteka u prethodno stanje. 
 
 Dodatne informacije o tome kako da je vratite u prethodno stanje potražite u:
 

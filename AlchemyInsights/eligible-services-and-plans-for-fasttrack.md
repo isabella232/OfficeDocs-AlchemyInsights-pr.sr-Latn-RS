@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4698a2eaaca196673dcf227405dcca1bfa441ea7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030250"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326555"
 ---
 # <a name="eligible-services-and-plans-for-fasttrack"></a>Usluge i planovi koji ispunjavaju uslove za FastTrack
 
-Uz pogodnost FastTrack centra za Office 365, sa fastTrack stručnjacima radite daljinski – bez dodatnih troškova – da biste pripremili Office 365 okruženje za upotrebu. FastTrack stručnjaci mogu da vam pomognu kada kupite najmanje 150 licenci.
+Uz pogodnost FastTrack za Office 365, sa stručnjacima za FastTrack radite daljinski – bez dodatnih troškova – da biste Office 365 okruženje spremni za korišćenje. FastTrack Stručnjaci mogu da vam pomognu kada kupite najmanje 150 licenci.
 
-Da biste zatražili pomoć preko FastTrack portala, prijavite se na [FastTrack portal](https://go.microsoft.com/fwlink/?linkid=2125443) i pratite korake da biste dovršili zahtev za pomoć oko **Microsoft 365 obrascu.**
+Da biste zatražili pomoć preko FastTrack portala, prijavite se na [FastTrack portalu](https://go.microsoft.com/fwlink/?linkid=2125443) i pratite korake da biste dovršili obrazac Zahtevanje **Microsoft 365** pomoći.
 
-> [!NOTE]
-> Ako imate problema sa prijavljivanjem ili vam je potrebna dodatna pomoć, pošaljite e-poruku na [adresu ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
+**Naznaka:** Ako imate problema sa prijavljivanjem ili vam je potrebna dodatna pomoć, pošaljite e-poruku [na adresu ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-Za različite industrije postoji mnoštvo planova koji ispunjavaju uslove za FastTrack, od poslovnih preduzeća do obrazovnih institucija.
+Postoji mnoštvo planova koji FastTrack ispunjavaju uslove za različite industrije, od poslovnih preduzeća do obrazovnih institucija.
 
 Da biste saznali više, pogledajte [Microsoft 365 uslove za planove.](https://go.microsoft.com/fwlink/?linkid=2125459)
 

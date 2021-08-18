@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003638"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326519"
 ---
 # <a name="e-mail-invoice---legacy"></a>Faktura putem e-pošte – zakasneli
 
 **Dajte sa sažetije sažetke za prijem faktura putem e-pošte**
 
-Morate imati ulogu adminimenata naloga za pretplatu ili plan podrške da biste se opredeili za dobijanje fakture putem e-pošte. Fakture e-pošte su dostupne samo za pretplate i planove podrške, ne i za rezervacije ili kupovine u prodavnici Azure Marketplace. Kada date sa slaganje, možete da dodate još primalaca koji će primiti fakturu i putem e-pošte.
+Morate imati ulogu adminimenata naloga za pretplatu ili plan podrške da biste se opredeili za dobijanje fakture putem e-pošte. Fakture e-pošte su dostupne samo za pretplate i planove podrške, ne za rezervacije ili kupovine u prodavnici Azure Marketplace. Kada date sa slaganje, možete da dodate još primalaca koji će primiti fakturu i putem e-pošte.
 
 Pratite ove korake da biste nabavili fakture za pretplatu e-poštom:
 
@@ -49,8 +49,7 @@ Da biste omogućili korisnicima/grupama sa pristupom na nivou pretplate da preuz
 1. Prijavite se na [Azure portal](https://portal.azure.com/) kao administ za nalog za pretplatu.
 2. Potražite **Upravljanje cenom + Naplata**.
 3. Izaberite **stavku Fakture** iz opcija sa leve strane.
-4. Izaberite vašu Azure pretplatu, a zatim izaberite stavku Dozvoli **drugima da preuzmu fakturu.**
+4. Izaberite vašu Azure pretplatu, a zatim izaberite stavku **Dozvoli drugima da preuzmu fakturu.**
 5. Izaberite **stavku** Na, **a zatim** stavku Sačuvaj na vrhu stranice.
 
-> [!NOTE]
-Ako niste administrator naloga, obratite se administratoru naloga da biste pratili gorenavedna uputstva da biste dali satu, dodali primaoce ili dozvolili drugim korisnicima da preuzmu fakturu.
+**Napomila:** Ako niste administrator naloga, obratite se administratoru naloga da biste pratili gorenavedena uputstva da biste dali satu, dodali primaoce ili dozvolili drugim korisnicima da preuzmu fakturu.

@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501002"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327265"
 ---
 # <a name="trying-to-find-a-trial"></a>Pokušavate da pronađete probnu?
 
@@ -29,11 +29,10 @@ Ako želite da isprobate novu uslugu, možete da pronađete listu pretplata dost
   
 1. U centru za administaciju idite na **stranicu** \> [Kupovina usluga naplate.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Izaberite pretplatu koja ispunjava vaše potrebe, a zatim izaberite stavku Nabavi  **besplatnu probnu opciju**.
+2. Izaberite pretplatu koja ispunjava vaše potrebe, a zatim izaberite stavku Nabavi **besplatnu probnu pretplatu.**
 
-    > [!NOTE]
-    > Nisu sve pretplate dostupne kao probna period. Ako ne vidite dugme "Nabavi besplatnu **probnu** pretplatu" kada preskočite miš preko pretplate, to znači da probna slika nije dostupna.
+    **Napomi:** Nisu sve pretplate dostupne kao probna godina. Ako ne vidite dugme "Nabavi besplatnu **probnu** pretplatu" kada preskočite miš preko pretplate, to znači da probna slika nije dostupna.
   
 3. Od vas se može tražiti da unesete kreditnu karticu ili drugi način plaćanja da biste obezbedili dodatnu verifikaciju iz predožnje mere. Neće vam biti naplaćeno za ovu besplatnu probnu period. Informacije o plaćanju zadržećemo radi evidencije, i nećemo koristiti za bilo koju kupovinu bez vašeg odobrenja.
 
-4. Odaberite **stavku Isprobajte odmah**.
+4. Odaberite **stavku Isprobaj odmah**.
