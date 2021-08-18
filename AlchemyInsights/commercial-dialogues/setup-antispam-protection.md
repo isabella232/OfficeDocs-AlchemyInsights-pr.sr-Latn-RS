@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874589"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324585"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Podešavanje zaštite od spam-a
 
-1. Na portalu Microsoft 365 zaštitnik, idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnje pravilima za borbu protiv \>  \>  \> **spama** u odeljku **Smernice.**
+1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnju pravilima za borbu protiv pošte u odeljku \>  \>  \>  Smernice. 
 
    Da biste prešli direktno na **stranicu Smernice za borbu protiv spam e-pošti,** koristite <https://security.microsoft.com/antispam> .
 

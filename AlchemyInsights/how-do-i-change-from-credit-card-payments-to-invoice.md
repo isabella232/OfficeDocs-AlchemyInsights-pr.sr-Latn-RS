@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868692"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323800"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako da se promenim sa plaćanja kreditnom karticom na fakturu?
 
-> [!NOTE]
-> Možete da promenite plaćanje po fakturi samo ako je cena pretplate veća od određenog iznosa. Prvo morate da platite nesrazumnjene saldo na kreditnoj ili debitnom kartici ili računu u banci da biste mogli da promenite plaćanje po fakturi.
+**Napomi:** Možete da promenite plaćanje po fakturi samo ako je pretplata veća od određenog iznosa. Prvo morate da platite nesrazumnjene saldo na kreditnoj ili debitnom kartici ili računu u banci da biste mogli da promenite plaćanje po fakturi.
 
 1. U centru aktivnosti idite na stranicu  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi pronađite pretplatu koju želite da platite alternativnim načinom plaćanja.

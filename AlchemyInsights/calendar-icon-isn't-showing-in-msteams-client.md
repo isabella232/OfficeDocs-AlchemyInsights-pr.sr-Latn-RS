@@ -1,5 +1,5 @@
 ---
-title: Ikona kalendara se ne prikazuje u Microsoft klijentu
+title: Ikona "Kalendar" se ne prikazuje u Microsoft Teams klijentu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120018"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Ikona kalendara se ne prikazuje u Microsoft klijentu
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Ikona "Kalendar" se ne prikazuje u Microsoft Teams klijentu
 
-Kartica **Kalendar** u timovima zahteva pristup Exchange poštanskom sandučetu putem usluge Exchange Web Services. Exchange poštansko sanduče može biti na mreži ili lokalno. Za korisnike na mreži koji ne vide karticu **Kalendar** , uverite se da su [licencirani za Exchange online poštansko sanduče i da je poštansko sanduče omogućeno](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Ako su vaši korisnici na lokalnom prostoru, morate da potvrdite da je vaša hibridna konfiguracija zdrava. Koristite [Čarobnjak za hibridnu konfiguraciju](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) da biste rešili problem. Imajte u vidu da [Teams zahteva Exchange 2016 CU3 ili noviju verziju](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+**Kartica** Kalendar u Teams zahteva pristup poštanskom Exchange putem veb Exchange uslugama. Poštansko Exchange poštansko sanduče može da bude na mreži ili prenamešteno. Za korisnike na mreži  koji ne vide karticu "Kalendar" uverite se da su licencirani za Exchange Online poštansko sanduče i da li je omogućeno poštansko [sanduče.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) Ako se korisnici prehranjuju na internetu, morate da potvrdite da je hibridna konfiguracija zdrava. Koristite [Čarobnjak za hibridnu konfiguraciju](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) da biste rešili problem. Imajte u vidu da [Teams zahteva Exchange 2016 CU3 ili noviju verziju](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-Više informacija i koraka za rešavanje problema potražite u članku [Rešavanje problema sa Microsoft timovima i interakcijom sistema Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Više informacija i korake za rešavanje problema potražite u Microsoft Teams [problema Exchange server sa interakcijom.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

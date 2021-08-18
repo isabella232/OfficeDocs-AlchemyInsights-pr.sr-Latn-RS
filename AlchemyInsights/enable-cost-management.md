@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003583"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325477"
 ---
 # <a name="enable-cost-management"></a>Omogućavanje upravljanja troškovima
 
 **Šta znači "troškovi su onemogućeni za vašu organizaciju"?**
 
-Organizacije koje koriste naloge ugovor za preduzeća (EA) ili Microsoft korisničkog ugovora (MCA) mogu da onemoguće pristup informacijama o troškovima i cenama.
+Organizacije koje koriste ugovor za preduzeća (EA) ili Microsoft korisnički ugovor (MCA) mogu da onemoguće pristup informacijama o troškovima i cenama.
 
-Nakon prijavljenja na Azure portal, mogu da koriste AI-je za naplatu da bi programski dobijali fakture (kada daju saopštenje) i detalje o korišćenju.
+Nakon prijavljenja na Azure portal, mogu da koriste AI-je za naplatu da bi programski dobijali fakture (kada su saopšteni) i detalje o korišćenju.
 
 **Kako da omogućite dodatnim korisnicima da pristupe fakturama**
 
@@ -34,8 +34,7 @@ Nakon prijavljenja na Azure portal, mogu da koriste AI-je za naplatu da bi progr
 2. Izaberite **stavku Fakture,** a **zatim Pristup fakturama.**
 3. Uključite pristup, a zatim sačuvate promene kako biste korisnicima u ulogama ograničenim u pretplati omogućili da preuzmu fakture.
 
-> [!NOTE]
-> Administrator naloga može da konfiguriše i fakture poslate putem e-pošte. Da biste saznali više, pogledajte e-poruku [o e-pošti.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Napom:** Administrator naloga može da konfiguriše i fakture poslate putem e-pošte. Da biste saznali više, pogledajte e-poruku [o e-pošti.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Dodavanje korisnika u ulogu čitača naplate**
 
