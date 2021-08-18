@@ -1,5 +1,5 @@
 ---
-title: Kopiranje ili premeštanje stavki u SharePoint biblioteci dokumenata
+title: Kopiranje ili premeštanje stavki SharePoint biblioteci dokumenata
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,37 +14,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: d7aa865a6b3db0871a57313dd7d6f5b0213ca0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119154"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiranje ili premeštanje stavki u SharePoint biblioteci dokumenata
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiranje ili premeštanje stavki SharePoint biblioteci dokumenata
 
-Možete da kopirate i premeštate datoteke, fascikle i veze ka drugim lokacijama u biblioteci dokumenata. Možete i da kopirate stavke na lokacije. 
+Možete da kopirate i premestite datoteke, fascikle i veze ka različitim lokacijama u okviru biblioteke dokumenata. Takođe možete da kopirate stavke na više sajtova. 
   
-1. U pregledaču, potražite datoteke, fascikle ili veze koje želite da premestite, a zatim **kliknite na dugme** **Kopiraj u** .
+1. U pregledaču potražite datoteke, fascikle ili veze koje želite da premestite, a zatim izaberite stavku **Kopiraj u** ili **Premesti u**.
 
     > [!NOTE]
-    > **Kopiranje** i **Premeštanje** nije dostupno ako koristite klasično iskustvo u usluzi SharePoint online.
+    > **Kopiranje** u **i Premeštanje** u nije dostupno ako koristite klasični utisak pri radu sa uslugom SharePoint Online.
   
-2. U okviru **Odaberite odredište**, izaberite lokaciju na koju želite da kopirate ili premestite stavke ili kliknite na dugme **Pregledaj lokacije** da biste videli kompletnu listu sajtova.
+2. U **okviru Odaberite odredište** izaberite lokaciju na koju želite da kopirate ili premestite **stavke** ili izaberite stavku Pregledaj sajtove da biste videli kompletnu listu sajtova.
 
     > [!NOTE]
-    > Ako ne vidite druge lokacije kada kopirate stavke, kopiranje na lokacije nije konfigurisano. Da biste ga omogućili, idite na stranicu postavke SharePoint centra administracije i kliknite na dugme **u redu**.
+    > Ako ne vidite druge sajtove navedene kada kopirate stavke, kopiranje preko sajtova nije konfigurisano. Da biste ga omogućili, idite na stranicu sa postavkama SharePoint centra SharePoint kliknite na dugme U **redu.**
   
-    Da biste kreirali novu fasciklu, izaberite lokaciju u hijerarhiji fascikli, izaberite stavku **Nova fascikla**, unesite ime fascikle i kliknite na oznaku potvrde da biste sačuvali ime.
+    Da biste kreirali novu fasciklu, izaberite lokaciju u hijerarhiji fascikli, izaberite stavku Nova fascikla, unesite ime fascikle i kliknite na oznaku potvrde da biste sačuvali ime.
 
-3. Kliknite na dugme **Kopiraj ovde** ili **Premesti ovde**.
+3. Izaberite **stavku Kopiraj ovde** ili **Premesti ovde.**
 
     > [!NOTE]
-    > Istovremeno možete da kopirate u 500 MB datoteka i fascikli. > kada kopirate dokumente koji imaju istoriju verzija, kopira se samo najnovija verzija. Kada premeštate dokumente, njegova istorija se takođe premešta.
+    > Možete da kopirate do 500 MB datoteka i fascikli istovremeno. > kopirate dokumente koji imaju istoriju verzija, kopira se samo najnovija verzija. Kada premeštate dokumente, njihova istorija se takođe premešta.
   
- Kada se datoteka premesti, ona se i dalje pojavljuje u izvornom direktorijumu dok se u potpunosti ne premesti na odredište, a zatim se izbriše. Datoteka će ostati u regalu za otpatke izvornih lokacija kada se premesti završi i bude podložan normalnom rasporedu za otpatke osim ako je korisnik ne povrati iz korpe za otpatke.
+ Dok se datoteka premešta, ona će se i dalje pojavljivati u izvornom direktorijumu dok se potpuno ne premesti na odredište, a zatim će biti izbrisana. Datoteka će ostati u izvornoj korpi za otpatke sajtova kada se premesti dovrše i biće podložna normalnom rasporedu za otpatke, osim ako je korisnik ne oporavi iz korpe za otpatke.
 
-Za više informacija pogledajte članak:
+Za više informacija pogledajte:
 
- - [Premeštanje ili kopiranje datoteka u sistemu SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (članak podrške za Office)
- - [Premeštanje datoteka iz bilo koje fascikle](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članak Microsoft Tech bloga)  
+ - [Premeštanje ili kopiranje datoteka u programu SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Kancelarija članku podrške)
+ - [Premeštanje datoteka iz bilo koje fascikle](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članak na blogu Microsoft Tech zajednice)  

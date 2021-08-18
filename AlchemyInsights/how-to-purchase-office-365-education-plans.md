@@ -1,5 +1,5 @@
 ---
-title: Kako da kupite Office 365 Education planove
+title: Kako da kupite Office 365 Education planova
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -17,14 +17,14 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: e38733ee55b39424c65867ff23deb5282b5de114fc3e2a11a830be2dfba09eeb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 522d99d8ab131437c519321115fa2c47d3175530
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868504"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323126"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Kako da kupite Office 365 Education planove
+# <a name="how-to-purchase-office-365-education-plans"></a>Kako da kupite Office 365 Education planova
 
 Odobreni ste za Office 365 Education.  Da biste kupili:
 

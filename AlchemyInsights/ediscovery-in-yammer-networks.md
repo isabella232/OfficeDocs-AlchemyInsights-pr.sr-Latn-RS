@@ -1,5 +1,5 @@
 ---
-title: e-otkrivanje na yammer mrežama
+title: e-otkrivanje u Yammer Networks
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118401"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>e-otkrivanje na yammer mrežama
+# <a name="ediscovery-in-yammer-networks"></a>e-otkrivanje u Yammer Networks
 
-Sada možete da izvršite pretrage e-discovera za Yammer sadržaj.  Izvršavanje pretraga e-discovery ili izvoza u Yammer sadržaju zahteva sledeće:
+Sada možete da izvršite pretrage e-Yammer sadržaja.  Izvršavanje pretraga e-pretrage ili izvoz Yammer sadržaja zahteva sledeće:
 
-1. Prvo morate da migrirate Yammer Enterprise Mrežu u izvorni režim da bi Yammer poruke i datoteke bilo podložne otkrivanju. Napomena: ako ste novi klijent od 9. januara **2020. a Yammer** mreža je već u izvornom režimu, vaši podaci se sada mogu otkriti uz e-otkrivanje.
+1. Prvo morate da migrirate vašu Yammer Enterprise Network u izvorni režim da bi vaše Yammer poruke i datoteke bilo podložno otkrivanju. Napomena: ako ste novi klijent od 9. januara **2020.** a Yammer mreža je već u izvornom režimu, vaši podaci su sada moguće otkriti putem e-otkrivanja.
 
-2. Za izlazak iz klijenata, e-discovery za Yammer biće dostupan kada se objavi alatka za poravnavanje modusnog režima i kada se dovrši migracija u Native Mode za Yammer u zakupca.
+2. Za izlazak iz klijenata, e-Yammer za korisnike biće dostupno kada se objavi alatka za poravnavanje modusnog režima i kada se dovrši migracija na Yammer u zakupca.
 
 Za više informacija o:
 
 - Native Mode in Yammer, see: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- e-otkrivanje na yammer mrežama, pogledajte: Pregled [e-otkrivanja u Yammer mrežama](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- e-discovery u sistemu Microsoft 365, pogledajte [e-discovery u sistemu Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- e-otkrivanje na Yammer Mrežama, pogledajte: Pregled [e-otkrivanja na Yammer mrežama](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- e-discovery u microsoft 365, pogledajte [e-discovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

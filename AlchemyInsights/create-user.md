@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896729"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323300"
 ---
 # <a name="create-user"></a>Kreiranje korisnika
 
@@ -30,7 +30,7 @@ ms.locfileid: "57896729"
 **Ne mogu da kreiram novog korisnika u Azure AD direktorijumu**
 
 1. Uverite se da ste ovlašćeni za kreiranje novog standardnog korisnika. Samo uloga globalnog administratora ili administratora Azure Active Directory (AD) može da kreira novog standardnog korisnika. Ako niste u jednoj od ovih uloga, zatražite od administratora da vas doda u jednu od ovih uloga ili da vam kreira novi korisnički nalog.
-1. Uverite se da se korisničko ime nalazi u domenu koji je verifikovan u vašoj Azure AD. Ako nemate verifikovana prilagođena imena domena u Azure AD, možete da koristite početni domen Azure AD koji se završava sa *.onmicrosoft.com.
+1. Uverite se da se korisničko ime nalazi u domenu koji je verifikovan u vašoj Azure AD. Ako nemate verifikovana prilagođena imena domena u Azure AD, možete da koristite Azure AD početni domen koji se završava sa *.onmicrosoft.com.
 1. Uverite se da se korisničko ime nalazi u domenu koji nije federan za Azure AD iz vaše bele AD mreže. Korisnici ne mogu da se dodaju u oblak sa imenima domena koja su sačinjena iz izvora iz izvora.
 1. Uverite se da nijedan drugi korisnik ili kontakt već nema korisničko ime koje želite da dodelite novom korisniku. Korisnička imena moraju biti jedinstvena u Azure AD- u.
 1. Pogledajte [Azure AD uloge i administratore](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) za Azure AD.

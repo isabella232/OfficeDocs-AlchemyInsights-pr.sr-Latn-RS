@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054812"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321921"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemi sa vezama i URL adresama
 
@@ -42,15 +42,13 @@ Da biste dodali URL adresu odgovora, idite na karticu **Potvrda identiteta** na 
     - platforme (iOS/Android/UWP)
     - informacija koje se koriste za izgradnju aplikacije, kao što je ID kompleta u operativnom sistemu iOS, kao i ime paketa i hash potpisa u sistemu Android. Registracija aplikacija na Azure portalu će vam pomoći. Detalje potražite u odeljku [Konfiguracija platforme i URI-ovi preusmeravanja](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Veb API-ji i neki od tihih načina nabavke tokena (IWA i korisničko ime/lozinka) ne zahtevaju URI preusmeravanja.
+**Napomi:** Veb AČI-je i neki tihi načini za nabavku tokena (IWA i korisničko ime/lozinka) ne zahtevaju preusmeravajući URI.
 
 **Projektovao/la sam svoju veb aplikaciji i prilikom testiranja primenjene aplikacije, dobijam poruku o nepodudaranju URL adresa odgovora**
 
 Dodajte URI-ove preusmeravanja za sve lokacije na kojima primenjujete veb aplikaciju. Više informacija potražite u odeljku [Registrovanje veb aplikacije pomoću Azure portala](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Dodajte URI preusmeravanja za lokaciju odmah nakon primene aplikacije na toj lokaciji.
+**Natpis:** Dodajte preusmereni URI za lokaciju odmah nakon primene aplikacije na tu lokaciju.
 
 **Ne mogu da registrujem dovoljno URL adresa odgovora**
 
