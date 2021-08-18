@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895133"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318806"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Prijavite sumnjive e-poruke, UL adrese ili priloge
 
 Razumem da vam je potrebna pomoć u istraživanju sumnjive e-poruke ili e-poruke koja je pogrešno filtrirana. Mogu da vam pomognem da prosledite problem na analizu pomoću portala **Prosleđivanje,** što će vam pružiti trenutne povratne informacije. Evo rezimea koraka:
 
-1. Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na **E-& Prosleđivanje** \> **saradnje**.
+1. Na portalu Microsoft 365 zaštitnik <https://security.microsoft.com> , idite na **E-& Prosleđivanje** \> **saradnje**.
 
    Da biste prešli direktno **na stranicu Prosleđivanje,** koristite <https://security.microsoft.com/reportsubmission> .
 
@@ -33,5 +33,4 @@ Razumem da vam je potrebna pomoć u istraživanju sumnjive e-poruke ili e-poruke
 
 Dodatne informacije potražite u članku Korišćenje prosleđivanje podataka za prosleđivanje podataka za neposrednu pošiljku, [phish, UL](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)datoteke i datoteke korporaciji Microsoft .
 
-> [!NOTE]
-> Obavestite korisnike da treba da prijave sve sumnjive poruke u prijemnom poštanskom sandučetu pomoću programskog dodatka "Poruka izveštaja" ili programskog dodatka ["Izveštaj o phishingu"](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).
+**Napomena: Obavestite korisnike** da treba da prijave sve sumnjive poruke u prijemnom poštanskom sandučetu pomoću programskog dodatka "Poruka izveštaja" ili programskog dodatka "Izveštaj o [phishingu".](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

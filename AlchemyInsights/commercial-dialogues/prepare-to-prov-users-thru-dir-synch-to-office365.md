@@ -1,5 +1,5 @@
 ---
-title: Priprema za obezbeđivanje korisnika putem sinhronizacije direktorijuma sa sistemom Office 365
+title: Priprema za obezbeđivanje korisnika putem sinhronizacije direktorijuma za Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090985"
 ---
-# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Priprema za obezbeđivanje korisnika putem sinhronizacije direktorijuma sa sistemom Office 365
+# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Priprema za obezbeđivanje korisnika putem sinhronizacije direktorijuma za Office 365
 
-Obezbeđivanje korisnika sa sinhronizacijom direktorijuma zahteva planiranje i pripreme, slede uputstva ispod:
+Obezbeđivanje korisnika sa sinhronizacijom direktorijuma zahteva planiranje i pripreme, pratite uputstva u nastavku:
 
-Neke radnje koje treba da se urade u okviru obezbeđivanja obuhvata:
+Neke radnje koje treba da se suzmu pri dodeljanju korisnika uključuju:
 1. **Čišćenje direktorijuma**.
-1. **Priprema objekta direktorijuma i atributi**.
+1. **Priprema objekta i atributa direktorijuma.**
 1. **Priprema UPN atributa**.
-1. **Opcionalni dodatak alternativnog UPN sufiksa za oglase**.
-1. **Podudaraju se sa unutrašnjim ispravcima sa Office 365 upima**.
+1. **Opcionalni dodatak alternativnih UPN sufiksa u AD DS**.
+1. **Podudaranje e-pošti sa upn-om iz Office 365 upN-om**.
 1. **Alatke za integraciju direktorijuma**.
 
-Detaljne opise u svakom koracima priprema, pogledajte u [pripremi za obezbeđivanje korisnika putem sinhronizacije direktorijuma sa Office 365 člankom](https://aka.ms/office365assistantprovisionuserstooffice365).
+Detaljne opise za svaki korak pripreme potražite u članku Priprema za obezbeđivanje korisnika putem [sinhronizacije direktorijuma Office 365 članku.](https://aka.ms/office365assistantprovisionuserstooffice365)

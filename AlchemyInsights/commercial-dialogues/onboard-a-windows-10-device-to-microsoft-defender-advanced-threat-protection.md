@@ -1,5 +1,5 @@
 ---
-title: Na Windows 10 uređaju napredne zaštite pretnji u usluzi Microsoft Defender (MDATP)
+title: Unapredite uređaj Windows 10 naprednu zaštitu od pretnji za Microsoft zaštitnik (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51e6e2c1504002af5408d678399fdd1d691ae096
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 133ff4256c007600857d16d60bf494ea314c8d874c02d3afcbc3ff1a29b9c802
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091098"
 ---
-# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Na Windows 10 uređaju napredne zaštite pretnji u usluzi Microsoft Defender (MDATP)
+# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Unapredite uređaj Windows 10 naprednu zaštitu od pretnji za Microsoft zaštitnik (MDATP)
 
 MDATP podržava sledeće alatke za primenu i metode za Windows 10:
 
 - Smernice grupe
 - Microsoft Endpoint Configuration Manager
 - Upravljanje mobilnim uređajima, uključujući Microsoft Intune
-- Lokalni scenariji
+- Lokalne skripte
 
-Da biste saznali više, pogledajte članak [Alatke za ukrcavanje i metodi za Windows 10 uređaje](https://go.microsoft.com/fwlink/?linkid=2143460).
+Da biste saznali više, [pogledajte stavku Alatke za ulaženje i metode za Windows 10 uređaje.](https://go.microsoft.com/fwlink/?linkid=2143460)

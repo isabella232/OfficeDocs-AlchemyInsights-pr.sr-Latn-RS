@@ -1,5 +1,5 @@
 ---
-title: Informacije o neparnoj čekanju ili na mjestu
+title: Informacije o zadržavanju podataka u žiži ili zadržavanju mesta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115446"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>O parnicama koji se održavaju i održavaju
+# <a name="about-litigation-holds-and-in-place-holds"></a>O zadržavanju u e-pošti i zadržavanju na vremenu
 
-- Da biste primenjivali sporni poziv ili zadržali mesto u poštanskom sandučetu, potrebna je [licenca Exchange online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ako imate neki drugi plan, dodelite [zamenu Exchange online arhiviranja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) na nalog. 
+- Da biste na poštansko sanduče primenili zadršku u paru ili zadržavanje na vremenu, potrebna [Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) licenca. Ako imate neki drugi Plan, dodelite [zasebnu licencu Exchange Online arhiviranje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) nalogu. 
     
-- **Da biste omogućili sporni** korak za jednog korisnika, slijedite korake navedene [ovde](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold). Kada se omogući čekanje, sav sadržaj u poštanskom sandučetu se stavlja na čekanje.
+- **Da biste omogućili zadržavanje u paru za** jednog korisnika, pratite korake navedene [ovde.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Kada se omogući zadržavanje u sporu, sav sadržaj u poštanskom sandučetu se čuva na čekanju.
     
-- Da biste **zadržali čekanje na mestu za pojedinačne korisnike** ili držanje za **sve Poštanske sandučiće u celoj organizaciji**, možete da koristite smernice za zadržavanje u Microsoft 365 centru za bezbednost i usaglašenost tako što ćete pratiti korake navedene [ovde](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Da biste  primenili čuvanje na jednom korisniku ili zadržavanje na sve poštanske sandučiće u celoj organizaciji, možete da koristite smernice za zadržavanje u Microsoft 365 centru za bezbednost i usaglašenost tako što ćete pratiti korake navedene [ovde.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > Za smernice za zadržavanje širom organizacije, novi korisnici će se automatski dodati čekanju. 
+    > Za smernice za zadržavanje na celom preduzeću, novi korisnici će se automatski dodati u zadršku. 
   
-- Da biste prikazali ili otkrili sadržaj poštanskog sandučeta koji se postavlja na čekanje, koristite **pretragu i izvoz**. Da biste dobili informacije o korišćenju **pretrage i izvoza**, slijedite korake navedene [ovde](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Da biste prikazali ili otkrili sadržaj poštanskog sandučeta koji je postavljen na čekanje, koristite pretragu i izvoz **e-otkrivanja**. Za informacije o **korišćenju pretrage i izvoza e-pretrage** i izvoza pratite korake navedene [ovde.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

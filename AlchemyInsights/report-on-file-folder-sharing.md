@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8a4c2b4aedaa0ac88262e6c4f0c91af952441b6904971eabf774c2a8b7b58042
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c7587eba7d69d532ab026db6b9c56f5fa6d7e7f8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110658"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319320"
 ---
 # <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Izveštaj o deljenju datoteka i fascikli na SharePoint sajtovima
 
@@ -26,5 +26,4 @@ Možete da kreirate CSV datoteku sa detaljima o svakoj jedinstvenoj datoteci, ko
 
 Dodatne informacije potražite [u temi Izveštaj o deljenju datoteka i fascikli SharePoint lokaciji](https://docs.microsoft.com/sharepoint/sharing-reports).
 
-> [!NOTE]
-> Ova funkcija je trenutno primenjena na zakupe "Prvo izdanje" i postepeno će se objavljuje na svim zakucama u proizvodnji.
+**Napomi:** ova funkcija je trenutno primenjena na zakupce prvog izdanja i postepeno će se objavljujeti svim zakupcima proizvodnje.

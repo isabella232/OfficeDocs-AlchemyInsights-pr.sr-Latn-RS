@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090750"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Usaglašenost komunikacije u sistemu Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Usaglašenost komunikacije u Microsoft 365
 
-Usaglašenost komunikacije je novo Microsoft 365 rešenje za usaglašenost koje organizacijama pomaže da ispunjavaju nadređene zahteve za usaglašenost i umanjuju rizike u komunikaciji. Zasniva se na funkciji "Supervizija" i sadrži nova poboljšavanja, uključujući:
+Usaglašenost komunikacije je novo rešenje za usaglašenost Microsoft 365 koje organizacijama pomaže da ispunjavaju nadgledane zahteve za usaglašenost i umanjuju rizike u komunikaciji. Zasniva se na funkciji "Supervizija" i sadrži nova poboljšavanja, uključujući:
 
 - Inteligentni prilagodljivi predlošci
 - Fleksibilni tokovi posla za remediciju
@@ -33,15 +33,15 @@ Da biste podesili usaglašenost komunikacije, pogledajte [konfigurisanje usagla�
 
 Da biste istražili, pregledali i remetovali usaglašenost [komunikacije,](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)pogledajte tj. upozorenja o usaglašenosti komunikacije i uspostavili ga.
 
-Pregled funkcije usaglašenosti komunikacije možete da vidite u članku [Usaglašenost komunikacije u sistemu Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
+Za pregled funkcije usaglašenosti komunikacije pogledajte usaglašenost [komunikacije u programu Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
 Zahtevi licence: Korisnici koje nadgledaju smernice za komunikaciju moraju da imaju nešto od sledećeg:
 
-- Microsoft 365 E5 licenca za usaglašenost
-- Licenca za Office 365 Enterprise E3 uz dodatak napredne usaglašenosti
+- Microsoft 365 E5 Compliance licence
+- Office 365 Enterprise E3 licenca sa dodatim dodatak Napredna usaglašenost
 - Office 365 Enterprise E5 pretplata
 
-Ako ništa od navedenog nije navedeno, a želite da isprobate usaglašenost komunikacije, prijavite se za probnu probnu sektivu usluge **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Ako nemate ništa od navedenog, a želite da isprobate usaglašenost komunikacije, prijavite se za probnu Office 365 Enterprise **[E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Može potrajati i do 24 časa da se e-poruke potpuno obrađuju u smernicama. Da bi se smernice u potpunosti obradio, komunikacije na Microsoft Teams, Yammer platformama i platformama nezavisnih dobavljača mogu potrajati i do 48 sati.
+> Može potrajati i do 24 časa da se e-poruke potpuno obrađuju u smernicama. Da bi komunikacije na Microsoft Teams, Yammer i nezavisnim platformama potpuno obrađile smernice, može da prouzuzmu i do 48 sati.
