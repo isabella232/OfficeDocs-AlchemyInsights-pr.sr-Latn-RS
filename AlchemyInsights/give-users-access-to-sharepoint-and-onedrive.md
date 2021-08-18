@@ -1,5 +1,5 @@
 ---
-title: Korisnicima dajte pristup sistemu SharePoint i OneDrive
+title: Omogućite korisnicima pristup uslugama SharePoint i OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e3d645f3c45525107f42a074899a30ef26bd559e5c5657e7b8ef69d406357b32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088914"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Korisnicima dajte pristup sistemu SharePoint i OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Omogućite korisnicima pristup uslugama SharePoint i OneDrive
 
 > [!NOTE]
-> Ako OneDrive ili SharePoint lokacija nisu dostupni većem broju korisnika koji su prethodno imali Access, možda postoji privremeno izdanje. [Potvrdite izbor u polju za zdravstvenu zaštitu usluge](https://portal.office.com/adminportal/home#/servicehealth)
+> Ako lokacija OneDrive ili SharePoint nije dostupna većem broju korisnika koji su ranije imali pristup, možda postoji privremeni problem sa uslugom. [Provera kontrolne table za zdravlje usluge](https://portal.office.com/adminportal/home#/servicehealth)
   
-Ako želite da ljudi u vašoj organizaciji mogu da se prijave i koriste SharePoint i OneDrive, morate da im dodate naloge i da se uverite da imaju licencu koja im pruža pristup sistemu SharePoint i OneDrive. Najlakši način da dodate korisnike je u Microsoft 365 centru administracije.
+Ako želite da osobe u vašoj organizaciji mogu da se prijavaju i koriste SharePoint i OneDrive, morate da dodate naloge za njih i uverite se da imaju licencu koja im pruža pristup uslugama SharePoint i OneDrive. Najlakši način za dodavanje korisnika je u Microsoft 365 centar administracije.
   
-1. Idite na [stranicu "aktivni korisnici" u Microsoft 365 centru administracije](https://portal.office.com/adminportal/home#/users), a zatim kliknite na dugme **Dodaj korisnika**.
+1. Idite na [stranicu Aktivni korisnici u Microsoft 365 centar administracije](https://portal.office.com/adminportal/home#/users), a zatim izaberite stavku Dodaj **korisnika.**
     
-2. Unesite informacije za korisnika i uverite se da je u okviru licence za **proizvode**dodeljena licenca i da je izabrana opcija **SharePoint online** . 
+2. Popunite informacije za korisnika i proverite da li je u okviru Licence proizvoda dodeljena licenca i da **SharePoint na** mreži. 
     
-Imajte u vidu da ako dozvoljavate spoljašnje deljenje u organizaciji, korisnici mogu da dele SharePoint i OneDrive sadržaj sa osobama izvan organizacije. Ne morate da dajete ove licence spoljnim korisnicima. Ne morate da dodajete naloge za njih, osim ako je deljenje podešeno na "samo postojeći spoljni korisnici". U tom slučaju, ako osobe nisu u direktorijumu vaše organizacije, treba da ih dodate kao goste korisnika u centru za Azure AD.
+Ako omogućite spoljno deljenje u organizaciji, korisnici mogu SharePoint i OneDrive sadržaj sa osobama izvan organizacije. Ne morate da date licence za ove spoljne korisnike. Takođe ne morate da dodajete naloge za njih, osim ako deljenje nije postavljeno na "Samo postojeći spoljni korisnici". U tom slučaju, ako osobe nisu u direktorijumu organizacije, morate da ih dodate kao korisnike sa u goste u Azure AD centru za administaciju.
   
 
