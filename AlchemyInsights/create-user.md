@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118758"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896729"
 ---
 # <a name="create-user"></a>Kreiranje korisnika
 
 **OBJAVA:**
 
-- [Ukidanje podrške za prijavljivanje na WebView iz usluge Google od 4. januara 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testirajte da li aplikacija može da utiče tako što ćete pratiti [uputstva](https://go.microsoft.com/fwlink/?linkid=2157323) google za testiranje kompatibilnosti.
-- Uverite se da koristite veb pregled sistema ili pregledač sistema kada se prijavljujte korisnicima sa korisničkim Google nalozima. Više informacija potražite u [temi Problemi sa prijavljivanjem u aplikacije samo pomoću pregledača Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Ukidanje podrške za prijavljivanje na WebView iz usluge Google od 4. januara 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testirajte da li aplikacija može da utiče tako što ćete pratiti [uputstva](https://go.microsoft.com/fwlink/?linkid=2157323) google za testiranje kompatibilnosti.
+- Uverite se da koristite veb pregled sistema ili pregledač sistema kada se prijavljujte korisnicima sa korisničkim Google nalozima. Više informacija potražite u [temi Problemi sa prijavljivanjem u aplikacije samo pomoću pregledača Chrome.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Ne mogu da kreiram novog korisnika u Azure AD direktorijumu**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118758"
 1. Pogledajte [Azure AD uloge i administratore](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) za Azure AD.
 1. Pogledajte imena [domena](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) za Azure AD.
 1. Pregledajte [evidenciju nadzora](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) da biste videli detaljnije informacije o nedavno kreiranom ili izbrisanom korisniku kao što su ko je izvršio radnju i kada.
-1. Više informacija o dodavanju novih korisnika potražite u temi Korišćenje Azure portala za kreiranje novog korisnika [u Azure AD- u](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Azure AD administrativne uloge:](/azure/active-directory/active-directory-assign-admin-roles)Administratorske dozvole za uloge u Azure Active Directory
-1. Možete da [koristite i Azure AD PowerShell da biste kreirali novog korisnika.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Više informacija o dodavanju novih korisnika potražite u temi Korišćenje Azure portala za kreiranje novog korisnika [u Azure AD- u](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
+1. [Azure AD administrativne uloge:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)administratorske dozvole za uloge u Azure Active Directory
+1. Možete da [koristite i Azure AD PowerShell da biste kreirali novog korisnika.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

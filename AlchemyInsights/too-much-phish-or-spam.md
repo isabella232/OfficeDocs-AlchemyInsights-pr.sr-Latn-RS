@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
-ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
+ms.openlocfilehash: f19ab35837085b4a99212ab445d815a899c2c9df
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53195534"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315454"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Da li primate previše phish ili spam poruka u poštanskom sandučetu?
 
@@ -26,8 +26,8 @@ Kao Microsoft 365, najbolji način da odredite zašto je phishing ili spam poruk
 
 Da biste to olakšali, možete da dozvolite korisnicima da direktno izveštavaju korporaciji Microsoft putem programnog [dodatka Poruka izveštaja.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-Da li ste **znali?**: Sada [](https://security.microsoft.com/messagetrace) možete da prosledite uzorke direktno iz praćenja poruka i E5/Microsoft zaštitnik za Office 365 Plan 2 klijenti mogu da prosleđuju uzorke iz programa [Threat Explorer.](/microsoft-365/security/office-365-security/threat-explorer)
+Da li ste **znali?**: Sada [](https://security.microsoft.com/messagetrace) možete da prosledite uzorke direktno iz praćenja poruka i E5/Microsoft zaštitnik za Office 365 Plan 2 klijenti mogu da prosleđuju uzorke iz programa [Threat Explorer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
-Da biste saznali više o prosleđivanje poruka na analizu na Microsoft 365 zaštitnik portalu, pogledajte video [Prosleđivanje uzoraka za analizu.](https://go.microsoft.com/fwlink/?linkid=2166435)
+Da biste saznali više o prosleđivanje poruka na analizu na Microsoft 365 zaštitnik portalu, pogledajte video Prosleđivanje [uzoraka na analizu.](https://go.microsoft.com/fwlink/?linkid=2166435)
 
-Da biste saznali više o istraživanju netačnih negativa u programu Microsoft zaštitnik Office 365, pogledajte video [strategiju Negativna negativna vrednost](https://go.microsoft.com/fwlink/?linkid=2166434).
+Da biste saznali više o istraživanju netačnih negativa u programu Microsoft zaštitnik Office 365, pogledajte video [Strategija negativnih netačnih .](https://go.microsoft.com/fwlink/?linkid=2166434)

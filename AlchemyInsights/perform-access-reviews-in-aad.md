@@ -1,5 +1,5 @@
 ---
-title: Obavljanje pregleda Access u usluzi Azure Active Directory
+title: Izvršavanje redigovanje pristupa Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086790"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>Obavljanje pregleda Access u usluzi Azure Active Directory
+# <a name="perform-access-reviews-in-azure-active-directory"></a>Izvršavanje redigovanje pristupa Azure Active Directory
 
-Određen Redaktori mogu da obave Azure Active Directory Access kritike za članstva u grupama, pristup aplikacijama i dodeljivanja uloga. Ovi pregledi pomažu da se smanje bezbednosni rizici sa kojom bi se organizacija mogla suočiti kada korisnici imaju više pristupa nego što su im potrebni. Možete da obavite ocene Access pomoću [aplikacija "moje aplikacije](https://go.microsoft.com/fwlink/?linkid=2134605) " ili " [moj pristup](https://go.microsoft.com/fwlink/?linkid=2134505)".
+Naznačeni redaktori mogu Azure Active Directory da izvršavaju preglede članstva grupe, pristupa aplikacijama i dodelama uloga. Ovi pregledi vam pomažu da smanjite bezbednosne rizike sa kojima organizacija može da se suoči kada korisnici imaju veći pristup nego što im je potrebno. Preglede pristupa možete da izvršite koristeći [moje aplikacije](https://go.microsoft.com/fwlink/?linkid=2134605) ili [Moj pristup](https://go.microsoft.com/fwlink/?linkid=2134505).

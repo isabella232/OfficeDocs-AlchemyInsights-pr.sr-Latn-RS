@@ -1,5 +1,5 @@
 ---
-title: Slanje prilagođenih obaveštenja Intune
+title: Slanje prilagođenih obaveštenja u intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086178"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kako da pošaljete prilagođena obaveštenja korisnicima kompletnih iOS i Android uređaja
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Kako slati prilagođena obaveštenja korisnicima kontrolisanih iOS i Android uređaja
 
-Prilagođena obaveštenja za Intune obrađuje aplikacija portal preduzeća na uređaju korisnika. Aplikacija zatim kreira obaveštenje o pritiskom na tom uređaju.
+Prilagođena obaveštenja za Intune obrađuje aplikacija Company Portal na uređaju korisnika. Aplikacija zatim kreira push obaveštenje na tom uređaju.
 
-Slede preduslovi za podršku prilikom prijema prilagođenih obaveštenja, a zatim za aplikaciju da biste zatim kreirali obaveštenje o pritisanju:
+Ovo su preduslovi uređaja za podršku potvrde prilagođenih obaveštenja i da aplikacija zatim kreira push obaveštenje:
 
-- Uređaj mora da ima instaliran aplikaciju za preduzeće portal.  
+- Uređaj mora da ima instaliranu Company Portal aplikacije.  
 
-- Uređaj mora da omogući aplikaciji portala preduzeća da šalje push obaveštenja. Kada se aplikacija instalira ili ažurira, on će zatražiti od korisnika da dozvoli obaveštenja.
+- Uređaj mora da dozvoli aplikaciji Company Portal slanje push obaveštenja. Kada se aplikacija instalira ili ažurira, od korisnika će zatražiti da dozvoli obaveštenja.
 
-- Android uređaji mora da imaju instalirane Google Play usluge.
+- Android uređaji moraju da imaju instalirane Google Play usluge.
 
-- Uređaj mora biti upisan u Intune.
+- Uređaj mora da bude upisan za Intune.
 
-Više informacija o tome kako da pošaljete poruku potražite u [dokumentaciji funkcije](https://docs.microsoft.com/intune/custom-notifications).
+Dodatne informacije, uključujući i način slanja poruke, potražite u [dokumentaciji za funkcije.](https://docs.microsoft.com/intune/custom-notifications)
