@@ -13,19 +13,19 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899898"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331173"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifikovanje kada je spoljno prosleđivanje e-pošte konfigurisano u poštanskim sandučićima
 
-Kada korisnik Microsoft 365 konfiguriše spoljno prosleđivanje e-pošte u poštanskom sandučetu, aktivnost se nadgleda kao deo cmdlet stavke **Set-Mailbox** cmdlet. Aktivnost možete da vidite pomoću pretrage evidencije nadzora. Evo kako to da uradite.
+Kada Microsoft 365 konfiguriše spoljno prosleđivanje e-pošte u poštanskom sandučetu, aktivnost se nadgleda kao deo cmdlet stavke **Set-Mailbox** cmdlet. Aktivnost možete da vidite pomoću pretrage evidencije nadzora. Evo kako to da uradite.
 
 1. Uradite nešto od sledećeg:
-   - Na Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
+   - U e-Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
    - Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na Nadzor . Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. Na stranici **Nadzor** potvrdite da je **izabrana** kartica Pretraga, a zatim konfigurišite sledeće postavke:

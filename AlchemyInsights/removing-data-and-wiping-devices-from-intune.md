@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922265"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331055"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Uklanjanje podataka i brisanje uređaja iz usluge Intune
 
@@ -32,8 +32,7 @@ Udaljene radnje „Uklanjanje uređaja“ i „Brisanje uređaja“ mogu se kori
 4. Kliknite na dugme **Da** kako biste potvrdili. Dok se brisanje ne završi, status radnje uređaja prikazuje se kao *Povlačenje na čekanju*.
     Kada se radnja dovrši, više nećete videti mobilni uređaj na listi upravljanih uređaja.
 
-> [!NOTE]
-> Podaci preduzeća ne mogu se ukloniti sa uređaja PRIDRUŽENIH za Azure AD. 
+**Napom:** Podaci preduzeća ne mogu da se uklone sa uređaja PRIDRUŽENIH U Azure AD. 
 
 Za sve detalje o efektu radnji povlačenja i brisanja, uključujući ono što se zadržava i šta se briše, pogledajte sledeću dokumentaciju:
 

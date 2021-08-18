@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973855"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338974"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Dozvole potrebne za pretrage e-discovery
 
-Da bi izvršio pretrage sadržaja u centru za bezbednost & usaglašenost, korisnik mora da bude bar član grupe uloga menadžera e-pošte koja mu omogućava da pretražuje i stavi čuvanje podataka u poštanskim sandučićima, SharePoint lokacijama i OneDrive lokacijama. Članovi takođe mogu da kreiraju slučajeve e-otklanjanja, dodaju i uklanjaju članove u predmet, kreiraju i uređuju pretrage sadržaja i pristupaju podacima o predmetima Advanced eDiscovery.
+Korisnik mora da bude član grupe uloga menadžera & za usaglašenost da bi izvršio xearške sadržaja u centru za & usaglašenost.
 
-Da In-Place e-otkrivanja izvršio pretrage u Exchange centru Exchange (EAC), korisnik mora da bude član grupe uloga "Upravljanje otkrivanjem" u programu Exchange Online.
+Da bi izvršio pretrage sadržaja Microsoft 365 centar za usaglašenost, korisnik mora da bude član grupe uloga menadžera e-distribucije.  
 
-Dodatne informacije o dozvolama za e-discovery potražite u temi: 
+Da biste dodelili dozvole:
 
-- [Dodela dozvola za e-discovery u centru & za & za usaglašenost](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Dodela dozvola za e-discovery u Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Idite na [Microsoft 365 centar za usaglašenost](https://compliance.microsoft.com/)  >  **Dozvole**.
+1. U **okviru Centar za usaglašenost** **izaberite stavku Uloge**, a **zatim izaberite upravljač e-discovery .**
+1. U letku dodajte korisnika u željenu  ulogu tako što će izabrati stavku "Uredi" pored uloge "Menadžer e-discovery" ili uloge "Administrator e-discovery".
 
 **Napomena:** Nakon dodeljivanja dozvola za e-distribuciju, možda ćete morati da sačekate nekoliko minuta da se dozvole prenesu.
+
+Dodatne informacije o dozvolama za e-discovery potražite u temi Dodela dozvola za [e-discovery u Microsoft 365 centar za usaglašenost.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)

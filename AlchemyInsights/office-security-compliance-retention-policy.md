@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985651"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331907"
 ---
 # <a name="more-info-about-retention-policies"></a>Više informacija o smernicama za zadržavanje
 
@@ -27,10 +27,10 @@ U većini organizacija, obim i složenost njihovih podataka se povećavaju svako
 
 ## <a name="a-from-security-and-compliance-center"></a>A) Iz centra za bezbednost i usaglašenost
 
-- Idite na deo "Bezbednost i usaglašenost > upravljanja podacima > za zadržavanje
+- Idite na deo "Bezbednost i usaglašenost > upravljanja podacima > zadržavanje
   - Pogledajte [ovaj](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) članak
 
-- Idite na postavke bezbednosti i usaglašenosti > e-> Advanced eDiscovery 
+- Idite na deo "Bezbednost i usaglašenost > e-> Advanced eDiscovery 
   - Pogledajte [ovaj](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) članak
 
 - Go to Security and Compliance > Classifications > Retention
@@ -52,5 +52,4 @@ U većini organizacija, obim i složenost njihovih podataka se povećavaju svako
   - [IRM na listi/u biblioteci](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [Pregled IRM-a](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> Preporučujemo da se preusmeravate na smernice za bezbednost i usaglašenost ako i dalje koristite zakasnelo e-otkrivanje, IRM ili smernice za zatvaranje i brisanje lokacije.
+Napoma: Preporučujemo da se pomerite na smernice za bezbednost i usaglašenost ako i dalje **koristite** zakasnelo e-otkrivanje, IRM ili smernice za zatvaranje i brisanje sajta.

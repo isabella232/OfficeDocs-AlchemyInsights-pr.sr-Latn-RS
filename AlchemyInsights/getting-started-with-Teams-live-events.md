@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088878"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333173"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Prvi koraci sa Teams događajima uživo
 
@@ -25,9 +25,11 @@ Microsoft Teams događaji uživo su produženje Teams sastanaka koji omogućavaj
 
 Da biste kreirali događaj uživo treba vam sledeće:
 
-- Prvo proverite da li Teams događaji uživo [dostupni u vašoj zemlji i regionu](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Događaji uživo još uvek nisu podržani u nekim zemljama.  Ako ste dodelili licence i postavili smernice, ali i dalje ne možete da kreirate Teams Live Događaj, verovatno ste u zemlji ili regionu gde još uvek nije dostupna stavka Događaji uživo.
+- Prvo potvrdite da su Teams Live Events [dostupni u vašoj zemlji i regionu](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Događaji uživo još uvek nisu podržani u nekim zemljama.  Ako ste dodelili licence i postavili smernice, ali i dalje ne možete da kreirate događaj Teams Live, verovatno ste u zemlji ili regionu gde još uvek nisu dostupni događaji uživo.
 
-- [Office 365 Enterprise E1, E3 ili E5 licenca ili Office 365 A3 ili A5 licenca](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Važno**: Zbog nedavnog povećanja korišćenja usluge Teams, kada dodelite Teams licencu korisniku možda će proći oko 24 sata pre nego što bude potpuno podešena. Do tada nećete moći da im dodelite Teams smernice i možda neće imati pristup nekim Teams funkcijama poput pozivanja i audio konferencije.
+- [Office 365 Enterprise E1, E3 ili E5 licenca ili Office 365 A3 ili A5 licenca](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Važno**: Zbog nedavnog povećanja korišćenja usluge Teams, kada dodelite Teams licencu korisniku možda će proći oko 24 sata pre nego što bude potpuno podešena. Do tada nećete moći da im dodelite Teams smernice i možda neće imati pristup nekim Teams funkcijama poput pozivanja i audio konferencije.
 
 - Dozvola za [kreiranje događaja uživo u Microsoft Teams administratorskom centru](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

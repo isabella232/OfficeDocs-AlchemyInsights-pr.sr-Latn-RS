@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9001727"
 - "3824"
-ms.openlocfilehash: dded19e22d59df01c30685d8666b0c5837d8e0e8552e0c0bddd549b268ee20d8
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 2d4e344d56dee84634f37624b5b3dfc1e8d5a098
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499130"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331427"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Otkazivanje Microsoft pretplate
 
-Adminitari mogu da otkažu pretplatu za organizaciju u e-Microsoft 365 centar administracije.
+Adminitari mogu da otkažu pretplatu za svoju organizaciju u Microsoft 365 centar administracije.
 
 1. Idite na **stranicu "Naplata** \> [proizvoda".](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici Proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
