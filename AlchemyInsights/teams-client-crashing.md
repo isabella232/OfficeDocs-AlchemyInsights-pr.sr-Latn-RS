@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890352"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321639"
 ---
 # <a name="teams-client-crashing"></a>Teams klijent pada
 
@@ -25,9 +25,9 @@ Ukoliko Teams klijent otkazuje, pokušajte sledeće:
 
 - Ako koristite Teams aplikaciju za stone računare, [ uverite se da je aplikacija potpuno ažurirana](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Uverite se da [su Microsoft 365 UL adrese i opsezi](https://docs.microsoft.com/microsoftteams/connectivity-issues) adresa.
+- Uverite se da [su Microsoft 365 ULS i opsezi](https://docs.microsoft.com/microsoftteams/connectivity-issues) adresa.
 
-- Prijavite se na nalog zakupca [](https://docs.microsoft.com/office365/enterprise/view-service-health) i proverite kontrolnu tablu za zdravstveno stanje usluge kako biste potvrdili da ne postoji preklošenje ili degradacija usluge.
+- Prijavite se na nalog zakupca [](https://docs.microsoft.com/office365/enterprise/view-service-health) i proverite kontrolnu tablu za zdravstveno stanje usluge kako biste potvrdili da ne postoji preklonje ili degradacija usluge.
 
 - Deinstalujte i ponovo instalirajte aplikaciju Teams aplikaciju
     - Potražite fasciklu %appdata%\Microsoft\Teams\ na računaru i izbrišite sve datoteke iz tog direktorijuma.
@@ -38,8 +38,10 @@ Ako Teams klijent i dalje pada, pokušajte ponovo da predstavite problem. Ako mo
 1. Koristite zapisivač koraka da biste uhvatili korake.
     - Zatvorite SVE nepotrebne ili poverljive aplikacije.
     - Pokrenite program za snimanje koraka i ponovo predstavite problem dok ste prijavljeni sa korisničkim nalogom na koji to utiče.
-    - [Prikupljajte evidencije timova koje snimaju snimljene korake repropro.](https://docs.microsoft.com/microsoftteams/log-files) **Naznaka:** Proverite da li ste zabeležili adresu za prijavljivanje upečenog korisnika.
-    - Prikupite informacije o neis kvaru i/ili neispravnu kontejneru (Windows). Pokrenite Windows PowerShell na računaru na kojem je došlo do pada i pokrenite sledeće komande (nakon svake komande pritisnite taster Enter):
+    - [Prikupljajte evidencije timova koje snimaju snimljene korake repropro.](https://docs.microsoft.com/microsoftteams/log-files) 
+    
+    **Naznaka:** Proverite da li ste zabeležili adresu za prijavljivanje upečenog korisnika.
+    - Prikupite informacije o neis kvaru i/ili neispravnu kontejner (ili Windows). Pokrenite Windows PowerShell na računaru na kojem je došlo do pada i pokrenite sledeće komande (nakon svake komande pritisnite taster Enter):
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
     `notepad .\FaultBuckets.txt`

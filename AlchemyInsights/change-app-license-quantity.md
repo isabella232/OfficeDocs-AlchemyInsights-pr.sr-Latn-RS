@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502514"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321431"
 ---
 # <a name="change-app-license-quantity"></a>Promena količine licenci za aplikaciju
 
@@ -40,4 +40,4 @@ Možete da prikažete ili promenite broj licenci koje imate i da ih dodelite kor
 
 1. Idite na **stranicu "Naplata**  >  **[proizvoda".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **kartici** Proizvodi, u **odeljku Aplikacije** pronađite aplikaciju za koju želite da upravljate.
-3. U **Postavke & radnji** izaberite vezu Da biste **upravljali portalom izdavača**.
+3. U **Postavke & radnji** izaberite vezu da biste **upravljali portalom izdavača**.

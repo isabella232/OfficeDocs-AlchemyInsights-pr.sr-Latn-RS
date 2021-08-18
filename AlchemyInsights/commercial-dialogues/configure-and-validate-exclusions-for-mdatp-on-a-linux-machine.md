@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916429"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321299"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Konfigurisanje i provera valjanosti izuzetka za MDATP na Linux računaru
 
@@ -25,5 +25,4 @@ Određene datoteke, fascikle, procese i procesno otvorene datoteke možete da is
 
 Da biste saznali više, pogledajte konfigurisanje i provera valjanosti izuzetka za [MDATP za Linux.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
-> [!IMPORTANT]
-> Izuzetke opisane u ovom članku ne odnose se na druge mogućnosti MDATP za Linux, uključujući otkrivanje i odgovor na krajnjim tačkama (EDR). Datoteke koje izuzmete korišćenjem metoda opisanih u ovom članku i dalje mogu da EDR upozorenja i druge mogućnosti otkrivanja.
+**Važno:** Izuzetke opisane u ovom članku ne odnose se na druge mogućnosti MDATP za Linux, uključujući otkrivanje i odgovor na krajnjim tačkama (EDR). Datoteke koje izuzmete korišćenjem metoda opisanih u ovom članku i dalje mogu da EDR upozorenja i druge mogućnosti otkrivanja.

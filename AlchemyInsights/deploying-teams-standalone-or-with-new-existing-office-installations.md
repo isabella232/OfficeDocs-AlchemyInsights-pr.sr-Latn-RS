@@ -13,29 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: e8baefafc1c2f9583345779c5ae7a9d3d0e05c4b3b7e1b3a74a9a22f7ceed02a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6425b1eac3d5c99a6dfd227a1b445412c51a39b8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102216"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320136"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Primena Teams kao Kancelarija ili sa novim ili postojećim Kancelarija instalacijama
 
-Microsoft Teams je sada uključen u nove  instalacije sistema Microsoft 365 Apps za preduzeće, Microsoft 365 aplikacije za posao i programa Kancelarija za Mac. Više informacija potražite u [temi Kada Microsoft Teams počne da se uključuje uz nove instalacije programa Kancelarija?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams je sada uključen u nove  instalacije programa Microsoft 365 Apps za preduzeće, Microsoft 365 aplikacije za posao i Kancelarija za Mac. Više informacija potražite u Microsoft Teams kada će Microsoft Teams početi da se uključuje sa [novim instalacijama programa Kancelarija?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Pored toga, Teams će, počevši od verzije 1906 u trenutnom kanalu, biti dodat u postojeće instalacije sistema Microsoft 365 Apps za preduzeće (i Microsoft 365 aplikacije za posao) na uređajima koji rade Windows kada ažurirate postojeću instalaciju na najnoviju verziju.  Dodatne informacije potražite u [temi Šta se sa postojećim instalacijama Kancelarija?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Pored toga, Teams će, počevši od verzije 1906 u trenutnom kanalu, biti dodat u postojeće instalacije sistema Microsoft 365 Apps za preduzeće (i Microsoft 365 aplikacije za posao) na uređajima koji rade Windows kada ažurirate postojeću instalaciju na najnoviju verziju.  Dodatne informacije potražite u [temi Šta se desilo sa postojećim instalacijama Kancelarija?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-> [!NOTE]
-> Ako ne želite da čekate ovaj raspored primene, možete da primenite Teams [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) kao sami za korisnike tako što ćete pratiti ova uputstva ili možete da omogućite korisnicima da instaliraju Teams za [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) sebe.
+Na primer: Ako ne želite da čekate ovaj raspored primene, možete da primenite Teams [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) kao sami za korisnike tako što ćete pratiti ova uputstva ili možete da **omogućite** korisnicima da instaliraju aplikaciju Teams za sebe iz [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
 
-Ako vaša organizacija nije spremna da primeni Teams, imamo ***korake*** koje možete da [](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) preduzete [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) kako biste izuzeli Teams iz novih ili postojećih instalacija sistema Kancelarija. Ako želite da Teams instalirate, ali ne želite Teams da se pokrene automatski za korisnika nakon [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)instalacije, pogledajte sprečavanje Microsoft Teams automatskog pokretanja nakon instalacije.
+Ako vaša organizacija nije spremna da primeni Teams, imamo ***korake*** koje možete da [](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) preduzete [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) kako biste izuzeli Teams iz novih ili postojećih instalacija sistema Kancelarija. Ako želite da Teams instalirate, ali ne želite da se Teams automatski pokrene za korisnika nakon instalacije, pogledajte sprečavanje Microsoft Teams automatskog pokretanja nakon [instalacije.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-Da ***biste Teams na*** uređaju koji radi Windows, pogledajte tj. Microsoft Teams. [](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Da biste očistili Microsoft Teams više ciljnih računara ili korisnika, pogledajte Microsoft Teams [čišćenje primene.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+Da ***biste Teams*** na uređaju koji radi Windows, pogledajte Microsoft Teams. [](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Da biste očistili Microsoft Teams više ciljnih računara ili korisnika, pogledajte Microsoft Teams [čišćenje primene.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Ako koristite deljene računare, usluge udaljene radne površine (RDS) ili Infrastruktura virtuelne radne površine (VDI), pogledajte tp Deljeni računar i [VDI](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)okruženja pomoću Microsoft Teams.
+Ako koristite deljene računare, usluge udaljene radne površine (RDS) ili infrastrukturu virtuelne radne površine (VDI), pogledajte tp Deljeni računar i [VDI](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)okruženja pomoću Microsoft Teams.
 
-Ako koristite program Kancelarija Mac, pogledajte Microsoft Teams [instalacije na Mac računaru.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+Ako koristite uslugu Kancelarija Mac, pogledajte [Microsoft Teams instalacije na Mac računaru.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
 
-> [!NOTE]
-> Kada Teams instalira, on se automatski [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) ažurira otprilike svake dve nedelje novim funkcijama i ispravkama kvaliteta. 
+**Napomi:** Teams ispravke se automatski [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) ažuriraju otprilike svake dve nedelje novim funkcijama i ispravkama kvaliteta. 

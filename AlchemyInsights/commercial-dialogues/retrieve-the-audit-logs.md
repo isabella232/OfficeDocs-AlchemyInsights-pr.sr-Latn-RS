@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893605"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320457"
 ---
 # <a name="retrieve-the-audit-logs"></a>Preuzimanje evidencija nadzora
 
 Kada prvi put otvorite evidenciju nadzora, ona će biti prazna. Morate da pretražite da biste videli šta ima tamo. Evo kako da opštu pretragu potražite za sve aktivnosti:
 
 1. Uradite nešto od sledećeg:
-   - Na Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
+   - U e-Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na Nadzor  \> **rešenja**. Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://compliance.microsoft.com/auditlogsearch> .
    - Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na Nadzor . Ili, da biste direktno prešli na **stranicu Nadzor,** koristite <https://security.microsoft.com/auditlogsearch> .
 
 2. Na **kartici Pretraga** na **stranici** Nadzor konfigurišite sledeće postavke:

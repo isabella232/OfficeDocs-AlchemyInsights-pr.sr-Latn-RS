@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896125"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320503"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Popravljanje pravila za adresu pošiljaoca/listu domena
 
 Jedna od smernica za borbu protiv spam-pošte uticala je na ovu poruku. Pošiljalac poruke je pronađen na listi Dozvoli ili Blokiraj. Da biste pregledali smernice, uradite sledeće:
 
-1. Na portalu Microsoft 365 zaštitnik, idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnje pravilima za borbu protiv \>  \>  \> **spama** u odeljku **Smernice.**
+1. Na portalu Microsoft 365 zaštitnik , idite na odeljak Smernice za <https://security.microsoft.com/> **saradnju e-&** Smernice za saradnju & Smernice za pretnju pravilima za borbu protiv pošte u odeljku \>  \>  \>  Smernice. 
 
    Da biste prešli direktno na **stranicu Smernice za borbu protiv spam e-pošti,** koristite <https://security.microsoft.com/antispam> .
 
