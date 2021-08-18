@@ -1,5 +1,5 @@
 ---
-title: Zakažete sastanak u teams
+title: Planiranje sastanka u programu Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4e46bc1384051ff184a2ead669c495ea455b226263e0be30b37a339151d810a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090354"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Zakažete sastanak u teams
+# <a name="schedule-a-meeting-in-teams"></a>Planiranje sastanka u programu Teams
 
-**Važno** Ako imate problema sa kreiranjem sastanka ili ne možete da pronađete opciju sastanka u aplikaciji Teams, uverite se da korisnici na koje to utiče imaju omogućeno Exchange poštansko sanduče na podržanoj verziji za Microsoft Teams. Iako je preporučen Exchange Online, exchange berzanski poštanski sandučići su podržani u sistemu Exchange Server 2016 CU3 ili kasnije uz OAuth je uspešno konfigurisan između usluge Online i usluge "Premešteno". Dodatne informacije potražite u članku Pravljenje poštannih sandučića korisnika u sistemu [Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) i zahtevi za poštanske sandučiće [hostovane na internetu .](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
+**Važno** Ako imate problema sa kreiranjem sastanka ili ne možete da pronađete opciju sastanka u programu Teams, uverite se da korisnici na koje to utiče imaju omogućeno Exchange poštansko sanduče na podržanoj verziji za Microsoft Teams. Iako Exchange Online preporučujemo, Exchange poštanski sandučići su podržani na sajtu Exchange server 2016 CU3 ili kasnije uz OAuth uspešno konfigurisan između usluge Online i prenetog. Dodatne informacije potražite u članku Pravljenje poštannih sandučića [korisnika Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) i zahteve za poštanske sandučiće hostovane [na internetu](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
 1. Sastanak možete zakazati tako što ćete izabrati stavke:
 
@@ -33,8 +33,8 @@ ms.locfileid: "51815989"
 
 3. Na desnoj strani obrasca za planiranje možete da dodate kanal ili pojedinačne osobe ili da ostavite obe prazne da biste zakazali privatnu zakazanu obavezu.
 
-Dodatne informacije o pravljenju i planiranju sastanaka u aplikaciji Microsoft Teams potražite u članku Planiranje [sastanka u aplikaciji Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
+Više informacija o kreiranju i planiranju sastanaka u programu Microsoft Teams potražite u Microsoft Teams Planiranje sastanka u [programu Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Više informacija o ograničenjima i specifikacijama za sastanke potražite u članku Ograničenja i [specifikacije za Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
+Više informacija o ograničenjima i specifikacijama za sastanke potražite u članku Ograničenja i [specifikacije Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Pomoć za rešavanje problema sa Teams i Exchange interakcijama, posebno za probleme sa planiranjem delegata, možete da vidite u članku Rešavanje problema sa interakcijom u uslugama Microsoft Teams i [Exchange Server.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Pomoć za rešavanje problema Teams i Exchange, naročito za probleme sa planiranjem delegata, možete da vidite u Microsoft Teams problema Exchange server [interakcije.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

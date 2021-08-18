@@ -1,5 +1,5 @@
 ---
-title: Greška u licenciranju krajnjeg zareda
+title: Greška licenciranja za krajnju tačku DLP
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564867"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090168"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Greška u licenciranju krajnjeg zareda
+# <a name="endpoint-dlp-licensing-error"></a>Greška licenciranja za krajnju tačku DLP
 
-Kada pokušavate da podesite DEPS krajnje tačke, ako primite sledeću grešku:
+Kada pokušavate da podesite DLP krajnju tačku, ako dobijete sledeću grešku:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Uverite se da imate jednu od sledećih pretplata ili dodataka:
+Uverite se da imate jednu od sledećih pretplata ili dodatak:
 
 - Microsoft 365 E5
-- Microsoft 365 a5 (EDU)
-- Microsoft 365 E5 usaglašenost
-- Microsoft 365 a5 usaglašenosti
-- Microsoft 365 E5 zaštita i upravljanje informacijama
-- Microsoft 365 a5 Information zaštita i upravljanje
+- Microsoft 365 A5 (EDU)
+- Microsoft 365 E5 usaglašenosti
+- Microsoft 365 A5 usaglašenosti
+- Microsoft 365 E5 zaštita informacija i upravljanje
+- Microsoft 365 A5 zaštita informacija i upravljanje
 
 > [!NOTE]
-> To neće funkcionisati za kombinacije licenci kao što su: Win E5 + O365 E5 + EMS E5. Morate da imate čistu M365 E5 licencu da biste postavili ovu funkciju.
+> Ovo neće raditi za kombinacije licenci kao što su: Win E5 + O365 E5 + EMS E5. Morate da imate čistu licencu za M365 E5 da biste instalirali ovu funkciju.
 
-Dodatne informacije o licenciranju sa krajnjim tačkom potražite u članku [Dpp licenciranje krajnje tačke.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Za više informacija o DLP licenci za krajnju tačku pogledajte [DLP licenciranje krajnje tačke.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

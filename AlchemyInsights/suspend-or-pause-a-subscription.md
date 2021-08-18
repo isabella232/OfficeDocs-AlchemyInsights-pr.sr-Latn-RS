@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317358"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900814"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Obustavljanje ili pauziranje pretplate
 
-Da biste privremeno obustavali ili pauzovali pretplatu, možete da otkažete pretplatu u e-Microsoft 365 centar administracije.
+Da biste privremeno obustavljali ili pauzovali pretplatu, možete da otkažete pretplatu u e-Microsoft 365 centar administracije.
 
 1. U centru aktivnosti idite na stranicu  >  **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **kartici Proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**

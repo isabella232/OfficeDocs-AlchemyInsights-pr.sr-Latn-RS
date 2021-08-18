@@ -14,23 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542763"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901230"
 ---
-# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook programski dodatak (Delite na Teams , Sastani se odmah, Novi sastanak Teams, Pridružite se Teams sastanku)
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook programski dodatak (Deli na Teams , Sastani se odmah, Novi sastanak Teams sastanak, Pridruživanje Teams sastanku)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Da biste rešili probleme sa Teams Outlook programski dodatak koji nedostaje
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Rešavanje problema sa programski Teams Outlook koji nedostaje
 
-1. Pokrenite dijagnostiku "Programski dodatak tima nedostaje u programu Outlook", što proverava da li korisnik ima ispravne smernice kako bi omogućio Teams Outlook programski dodatak. Da biste pristupili dijagnostici, u polju za pretragu Teams otkucajte **Outlook Dijag:** Teams nedostaje u polju za pretragu.
+1. Pokrenite dijagnostiku "Programski dodatak tima nedostaje u programu Outlook", što proverava da li korisnik ima ispravne smernice kako bi omogućio Teams Outlook programski dodatak. Da biste pristupili dijagnostici, u polju za **pretragu otkucajte Teams:** programski dodatak koji Outlook nedostaje.
 
-1. Ako dijagnostika usluge ne ukazuje na probleme, preuzmite i Pomoćnik za podršku i oporavak Teams Outlook scenario programskog dodatka za [Microsoft Pomoćnik za podršku i oporavak](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook.**
+1. Ako dijagnostika usluge ne ukazuje na probleme, preuzmite i poništite scenario programskog dodatka [za Microsoft Pomoćnik za podršku i oporavak](https://aka.ms/SaRA-TeamsAddInScenario)Teams Outlook i ispravite sve probleme sa klijentima na koje ovo  >  utiče.
 
-Da biste ručno rešili probleme Teams Outlook koji nedostaje, pregledajte listu potencijalnih faktora koji mogu da izazovu da Teams programski dodatak ne bude naveden. Više informacija potražite u Teams [Sastanak u programu Outlook za Windows se ne vidi.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+Da biste ručno rešili probleme Teams Outlook koji nedostaje, pregledajte listu potencijalnih faktora koji mogu da izazovu Teams da se programski dodatak ne pojavi na listi. Više informacija potražite u Teams Sastanak u [programu Outlook za Windows se ne vidi.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Da biste rešili problem Teams sastanka u ime druge druge (Delegat)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Da biste rešili probleme Teams sastanka u ime druge druge (Delegate)
 
-Da biste zakazali sastanak Teams u ime druge strane, pogledajte rešavanje problema Microsoft Teams i [Exchange server interakcije.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Da biste zakazali sastanak Teams nečije ime, pogledajte rešavanje problema Microsoft Teams i [Exchange server interakcije.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

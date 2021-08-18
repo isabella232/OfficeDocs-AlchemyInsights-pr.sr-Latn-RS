@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004632"
 - "8367"
-ms.openlocfilehash: 2367a7a55d1837fa7c7095fd0ac10ff1cf7ae72d
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 991f323249e15abd137c3e69b400e40503ed30dec6507cc5071a0b1af7f72bb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090318"
 ---
 # <a name="configure-privacy-settings-in-microsoft-edge"></a>Konfigurisanje postavki privatnosti u programu Microsoft Edge
 
-Ako je Microsoft Edge primenen na platformama koje nisu Windows, dijagnostički podaci i informacije o lokaciji ne šalju se korporaciji Microsoft. Međutim, ako se Microsoft Edge koristi u operativnom sistemu Windows 10, dijagnostički podaci i informacije o lokaciji se šalju u skladu sa postavkama Windows dijagnostičkih [podataka korisnika.](https://go.microsoft.com/fwlink/?linkid=2132472)
+Ako je Microsoft Edge primenjena na platformama koje nisu Windows, dijagnostički podaci i informacije o lokaciji ne šalju se korporaciji Microsoft. Međutim, ako Microsoft Edge primenjena na lokaciji Windows 10, dijagnostički podaci i informacije o lokaciji se šalju u skladu sa postavkama dijagnostičkih podataka Windows [korisnika.](https://go.microsoft.com/fwlink/?linkid=2132472)
 
-Da biste konfigurisali način na koji Microsoft Edge rukuje kolekcijom podataka za organizaciju, koristite sledeće smernice grupe:
+Da biste konfigurisali Microsoft Edge za prikupljanje podataka za organizaciju, koristite sledeće smernice grupe:
 - [MetricsReportingEnabled](https://go.microsoft.com/fwlink/?linkid=2132470) uključuje izveštavanje o korišćenjem i podacima koji se odnose na padove.
-- [SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) šalje informacije o lokaciji koje se koriste za poboljšanje Microsoft usluga.
+- [SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) šalje informacije o sajtu koje se koriste za Microsoft usluge.
 
 Da biste saznali više, pogledajte [konfigurisanje postavki smernica.](https://go.microsoft.com/fwlink/?linkid=2132577)

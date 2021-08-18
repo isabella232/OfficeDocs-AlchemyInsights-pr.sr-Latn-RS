@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012142"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901482"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft stručnjaci za pretnje - Obaveštenje o ciljanim napadima
 
-Obaveštenje o ciljanim napadima je jedna od Microsoft stručnjaci za pretnje dve mogućnosti. Ona predstavlja proaktivnu uslugu za traganje pretnjama koja pruža posebne uvide i analizu koja obezbeđuje da se najvažnije pretnje identifikuju i tačno odgovore.
+Obaveštenje o ciljanim napadima je jedna od Microsoft stručnjaci za pretnje dve mogućnosti. To je usluga proaktivnog traganja pretnjama koja pruža posebne uvide i analizu koja osigurava da se najvažnije pretnje identifikuju i tačno odgovore.
 
-Ako ste microsoft zaštitnik za klijent krajnje tačke, morate da se prijavite za Microsoft stručnjaci za pretnje obaveštenja o ciljanim napadima da biste steknili specijalne uvide i analizu koji pomažu da identifikujete najbitnije pretnje kako biste mogli brzo da im odgovorite.
+Ako ste Microsoft zaštitnik za krajnje tačke, morate da se prijavite za obaveštenja o ciljanim napadima Microsoft stručnjaci za pretnje da biste stekli specijalne uvide i analizu koji pomažu da identifikujete najbitnije pretnje kako biste mogli brzo da im odgovorite.
 
-Da biste se prijavili Microsoft stručnjaci za pretnje – pogodnosti obaveštenja o ciljanim napadima, idite na **Postavke** Opšte napredne funkcije Microsoft stručnjaci za pretnje – obaveštenja o ciljanim napadima da biste ih  >    >    >   primenili. Kada ga prihvatite, dobijate pogodnosti obaveštenja o ciljanim napadima.
+Da biste se prijavili Microsoft stručnjaci za pretnje – pogodnosti obaveštenja o ciljanim napadima, idite na **Postavke** Opšte napredne funkcije Microsoft stručnjaci za pretnje – obaveštenja o ciljanim napadima da biste  >    >    >   ih primenili. Kada ga prihvatite, dobijate pogodnosti obaveštenja o ciljanim napadima.
 
 Možete da primite obaveštenja o ciljanim Microsoft stručnjaci za pretnje putem sledećeg medijuma:
 
@@ -38,4 +38,4 @@ Možete da primite obaveštenja o ciljanim Microsoft stručnjaci za pretnje pute
 
 Da biste primali obaveštenja o ciljanim napadima putem e-pošte, kreirajte pravilo za obaveštenja putem e-pošte. 
 
-Detalje [ćete videti u Microsoft stručnjaci za pretnje Konfigurisanje mogućnosti programa Microsoft stručnjaci za pretnje](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) upravljanje.
+Više [detalja ćete Microsoft stručnjaci za pretnje u temi Konfigurisanje mogućnosti programa](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) Microsoft stručnjaci za pretnje upravljati mogućnostima.

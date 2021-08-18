@@ -11,25 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7a26f7e1a18239a24b2ebf57fc4a3eccd07058a99638a14c18a9b358a79fb27b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060798"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901194"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams nadogradnje
 
-Bez obzira na to da li tek počinjete da koristite Teams, Teams pored usluge Skype za posao ili spremni za nadogradnju, želimo da obezbedimo da imate sve što vam je potrebno za putovanje na uspešno putovanje do Teams. Dodatne informacije potražite na vezama u nastavku.
+Bilo da tek počinjete da koristite Teams, već koristite Teams pored usluge Skype za posao ili spremni za nadogradnju, želimo da obezbedimo da imate sve što vam je potrebno da biste se uspešno putovali do Teams. Dodatne informacije potražite na vezama u nastavku.
 
-[Getting started with your Microsoft Teams upgrade](/MicrosoftTeams/upgrade-start-here)
+[Getting started with your Microsoft Teams upgrade](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Planiranje nadogradnje](/MicrosoftTeams/upgrade-plan-journey)
+[Planiranje nadogradnje](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Razumevanje Microsoft Teams i Skype za posao e-pošti](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Razumevanje Microsoft Teams Skype za posao i saradnje](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Izvršavanje nadogradnje sa usluge Skype za posao Online Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Izvršavanje nadogradnje sa usluge Skype za posao Online Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Izvršavanje nadogradnje Skype za posao do Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Izvršavanje nadogradnje Skype za posao do Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Provera statusa usluge Skype za posao Online da biste Teams nadogradili sa programom PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Provera statusa usluge Skype za posao Online da biste Teams nadogradili sa programom PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
