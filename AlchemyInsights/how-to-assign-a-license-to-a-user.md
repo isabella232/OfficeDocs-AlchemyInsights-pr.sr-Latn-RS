@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1a70fe2b468251f48eb3399e75dd414d3aa0fe02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896989"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319468"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Dodela ili poništi dodelu licenci korisnicima
 
@@ -33,4 +33,4 @@ Korisnik mora da ima licencu da bi pristupao uslugama. Evo koraka za dodelu lice
 3. U desnom oknu izaberite **stavku Licence i aplikacije**.
 4. Razvijte **odeljak Licence,** potvrdite ili opozovite izbor u po odeljcima za licence koje želite da dodelite ili poništite dodelu, a zatim **izaberite stavku Sačuvaj promene.**
 
-Dodatne informacije potražite u [temi Dodela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)i Poništi [dodelu licenci korisnicima.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
+Dodatne informacije potražite u [temi Dodela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)i Poništite [dodelu licenci korisnicima.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)

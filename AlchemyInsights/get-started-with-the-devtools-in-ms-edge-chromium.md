@@ -1,5 +1,5 @@
 ---
-title: Prvi koraci uz alatke za projektovanje u usluzi Microsoft Edge (Chromium)
+title: Prvi koraci uz alatke za programere u programerima Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116382"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Prvi koraci uz alatke za projektovanje u usluzi Microsoft Edge (Chromium)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Prvi koraci uz alatke za programere u programerima Microsoft Edge (Chromium)
 
-Microsoft Edge je usvojio projekt otvorenog izvora u hromu, koji ima za cilj da se Veb platforme manje i Veb aplikacije umanji. Ova promena će vam moći da koristite Microsoft Edge za izradu i testiranje Veb lokacija koje funkcionišu na drugim pregledačima zasnovanim na hromu.
+Microsoft Edge usvojio Chromium otvorenog izvornog projekta koji ima cilj da učini veb manje fragmentima i veb platformama kompatibilnijim. Ova promena će vam podstaći da koristite Microsoft Edge za izradu i testiranje veb lokacija koje rade u drugim pregledačima Chromium zasnovanim na sistemu.
 
-Microsoft Edge (Hromum) takođe pruža [Alatke za projektovanje najboljih funkcija u grupi](https://go.microsoft.com/fwlink/?linkid=2134941) koje bi trebalo da vam budu poznate i kompatibilne sa alatkama koje već koristite.
+Microsoft Edge (Chromium) takođe pruža najbolje alatke za [programere](https://go.microsoft.com/fwlink/?linkid=2134941) u klasi koje bi trebalo da budu upoznate sa vama i kompatibilne sa alatkama koje već koristite.
 
-Da biste saznali više, pogledajte članak [Šta je novo u programu Microsoft Edge (Hromum) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
+Da biste saznali više, [pogledajte šta je novo u programu Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).

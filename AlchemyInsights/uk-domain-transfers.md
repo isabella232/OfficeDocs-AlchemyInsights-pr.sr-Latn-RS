@@ -1,5 +1,5 @@
 ---
-title: . britanski transfere domena
+title: .uk transferi domena
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092325"
 ---
-# <a name="uk-domain-transfers"></a>. britanski transfere domena
+# <a name="uk-domain-transfers"></a>.uk transferi domena
 
-Obratite se Microsoft podršci i zatražite od nje da se **oznaka "IPS** " podudara sa registrom na koji želite da upravljate domen. Kada se oznaka promeni, domen se odmah prebacuje na novi registar. Zatim ćete morati da radite sa novim registrom da biste dovršili prenos, verovatno plaćali troškove transfera i dodali domen prenesen na nalog pomoću vašeg novog registra.
+Obratite se Microsoft podršci i zatražite promenu **IPS oznake** kako bi se u daljem radu podudarala sa registrom za koji želite da upravlja domenom. Kada se oznaka promeni, domen se odmah prenosi na novi registar. Tada ćete morati da radite sa novim registarom da biste dovršili prenos, verovatne naknade za prenos i dodavanje prenetog domena na nalog kod novog registra.
 
-Više informacija o prenosu domena potražite u članku [prenošenje domena sa korporacije Microsoft na drugi host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Dodatne informacije o prenosima domena potražite u [članku Prenos domena od korporacije Microsoft na drugi host.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
 
-Pripremite se da obezbedite oznaku IP-a za novi registrator, koji se može pronaći na https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Budite spremni da pružite IPS oznaku novog registra koja se nalazi na https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .

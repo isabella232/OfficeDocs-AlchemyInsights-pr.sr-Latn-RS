@@ -16,16 +16,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: b35a671b345600f9bbd03175ba2cc3d83ffb5602d0d5b0631e0a9c6bca09db50
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 793ef7991a06d15a850cdc8838f94e464df724a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887684"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319550"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Kako da ažuriram informacije o kreditnoj kartici?
 
-1. U centru aktivnosti idite na stranicu Naplata &  >  **stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru za administaciju idite na stranicu Računi   >  **& stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 2. Izaberite red načina plaćanja koji treba ažurirati. U desnom oknu izaberite stavku **Uredi**.
 3. Ažurirajte informacije o načinu plaćanja, uključujući ime sa kreditne ili debitne kartice, adrese fakturisanje ili datuma isteka, a zatim izaberite stavku **Sačuvaj**.
 

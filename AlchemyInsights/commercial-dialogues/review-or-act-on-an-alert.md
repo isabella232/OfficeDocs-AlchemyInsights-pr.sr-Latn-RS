@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3342b24c744a6a3990aaa397abdfab36bfc4ebcf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897057"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319708"
 ---
 # <a name="review-or-act-on-an-alert"></a>Pregled obaveštenja ili delovanje na obaveštenje
 
@@ -26,7 +26,7 @@ Sledite ove korake:
 
 1. Uradite nešto od sledećeg:
    - U e-Microsoft 365 centar za usaglašenost <https://compliance.microsoft.com> , idite na **Obaveštenja**. Ili otvorite stranicu direktno na <https://compliance.microsoft.com/compliancealerts> .
-   - Na portalu Microsoft 365 zaštitnik , <https://security.microsoft.com> idite na **Obaveštenja**. Ili otvorite stranicu direktno na <https://security.microsoft.com/alerts> .
+   - Na portalu Microsoft 365 zaštitnik na <https://security.microsoft.com> , idite na **Obaveštenja**. Ili otvorite stranicu direktno na <https://security.microsoft.com/alerts> .
 2. Izaberite obaveštenje. U iletu detalja koji se pojavljuje pogledajte šta je pokrenulo upozorenje.
 3. Kliknite na obezbeđenu vezu ako želite da preduzmete radnju na obaveštenju.
 4. Kliknite **na dugme** Reši ako želite da zatvorite upozorenje.

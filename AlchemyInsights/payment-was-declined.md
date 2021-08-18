@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087222"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319906"
 ---
 # <a name="your-payment-was-declined"></a>Uplata je odbijena
 
@@ -27,7 +27,7 @@ Microsoft će pokušati da izvrši naplatu sa vaše kreditne kartice nekoliko pu
 
 **Zamena načina plaćanja za sve artikle**
 
-1. U centru za administaciju idite na **stranicu** Računi  >  **& stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru za administaciju idite na stranicu Računi   >  **& stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Izaberite red načina plaćanja koji treba zameniti. U desnom oknu navedeni su svi profili naplate i pojedinačne pretplate koje koriste izabrani način plaćanja.
 
@@ -35,8 +35,7 @@ Microsoft će pokušati da izvrši naplatu sa vaše kreditne kartice nekoliko pu
 
 4. Da biste koristili postojeći način plaćanja, odaberite jedan sa padajuće liste, a zatim izaberite **stavku Zameni**.
 
-    > [!NOTE]
-    > Ako imate pretplate povezane sa profilom naplate, za njih možete da koristite samo kreditnu ili debitnu karticu. Ako imate račune u banci  navedene na stranici Načini plaćanja, oni nisu dostupni za biranje sa padajuće liste.
+    Naznaka: Ako imate pretplate povezane sa profilom **naplate,** možete da koristite samo kreditnu ili debitnu karticu da biste ih platili. Ako imate račune u banci  navedene na stranici Načini plaćanja, oni nisu dostupni za biranje sa padajuće liste.
 
 5. Da biste dodali novi način plaćanja, izaberite **stavku Dodaj način plaćanja.**
 
@@ -46,7 +45,7 @@ Microsoft će pokušati da izvrši naplatu sa vaše kreditne kartice nekoliko pu
 
 **Ažuriranje detalja o načinu plaćanja**
 
-1. U centru za administaciju idite na **stranicu** Računi  >  **& stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru za administaciju idite na stranicu Računi   >  **& stranicu Načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Izaberite red načina plaćanja koji treba ažurirati. U desnom oknu izaberite stavku **Uredi**.
 

@@ -15,23 +15,22 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502190"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319514"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Kako da dodate ili uredite ID pdv-a
 
-> [!NOTE]
-> Ako ste u zemlji u kojoj se koristi porez na dodatu vrednost (PDV), kao što je Ujedinjeno Kraljevstvo, Microsoft Invoicing izračunava PDV za vas i primenjuje taj iznos na fakture. Više informacija potražite u članku [VIES oduzimanje prava](https://go.microsoft.com/fwlink/p/?LinkID=841741) koje je objavila Evropska provizija.
+Na primer: Ako ste u zemlji u kojoj se koristi porez na dodatu vrednost (PDV), kao što je Ujedinjeno Kraljevstvo, Microsoft Invoicing izračunava PDV za vas i primenjuje iznos na **fakture.** Više informacija potražite u članku [VIES oduzimanje prava](https://go.microsoft.com/fwlink/p/?LinkID=841741) koje je objavila Evropska provizija.
 
 **Dodavanje ili uređivanje ID-a pdv-a**
 
-1. U centru za administaciju idite na **stranicu** \> [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru aktivnosti idite na  stranicu \> [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi izaberite pretplatu koju želite da ažurirate.
 3. Na stranici sa detaljima pretplate, u **odeljku Adresa usluge izaberite** stavku **Uredi adresu za korišćenje usluge.**
 4. U **oknu Uređivanje adrese za korišćenje usluge** otkucajte ID za PDV u polju Broj **PDV-a,** a zatim izaberite stavku **Sačuvaj**. Kada to uradite, PDV neće biti naplaćen na sledećem računu.
 
-Da biste saznali više, pogledajte koji porez će mi [biti naplaćen Microsoft 365?.](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)
+Da biste saznali više, [pogledajte koji porez će mi biti naplaćen Microsoft 365?.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)

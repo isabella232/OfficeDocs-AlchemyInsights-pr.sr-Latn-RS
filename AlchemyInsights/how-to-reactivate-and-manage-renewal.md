@@ -16,30 +16,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5d5a82afa849b7de7750ec997da007cd89763696
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e8965db163c659a80c8515b133302ec64aa0fdf6e742bbbe56b0d7dc25d7656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116016"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Kako ponovo aktivirati pretplatu i upravljati periodičnom naplatom
 
 Izgleda da imate pretplatu koja je istekla. Ako želite da je ponovo aktivirate, evo kako.
   
-1. U centru aktivnosti idite na stranicu  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi pronađite pretplatu koju želite ponovo da aktivirate. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Ponovo aktiviraj ovu pretplatu.**
 3. U **oknu Ponovo aktiviraj ovu pretplatu** izaberite način plaćanja sa padajuće liste ili izaberite stavku **Dodaj način plaćanja.**
 4. Izaberite **Sačuvaj**.
 
-Da biste saznali više, pogledajte članak [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Da biste saznali više, pogledajte članak [Ponovno aktiviranje pretplate](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Da biste upravljali mesečnom ili godišnjom naplatom, možete da uključite ili isključite **periodičnu naplatu**.
   
-1. U centru aktivnosti idite na stranicu  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi izaberite pretplatu koju želite da promenite.
 3. Na stranici detalji o pretplati, u okviru Postavke pretplate i **plaćanja** izaberite stavku **Uredi periodičnu naplatu.**
-4. U **oknu Uređivanje postavki periodične naplate** izaberite stavku **Uključi**, **Uključi, ali obnovi jednom** ili **Isključi**.
+4. U **oknu Uređivanje postavki periodične naplate** izaberite stavku Uključi **,** **Uključi, ali obnovi jednom** ili **Isključi**.
 5. Izaberite **Sačuvaj**.
 
-Da biste saznali više, pogledajte članak [Isključivanje ili uključivanje periodične naplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Da biste saznali više, pogledajte članak [Isključivanje ili uključivanje periodične naplate](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092434"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Rešavanje problema sa smernicama za Intune i profile
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Rešavanje problema sa Intune smernicama i profilima
 
-Da biste videli postojeće smernice, rešili probleme sa neusaglašenošću, pregledali podatke evidencije i videli uobičajena pitanja i pitanja, sledeće vodiči mogu da pomognu.
+Da biste videli postojeće smernice, rešili neusaglašenosti, pregledali podatke evidencije i videli uobičajena pitanja i probleme, sledeći vodiči vam mogu pomoći.
 
-- [Rešavanje problema sa smernicama i profilima u Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [Rešavanje problema sa smernicama i profilima u funkciji Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Uobičajena pitanja, problemi i rezolucije pomoću smernica uređaja i profila u programu Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Uobičajena pitanja, problemi i rešenja sa smernicama uređaja i profilima u intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Nadgledanje profila konfiguracije uređaja i prikaz neusaglašenosti u Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Nadgledanje profila konfiguracije uređaja i prikaz neusaglašenosti u programu Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Rešavanje problema sa usaglašenošću uređaja i uslovno pristup u Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Rešavanje problema sa usaglašenošću i uslovnim pristupom na uređaju Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Nadgledanje smernica usaglašenosti i prikaz neusaglašenosti u Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Nadgledanje smernica za usaglašenost i prikaz neusaglašenosti u programu Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Slanje podataka evidencije Intune u Azure skladište, čvorišta događaja ili analitiku evidencije](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Slanje podataka Intune evidencije u Azure skladište, čvorišta događaja ili analističke analističke podatke evidencije](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Pogledajte pregled da biste [konfigurisali uređaje](https://docs.microsoft.com/intune/device-profiles) ili [koristili smernice za usaglašenost](https://docs.microsoft.com/intune/device-compliance-get-started).
+Pogledajte pregled za konfigurisanje uređaja [ili upotrebu](https://docs.microsoft.com/intune/device-profiles) [smernica za usaglašenost.](https://docs.microsoft.com/intune/device-compliance-get-started)
