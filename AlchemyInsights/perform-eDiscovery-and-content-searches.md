@@ -14,30 +14,29 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086826"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317490"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako se izvršavaju pretrage sadržaja i pretrage e-pošti
 
 **Da biste izvršili pretragu sadržaja:**
 
 1. Idite u Microsoft 365 centra za usaglašenost i prijavite se.
-2. Izaberite **stavku Pretraga > sadržaja**.
+2. Izaberite **stavku Pretraga > sadržaj .**
 3. Izaberite **stavku Nova pretraga** da biste kreirali novu pretragu.
 4. Unesite potrebne uslove pretrage uključujući ključne reči i lokacije sadržaja.
-5. Izaberite **sačuvaj & pokreni da** biste imenili pretragu, započeli je, a zatim pregledali rezultate.
+5. Izaberite **sačuvaj & pokreni da** biste imenili pretragu, pokrenuli je, a zatim pregledali rezultate.
 
-> [!NOTE]
-> U **Microsoft 365** centra za usaglašenost, razvijte e-discovery i izaberite željenu  >  alatku za e-discovery. 
+Napoma: **U Microsoft 365** centra za usaglašenost, razvijte   >   **e-discovery** i izaberite željenu alatku za e-discovery.
 
-Detaljna uputstva o pretragama sadržaja, izvozu rezultata i pravljenju slučajeva e-discovera za čuvanje podataka potražite u temi Pretraga sadržaja i [slučajevi e-dekoverije.](/microsoft-365/compliance/ediscovery-cases) [](/microsoft-365/compliance/content-search)
+Detaljna uputstva o pretragama sadržaja, izvozu rezultata i pravljenju slučajeva e-discovera za čuvanje podataka potražite u temi Pretraga sadržaja i [slučajevi e-dekoverije.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) [](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
 **Više informacija:**
 
-- Dodatne informacije o alatkama za e-Microsoft 365 u e-Microsoft 365 potražite u [temi e-discovery](/microsoft-365/compliance/ediscovery).
-- Saznajte više o dozvolama, zahtevima i ograničenjima neophodnim za izvršavanje pretraga e-discovera [](/microsoft-365/compliance/limits-for-content-search)iz dozvola potrebnih za [pretrage e-discovery,](/microsoft-365/compliance/assign-ediscovery-permissions) zahteve i ograničenja.
-- Ako rešavate probleme sa e-otklanjanjem, pogledajte rešavanje uobičajenih problema i [istraživanje](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) delimično [indeksiranih stavki.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+- Dodatne informacije o alatkama za e-Microsoft 365 [e-Microsoft 365 u e-discovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Saznajte više o dozvolama, zahtevima i ograničenjima neophodnim za izvršavanje pretraga e-discovera [](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)iz dozvola potrebnih za [pretrage e-discovery,](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) zahteve i ograničenja.
+- Ako rešavate probleme sa e-otklanjanjem, pogledajte rešavanje uobičajenih problema i [istraživanje](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) delimično [indeksiranih stavki.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

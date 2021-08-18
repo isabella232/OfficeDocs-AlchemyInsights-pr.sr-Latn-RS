@@ -15,20 +15,20 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: eed4a608153248bd2feba8bd1aa0a8a66d55edb54b3d5fecb88d69fd2e165fcf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062526"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900934"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Ponovo aktivirajte Microsoft 365 pretplatu
 
-Ako pretplata istekne, onemogućila je Korporacija Microsoft ili ste je otkazali usred trajanja pretplate, možete ponovo da je aktivirate u centru za administraciju.
+Ako pretplata istekne, onemogućila je Korporacija Microsoft ili ste je otkazali usred trajanja pretplate, možete ponovo da je aktivirate u centru aktivnosti.
   
-1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru aktivnosti idite na stranicu  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi pronađite pretplatu koju želite ponovo da aktivirate. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Ponovo aktiviraj ovu pretplatu.**
 3. U **oknu Ponovo aktiviraj ovu pretplatu** izaberite način plaćanja sa padajuće liste ili izaberite stavku **Dodaj način plaćanja.**
 4. Izaberite **Sačuvaj**.
 
-Da biste saznali više, pogledajte članak [Ponovno aktiviranje pretplate](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Da biste saznali više, pogledajte članak [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

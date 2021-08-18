@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107031"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317358"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Obustavljanje ili pauziranje pretplate
 
-Da biste privremeno obustavljali ili pauzovali pretplatu, možete da otkažete pretplatu u e-Microsoft 365 centar administracije.
+Da biste privremeno obustavali ili pauzovali pretplatu, možete da otkažete pretplatu u e-Microsoft 365 centar administracije.
 
-1. U centru za administaciju idite na **stranicu**  >  **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru aktivnosti idite na stranicu  >  **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **kartici Proizvodi** pronađite pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
-3. Status pretplate se prikazuje  kao Onemogućeno i prikazuje datum kada je pretplata otkazana. Pretplata ostaje u onemogućenom stanju 90 dana i smanjena funkcionalnost dok se ne izbriše ili [ponovo aktivira.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+3. Status pretplate se prikazuje  kao Onemogućeno i prikazuje datum kada je pretplata otkazana. Pretplata ostaje u onemogućenom stanju 90 dana i smanjena funkcionalnost dok se ne izbriše ili [ponovo aktivira.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Više informacija potražite u članku [Šta se dešava kada otkažete pretplatu i](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Sačuvate podatke.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
+Više informacija potražite u članku [Šta se dešava kada otkažete pretplatu i](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Sačuvate podatke.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

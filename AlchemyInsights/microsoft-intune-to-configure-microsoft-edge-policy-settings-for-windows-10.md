@@ -1,5 +1,5 @@
 ---
-title: Korišćenje usluge Microsoft Intune za konfigurisanje postavki Microsoft Edge smernica za Windows 10
+title: Koristite Microsoft Intune da biste konfigurisali Microsoft Edge smernica za Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114150"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Korišćenje usluge Microsoft Intune za konfigurisanje postavki Microsoft Edge smernica za Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Koristite Microsoft Intune da biste konfigurisali Microsoft Edge smernica za Windows 10
 
-Microsoft Edge smernice i postavke možete da konfigurišete tako što ćete dodati profil konfiguracije uređaja u Microsoft Intune. Ovo je podebljano tako da konfigurišete Microsoft Azure Active Directory smernice grupe ili postavke objekta lokalne smernice grupe (GPO) na korisničkim uređajima.
+Možete da konfigurišete Microsoft Edge smernice i postavke tako što ćete dodati profil konfiguracije uređaja u Microsoft Intune. Ovo je podesno za konfigurisanje smernica Microsoft Azure Active Directory grupe ili lokalnih objekata smernica grupe (GPO) na korisničkim uređajima.
 
-Da biste saznali više, pogledajte [članak Kreiranje profila za upravljanje postavkama u programu Microsoft Edge za Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
+Da biste saznali više, [pogledajte kreiranje profila za upravljanje postavkama u programu Microsoft Edge for Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
 
-Ovaj članak se odnosi na Microsoft Edge verzije 77 i novije.
+Ovaj članak se odnosi Microsoft Edge verzije 77 i novije.

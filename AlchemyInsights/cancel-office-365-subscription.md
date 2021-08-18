@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b55130a5e3ddc42c32658115809035ce792fa3868ff62b16a94c80d91572568a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303843"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900486"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Otkazuje pretplatu Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Otkazivanje Microsoft 365 pretplate?
 
 Žao nam je što odlazite, ali ako želite da otkažete pretplatu, evo opcija:
   
@@ -30,6 +30,7 @@ ms.locfileid: "58303843"
 
 **Refundnica: Bilo koji proporciran kredit će vam biti vraćen u sledećem ciklusu naplate.**
 
-**Natpis:** Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U **odeljku Postavke pretplate i plaćanja izaberite** stavku **Otkaži pretplatu.**
+> [!NOTE]
+> Ako ne vidite opciju za otkazivanje, izaberite pretplatu da biste prikazali stranicu sa detaljima. U **odeljku Postavke pretplate i plaćanja izaberite** stavku **Otkaži pretplatu.**
 
 Da biste saznali više, [pogledajte otkazivanje pretplate.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft eksperti za pretnju – eksperti na zahtev
+title: Microsoft stručnjaci za pretnje – Stručnjaci na zahtev
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113934"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft eksperti za pretnju – eksperti na zahtev
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft stručnjaci za pretnje – Stručnjaci na zahtev
 
-Eksperti za potražnju su drugi mogućnosti Microsoft eksperata za pretnju. Ovo je mesto gde možete da nam se obratite kada vam je potrebna konsultacija o relevantnim pitanjima u vezi sa njima.
+Stručnjaci na zahtev su druge Microsoft stručnjaci za pretnje mogućnosti. Ovo je mesto gde možete da nam se obratite kada vam je potrebna konsultacija o relevantnim pitanjima u vezi sa otkrivanjem i protivnicima.
 
-Ako ste već branilac za krajnju tačku, možete da se obratite svom Microsoft predstavniku da se pretplatite na Microsoft stručnjake za pretnje – stručnjake na zahtev.
+Ako ste već zaštitnik za krajnje tačke, možete da se obratite Microsoft predstavniku da biste se pretplatili na Microsoft stručnjaci za pretnje – stručnjake na zahtev.
 
-Opcija za **konsultaciju eksperta za pretnju** je dostupna u sledećim menijima na portalu gde možete da se angažujete sa ekspertima u kontekstu istrage:
+Opcija **"Konsultuj** stručnjaka za pretnje" dostupna je u sledećim menijima na portalu gde možete da se obratite stručnjacima u kontekstu istraživanja:
 
-- Meni "pomoć i podrška"
-- Meni "radnje stranice" za device
-- Meni "radnje stranice" sa obaveštenjem
-- Meni "radnje stranice"
+- Meni "Pomoć i podrška"
+- Device page actions menu
+- Alerts page actions menu
+- File page actions menu
 
-Više informacija potražite u članku [Konfigurisanje i upravljanje Microsoft sposobnostima eksperata za pretnje](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Dodatne informacije potražite u [Microsoft stručnjaci za pretnje Konfigurisanje mogućnosti programa Microsoft stručnjaci za pretnje upravljanje.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
