@@ -1,6 +1,6 @@
 ---
 title: Azure Information Protection (AIP) oznake
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52125243"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451756"
 ---
 # <a name="azure-information-protection-aip-labels"></a>Azure Information Protection (AIP) oznake
 
-Upravljanje Azure Information Protection (AIP) oznakama na Azure portalu, a AIP klijentu više nije dostupno od 31. marta 2021. Više informacija potražite u temi Označavanje, klasifikacija i zaštita [usluge Azure Information Protection (AIP).](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Upravljanje Azure Information Protection (AIP) oznakama na Azure portalu i AIP klijentu zastarelo je od 31. marta 2021. Za više informacija, pogledajte članak [Označavanje, klasifikacija i zaštita u usluzi Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection).
 
-Za kreiranje i upravljanje nalepnicama koristite mogućnosti za uobličivanje nalepnica u Microsoft 365 umesto toga. 
+Za kreiranje i upravljanje oznakama, umesto toga koristite objedinjene mogućnosti označavanja u Microsoft 365. 
 
-Detalje možete da vidite u:
+Za više detalja pogledajte:
 
-[Upravljanje oznakama osetljivosti u Kancelarija aplikacijama](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+[Upravljajte oznakama osetljivosti u Office aplikacijama](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
-[Saznajte više o oznakama osetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+[Saznajte nešto više o oznakama osetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Listu poznatih problema sa AIP funkcijama potražite u temi [Poznati problemi – Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/known-issues)
+Listu poznatih problema sa AIP funkcijama potražite u članku [Poznati problemi – Azure Information Protection](https://docs.microsoft.com/azure/information-protection/known-issues).
