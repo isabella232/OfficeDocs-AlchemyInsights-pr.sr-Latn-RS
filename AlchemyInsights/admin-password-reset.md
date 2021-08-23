@@ -1,5 +1,5 @@
 ---
-title: Poništavanje lozinke administratora
+title: Poništavanje lozinke za adminimenatu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 13d4591fee375ed2ebbbef68220292f910c5eb3d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 26cb1ca85b63e5d99ce9a86c800d2b076eb6f441
+ms.sourcegitcommit: 3654e244361988ae92a16087d00a458277aff439
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315970"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58422494"
 ---
-# <a name="admin-password-reset"></a>Poništavanje lozinke administratora
+# <a name="admin-password-reset"></a>Poništavanje lozinke za adminimenatu
 
 - Koristite [Poništavanje lozinke za Self Service](https://passwordreset.microsoftonline.com/) (SSPR) da biste poništili administratorsku lozinku.
 
-- Ako ste zaboravili [lozinku,](https://mysignins.microsoft.com/security-info)ali ste prijavljeni pomoću keširanih akreditiva, dodajte ili promenite bezbednosne informacije na početnoj > "Moj nalog> bezbednosne informacije", a zatim ponovo promenite lozinku koristeći [SSPR.](https://passwordreset.microsoftonline.com/) (Većina naloga zahteva alternativnu e-poštu i broj telefona da bi se dovršilo uspostavljanje početnih vrednosti).
+- Ako ste zaboravili lozinku, ali ste prijavljeni pomoću keširanih akreditiva, možete da promenite bezbednosne informacije na svom nalogu [>](https://mysignins.microsoft.com/security-info)bezbednosne informacije, a zatim da poništite lozinku koristeći [SSPR.](https://passwordreset.microsoftonline.com/) (Većina naloga zahteva alternativnu e-poštu i broj telefona da bi se dovršilo uspostavljanje početnih vrednosti).
 
-- Ako ste zaboravili korisničko ime, pretražite alternativnu/ličnu e-poštu za ". onmicrosoft.com" da biste pronašli e-poruku koja ga možda sadrži.  Korisničko ime možete da pronađete i u Office 365 aplikacijama na gornjoj desnoj traci ili tako što ćete otići na **Datoteka > Nalog**.
+- Ako ste zaboravili korisničko ime, potražite **.onmicrosoft.com** alternativnu/ličnu adresu e-pošte da biste pronašli e-poruku koja ga možda ima.  Korisničko ime možete da nađete i Office 365 aplikacijama u gornjoj desnoj traci ili tako što ćete ići na **Nalog**  >  **datoteke**.
 
-- Drugi administrator može da poništi lozinku iz odeljka **Korisnici > [Aktivni korisnici](https://portal.office.com/adminportal/home#/users)**. Izaberite nalog i kliknite na ikonu tastera.  Ako su akreditivi keširani, možete da [kreirate novi nalog administracije](https://portal.office.com/adminportal/home#/users), prijavite se pomoću tog naloga, a zatim poništite sopstvenu administratorsku lozinku.
+- Drugi korisnik može da poništi lozinku od **korisnika koji > [aktivni korisnici](https://portal.office.com/adminportal/home#/users)**; izaberite nalog, a zatim izaberite ikonu ključa.  Ako su akreditivi keširani, možete da [kreirate novi nalog administracije](https://portal.office.com/adminportal/home#/users), prijavite se pomoću tog naloga, a zatim poništite sopstvenu administratorsku lozinku.
 
 Za više scenarija mirovanja lozinke, pokušajte [Resetovanje Office 365 business lozinke](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) ili otvorite predmet podrške za pomoć.

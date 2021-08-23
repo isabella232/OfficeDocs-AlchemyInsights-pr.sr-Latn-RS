@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+- "13637"
+- "9008577"
+ms.openlocfilehash: 33a878f104fc0af7be59c59e0b860be173916bd2
+ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316888"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361972"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Primena Microsoft Edge na iOS, iPadOS i Android
 
 Vođeni scenario rezime u nastavku pomoći će vam da Microsoft Edge korisnicima iOS, iPadOS i Android uređaja.
 
-Natpis: Ako ste blokirali upisanje korisnika za **mobilne uređaje,** ovaj vođeni scenario neće raditi i korisnici će morati sami da instaliraju Microsoft Edge uređaja.
+Natpis: Ako ste blokirali upisanje korisnika za **mobilne uređaje,** ovaj vođeni scenario neće raditi i korisnici će morati sami da instaliraju Microsoft Edge uređaje.
 
 Vođeni scenario obuhvata sledeće korake:
 
@@ -38,6 +40,6 @@ Vođeni scenario obuhvata sledeće korake:
 Kada dovršite korake u vođenom scenariju, Microsoft Intune smernice će omogućiti sledeće funkcije usluge Microsoft Edge za preduzeća:
 
 - Dual identity
-- Integracija sa Microsoft Intune smernicama za zaštitu aplikacije
+- Integracija sa Microsoft Intune za zaštitu aplikacije
 - Integracija sa proxy Azure Active Directory aplikacije
 - Kontrolisane omiljene lokacije i prečice na matičnoj stranici
