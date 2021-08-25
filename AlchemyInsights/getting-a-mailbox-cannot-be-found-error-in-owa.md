@@ -1,5 +1,5 @@
 ---
-title: 126 Nije moguće pronaći grešku Pribavljanje poštanskog sandučeta u programu OWA?
+title: 126 Nije moguće pronaći grešku Prilikom dobijanja poštanskog sandučeta u programu OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056504"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522368"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Dobijate grešku "Nije pronađeno poštansko sanduče" Outlook na vebu?
 
-Ako koristite Outlook na vebu i dobijate poruku  o grešci nije moguće pronaći poštansko sanduče, nalog koji ste koristili za povezivanje sa uslugom Outlook na vebu nema licencu za Exchange Online zato nije povezano nijedno poštansko sanduče sa nalogom. Vaš administart može da dodeli licencu vašem nalogu tako što će pratiti ove korake:
+Ako dobijete grešku Outlook Web App (OWA: "Nije moguće pronaći poštansko sanduče za korisnika .", to znači da prijavljeni korisnik nema Exchange Onlince Licenca i sp, nijedan Exchange Online poštansko sanduče nije povezano sa ovim korisničkim nalogom. 
 
-1. Otvorite prozor [Microsoft 365 centar administracije](https://portal.office.com/adminportal/home#/homepage) idite na stavku  **Aktivni korisnici** u okviru odeljka Korisnici i izaberite korisnika koji vidite grešku.
+Administrator organizacije može da dodeli Exchange licencu putem Microsoft 365 centar administracije na sledeći način:
 
-2. Na stranici korisnika koja se  otvori, idite na odeljak Licence i aplikacije, izaberite odgovarajuću vrednost Lokacije i dodelite licencu koja sadrži Exchange Online (razvijte licencu da biste videli detalje o njoj).  Kada završite, kliknite na dugme **Sačuvaj promene.**
-
-U nekim slučajevima, ako je licenca već dodeljena korisničkom nalogu, uklanjanje i ponovna dodela licence pomaže u rešavanju problema i ispravno je obezbeđena u sistemu: 
-
-- Proverite da li su vaše M365 Exchange Online (i druge, ako ih imate) aktuelne i da nisu nedavno istekle.
-
-Kada se uverite da vam pretplata nije istekla i da je dodeljena važeća licenca korisničkom nalogu, do obezbeđivanje licence može da protekne i do 24 časa, tako da ćete možda morati da sačekate da se problem reši. Dodatne informacije potražite u [članku Dodeljivanje licenci i upravljanje im.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Idite na [Aktivni korisnici](https://portal.office.com/adminportal/home#/users), izaberite korisnika i izaberite stavku **Uređivanje licenci**  >  **proizvoda**. 
+1. Postavite potrebnu lokaciju.
+1. Dodelite licencu koja ima Exchange Online plan usluge.
