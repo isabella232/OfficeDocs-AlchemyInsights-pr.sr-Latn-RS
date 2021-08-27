@@ -3,7 +3,6 @@ title: Prenos licenci između zakupaca
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "1500021"
 - "4689"
-ms.openlocfilehash: 4ab89bacadea74ff3eba8d42ee1340164bded2816e274b8222dd48613c01e5ba
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/27/2021
+ms.openlocfilehash: bd928d945072eeebb4fd47d61982e75b0d317f66
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901158"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679349"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Prenos licenci između zakupaca
 
@@ -31,6 +31,6 @@ ms.locfileid: "57901158"
 - U svakom slučaju, možda ćete želeti da migrirate poštanske sandučiće i druge podatke:
 
     - [Migriranje poštanskih sandučića](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-    - [Migr SharePoint podataka](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
+    - [Migrvanje SharePoint podataka](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
 
 Više informacija potražite u članku [Kupovina ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
