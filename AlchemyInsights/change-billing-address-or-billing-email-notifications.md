@@ -3,7 +3,6 @@ title: Promena adrese za naplatu ili obaveštenja putem e-pošte za naplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,24 +15,25 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332495"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842023"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Promena adrese za naplatu ili obaveštenja putem e-pošte za naplatu
 
 **Promena Bill-To adrese**
 
-1. U centru > za naplatu idite na stranicu **> [Načini plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. U centru > za naplatu idite na **stranicu > [Načini plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Izaberite kreditnu karticu ili račun u banci koje želite da promenite.
 
 3. Na stranici Detalji **o načinu plaćanja** kliknite na dugme **Uredi.**
 
-4. Ažurirajte adresu faktura, a zatim **kliknite na dugme Sačuvaj > Gotovo**.
+4. Ažurirajte adresu faktura, a zatim kliknite **na dugme Sačuvaj > Gotovo**.
 
 **Promena alternativne adrese e-pošte na koju se šalju obaveštenja o naplati** 
 

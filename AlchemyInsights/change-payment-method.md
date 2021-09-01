@@ -3,7 +3,6 @@ title: Promena načina plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,18 +14,19 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 924c3afce5ceda57175de1f638a2a4012b2ba96b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324050"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836839"
 ---
 # <a name="change-payment-method"></a>Promena načina plaćanja
 
 Način plaćanja možete da promenite **iz** Microsoft 365 centar administracije.
   
-1. U centru za administaciju idite na **stranicu** Računi  >  **& načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru za administaciju idite na **stranicu** Računi  >  **& stranicu**  >  [Načini plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 2. Izaberite red načina plaćanja koji treba zameniti. U desnom oknu navedeni su svi profili naplate i pojedinačne pretplate koje koriste izabrani način plaćanja.
 3. U desnom oknu izaberite stavku **Zameni način plaćanja za sve stavke**.
 4. Da biste koristili postojeći način plaćanja, odaberite jedan sa padajuće liste, a zatim izaberite **stavku Zameni**.

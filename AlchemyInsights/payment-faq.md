@@ -3,7 +3,6 @@ title: Najčešća pitanja u vezi sa plaćanjem
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +13,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895721"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841915"
 ---
 # <a name="payment-faq"></a>Najčešća pitanja u vezi sa plaćanjem
 
 Upravljajte plaćanjima u **Microsoft 365 centar administracije**.
 
-- Idite na **> Naplata [za proizvode da](https://go.microsoft.com/fwlink/p/?linkid=842054)** biste dodelili ili promenili načine plaćanja pretplate.
+- Idite u **> Naplata [Vaši proizvodi da](https://go.microsoft.com/fwlink/p/?linkid=842054)** biste dodelili ili promenili načine plaćanja pretplate.
 - Idite na **naplatu > [načine plaćanja da](https://go.microsoft.com/fwlink/p/?linkid=2018806)** biste dodali, ažurirali, zamenili ili izbrisali načine plaćanja.
 
 - **Načini plaćanja** – ako plaćate kreditnom karticom ili preko računa u banci, možete da koristite način plaćanja koji se povezuje sa pretplatom u narednih nekoliko dana kada se kreira nalog. Ako uplata ne uspe, ažurirajte način plaćanja. Za više informacija pogledajte članak [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

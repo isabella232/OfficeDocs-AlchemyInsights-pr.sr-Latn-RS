@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 9113c21a6b840abbbe86c54a9b6e41f4e61aa4916ff6a96ecd8f5170640bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: a198a0547b319bffa35e91f03456449dad9e634b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031852"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841555"
 ---
 # <a name="renewing-your-subscription"></a>Obnavljanje pretplate
 
@@ -29,8 +30,8 @@ Ako ste unapred platili pretplatu šifrom proizvoda, pretplata će isteći na kr
 
 Da biste uključili periodičnu naplatu:
 
-1. U centru za administaciju idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru aktivnosti idite na stranicu  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi izaberite pretplatu koju želite da promenite.
 3. Na stranici detalji o pretplati, u okviru Postavke pretplate i **plaćanja** izaberite stavku **Uredi periodičnu naplatu.**
-4. U **oknu Uređivanje postavki periodične naplate** izaberite stavku Uključi **,** **Uključi, ali obnovi jednom** ili **Isključi**.
+4. U **oknu Uređivanje postavki periodične naplate** izaberite stavku **Uključi**, **Uključi, ali obnovi jednom** ili **Isključi**.
 5. Izaberite **Sačuvaj**. 

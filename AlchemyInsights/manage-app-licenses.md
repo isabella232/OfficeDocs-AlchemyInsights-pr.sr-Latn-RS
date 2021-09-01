@@ -3,7 +3,6 @@ title: Upravljanje licencama za aplikacije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 5a698efab669df54a81e618ffb782349d8f62fd3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326193"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836767"
 ---
 # <a name="manage-app-licenses"></a>Upravljanje licencama za aplikacije
 
@@ -38,4 +38,4 @@ ms.locfileid: "58326193"
 
 1. Idite na **stranicu "Naplata**  >  **[proizvoda".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **kartici Proizvodi,** u **odeljku Aplikacije** pronađite i izaberite aplikaciju za koju želite da upravljate.
-3. U **Postavke & radnji** izaberite vezu da biste **upravljali portalom izdavača**.
+3. U **Postavke & radnji** izaberite vezu **Upravljaj na portalu izdavača**.
