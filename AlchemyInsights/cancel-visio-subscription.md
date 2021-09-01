@@ -14,19 +14,20 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 97c4a6331cdd8e457d8ed2f016b2e2ed844b32b4
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331473"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845588"
 ---
 # <a name="cancel-visio-subscription"></a>Otkazivanje Visio pretplate
 
-Adminitari mogu da otkažu Visio pretplatu za organizaciju na Microsoft 365 centar administracije.
+Visio otkazuju pretplatu za organizaciju na Microsoft 365 centar administracije.
 
 1. Idite na **stranicu "Naplata** \> [proizvoda".](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Na **kartici Proizvodi** pronađite pretplatu Visio koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
+2. Na **kartici** Proizvodi pronađite Visio pretplatu koju želite da otkažete. Izaberite tri stavke (još radnji), a zatim **izaberite stavku Otkaži pretplatu.**
 3. U **oknu Otkazivanje pretplate** odaberite razlog otkazivanja. Opcionalno, pružite povratne informacije.
 4. Izaberite **Sačuvaj**.
 

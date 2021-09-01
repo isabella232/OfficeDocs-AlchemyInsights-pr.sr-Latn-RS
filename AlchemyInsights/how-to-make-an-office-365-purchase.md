@@ -1,9 +1,8 @@
 ---
-title: Kako da nabavite Microsoft 365
+title: Kako da nabavite Microsoft 365 kupovinu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +14,15 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 61070576e6961a40f275dbb76493d8dc93192bb7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318576"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842420"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Kako da nabavite Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Kako da nabavite Microsoft 365 kupovinu
 
 Možete da kupite Microsoft 365 pretplatu u centru za administaciju.
   
