@@ -1,9 +1,8 @@
 ---
-title: Kupovina pretplate za preduzeća iz besplatne probne Microsoft 365
+title: Kupovina pretplate za pretplatu na Microsoft 365 za preduzeća iz besplatne probne pretplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_purchase
 - "257"
 - "1400007"
+ms.date: 08/10/2021
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1ea808a1d98ade11fc65ef9cafed8d71a79ed347
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325781"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845084"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kupite pretplatu da biste Microsoft 365 iz besplatne probne
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kupite pretplatu da biste Microsoft 365 iz besplatne probne pretplate
 
-Pokušali ste Microsoft 365 i sada ste spremni da ga kupite. Imate dve opcije prilikom kupovine Microsoft 365 probnu verziju:
+Pokušali ste Microsoft 365 i sada ste spremni da ga kupite. Imate dve opcije prilikom kupovine Microsoft 365 iz probne verzije:
   
  **Kupite isti plan kao onaj koji ste probni period**
   

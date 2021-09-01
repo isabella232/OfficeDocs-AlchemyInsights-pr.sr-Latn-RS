@@ -3,7 +3,6 @@ title: Naplata i plaćanje
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314930"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844976"
 ---
 # <a name="billing-and-payment"></a>Naplata i plaćanje
 
-Račune možete pronaći na **kartici Računi**  >  [& plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Podrazumevano su prikazana poslednja 3 meseca faktura.  Da biste prikazali starije fakture, prilagodite filter.  Kliknite na **vezu Preuzmi fakturu u PDF-u** da biste prikazali fakturu.
+Račune možete pronaći na kartici **Računi**  >  [& plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Podrazumevano su prikazana poslednja 3 meseca faktura.  Da biste prikazali starije fakture, prilagodite filter.  Kliknite na **vezu Preuzmi fakturu u PDF-u** da biste prikazali fakturu.
 
 **Prijem faktura putem e-pošte**
 
@@ -38,7 +38,7 @@ Ako plaćate kreditnom karticom ili računom u banci, način plaćanja povezan s
 
 Ako ste dodali novu karticu, a i dalje dobijate obaveštenje o odbijanju na staroj kreditnoj kartici, možda ćete morati da povežete tu novu karticu sa pretplatom.
 
-1. U centru za administaciju idite na **stranicu** Računi  >  **& načini**  >  [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. U centru za administaciju idite na **stranicu** Računi  >  **& stranicu**  >  [Načini plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Izaberite red načina plaćanja koji treba zameniti. U desnom oknu navedeni su svi profili naplate i pojedinačne pretplate koje koriste izabrani način plaćanja.
 
