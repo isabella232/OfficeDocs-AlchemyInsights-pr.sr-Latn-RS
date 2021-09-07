@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978175"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923568"
 ---
 # <a name="endpoint-manager---security-baselines"></a>Endpoint Manager – odrednice bezbednosti
 
@@ -37,6 +37,8 @@ Svaka odrednica se periodično ažurira i objavljuje u inkrementalnim verzijama.
 Uputstvo o tome kako da na najefikasniji način promenite koja se verzija odrednica primenjuje možete da vidite u članku [Upravljanje osnovnim profilima bezbednosti u aplikaciji Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Nakon primene odrednica bezbednosti možete da pratite stanje primene i pregledate postavke od uređaja do uređaja.
+
+Pošto bezbednosne osnovne linije sadrže mnogo postavki, važno je da pregledate promene konfiguracije i izvršite testiranje kako biste se uverili da su sve postavke prikladne za uređaje i poslovne potrebe.
 
 **Namena:** podaci o izveštavanju za odrednice mogu potrajati i do 24 sata da se pojave od početne primene na uređaju i do 6 sati za dalja ažuriranja. 
 
