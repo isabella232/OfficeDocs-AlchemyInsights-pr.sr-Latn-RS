@@ -1,5 +1,5 @@
 ---
-title: Aktivacija Office 365 aplikacija na Windows 365 računarima
+title: Aktivacija Office 365 na Windows 365 računarima
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792944"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923532"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktivacija Office 365 aplikacija na Windows 365 računarima
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktivacija Office 365 na Windows 365 računarima
 
-Windows 365 slike računara uključuju instalirane kopije Office 365 aplikacija, koje se aktiviraju prilikom prvog otvaranja bilo koje Kancelarija aplikacije.
+**Napomena:** Ovaj problem se NE odnosi na korisnike sa licencama za Windows 365 Enterprise.
 
-Tokom procesa aktivacije korisnik Windows 365 Business licenciran naiđe na sledeću grešku:
+Windows 365 PC slike uključuju instalirane kopije Office 365 aplikacija, koje se aktiviraju pri prvom otvaranju bilo koje od Office aplikacija.
+
+Tokom procesa aktivacije, korisnik sa licencom za Windows 365 Business može naići na sledeću grešku:
 
 "Problem sa nalogom
 
-Proizvodi koje smo pronašli na vašem nalogu ne mogu se koristiti za aktiviranje sistema Office u scenarijima grešaka na deljenom računaru 0x80004005"
+Proizvodi koje smo pronašli na vašem nalogu ne mogu se koristiti za aktiviranje kancelarije u scenarijima deljenih računara Kod greške 0x80004005"
 
-Da biste rešili ovaj problem, zatražite od korisnika sa problemom da dovrši sledeće korake: 
+Da biste rešili ovaj problem, zamolite pogođenog korisnika da uradi sledeće: 
 
-1. Deinstalujte postojeće Kancelarija sa oblaka računara.
-1. Idite na Kancelarija.com i izaberite opciju Instaliraj Kancelarija.
+1. Deinstalirajte postojeće Office aplikacije sa računara u oblaku.
+1. Idite na Office.com i izaberite opciju da instalirate Office.
 
-    Kancelarija bi aktivacija trebalo uspešno da se dovrši.
+    Aktivacija sistema Office bi zatim trebalo uspešno da se dovrši.
