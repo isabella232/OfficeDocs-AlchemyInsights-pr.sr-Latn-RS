@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105582"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481819"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Rešavanje problema sa greškama u pretrazi sadržaja
 
 Da li nailazite na probleme sa pretragom sadržaja ili nailazite na neuspeh prilikom izvoza rezultata pretrage?
+Na primer, da li dobijate sledeće kada pokrećete pretrage?
 
-Na primer, da li dobijate sledeće prilikom pretraživanja?
-
-- CS008 ili CS012 greške
+- CS007, CS008 ili CS012 greške
 
 - Greške zauzetosti/vremenskog perioda servera
 
 - Došlo je do greške u aplikaciji
 
-Ili prilikom pretrage ili izvoza rezultata iz velikog broja poštannih sandučića (preko 100.000 poštanskog sandučića), dobijate greške u izvozu?
+Ili dobijate greške u izvozu prilikom pretrage ili izvoza rezultata iz velikog broja (preko 100.000) poštannih sandučića?
 
-Za ove tipove grešaka, ponovo potražite lokacije sadržaja koje nisu uspele. Više  [informacija potražite u](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) ovom članku.
+Za ove greške ponovo potražite lokacije sadržaja koje nisu uspele ili ažurirajte pretragu tako što ćete smanjiti složenost upita za pretragu. Na primer, pretraga džokera može dati previše rezultata da bi sistem obrađio, što izaziva grešku CS007.   
 
-Ako izvozite više od 100K poštannih sandučića, biće potrebno da koristite sledeći PowerShell da biste preuzeli rezultate izvoza: Izvoz rezultata iz više od  [100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)poštannih sandučića.
+Više informacija potražite u [odeljku](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) Ponožje pretrage sadržaja da biste otklonili grešku lokacije sadržaja ili Istražili, rešili uobičajene probleme sa [e-distribucijom](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)i rešili ih.
+
+Ako izvozite više od 100K poštannih sandučića, biće potrebno da preuzmete rezultate izvoza. Više detalja potražite u [temi Izvoz rezultata pretrage sadržaja.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
